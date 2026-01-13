@@ -20,6 +20,7 @@ uv run main.py | tee ${DIR_DOCKER_BUILD}/output.md
 EOM
 
 docker run --rm \
+    -e XAI_API_KEY \
     -v "${DIR_SOURCE}:${DIR_DOCKER_SOURCE}:rw" \
     -v "${PWD}:${DIR_DOCKER_BUILD}:rw" \
     "$DOCKER_IMAGE" \
