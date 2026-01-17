@@ -1,5 +1,6 @@
-import os
 from datetime import datetime, timedelta
+import os
+import requests
 import sys
 from xai_sdk import Client
 from xai_sdk.chat import user, system
