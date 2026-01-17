@@ -22,9 +22,10 @@ target_date = now if now.hour < 13 else now + timedelta(days=1)
 token_cost = 0
 
 DATE = target_date.strftime("%B %-d, %Y")
+TIME = datetime.now().strftime('%H:%M:%S')
 STOCK_COUNT = 5
 
-result = f"Stock sentiment analysis for {DATE}\n\n"
+result = f"Stock sentiment analysis for {DATE} at {TIME}\n\n"
 
 client = Client(api_key=f"{api_key}")
 chat = client.chat.create(
