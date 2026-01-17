@@ -5,8 +5,8 @@ from xai_sdk import Client
 from xai_sdk.chat import user, system
 from xai_sdk.tools import web_search, x_search, code_execution
 
-DEBUG = False
-DEBUG_PROMPT = False
+DEBUG = os.getenv("DEBUG", 'False').lower() in ('true', '1', 't')
+DEBUG_PROMPT = os.getenv("DEBUG_PROMPT", 'False').lower() in ('true', '1', 't')
 
 api_key = os.getenv('XAI_API_KEY')
 if not api_key:
