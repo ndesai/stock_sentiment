@@ -58,7 +58,7 @@ Be thorough, use tools in parallel for efficiency, and format exactly as a numbe
 """
 
 if DEBUG_PROMPT:
-    PROMPT = "Tell me a simple joke"
+    PROMPT = "Tell me a simple joke. Use markdown formatting to format the joke to emphasize the punchline."
 
 # Output date time for logging
 print(f"# starting at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
