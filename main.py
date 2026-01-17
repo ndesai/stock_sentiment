@@ -1,4 +1,6 @@
 from datetime import datetime, timedelta
+from email.message import EmailMessage
+import markdown
 import os
 import smtplib
 import sys
@@ -130,10 +132,28 @@ sender_password = os.getenv('SENDER_PASSWORD')
 mailing_list = os.getenv('MAILING_LIST')
 
 if sender_email and sender_password and mailing_list:
+    msg = EmailMessage()
+    msg.set_content(result)  # Plain text version
+    
+    # Convert markdown to HTML
+    html_content = markdown.markdown(result)
+    msg.add_alternative(f"""\
+<html>
+    <head></head>
+    <body>
+        {html_content}
+    </body>
+</html>
+""", subtype='html')
+
+    msg['Subject'] = f"Daily Stock Impact Report - {DATE}"
+    msg['From'] = sender_email
+    msg['To'] = mailing_list
+
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
         server.starttls()
         server.login(sender_email, sender_password)
-        server.sendmail(sender_email, mailing_list, result)
+        server.send_message(msg)
 else:
     print("warning: SENDER_EMAIL, SENDER_PASSWORD, or MAILING_LIST not found, unable to send email")
 
