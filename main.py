@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 import os
+import smtplib
 import sys
 from xai_sdk import Client
 from xai_sdk.chat import user, system
@@ -123,7 +124,7 @@ with open(f"{os.getcwd()}/tokens_{tokens}.txt", "w") as f:
 
 print(f"used {tokens} tokens\n")
 
-# Send email through GMail using smtplib
+# Import smtplib to send emails via Gmail
 sender_email = os.getenv('SENDER_EMAIL')
 sender_password = os.getenv('SENDER_PASSWORD')
 mailing_list = os.getenv('MAILING_LIST')
