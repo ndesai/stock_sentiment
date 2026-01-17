@@ -100,10 +100,24 @@ with open(f"{os.getcwd()}/result.txt", "w") as f:
     f.write(result)
 
 # Calculate total token usage
+def safe_int_cast(value, default=None):
+    """
+    Safely converts a value to an integer.
+
+    :param value: The value to convert.
+    :param default: The value to return if conversion fails (e.g., None, 0, etc.).
+    :return: The integer value or the default value.
+    """
+    try:
+        return int(value)
+    except (ValueError, TypeError):
+        # Handle cases where the value cannot be converted (e.g., 'abc', None, etc.)
+        return default
+
 tokens = 0
 response_usage = str(response.usage)
 for usage_type in response_usage.splitlines():
-    tokens += int(usage_type.split(":")[1].strip())
+    tokens += safe_int_cast(usage_type.split(":")[1].strip(), 0)
 
 with open(f"{os.getcwd()}/tokens_{tokens}.txt", "w") as f:
     f.write(str(tokens))
