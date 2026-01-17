@@ -109,5 +109,22 @@ with open(f"{os.getcwd()}/tokens_{tokens}.txt", "w") as f:
 
 print(f"used {tokens} tokens\n")
 
+# Send email
+api_key = os.getenv('MAILGUN_API_KEY')
+mailing_list = os.getenv('MAILING_LIST')
+if api_key and mailing_list:
+    requests.post(
+        "https://api.mailgun.net/v3/sandbox64ccca99ff2a4fdeb45e115ecc2bd975.mailgun.org/messages",
+        auth=("api", api_key),
+        data={"from": "Mailgun Sandbox <postmaster@sandbox64ccca99ff2a4fdeb45e115ecc2bd975.mailgun.org>",
+            "to": mailing_list,
+            "subject": f"Stock Sentiment Analysis for {DATE}",
+            "text": result}
+    )
+else:
+    print("warning: MAILGUN_API_KEY or MAILING_LIST not found, unable to send email")
+
+
 # Output date time for logging
 print(f"# done at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+
