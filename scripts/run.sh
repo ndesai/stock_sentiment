@@ -23,7 +23,8 @@ EOM
 
 docker run --rm \
     -e XAI_API_KEY \
-    -e MAILGUN_API_KEY \
+    -e SENDER_EMAIL \
+    -e SENDER_PASSWORD \
     -e MAILING_LIST \
     -e DEBUG \
     -e DEBUG_PROMPT \

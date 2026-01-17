@@ -1,6 +1,5 @@
 from datetime import datetime, timedelta
 import os
-import requests
 import sys
 from xai_sdk import Client
 from xai_sdk.chat import user, system
@@ -124,20 +123,18 @@ with open(f"{os.getcwd()}/tokens_{tokens}.txt", "w") as f:
 
 print(f"used {tokens} tokens\n")
 
-# Send email
-api_key = os.getenv('MAILGUN_API_KEY')
+# Send email through GMail using smtplib
+sender_email = os.getenv('SENDER_EMAIL')
+sender_password = os.getenv('SENDER_PASSWORD')
 mailing_list = os.getenv('MAILING_LIST')
-if api_key and mailing_list:
-    requests.post(
-        "https://api.mailgun.net/v3/sandbox64ccca99ff2a4fdeb45e115ecc2bd975.mailgun.org/messages",
-        auth=("api", api_key),
-        data={"from": "Mailgun Sandbox <postmaster@sandbox64ccca99ff2a4fdeb45e115ecc2bd975.mailgun.org>",
-            "to": mailing_list,
-            "subject": f"Stock Sentiment Analysis for {DATE}",
-            "text": result}
-    )
+
+if sender_email and sender_password and mailing_list:
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.starttls()
+        server.login(sender_email, sender_password)
+        server.sendmail(sender_email, mailing_list, result)
 else:
-    print("warning: MAILGUN_API_KEY or MAILING_LIST not found, unable to send email")
+    print("warning: SENDER_EMAIL, SENDER_PASSWORD, or MAILING_LIST not found, unable to send email")
 
 
 # Output date time for logging
