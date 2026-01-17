@@ -23,6 +23,10 @@ EOM
 
 docker run --rm \
     -e XAI_API_KEY \
+    -e MAILGUN_API_KEY \
+    -e MAILING_LIST \
+    -e DEBUG \
+    -e DEBUG_PROMPT \
     -v "${DIR_SOURCE}:${DIR_DOCKER_SOURCE}:rw" \
     -v "${PWD}:${DIR_DOCKER_BUILD}:rw" \
     "$DOCKER_IMAGE" \
