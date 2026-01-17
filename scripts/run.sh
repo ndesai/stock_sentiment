@@ -15,7 +15,9 @@ read -r -d '' BUILD_COMMANDS << EOM
 
 cd ${DIR_DOCKER_SOURCE}
 uv sync --locked
-uv run main.py | tee ${DIR_DOCKER_BUILD}/output.md
+
+cd ${DIR_DOCKER_BUILD}
+uv run --project ${DIR_DOCKER_SOURCE} ${DIR_DOCKER_SOURCE}/main.py | tee -a log.txt
 
 EOM
 

@@ -5,6 +5,9 @@ from xai_sdk import Client
 from xai_sdk.chat import user, system
 from xai_sdk.tools import web_search, x_search, code_execution
 
+DEBUG = False
+DEBUG_PROMPT = False
+
 api_key = os.getenv('XAI_API_KEY')
 if not api_key:
     print("XAI_API_KEY not found, exiting...")
@@ -13,11 +16,12 @@ if not api_key:
 
 now = datetime.now()
 target_date = now if now.hour < 13 else now + timedelta(days=1)
+token_cost = 0
+
 DATE = target_date.strftime("%B %-d, %Y")
 STOCK_COUNT = 5
 
-print(f"Stock sentiment analysis for {DATE}")
-print()
+result = f"Stock sentiment analysis for {DATE}\n\n"
 
 client = Client(api_key=f"{api_key}")
 chat = client.chat.create(
@@ -50,25 +54,60 @@ Be thorough, use tools in parallel for efficiency, and format exactly as a numbe
 
 """
 
+if DEBUG_PROMPT:
+    PROMPT = "Tell me a simple joke"
+
+# Output date time for logging
+print(f"# starting at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+
 chat.append(user(PROMPT))
+
+response = ""
 
 is_thinking = True
 for response, chunk in chat.stream():
     # View the server-side tool calls as they are being made in real-time
     for tool_call in chunk.tool_calls:
-        print(f"\nCalling tool: {tool_call.function.name} with arguments: {tool_call.function.arguments}")
+        if DEBUG:
+            print(f"\nCalling tool: {tool_call.function.name} with arguments: {tool_call.function.arguments}")
     if response.usage.reasoning_tokens and is_thinking:
-        print(f"\rThinking... ({response.usage.reasoning_tokens} tokens)", end="", flush=True)
+        if DEBUG:
+            print(f"\rThinking... ({response.usage.reasoning_tokens} tokens)", end="", flush=True)
     if chunk.content and is_thinking:
-        print("\n\nFinal Response:")
+        if DEBUG:
+            print("\n\nFinal Response:")
         is_thinking = False
     if chunk.content and not is_thinking:
-        print(chunk.content, end="", flush=True)
+        result += "".join(chunk.content)
+        if DEBUG:
+            print(chunk.content, end="", flush=True)
 
-print("\n\nCitations:")
-print(response.citations)
-print("\n\nUsage:")
-print(response.usage)
-print(response.server_side_tool_usage)
-print("\n\nServer Side Tool Calls:")
-print(response.tool_calls)
+if DEBUG:
+    print("\n\nCitations:")
+    print(response.citations)
+    print("\n\nUsage:")
+    print(response.usage)
+    print(response.server_side_tool_usage)
+    print("\n\nServer Side Tool Calls:")
+    print(response.tool_calls)
+
+result += "\n"
+
+# Handle result
+print(result)
+with open(f"{os.getcwd()}/result.txt", "w") as f:
+    f.write(result)
+
+# Calculate total token usage
+tokens = 0
+response_usage = str(response.usage)
+for usage_type in response_usage.splitlines():
+    tokens += int(usage_type.split(":")[1].strip())
+
+with open(f"{os.getcwd()}/tokens_{tokens}.txt", "w") as f:
+    f.write(str(tokens))
+
+print(f"used {tokens} tokens\n")
+
+# Output date time for logging
+print(f"# done at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
