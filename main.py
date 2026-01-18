@@ -150,6 +150,7 @@ if sender_email and sender_password and mailing_list:
     msg['Subject'] = f"Daily Stock Impact Report - {DATE}"
     msg['From'] = sender_email
     msg['To'] = mailing_list
+    msg['CC'] = sender_email
 
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
         server.starttls()
