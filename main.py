@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
 import markdown
 import os
@@ -22,7 +22,7 @@ target_date = now if now.hour < 13 else now + timedelta(days=1)
 token_cost = 0
 
 DATE = target_date.strftime("%B %-d, %Y")
-TIME = datetime.now().strftime('%H:%M:%S')
+TIME = datetime.now(timezone(timedelta(hours=-8))).strftime('%H:%M:%S')
 STOCK_COUNT = 5
 
 result = f"Stock sentiment analysis for {DATE} at {TIME}\n\n"
