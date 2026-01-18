@@ -54,7 +54,7 @@ For each stock, provide:
 • Potential Profit/Risks: Opportunities for long/short positions with % gains/losses, plus key risks.
 • Confidence Rating: A (highest), B (high), or C (moderate), with justification.
 
-Be thorough, use tools in parallel for efficiency, and format exactly as a numbered list.
+Be thorough, use tools in parallel for efficiency, and format exactly as a numbered list and put a newline after each subsection.
 
 """
 
