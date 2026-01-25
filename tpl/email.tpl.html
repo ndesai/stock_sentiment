@@ -1,0 +1,86 @@
+<html>
+
+<head></head>
+
+<body>
+    <h1
+        style="font-family: sans-serif; color: #1a1a1a; font-size: 24px; font-weight: bold; margin: 0 0 30px 0; padding-bottom: 10px; border-bottom: 2px solid #1a1a1a;">
+        Stock Sentiment Analysis for <span style="color: #666; font-weight: normal;">{{ date }}</span>
+    </h1>
+    {% for stock in stocks %}
+    <div class=" analysis-card"
+        style="font-family: sans-serif; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 800px;">
+        <div
+            style="background: #1a1a1a; color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
+            <div>
+                <h2 style="margin: 0;">{{ stock.details.ticker }} | {{ stock.details.full_name }}</h2>
+                <p style="margin: 5px 0 0; opacity: 0.8;">{{ stock.details.sector_industry }}</p>
+            </div>
+            <div style="text-align: right;">
+                <div style="font-size: 0.8em; text-transform: uppercase;">Confidence</div>
+                <div style="font-size: 1.5em; font-weight: bold;">{{ stock.confidence_rating }}</div>
+            </div>
+        </div>
+
+        <div style="display: flex; flex-wrap: wrap;">
+            <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 20px; border-right: 1px solid #eee;">
+                <h3 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Market Details</h3>
+                <table style="width: 100%; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px 0;"><strong>Price:</strong></td>
+                        <td style="text-align: right;">${{ stock.details.current_price }}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px 0;"><strong>Market Cap:</strong></td>
+                        <td style="text-align: right;">{{ stock.details.market_cap }}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px 0;"><strong>P/E Ratio:</strong></td>
+                        <td style="text-align: right;">{{ stock.details.pe_ratio }}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px 0;"><strong>Volume:</strong></td>
+                        <td style="text-align: right;">{{ stock.details.volume }}</td>
+                    </tr>
+                </table>
+
+                <div
+                    style="margin-top: 20px; padding: 10px; background: #fff; border-radius: 4px; border: 1px solid #ddd;">
+                    <small style="color: #666;">52-Week Range</small><br>
+                    <strong>{{ stock.details.high_low_52_week.low }}</strong> — <strong>{{
+                        stock.details.high_low_52_week.high }}</strong>
+                </div>
+            </div>
+
+            <div style="flex: 2; min-width: 300px; padding: 20px;">
+                <section style="margin-bottom: 20px;">
+                    <h4 style="color: #2c3e50; margin-top: 0;">Impact Theory</h4>
+                    <p style="line-height: 1.5; color: #444;">{{ stock.impact_theory }}</p>
+                </section>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                    <div
+                        style="padding: 15px; border-radius: 6px; background: {% if 'Bullish' in stock.news_impact_analysis.outlook %}#e8f5e9{% else %}#ffebee{% endif %};">
+                        <strong>Outlook:</strong> {{ stock.news_impact_analysis.outlook }} <br>
+                        <strong>Impact:</strong> {{ stock.news_impact_analysis.estimated_price_impact_pct }} <br>
+                        <small>{{ stock.news_impact_analysis.reasoning }}</small>
+                    </div>
+                    <div style="padding: 15px; border-radius: 6px; background: #fffde7; border: 1px solid #fff9c4;">
+                        <strong>Key Risks:</strong><br>
+                        <small>{{ stock.potential_profit_risks.key_risks }}</small> <br>
+                        <small><strong>Long:</strong> {{ stock.potential_profit_risks.long_position }}</small> <br>
+                        <small><strong>Short:</strong> {{ stock.potential_profit_risks.short_position }}</small>
+                    </div>
+                </div>
+
+                <section style="margin-top: 20px;">
+                    <h4 style="margin-bottom: 8px;">Analysis Justification</h4>
+                    <p style="font-style: italic; font-size: 0.9em; color: #555;">"{{ stock.justification }}"</p>
+                </section>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</body>
+
+</html>

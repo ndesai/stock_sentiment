@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 327.5,
+                "market_cap": "$302B",
+                "sector_industry": "Healthcare / Managed Health Care",
+                "52_week_high_low": {
+                    "high": 385.2,
+                    "low": 298.7
+                },
+                "pe_ratio": 21.8,
+                "volume": "18.2M",
+                "recent_dividend": "$8.40 (2.56% yield)"
+            },
+            "impact_theory": "UNH released Q4 2025 earnings and 2026 guidance showing flat Medicare Advantage rates under the new Trump administration, below expectations for cost offsets amid rising medical costs. Economic implications include margin compression in a key revenue segment, potentially reducing profitability by 1-2% EPS impact. Market psychology shifts to fear of regulatory headwinds in healthcare, similar to 2017 ACA repeal fears that dropped UNH 10%. Historical parallel: 2022 MA rate cut caused -15% drop. Analogies: 1) A airline facing fuel price caps without fare hikes; 2) A dam bursting investor confidence as reimbursement floods slow.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12%",
+                "reasoning": "X posts and news show -9% after-hours drop, sympathy selloff in HUM/CVS >10%. Web searches confirm earnings reaction negative due to guidance; sentiment from latest X latest mode highly bearish with high engagement on downside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound if guidance revised up, potential +8% in week",
+                "short_position": "Short for continuation to $300 support, +15% gain possible",
+                "key_risks": "Earnings call surprises with cost controls; sector-wide policy change positive; high short interest squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from earnings/guidance with immediate price reaction and sector sympathy confirmed in news/X."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 248.2,
+                "market_cap": "$152B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "52_week_high_low": {
+                    "high": 275.5,
+                    "low": 165.1
+                },
+                "pe_ratio": -45.2,
+                "volume": "12.5M",
+                "recent_dividend": "Suspended since 2020"
+            },
+            "impact_theory": "Boeing reports Q4 earnings premarket; expectations for loss but improvement in cash flow amid 737 production ramp. Implications: Supply chain easing boosts orders. Psychology: Relief rally if beats. Parallels: 2023 strike resolution +20%. Analogies: 1) Ship righting after storm; 2) Runner shedding weight mid-marathon.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Earnings previews positive; X mentions as watch with implied move +/-4%; web premarket stable but potential upside on beat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on earnings beat, +10% to $270",
+                "short_position": "Short if miss, -8% to $230",
+                "key_risks": "Production delays; FAA scrutiny; high debt load."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings volatility high, but improving fundamentals; sentiment mixed pending results."
+        },
+        {
+            "details": {
+                "ticker": "GM",
+                "full_name": "General Motors Company",
+                "current_price": 80.1,
+                "market_cap": "$92B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "52_week_high_low": {
+                    "high": 95.8,
+                    "low": 65.3
+                },
+                "pe_ratio": 7.2,
+                "volume": "9.8M",
+                "recent_dividend": "$0.48 quarterly (2.4% yield)"
+            },
+            "impact_theory": "GM Q4 earnings focus on EV transition costs vs truck strength. Implications: Strong NA sales offset EV losses. Psych: Optimism on profitability. Parallels: Q3 2025 EV margin improve +7%. Analogies: 1) Hybrid car gaining speed; 2) Miner striking gold after digging deep.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Previews expect EPS beat; X previews positive; low PE attractive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for EV guidance upgrade, +7%",
+                "short_position": "Avoid or short on EV miss",
+                "key_risks": "Tariff impacts on imports; union strikes; EV demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid expectations but auto sector sensitive to macro."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 194.3,
+                "market_cap": "$260B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "52_week_high_low": {
+                    "high": 210.1,
+                    "low": 170.4
+                },
+                "pe_ratio": 31.6,
+                "volume": "7.2M",
+                "recent_dividend": "$0.59 quarterly (1.2% yield)"
+            },
+            "impact_theory": "RTX Q4 earnings amid defense spending rise. Implications: Geopolitical tensions boost backlog. Psych: Safe haven rally. Parallels: Ukraine war 2022 +25%. Analogies: 1) Arms maker in war times; 2) Umbrella sales in rain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Recent rally 7 days; earnings expect beat; X low volume but positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum continuation +6%",
+                "short_position": "Minimal downside",
+                "key_risks": "Budget cuts; engine issues linger."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong trend but earnings key."
+        },
+        {
+            "details": {
+                "ticker": "CSCO",
+                "full_name": "Cisco Systems, Inc.",
+                "current_price": 76.38,
+                "market_cap": "$310B",
+                "sector_industry": "Technology / Communication Equipment",
+                "52_week_high_low": {
+                    "high": 82.5,
+                    "low": 68.2
+                },
+                "pe_ratio": 15.4,
+                "volume": "22.1M",
+                "recent_dividend": "$0.40 quarterly (2.1% yield)"
+            },
+            "impact_theory": "Cisco premarket +2.4% on AI networking demand news. Implications: Data center boom. Psych: Tech rotation back. Parallels: 2023 AI hype +30%. Analogies: 1) Highway builder for data traffic; 2) Plumber for booming city.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Premarket top gainer; web confirms movers list."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AI tailwind +5-8%",
+                "short_position": "Fade if broader tech dips",
+                "key_risks": "China sales slowdown; competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Premarket move but catalyst vague; moderate confidence."
+        }
+    ]
+}

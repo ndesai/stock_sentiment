@@ -17,7 +17,7 @@ cd ${DIR_DOCKER_SOURCE}
 uv sync --locked
 
 cd ${DIR_DOCKER_BUILD}
-uv run --project ${DIR_DOCKER_SOURCE} ${DIR_DOCKER_SOURCE}/main.py | tee -a log.txt
+uv run --project ${DIR_DOCKER_SOURCE} ${DIR_DOCKER_SOURCE}/main.py $@ | tee -a log.txt
 chmod -R a+rw ${DIR_DOCKER_BUILD}/
 
 EOM
