@@ -13,6 +13,8 @@ reasoning_tokens: 3017
 cached_prompt_text_tokens: 14412
 ```
 
+Sends an email using gmail smtp.
+
 ## prerequisites
 
 - [uv](https://astral.sh)
@@ -23,4 +25,20 @@ cached_prompt_text_tokens: 14412
 ```
 uv sync --locked
 uv run main.py
+```
+
+Use `--help` to see available options:
+
+```
+uv run main.py --help
+Usage: main.py [OPTIONS]
+
+Options:
+  -d, --debug                  Enable debug mode
+  -v, --verbose                Enable verbose mode
+  -dp, --debug-prompt TEXT     Set a debug prompt
+  -se, --sender-email TEXT     Set a sender email
+  -sp, --sender-password TEXT  Set a sender password
+  -ml, --mailing-list TEXT     Set a mailing list
+  --help                       Show this message and exit.
 ```
