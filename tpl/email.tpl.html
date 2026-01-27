@@ -15,10 +15,7 @@
             <div>
                 <h2 style="margin: 0;">{{ stock.details.ticker }} | {{ stock.details.full_name }}</h2>
                 <p style="margin: 5px 0 0; opacity: 0.8;">{{ stock.details.sector_industry }}</p>
-            </div>
-            <div style="text-align: right;">
-                <div style="font-size: 0.8em; text-transform: uppercase;">Confidence</div>
-                <div style="font-size: 1.5em; font-weight: bold;">{{ stock.confidence_rating }}</div>
+                <p style="margin: 5px 0 0; opacity: 0.8;"><strong>Confidence: {{ stock.confidence_rating }}</strong></p>
             </div>
         </div>
 
