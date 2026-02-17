@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 198.5,
+                "market_cap": "$2.07T",
+                "sector_industry": "Consumer Discretionary / E-commerce",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "52M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Amazon announced $200B capex for AI in 2026, sparking fears of overinvestment and dilution. Economic implications include increased debt, pressure on margins amid slowing growth. Market psychology: rotation from megacaps to value. Historical parallels: dotcom bubble capex frenzy. Analogies: 1. Like Enron's overexpansion. 2. Titanic loading too much cargo.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.5%",
+                "reasoning": "Web searches show investor shock at capex scale, X posts note holding 200 but long-term caution. Sentiment shift negative post-announcement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited, +2% if holds 195 support",
+                "short_position": "Strong, potential 10% to 180 with % gains on continued selloff",
+                "key_risks": "AI hype rebound, broad market rally, earnings surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Multiple news sources confirm capex news impact, consistent X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "FSLY",
+                "full_name": "Fastly, Inc.",
+                "current_price": 12.5,
+                "market_cap": "$1.6B",
+                "sector_industry": "Technology / Cloud Computing",
+                "high_low_52_week": {
+                    "high": 13.0,
+                    "low": 5.0
+                },
+                "pe_ratio": -15.3,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top monthly gainer +98% Feb 2026, likely edge computing demand surge. Implications: AI inference boom boosts CDN. Psychology: rotation to non-AI-bigtech tech. Parallels: CDN boom 2020. Analogies: 1. Surfing the AI wave. 2. Finding gold in overlooked mines.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "StockTitan ranks #1 Feb gainer, positive sentiment in tech rotation per searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "High reward, 20% to 15 on momentum",
+                "short_position": "Risky, -15% if breaks down",
+                "key_risks": "Market correction hits small caps, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Monthly data strong but daily specifics limited."
+        },
+        {
+            "details": {
+                "ticker": "ET",
+                "full_name": "Energy Transfer LP",
+                "current_price": 16.2,
+                "market_cap": "$55B",
+                "sector_industry": "Energy / Midstream",
+                "high_low_52_week": {
+                    "high": 17.5,
+                    "low": 13.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "12M",
+                "recent_dividend": "$1.28 annualized, yield 7.9%"
+            },
+            "impact_theory": "Q4 earnings pre-market Feb 17, expected beat on nat gas demand. Implications: steady cashflow, dividends attract yield hunters. Psychology: energy rotation amid AI power needs. Parallels: 2022 energy crisis. Analogies: 1. Steady ship in storm. 2. Oil well steady pump.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Earnings calendar highlights ET, positive energy sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Safe, +5% post-earnings",
+                "short_position": "Avoid, dividend support",
+                "key_risks": "Commodity price drop, regulatory."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings event today."
+        },
+        {
+            "details": {
+                "ticker": "MDT",
+                "full_name": "Medtronic plc",
+                "current_price": 85.3,
+                "market_cap": "$113B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 92.0,
+                    "low": 78.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "8M",
+                "recent_dividend": "$2.80 annualized, yield 3.3%"
+            },
+            "impact_theory": "Earnings report today, focus on diabetes, cardio segments. Implications: aging pop demand. Psychology: defensive play. Parallels: post-COVID med device recovery. Analogies: 1. Heartbeat steady. 2. Lifesaver in uncertainty.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1.5%",
+                "reasoning": "Nasdaq pre-market list, stable healthcare sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Moderate, +4% on beat",
+                "short_position": "Limited downside",
+                "key_risks": "Guidance miss, China sales."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings confirmed."
+        },
+        {
+            "details": {
+                "ticker": "PINS",
+                "full_name": "Pinterest, Inc.",
+                "current_price": 32.1,
+                "market_cap": "$22B",
+                "sector_industry": "Communication Services / Social Media",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 23.0
+                },
+                "pe_ratio": 150.0,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Recent loser in premarket, ad market weakness amid economic fears. Implications: cyclical ad spend cut. Psychology: AI/social rotation out. Parallels: 2022 ad slump. Analogies: 1. Fading billboard. 2. Party ending early.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "Premarket loser mentions, software crash spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Bounce play +5%",
+                "short_position": "To 28, 12% gain",
+                "key_risks": "User growth surprise."
+            },
+            "confidence_rating": "C",
+            "justification": "Recent mover data."
+        }
+    ]
+}
