@@ -35,7 +35,7 @@ def get_current_time():
         """
         try:
             return int(value)
-        except (ValueError, TypeError):
+        except ValueError, TypeError:
             # Handle cases where the value cannot be converted (e.g., 'abc', None, etc.)
             return default
 
@@ -71,7 +71,7 @@ def safe_int_cast(value, default=None):
     """
     try:
         return int(value)
-    except (ValueError, TypeError):
+    except ValueError, TypeError:
         # Handle cases where the value cannot be converted (e.g., 'abc', None, etc.)
         return default
 
@@ -134,11 +134,10 @@ def xapp(debug, email):
         print(response.tool_calls)
 
     stock_analysis = schema.StockAnalysisList.model_validate_json(response.content)
-    print(stock_analysis)
-    with open(
-        f"{DIR_SCRIPT}/daily/stock_analysis_{datetime.now().strftime('%Y%m%d.%H%M%S')}.json",
-        "w",
-    ) as f:
+    print(stock_analysis.model_dump_json(indent=4))
+    stock_analysis_output_path = f"{DIR_SCRIPT}/daily/stock_analysis_{datetime.now().strftime('%Y%m%d.%H%M%S')}.json"
+    print(f"outputting stock analysis to {stock_analysis_output_path}")
+    with open(stock_analysis_output_path, "w") as f:
         f.write(stock_analysis.model_dump_json(indent=4))
 
     result += "\n"
