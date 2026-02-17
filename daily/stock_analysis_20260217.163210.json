@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ZIM",
+                "full_name": "ZIM Integrated Shipping Services Ltd.",
+                "current_price": 27.45,
+                "market_cap": "$2.75B",
+                "sector_industry": "Industrials / Marine Shipping",
+                "high_low_52_week": {
+                    "high": 30.2,
+                    "low": 9.5
+                },
+                "pe_ratio": -5.2,
+                "volume": "12.5M",
+                "recent_dividend": "$0.23 (recent special)"
+            },
+            "impact_theory": "Hapag-Lloyd announced cash buyout of ZIM at a significant premium, sparking acquisition frenzy. Economic implications include shipping industry consolidation amid Red Sea disruptions and freight rate volatility. Market psychology: fear of missing out on takeover deals boosts bids. Historical parallels: 2021 shipping M&A wave. Analogies: 1) Like a fire sale in a crowded theater - everyone rushes for the exit premium. 2) Wedding proposal with a diamond ring - irresistible allure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+35%",
+                "reasoning": "X posts and premarket show +35% gap up on confirmed buyout news; sentiment overwhelmingly positive with high engagement. Web confirms acquisition rumors turning real."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-20% further gains if deal closes quickly; target $32.",
+                "short_position": "Avoid short; high risk of squeeze on deal momentum.",
+                "key_risks": "Deal break (regulatory/antitrust), broader shipping downturn."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear acquisition news with massive premarket move and X buzz."
+        },
+        {
+            "details": {
+                "ticker": "MASI",
+                "full_name": "Masimo Corporation",
+                "current_price": 175.2,
+                "market_cap": "$9.2B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 68.5,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$DHR agreed to acquire MASI for $180/share in cash. Implications: bolsters Danaher's medtech portfolio amid aging population boom. Psychology: validation of undervalued asset. Parallels: Stryker/Wright Medical deal. Analogies: 1) Cherry on top of sundae - perfect fit acquisition. 2) Lottery win - instant premium payout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+34%",
+                "reasoning": "Direct acquisition announcement; X highlights +34% gap, biotech M&A sentiment high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $180 arb; low risk high reward.",
+                "short_position": "Not recommended; deal likely.",
+                "key_risks": "Financing failure, competing bid lower."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit acquisition terms announced."
+        },
+        {
+            "details": {
+                "ticker": "CMPS",
+                "full_name": "Compass Pathways plc",
+                "current_price": 12.8,
+                "market_cap": "$780M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 13.5,
+                    "low": 5.1
+                },
+                "pe_ratio": -8.9,
+                "volume": "5.6M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive Phase 3 psilocybin data for depression treatment. Implications: Psychedelics entering mainstream mental health market, potential FDA fast-track. Psychology: biotech catalyst euphoria. Parallels: 2020 Ozempic data surge. Analogies: 1) Light at end of tunnel for biotech bears. 2) Magic mushroom breakthrough.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+21%",
+                "reasoning": "X posts note +21% on Phase 3 success; sentiment shift to optimistic."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +30% on FDA news; momentum play.",
+                "short_position": "Short if data scrutiny reveals flaws; +15% downside.",
+                "key_risks": "FDA rejection, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong data but Phase 3 needs full peer review."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 22.1,
+                "market_cap": "$9.5B",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 16.8
+                },
+                "pe_ratio": 14.2,
+                "volume": "4.1M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Elliott Management builds 10%+ stake, activist push expected. Implications: operational improvements in cruises post-COVID. Psychology: activist premium anticipation. Parallels: Elliott at TWTR. Analogies: 1) Wolf in sheep's clothing - activist shakes up board. 2) New captain steering ship.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Multiple X mentions of stake; historical activist plays lift shares."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +15% on activist proposals.",
+                "short_position": "Short if no changes; consumer spending risks.",
+                "key_risks": "Economic slowdown hits travel."
+            },
+            "confidence_rating": "B",
+            "justification": "Stake confirmed but no specific demands yet."
+        },
+        {
+            "details": {
+                "ticker": "DHR",
+                "full_name": "Danaher Corporation",
+                "current_price": 245.6,
+                "market_cap": "$182B",
+                "sector_industry": "Healthcare / Diagnostics & Research",
+                "high_low_52_week": {
+                    "high": 281.0,
+                    "low": 230.0
+                },
+                "pe_ratio": 42.3,
+                "volume": "3.8M",
+                "recent_dividend": "$0.27 quarterly"
+            },
+            "impact_theory": "-6% on funding MASI acquisition. Implications: Dilution fears, integration costs. Psychology: Seller remorse post-deal. Parallels: Acquirer dips in mega-deals. Analogies: 1) Buyer's remorse after splurge. 2) Heavy wallet after big purchase.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "X notes gap down as acquirer; typical reaction."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy for synergies; +5-10%.",
+                "short_position": "Short to $235 on dilution.",
+                "key_risks": "Deal accretion faster than expected."
+            },
+            "confidence_rating": "B",
+            "justification": "Standard acquirer reaction, but long-term accretive."
+        }
+    ]
+}
