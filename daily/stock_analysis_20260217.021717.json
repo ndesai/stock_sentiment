@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 182.81,
+                "market_cap": "4.44T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 45.25,
+                "volume": "300M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Recent news highlights robust AI chip demand and earnings surge buzz on social media, but YTD decline of -2% amid broader Mag7 weakness. Economic implications include sustained AI investment despite macro slowdown fears. Market psychology shows profit-taking after 2025 gains, with historical parallels to 2022 tech correction. Analogies: Like a race car slowing for a pit stop before accelerating again; or a tide going out before high tide returns.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X sentiment positive on AI demand, web news touts growth potential despite recent dip; web_search and x_keyword_search show buzz outweighing YTD loss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 5-10% gains on AI rebound",
+                "short_position": "Avoid or limited 2% downside",
+                "key_risks": "Macro recession hits AI capex; competition from AMD."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong AI narrative with data from searches, but YTD decline tempers full A rating."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 417.44,
+                "market_cap": "1.57T",
+                "sector_industry": "Consumer Cyclical/Automobiles",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 386.52,
+                "volume": "100M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Videos on key levels to watch indicate volatility; X watchlists frequent. Economic: EV demand slowdown but robotaxi hype. Psychology: High valuation invites shorts. Parallels: 2020 volatility. Analogies: Rollercoaster ride; rubber band stretched tight.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "YTD -5.59% per posts, high P/E signals overvaluation; X mixed but promotional."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk 10% upside on news",
+                "short_position": "5-8% gains on valuation reset",
+                "key_risks": "Elon Musk tweet catalyst; delivery beats."
+            },
+            "confidence_rating": "C",
+            "justification": "Speculative, limited specific news."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 261.73,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 300.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 32.38,
+                "volume": "50M",
+                "recent_dividend": "$1.04 quarterly"
+            },
+            "impact_theory": "YTD -4-6% decline amid Mag7 weakness; recent prices dropping. Economic: China sales concerns. Psychology: Rotation to value. Parallels: Post-iPhone peaks. Analogies: Apple core rotting slightly; mature tree bearing less fruit.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Consistent YTD underperformance noted in searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Stable 3% dividend play",
+                "short_position": "3-5% on continued rotation",
+                "key_risks": "AI features announcement."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear trend from data."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 401.32,
+                "market_cap": "2.98T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 350.0
+                },
+                "pe_ratio": 25.11,
+                "volume": "20M",
+                "recent_dividend": "$0.91 quarterly"
+            },
+            "impact_theory": "Steep YTD -17% drop signals sentiment shift; dividend announced. Economic: Cloud growth slowing? Psychology: Overweight trimming. Parallels: 2000 tech bust. Analogies: Elephant in the room stumbling; giant slowing stride.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Largest YTD loser in Mag7 per posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value at P/E 25, 5% rebound",
+                "short_position": "8-10% further decline",
+                "key_risks": "Azure beats expectations."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong data on sharp decline."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 200.0,
+                "market_cap": "2.5T",
+                "sector_industry": "Consumer Cyclical/Internet Retail",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 27.69,
+                "volume": "40M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$200B capex shock for 2026 on AI/cloud; premarket up but YTD down. Economic: Heavy investment signals growth. Psychology: Capex fears short-term. Parallels: AWS buildout 2010s. Analogies: Planting seeds for harvest; dam bursting with spending.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Capex for AI positions long-term leader; X/web positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "10% on AWS growth",
+                "short_position": "3% on dilution fears",
+                "key_risks": "Economic slowdown cuts spending."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific capex news driver."
+        }
+    ]
+}
