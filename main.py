@@ -12,6 +12,8 @@ import prompt
 import schema
 import preparer
 
+DIR_SCRIPT = os.path.dirname(os.path.abspath(__file__))
+
 
 def get_target_date():
     now = datetime.now()
@@ -133,7 +135,10 @@ def xapp(debug, email):
 
     stock_analysis = schema.StockAnalysisList.model_validate_json(response.content)
     print(stock_analysis)
-    with open("stock_analysis.json", "w") as f:
+    with open(
+        f"{DIR_SCRIPT}/daily/stock_analysis_{datetime.now().strftime('%Y%m%d.%H%M%S')}.json",
+        "w",
+    ) as f:
         f.write(stock_analysis.model_dump_json(indent=4))
 
     result += "\n"
