@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.2,
+                "market_cap": "$3.55T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.5,
+                    "low": 98.7
+                },
+                "pe_ratio": 62.5,
+                "volume": "285M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "Meta announced a multi-year partnership deploying millions of Nvidia chips in a new data center, signaling sustained AI infrastructure demand. Economically, this validates hyperscaler capex on AI, boosting Nvidia's revenue visibility. Market psychology: Reinforces Nvidia as AI kingpin, countering bubble fears. Historical parallels: Similar to 2023 MSFT-AZ deals sparking rallies. Analogies: 1) Fuel to rocket - chips power AI explosion. 2) Pickaxe in gold rush - Nvidia profits regardless of app winners.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web searches confirm NVDA up 2-2.5% on Meta deal; X posts highlight rebound and dip-buying. Strong sentiment shift from recent volatility to confirmed demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% gains on continued AI hype; target $152.",
+                "short_position": "Short risky, potential 3% loss if Fed minutes dovish.",
+                "key_risks": "Overvaluation, competition from AMD, supply chain issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple sources confirm deal impact, consistent X buzz, historical precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 264.92,
+                "market_cap": "$3.9T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 35.2,
+                "volume": "120M",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "Reports of Apple pushing AI wearables like smart glasses and camera AirPods decoupled it from Nasdaq weakness. Implications: Diversifies beyond iPhone, taps wearable AI market. Psych: Seen as safe AI play amid volatility. Parallels: AirPods launch 2016 +20%. Analogies: 1) Glasses as new iPhone. 2) Siri upgrade like Maps fix boosting trust.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Up 3.2% today per X and news; sentiment shift to AI innovator vs laggard."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +4% to $275; services strength supports.",
+                "short_position": "Short for 2% if no product confirmation.",
+                "key_risks": "China sales, delayed AI features."
+            },
+            "confidence_rating": "B",
+            "justification": "Rumor-based but strong price action and decoupling narrative."
+        },
+        {
+            "details": {
+                "ticker": "MASI",
+                "full_name": "Masimo Corporation",
+                "current_price": 174.69,
+                "market_cap": "$9.5B",
+                "sector_industry": "Healthcare/Medical Devices",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Danaher agreed to acquire Masimo for $9.9B all-cash (~$200/share premium). Boosts diagnostics portfolio. Psych: Acquisition frenzy in medtech. Parallels: 2023 device M&A wave. Analogies: 1) Pawn to queen in chess. 2) Lottery win for shareholders.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30-35%",
+                "reasoning": "+34% surge; confirmed deal news dominant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to deal close +15%; arb opportunity.",
+                "short_position": "Avoid, deal risk low.",
+                "key_risks": "Regulatory block, financing."
+            },
+            "confidence_rating": "A",
+            "justification": "Official announcement, huge volume."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 153.0,
+                "market_cap": "$48B",
+                "sector_industry": "Technology/Cybersecurity",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q2 earnings beat ($1.03 EPS vs $0.96) but FY guide weak due to deal drags. NGS ARR +33% positive but margins pressured. Psych: Rotation from cyber. Parallels: CRWD post-earnings dips. Analogies: 1) Sugar crash after binge. 2) Overpromise underdeliver.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7-10%",
+                "reasoning": "Down 6-10% post-earnings; X criticism on guide."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip +5% recovery.",
+                "short_position": "Short for 8% to $140.",
+                "key_risks": "Buyout rumors, sector rebound."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but guide disappointment clear."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.5,
+                "market_cap": "$117B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "45M",
+                "recent_dividend": "$0.115 (quarterly)"
+            },
+            "impact_theory": "Appaloosa increased stake; HBM/DRAM prices soaring. Ties to AI memory demand. Psych: Smart money bet. Parallels: 2024 memory rally. Analogies: 1) Reservoir for AI thirst. 2) Co-pilot to NVDA.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "+5.9% on stake news; X hype on $1000 target."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +7% with AI tailwinds.",
+                "short_position": "Short 4% on cycle peak fears.",
+                "key_risks": "Memory glut, capex heavy."
+            },
+            "confidence_rating": "B",
+            "justification": "Stake news solid but cyclical sector."
+        }
+    ]
+}
