@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CDNS",
+                "full_name": "Cadence Design Systems, Inc.",
+                "current_price": 308.8,
+                "market_cap": "84.15B",
+                "sector_industry": "Technology / Electronic Design Automation (EDA)",
+                "high_low_52_week": {
+                    "high": 327.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 79.21,
+                "volume": "High (post-earnings)",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cadence reported Q4 earnings beating estimates with revenue $1.44B vs $1.42B expected, EPS $1.99 vs $1.91, and issued strong FY2026 guidance of $5.9-6.0B revenue (12%+ growth) driven by AI chip design demand. Economically, signals robust semiconductor demand amid AI boom. Market psychology: Earnings beats in EDA sector boost confidence in AI infrastructure spend. Historical parallels: Similar to 2023 NVDA rally post-earnings. Analogies: Like a quarterback calling perfect plays in playoffs (precise execution), or rocket fuel igniting (AI demand accelerating growth).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Strong earnings beat and raised guidance amid positive X sentiment on AI/EDA leadership; web news confirms Wall Street upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued AI hype; target $340.",
+                "short_position": "Avoid or short if semis cool off; potential 5% pullback.",
+                "key_risks": "Semiconductor cycle downturn, competition from SNPS."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with strong guidance and sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "SNPS",
+                "full_name": "Synopsys, Inc.",
+                "current_price": 421.95,
+                "market_cap": "95B",
+                "sector_industry": "Technology / Electronic Design Automation (EDA)",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 350.0
+                },
+                "pe_ratio": 71.35,
+                "volume": "Elevated",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "NVIDIA disclosed $2B stake (4.8M shares) in Synopsys via 13F filing, validating SNPS role in AI chip design. Economic implications: Reinforces AI supply chain strength. Psychology: NVDA endorsement sparks FOMO buying. Parallels: NVDA stakes in ARM boosting it. Analogies: Seal of approval from the AI king (NVDA), like Warren Buffett buying into a stock.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "NVDA stake news drives premarket gains; positive X buzz on institutional buy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $470 pre-earnings; 10% upside.",
+                "short_position": "Short if NVDA weakens; 4% risk.",
+                "key_risks": "Upcoming earnings volatility, broader tech rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst but secondary to CDNS earnings; NVDA correlation risk."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 45.0,
+                "market_cap": "100B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 20.0
+                },
+                "pe_ratio": 200.0,
+                "volume": "High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mizuho upgraded to Outperform with $195 PT; new partnership with Rackspace for AI deployments. Implications: Accelerates enterprise AI adoption. Psychology: Analyst upgrade counters recent pullback. Parallels: 2024 upgrades fueling rallies. Analogies: Like upgrading from economy to business class (premium valuation justified), tailwind from AI awards.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Upgrade and partnership news; X positive on AI wins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum to $50; 10%+ gains.",
+                "short_position": "Short on overvaluation; 5-10% drop.",
+                "key_risks": "High valuation, profit-taking."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but speculative AI hype."
+        },
+        {
+            "details": {
+                "ticker": "RXRX",
+                "full_name": "Recursion Pharmaceuticals, Inc.",
+                "current_price": 6.5,
+                "market_cap": "1.5B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 4.5
+                },
+                "pe_ratio": -10.5,
+                "volume": "Very High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "NVIDIA sold entire stake in RXRX, signaling lack of confidence in AI-drug discovery play. Implications: Reduces validation in biotech AI. Psychology: Panic selling on NVDA exit. Parallels: Other NVDA stake sales tanking stocks. Analogies: Like a celebrity endorsement withdrawn (value plummets), rug pull in hype stock.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "NVDA full exit triggers selloff; negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy risky.",
+                "short_position": "Short for 15%+ downside; target $5.",
+                "key_risks": "Biotech rebound, short squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct negative catalyst from major investor exit."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 163.5,
+                "market_cap": "105B",
+                "sector_industry": "Technology / Software - Cybersecurity",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 50.0,
+                "volume": "Elevated",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Earnings beat but lowered FY2026 EPS guidance to $3.65-3.70 due to higher integration/memory costs from deals. Implications: Margins pressured in cyber M&A. Psychology: Guidance miss overshadows beat. Parallels: ZS guidance cuts in past. Analogies: Feast to famine (strong rev but profit hit), speed bump on highway (growth but costs).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-10%",
+                "reasoning": "Guidance cut despite beat; market punishes forward outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for recovery to $180; 10% upside.",
+                "short_position": "Short targeting $150; 8% gains.",
+                "key_risks": "Cyber demand surge, buyout rumors."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit guidance downgrade drives reaction."
+        }
+    ]
+}
