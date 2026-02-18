@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CDNS",
+                "full_name": "Cadence Design Systems, Inc.",
+                "current_price": 298.83,
+                "market_cap": "$81B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 340.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 75.2,
+                "volume": "2.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cadence reported Q4 earnings beating estimates with $1.44B revenue and $1.99 EPS, up YoY, driven by AI chip design demand. backlog $7.8B signals visibility. Economic implications: boosts semi sector growth amid AI capex. Market psych: relief rally post recent weakness. Historical: similar to 2023 AI boom beats. Analogies: like a dam breaking after pressure (earnings backlog), or rocket fuel igniting (AI tailwinds).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong beat and FY26 guidance above consensus, KeyBanc OW PT $405. X sentiment positive on backlog/AI. Premarket +7% confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% gains to $330+, target resistance break.",
+                "short_position": "Avoid, momentum strong.",
+                "key_risks": "Broader tech selloff, high valuation compression."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, analyst support, volume surge."
+        },
+        {
+            "details": {
+                "ticker": "SNPS",
+                "full_name": "Synopsys, Inc.",
+                "current_price": 550.0,
+                "market_cap": "$85B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 68.5,
+                "volume": "1.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rises in sympathy to CDNS earnings, NVDA 13F holding $2B stake. Econ: EDA tools critical for AI semis. Psych: sector rotation to winners. Hist: peers move together post-earnings. Analogies: rising tide lifts boats (EDA duo), echo effect (CDNS beat ripples).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Premarket +3.3%, NVDA stake news. X positive on alignment. Competitor strength lifts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% to $580.",
+                "short_position": "Limited, but if CDNS fades.",
+                "key_risks": "Awaits own earnings Feb 25, AI hype fade."
+            },
+            "confidence_rating": "B",
+            "justification": "Sympathy play, NVDA validation, but no direct catalyst."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 135.5,
+                "market_cap": "$320B",
+                "sector_industry": "Technology/Software - Application",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 250.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mizuho upgrade to OP $195 PT, citing unique growth/margins. Econ: AI platform demand accelerates. Psych: de-rating complete, FOMO returns. Hist: upgrades spark 10%+ moves. Analogies: undervalued gem rediscovered (multiple compression), phoenix rising (post-pullback).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Upgrade highlights revenue accel, X buzz on PT. Premarket +3%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $150-160, 15% upside.",
+                "short_position": "High valuation risk if growth slows.",
+                "key_risks": "Overhype, gov contract dependency."
+            },
+            "confidence_rating": "A",
+            "justification": "Prestigious upgrade, strong X sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 185.0,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 60.0,
+                "volume": "300M",
+                "recent_dividend": "0.01"
+            },
+            "impact_theory": "Meta deal for Blackwell chips, easing AI fears. Econ: $115-135B capex validates demand. Psych: rebound from weakness. Hist: partner deals lift 5-10%. Analogies: fuel to fire (AI ecosystem), domino effect (Meta spurs others).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Premarket mover, Meta commitment. Mixed X but positive on holdings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $200 pre-earnings.",
+                "short_position": "If earnings miss.",
+                "key_risks": "Feb 25 earnings volatility, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Deal positive but earnings loom."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 152.0,
+                "market_cap": "$50B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 380.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q2 beat but cut FY26 EPS guide to $3.65-3.70 on AI/deal costs. Econ: cyber spend up but margins pressure. Psych: disappointment despite revenue raise. Hist: guidance misses cause 5-10% drops. Analogies: sugar high crash (beat then guide), speed bump (acquisitions).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Guidance below exp despite rev beat, premarket -6%. X sees overreaction but downside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if holds 150, +10% rebound.",
+                "short_position": "Short to $140, 8% downside.",
+                "key_risks": "Analyst buys like MS OW $223."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but guide key, mixed analyst views."
+        }
+    ]
+}
