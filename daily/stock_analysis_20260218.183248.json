@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MASI",
+                "full_name": "Masimo Corporation",
+                "current_price": 174.69,
+                "market_cap": "$9.0B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "5.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Danaher announced acquisition of Masimo for $9.9B at $180/share, a 40% premium to recent close. This triggers arbitrage trading as investors buy to capture spread. Economic implications: Consolidation in medtech strengthens Danaher's pulse oximetry tech amid Apple dispute resolution. Market psych: Relief rally after legal battles, FOMO on deal premium. Historical parallels: Similar to Activision-Blizzard MSFT deal premiums holding. Analogies: 1. Wedding announcement boosting bride's value temporarily. 2. eBay buying PayPal - instant value unlock.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Deal at $180 implies ~3% upside from current $175; high probability of closure despite Wells Fargo downgrade to $180 PT. Web news confirms 34% surge on announcement; X sentiment positive on takeover (assumed from searches)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 3-5% arb gain to $180 by close; potential 10% if bidding war.",
+                "short_position": "Avoid or small short if regulatory block, but low odds.",
+                "key_risks": "Deal termination (antitrust), market sell-off dragging arb."
+            },
+            "confidence_rating": "A",
+            "justification": "Definitive deal announcement with premium; historical arb success high."
+        },
+        {
+            "details": {
+                "ticker": "ZIM",
+                "full_name": "ZIM Integrated Shipping Services Ltd.",
+                "current_price": 27.85,
+                "market_cap": "$3.2B",
+                "sector_industry": "Industrials / Marine Shipping",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 10.0
+                },
+                "pe_ratio": 1.2,
+                "volume": "15M",
+                "recent_dividend": "$0.23"
+            },
+            "impact_theory": "Hapag-Lloyd takeover for $4.2B at $35/share, 58% premium. Implications: Consolidation in shipping amid Red Sea disruptions boosting rates. Psych: Meme-like surge on takeover news. Parallels: Other shipping M&A like Icon-Hapag. Analogies: 1. Small fish acquired by shark, instant size boost. 2. Lottery win for shareholders.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Current $28 to $35 deal price; 25-34% surge already, more room. Positive X buzz on shipping consolidation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 25% to $35; high volume supports.",
+                "short_position": "Short post-deal if overbought, potential -10%.",
+                "key_risks": "Shareholder rejection, geopolitical shipping risks."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear takeover premium, strong surge on news."
+        },
+        {
+            "details": {
+                "ticker": "FELE",
+                "full_name": "Franklin Electric Co., Inc.",
+                "current_price": 92.98,
+                "market_cap": "$4.3B",
+                "sector_industry": "Industrials / Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "1.2M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Q4 revenue miss, weak 2026 guidance ($2.17-2.24B sales), margin drop to 6.9%. Implications: Slowdown in water systems demand. Psych: Panic selling on forward weakness. Parallels: Industrial earnings misses in 2022 cycle. Analogies: 1. Car running out of gas mid-highway. 2. Rainy forecast killing picnic plans.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "Already -15% on news; guidance below expectations signals demand softness. Neutral ratings persist."
+            },
+            "potential_profit_risks": {
+                "long_position": "N/A; wait for bottom.",
+                "short_position": "Short for 10-15% further drop on weak outlook.",
+                "key_risks": "Oversold bounce, broader market rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings miss/guidance, but industrials volatile."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 153.0,
+                "market_cap": "$48B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Earnings beat but lowered FY profit forecast due to higher deal costs, AI security investments. Implications: Growth investments pressure margins short-term. Psych: Disappointment despite revenue growth. Parallels: Crowdstrike post-earnings dips. Analogies: 1. Athlete training hard, short-term fatigue. 2. Planting seeds before harvest.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "6-8% drop despite beat; guidance miss dominates. X sentiment negative on costs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound +15% long-term.",
+                "short_position": "Short near-term 10% drop.",
+                "key_risks": "Cyber sector rotation, AI hype recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed earnings, but guidance key driver."
+        },
+        {
+            "details": {
+                "ticker": "CDNS",
+                "full_name": "Cadence Design Systems, Inc.",
+                "current_price": 285.0,
+                "market_cap": "$78B",
+                "sector_industry": "Technology / Software - EDA",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 72.1,
+                "volume": "4.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 beat, strong FY2026 guide $5.9-6B rev, EPS $8.10. Implications: AI/chip design boom sustains demand. Psych: Confidence in semi recovery. Parallels: Synopsys earnings rallies. Analogies: 1. Chef perfect recipe, restaurant full. 2. Rocket fuel boost.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "9% surge on beat/guidance above cons; JPM PT to $405. Positive analyst/X vibe."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% on AI tailwinds.",
+                "short_position": "N/A.",
+                "key_risks": "Chip cycle downturn, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong numbers and outlook in hot sector."
+        }
+    ]
+}
