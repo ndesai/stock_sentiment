@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 77.5,
+                "market_cap": "$650B",
+                "sector_industry": "Consumer Staples / Retail - Supermarkets",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15M",
+                "recent_dividend": "$0.2475 quarterly (annual $0.99)"
+            },
+            "impact_theory": "Walmart reported Q4 earnings beating estimates slightly on EPS and revenue, but issued cautious FY2026 guidance below consensus due to consumer spending slowdown concerns amid inflation and geopolitical tensions. Economically, signals softening US consumer resilience, potentially pressuring retail sector. Market psychology shifts to fear of recessionary pressures, similar to 2022 post-inflation peak pullback. Historical parallel: 2019 guidance cut led to 5% drop. Analogies: Like a car slowing before a red light (guidance caution), or a balloon deflating after hype (beat overshadowed by outlook).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -6%",
+                "reasoning": "X sentiment negative post-earnings (down 3%+ premarket), web news highlights guidance miss as key concern despite beats; broader market risk-off from Iran adds pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited rebound if consumer data surprises positive; +2% potential short-term",
+                "short_position": "Strong downside momentum on weak outlook; 5-8% gains possible",
+                "key_risks": "Buyback/dividend hike supports floor; potential short squeeze if guidance digested."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings reaction with high volume confirmation and analyst consensus shift."
+        },
+        {
+            "details": {
+                "ticker": "DASH",
+                "full_name": "DoorDash Inc.",
+                "current_price": 193.7,
+                "market_cap": "$80B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 100.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "DoorDash missed Q4 EPS/revenue estimates but provided upbeat Q1 guidance on order growth (32% YoY) driven by delivery demand. Implications: Sustained consumer shift to convenience amid economic uncertainty boosts growth stocks. Psychology: Relief rally as forward outlook trumps backward miss. Historical: Similar to Uber 2023 post-miss surges. Analogies: Like a sprinter stumbling but accelerating (miss to guidance), or phoenix rising from earnings ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +14%",
+                "reasoning": "Premarket surge 11-14%, X positive on growth; web emphasizes strong forecast outweighing miss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum to $210; +8-10% gains",
+                "short_position": "Fade if growth hype fades; risky with volume",
+                "key_risks": "High valuation, competition from Uber/Grubhub; macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong premarket move but EPS miss tempers full conviction."
+        },
+        {
+            "details": {
+                "ticker": "EBAY",
+                "full_name": "eBay Inc.",
+                "current_price": 87.0,
+                "market_cap": "$45B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 90.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "5M",
+                "recent_dividend": "$0.31 quarterly"
+            },
+            "impact_theory": "eBay beat Q4 estimates, announced $2B buyback, dividend hike, and $1.2B Depop acquisition to boost younger users. Implications: Enhances margins and growth in resale market. Psychology: Value unlock via M&A/buyback amid e-comm consolidation. Historical: Similar to 2021 buyback pops. Analogies: Like adding turbo to old engine (acquisition), or treasure chest opening (buyback/dividend).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +8%",
+                "reasoning": "Premarket +5-8%, positive X/web on beat and strategic moves."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target $95 on momentum; +8%",
+                "short_position": "Minimal, strong catalysts",
+                "key_risks": "Integration risks from Depop; broader retail weakness."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple positive catalysts align with market sentiment."
+        },
+        {
+            "details": {
+                "ticker": "DE",
+                "full_name": "Deere & Company",
+                "current_price": 628.0,
+                "market_cap": "$350B",
+                "sector_industry": "Industrials / Farm & Heavy Construction Machinery",
+                "high_low_52_week": {
+                    "high": 630.0,
+                    "low": 500.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "3M",
+                "recent_dividend": "$1.47 quarterly"
+            },
+            "impact_theory": "Deere Q1 EPS beat despite YoY drop, raised FY net income guidance to $4.5-5B on construction boom. Implications: Ag cycle bottoming, infrastructure spend supports. Psychology: Optimism on capex recovery. Historical: Parallels 2021 post-COVID surge. Analogies: Tractor gaining speed uphill (guidance raise), or farmer planting after drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +6%",
+                "reasoning": "Premarket rally to record highs, X/web bullish on outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "New highs to $650; +4%",
+                "short_position": "Against trend",
+                "key_risks": "Commodity price volatility, farm income decline."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but YoY EPS drop noted."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 52.0,
+                "market_cap": "$48B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "12M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "OXY Q4 EPS beat, plus oil surge >4% on US-Iran tensions risking supply. Implications: Geopolitical premium boosts energy profits. Psychology: Flight to safety in commodities. Historical: 2019 Iran flare-up +10% oil. Analogies: Oil well striking gusher (tensions), or storm fueling windmill (geopolitics aiding energy).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +7%",
+                "reasoning": "Earnings beat + oil rally, premarket gains; X ties to Iran."
+            },
+            "potential_profit_risks": {
+                "long_position": "Oil to $70s; +6-10%",
+                "short_position": "De-escalation risk",
+                "key_risks": "Iran off-ramp diplomacy, demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Dual catalysts but geopolitics volatile."
+        }
+    ]
+}
