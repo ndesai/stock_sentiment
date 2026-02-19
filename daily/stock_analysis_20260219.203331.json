@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CVNA",
+                "full_name": "Carvana Co.",
+                "current_price": 345.2,
+                "market_cap": "$35.2B",
+                "sector_industry": "Consumer Cyclical/Auto Retail",
+                "high_low_52_week": {
+                    "high": 520.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 85.2,
+                "volume": "15,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Carvana reported Q4 revenue of $5.6B beating estimates but adjusted EBITDA missed at $511M vs $539M expected, with vague 2026 guidance citing no sales forecast but long-term goal of 3M cars by 2035. Economic implications include concerns over used car market softening and high debt ($5.5B). Market psychology shifted to skepticism on profitability sustainability amid high multiples. Historical parallel: 2022 bankruptcy fears led to 97% drop; recovered on restructuring. Analogies: Like a sprinter burning out mid-race (strong growth but margins collapsing); rubber band stretched too far snapping back.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12%",
+                "reasoning": "EBITDA miss and lack of clear guidance overshadowed revenue beat; X sentiment negative with fraud allegations resurfacing; web news highlights Wall St cuts to PTs (JPM $490 from $510)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; short-term rebound to $380 (+10%) if dip buyers enter",
+                "short_position": "Short with target $300 (-13%), potential 15% gains on further misses",
+                "key_risks": "Unexpected used car demand surge; insider buying signals; broader market rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings reaction with high volume confirms sentiment shift; multiple analyst downgrades."
+        },
+        {
+            "details": {
+                "ticker": "DASH",
+                "full_name": "DoorDash Inc.",
+                "current_price": 185.3,
+                "market_cap": "$75.4B",
+                "sector_industry": "Consumer Cyclical/Internet Retail",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 120.0
+                },
+                "pe_ratio": -52.1,
+                "volume": "8,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "DoorDash Q4 earnings missed but Q1 forecast strong with delivery demand fueling growth; investments in AI/tech paying off. Econ impl: Resilient consumer spending on convenience amid inflation. Psych: Relief rally on visibility. Historical: Post-IPO volatility but up 200%+ on growth. Analogies: Caterpillar turning into butterfly (investments maturing); snowball rolling downhill (GOV growth accelerating).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Premarket +11% on upbeat guidance; Deutsche Bank buy reaffirm; X buzz positive on expansion."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $210 (+13%), 20% upside on sustained growth",
+                "short_position": "Avoid; downside to $170 (-8%) on margin pressure",
+                "key_risks": "Increased competition from Uber Eats; economic slowdown hitting orders."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear guidance beat expectations; analyst support strong."
+        },
+        {
+            "details": {
+                "ticker": "DE",
+                "full_name": "Deere & Company",
+                "current_price": 654.22,
+                "market_cap": "$180.5B",
+                "sector_industry": "Industrials/Farm Machinery",
+                "high_low_52_week": {
+                    "high": 700.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 25.4,
+                "volume": "5,200,000",
+                "recent_dividend": "$6.48"
+            },
+            "impact_theory": "Deere Q1 EPS $2.42 beat $1.92, revenue up 13%; FY26 guidance holds at cycle bottom. Econ: Ag sector resilient despite headwinds. Psych: Beat-and-raise confidence boost. Historical: Similar beats in 2021 led to 50% rallies. Analogies: Tractor plowing through mud (resilient in downturn); phoenix rising from inventory ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Record high close; X posts highlight PEG candle; transcripts show optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $720 (+10%), potential 15% on ag rebound",
+                "short_position": "Short to $600 (-8%) if recession hits farms",
+                "key_risks": "Commodity price drops; China trade tensions."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings beat with volume surge; historical patterns supportive."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 51.42,
+                "market_cap": "$45.8B",
+                "sector_industry": "Energy/Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 15.3,
+                "volume": "20,100,000",
+                "recent_dividend": "$0.22"
+            },
+            "impact_theory": "OXY Q4 adj EPS $0.31 beat $0.18; $5.8B debt cut, div hike; capex efficient 2026 guide. Econ: Oil rally on Iran tensions. Psych: Buffett backing implied. Historical: Post-Anadarko recovery. Analogies: Debt snowball melting (balance sheet cleanup); oil well gusher (efficient production).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Best day in year; debt tender; X options flow bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $60 (+17%), 25% on oil >$80",
+                "short_position": "Short to $45 (-12%) on price collapse",
+                "key_risks": "Oil glut; OPEC cuts fail."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but oil volatility tempers."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 98.5,
+                "market_cap": "$800.2B",
+                "sector_industry": "Consumer Defensive/Retail - Defensive",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "12,300,000",
+                "recent_dividend": "$0.83"
+            },
+            "impact_theory": "WMT Q4 beat: rev $190.7B, EPS $0.75; FY26 guide 3.5-4.5% sales cautious. Econ: Value retail thrives in uncertainty. Psych: Sandbagging seen as conservative. Historical: Similar guides led to beats. Analogies: Steady ship in storm; elephant slow but unstoppable.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "Recovered from initial dip; CFO hints raise guide; Amazon sales overtake but WMT e-comm strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $110 (+12%), steady 10% gains",
+                "short_position": "Avoid; dip to $95 (-4%)",
+                "key_risks": "Tariff hikes; consumer shift premium."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed reaction but positive analyst spin."
+        }
+    ]
+}
