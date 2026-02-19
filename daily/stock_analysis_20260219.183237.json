@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "DASH",
+                "full_name": "DoorDash, Inc.",
+                "current_price": 192.0,
+                "market_cap": "$83.21B",
+                "sector_industry": "Consumer Discretionary/Internet Services & Infrastructure",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 105.3
+                },
+                "pe_ratio": 85.4,
+                "volume": "15.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "DoorDash reported strong Q4 growth forecast driven by surging delivery demand, signaling resilient consumer spending despite economic headwinds. Economically, it highlights strength in gig economy and on-demand services. Market psychology shifts to bullish on tech-enabled consumer plays. Historical parallel: Similar post-earnings surges in 2021-2022 during recovery. Analogies: Like Uber Eats boom during lockdowns; a rubber band snapping back after compression.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Premarket surge of 11% on upbeat guidance outweighing any misses; X sentiment positive on growth, web news confirms strong orders up 32%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains in 1-2 weeks on momentum.",
+                "short_position": "Avoid short; high risk of squeeze.",
+                "key_risks": "Broader market selloff due to geo tensions, competition from Uber."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with strong premarket reaction and historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "DE",
+                "full_name": "Deere & Company",
+                "current_price": 450.2,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials/Farm & Heavy Construction Machinery",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 350.1
+                },
+                "pe_ratio": 15.2,
+                "volume": "8.5M",
+                "recent_dividend": "$1.47 quarterly"
+            },
+            "impact_theory": "Deere beat Q1 earnings and raised FY2026 outlook amid farm demand stabilization. Implications: Positive for ag sector recovery, commodity prices support. Psych: Relief rally after fears. Parallels: 2023 post-downturn beats. Analogies: Tractor pulling economy uphill; phoenix rising from ag slump.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "10% jump post-earnings, raised guidance; limited X negativity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 12% upside.",
+                "short_position": "Short if guidance questioned, -5%.",
+                "key_risks": "Commodity price drops, trade tariffs."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings beat with raised outlook."
+        },
+        {
+            "details": {
+                "ticker": "PWR",
+                "full_name": "Quanta Services, Inc.",
+                "current_price": 320.5,
+                "market_cap": "$46B",
+                "sector_industry": "Industrials/Engineering & Construction",
+                "high_low_52_week": {
+                    "high": 340.0,
+                    "low": 220.4
+                },
+                "pe_ratio": 28.7,
+                "volume": "4.2M",
+                "recent_dividend": "$0.08 quarterly"
+            },
+            "impact_theory": "Quanta beat Q4 EPS/revenue, record backlog from infrastructure demand. Econ: Boost from electrification, renewables. Psych: Infrastructure spend confidence. Parallels: Post-IIJA surges. Analogies: Building bridges in bull market; snowball effect on backlog.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "4%+ rise on beats, positive analyst notes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8% gains on infra theme.",
+                "short_position": "Minimal.",
+                "key_risks": "Project delays, interest rates."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but less explosive move."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 88.5,
+                "market_cap": "$710B",
+                "sector_industry": "Consumer Defensive/Discount Stores",
+                "high_low_52_week": {
+                    "high": 95.2,
+                    "low": 70.1
+                },
+                "pe_ratio": 32.1,
+                "volume": "12.1M",
+                "recent_dividend": "$0.99 annual (raised)"
+            },
+            "impact_theory": "Walmart beat Q4 but weak FY outlook disappointed, signaling consumer caution. Econ: Margin pressure from tariffs/inflation. Psych: Shift to defensive but cap gains. Parallels: 2019 tariff fears. Analogies: Speed bump on highway; cloud over sunny earnings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Stock turns lower post-earnings despite beat; X/market focus on guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy +3%.",
+                "short_position": "Short for 5-7% downside.",
+                "key_risks": "Consumer resilience surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed earnings, outlook key."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 135.8,
+                "market_cap": "$520B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "22.3M",
+                "recent_dividend": "$0.99 quarterly"
+            },
+            "impact_theory": "Oil prices surge to 6-mo high on US-Iran tensions, boosting energy majors. Econ: Supply risk premium. Psych: Flight to safety in commodities. Parallels: 2019 Iran flare-up. Analogies: Rocket fuel from geopolitics; rising tide lifts oil boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Oil up 4%+, correlated stock lift; X sentiment on tensions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 6% on sustained tensions.",
+                "short_position": "Short if de-escalation.",
+                "key_risks": "Quick resolution, recession curbs demand."
+            },
+            "confidence_rating": "C",
+            "justification": "Geo-dependent, volatile."
+        }
+    ]
+}
