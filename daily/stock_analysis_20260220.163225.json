@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 285.67,
+                "market_cap": "$2.95T",
+                "sector_industry": "Consumer Discretionary / E-commerce",
+                "high_low_52_week": {
+                    "high": 320.45,
+                    "low": 215.23
+                },
+                "pe_ratio": 48.2,
+                "volume": "52.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Supreme Court 6-3 ruling strikes down Trump's IEEPA tariffs, slashing import costs on Chinese goods critical to Amazon's supply chain. Economic boost via lower COGS, higher margins (est. 2-4% improvement), reduced inflation pass-through. Psychology: Relief from trade war overhang sparks FOMO buying. Parallels: 2019 Phase One deal (+3% AMZN). Analogies: 1. Lifting a tariff 'tax' like cutting grocery prices mid-inflation. 2. Freeing a clogged artery for cash flow surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Web news highlights AMZN climb post-ruling; X sentiment overwhelmingly positive (e.g., tariff relief for e-com), latest posts show excitement. High engagement on trade-sensitive gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions eyeing +7-10% upside next 3-5 days on momentum.",
+                "short_position": "Avoid shorts; potential -6% whipsaw if Trump pivots to Section 232.",
+                "key_risks": "Admin backup tariffs, weak GDP data overshadowing, overbought technicals."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news tie-in, volume spike, consistent X/web bullishness; historical analogs strong."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.3,
+                "market_cap": "$3.75T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 275.0,
+                    "low": 190.5
+                },
+                "pe_ratio": 32.5,
+                "volume": "68.4M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Tariffs axed relieve pressure on China-assembled iPhones/iPads (70%+ supply chain), cutting costs ~$5-10/unit. Implications: Margin expansion, pricing power amid China tensions. Psych: Ends 'decoupling' fears, reignites buy cycle. Parallels: 2018 tariff truce rally (+5%). Analogies: 1. Cheaper fuel for a gas-guzzler jet. 2. Sun breaking through tariff fog for clear skies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.2%",
+                "reasoning": "X posts note AAPL advance; web confirms tech/trade-sensitive up post-SCOTUS. Sentiment shift from cautious to optimistic."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +5-8% as services growth compounds relief.",
+                "short_position": "Shorts face -4% losses on dip-buying.",
+                "key_risks": "China retaliation risks, broader tech rotation out."
+            },
+            "confidence_rating": "A",
+            "justification": "AAPL heavy China exposure directly benefits; multi-source confirmation."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "Nike, Inc.",
+                "current_price": 112.8,
+                "market_cap": "$168B",
+                "sector_industry": "Consumer Discretionary / Apparel",
+                "high_low_52_week": {
+                    "high": 130.5,
+                    "low": 85.2
+                },
+                "pe_ratio": 28.1,
+                "volume": "15.7M",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Apparel rally leader as Vietnam/China factories dodge tariffs, restoring ~3% margins eroded since 2025. Econ: Cheaper goods spur demand recovery. Psych: Short-covering frenzy. Parallels: Post-2019 deal NKE +4%. Analogies: 1. Tariff boots off a runner's feet. 2. Clearing import hurdles in a relay race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5.1%",
+                "reasoning": "Seeking Alpha/web note apparel surge; X buzz on NKE rally. Strong sentiment pivot."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting +10% rebound to 52w high.",
+                "short_position": "High risk shorts, -7% potential.",
+                "key_risks": "Consumer spending slowdown, inventory glut."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector win, but NKE fundamentals mixed pre-news."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 420.15,
+                "market_cap": "$1.34T",
+                "sector_industry": "Consumer Discretionary / Auto",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 320.0
+                },
+                "pe_ratio": 95.6,
+                "volume": "112M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Shanghai Gigafactory parts/exports benefit from no retaliatory tariffs, easing EV cost pressures. Econ: Faster China expansion. Psych: Musk/Trump alignment softens blow. Parallels: 2020 tariff ease (+6% TSLA). Analogies: 1. Open border for battery imports. 2. Tailwind for a speeding Cybertruck.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.8%",
+                "reasoning": "X mentions TSLA up; web auto sector gains. Positive but tempered by volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "+6-9% on China sales beat.",
+                "short_position": "-5% if delivery misses.",
+                "key_risks": "Competition, Musk tweets, policy uncertainty."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect benefit, high beta amplifies move but noisy."
+        },
+        {
+            "details": {
+                "ticker": "F",
+                "full_name": "Ford Motor Company",
+                "current_price": 18.45,
+                "market_cap": "$72B",
+                "sector_industry": "Consumer Discretionary / Auto",
+                "high_low_52_week": {
+                    "high": 22.1,
+                    "low": 14.2
+                },
+                "pe_ratio": 12.3,
+                "volume": "78.9M",
+                "recent_dividend": "$0.15 quarterly"
+            },
+            "impact_theory": "Auto parts imports cheaper sans tariffs, aiding F-150/Mach-E margins amid Mexico/China sourcing. Econ: Transport index jump signals sector relief. Psych: Rotation to cyclicals. Parallels: 2018 steel tariff lift (+2%). Analogies: 1. Lighter load for truck hauls. 2. Green light at trade border crossing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.5%",
+                "reasoning": "Web/Dow Transports up; X auto gains noted. Sentiment shift evident."
+            },
+            "potential_profit_risks": {
+                "long_position": "+8% to resistance.",
+                "short_position": "-4% on union news.",
+                "key_risks": "Labor strikes, EV transition costs."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwind strong, company-specific risks moderate confidence."
+        }
+    ]
+}
