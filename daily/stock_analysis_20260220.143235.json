@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "OWL",
+                "full_name": "Blue Owl Capital Inc.",
+                "current_price": 11.58,
+                "market_cap": "$18.5B",
+                "sector_industry": "Financials / Asset Management",
+                "high_low_52_week": {
+                    "high": 21.45,
+                    "low": 11.2
+                },
+                "pe_ratio": 14.2,
+                "volume": "12.5M",
+                "recent_dividend": "$0.38 quarterly (yield 13%)"
+            },
+            "impact_theory": "Blue Owl sold $1.4B in loan assets and halted redemptions due to liquidity crunch in private credit fund amid rising redemptions (200% industrywide). Economic implications: Signals potential stress in $1.7T private credit market, higher borrowing costs if distress spreads. Market psychology: Fear of 'canary in coal mine' for bubble burst, eroding confidence in alts. Historical parallels: 2008 subprime gates. Analogies: Like a dam cracking under pressure (liquidity gate), or poker player folding a strong hand due to table jitters.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Liquidity curbs and asset fire-sale amid sector redemptions spike; X sentiment limited but negative (posts on $OWL distress); web news highlights red flags for private credit bubble, peers BX/APO down similarly."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential rebound +3-5% if buyback announced.",
+                "short_position": "Short for 8-12% gains on continued sector unwind.",
+                "key_risks": "Fed rate cuts ease credit stress; surprise buyer for assets; broader market rally ignores alts."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news from multiple sources (Reuters, CNBC, WSJ) on specific event; clear causality to price drop; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "ETSY",
+                "full_name": "Etsy Inc.",
+                "current_price": 48.14,
+                "market_cap": "$5.8B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 58.6,
+                    "low": 40.12
+                },
+                "pe_ratio": 35.8,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings: Rev $881.6M miss but adj EPS $0.92 beat; sold Depop to eBay $1.2B cash, refocus core marketplace. Implications: Frees capital for higher ROIC, stabilizes GMS (+0.1% Etsy core). Psychology: Short squeeze + relief on strategic pivot amid buyer stagnation. Parallels: eBay spin-off 2015 boost. Analogies: Trimming fat for muscle gain (Depop divest), or captain righting the ship post-storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +8%",
+                "reasoning": "Shares +9.3% post-earnings despite rev miss; Depop sale unlocks value, X posts detail positive call highlights (AI, personalization); Zacks/Nasdaq confirm beat-driven surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% upside on execution; buy dips.",
+                "short_position": "Avoid; momentum favors bulls.",
+                "key_risks": "Macro slowdown hits discretionary; Q1 guide soft; competition from Temu/Shein."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong price reaction + detailed earnings coverage; some offset by rev miss, but strategic news dominates."
+        },
+        {
+            "details": {
+                "ticker": "BX",
+                "full_name": "Blackstone Inc.",
+                "current_price": 142.5,
+                "market_cap": "$205B",
+                "sector_industry": "Financials / Asset Management",
+                "high_low_52_week": {
+                    "high": 155.2,
+                    "low": 118.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "5.1M",
+                "recent_dividend": "$1.84 quarterly (yield 2.1%)"
+            },
+            "impact_theory": "Down with private credit peers on OWL contagion fears; no direct news but sector sympathy. Implications: Higher scrutiny on alts AUM outflows. Psychology: Guilt by association. Parallels: Archegos contagion 2021. Analogies: Ship sinking drags flotilla, or domino tipping.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Yahoo/CNBC link to private credit worries; X mentions in trader posts; lagged OWL but volume up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy +4-7% if sector stabilizes.",
+                "short_position": "Short extension 5-8% on outflows.",
+                "key_risks": "BX CLO success defies fears; M&A rebound."
+            },
+            "confidence_rating": "C",
+            "justification": "Sympathy move, less direct news than OWL; broader sector context."
+        },
+        {
+            "details": {
+                "ticker": "APO",
+                "full_name": "Apollo Global Management Inc.",
+                "current_price": 118.34,
+                "market_cap": "$68B",
+                "sector_industry": "Financials / Asset Management",
+                "high_low_52_week": {
+                    "high": 132.5,
+                    "low": 105.2
+                },
+                "pe_ratio": 18.5,
+                "volume": "4.8M",
+                "recent_dividend": "$0.51 quarterly (yield 1.7%)"
+            },
+            "impact_theory": "Dropped 5.2% on private credit jitters post-OWL; some Epstein scrutiny noise. Implications: Investor flight from alts. Psychology: Risk-off in levered credit. Parallels: LTCM 1998. Analogies: Flock scattering at wolf howl.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Smartkarma/Gurufocus note gap down; Yahoo ties to private credit; X quiet."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long rebound 5%; dividend support.",
+                "short_position": "Short 6-10% further.",
+                "key_risks": "Earnings beat; upgrade to strong buy."
+            },
+            "confidence_rating": "C",
+            "justification": "Sector drag primary; mixed signals like upgrades."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.4,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 130.8,
+                    "low": 102.5
+                },
+                "pe_ratio": 13.8,
+                "volume": "22.3M",
+                "recent_dividend": "$0.95 quarterly (yield 3.0%)"
+            },
+            "impact_theory": "Oil +2% to 6-mo high on US-Iran nuclear tensions (Trump strike threat); Energy sector +1.9%. Implications: Supply risk premium, higher energy costs. Psychology: Geopolitics hedge. Parallels: 2019 Abqaiq attack. Analogies: Storm clouds boosting umbrella sales, or poker bluff raising pot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +4%",
+                "reasoning": "Bloomberg/WSJ/Reuters on oil surge; X posts on $XOM $CL tensions; GDP weak but oil decoupled."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 5-8% on escalation.",
+                "short_position": "Short if de-escalate -3-5%.",
+                "key_risks": "Diplomatic deal; demand hit by GDP slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geo link to sector/oil; but short-term volatility."
+        }
+    ]
+}
