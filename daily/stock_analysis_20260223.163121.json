@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ALCX",
+                "full_name": "Arcellx, Inc.",
+                "current_price": 75.0,
+                "market_cap": "$6.5B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "10M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Gilead Sciences announced acquisition of Arcellx for up to $7.8B, boosting stock premarket. Economic implications: consolidates CAR-T therapy market. Market psychology: M&A premium sparks FOMO buying. Historical parallels: similar biotech buyouts like Seagen by Pfizer. Analogies: like finding a rare Pokemon (high-value acquisition); wedding proposal with diamond ring (premium offer).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+50%",
+                "reasoning": "Acquisition news drives shares toward deal value; X sentiment positive on M&A frenzy; web news confirms strong biotech interest."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20-50% gains to deal close",
+                "short_position": "Avoid short due to takeover arb premium",
+                "key_risks": "Deal break risk if financing fails or antitrust issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear acquisition announcement with high certainty."
+        },
+        {
+            "details": {
+                "ticker": "RNG",
+                "full_name": "RingCentral, Inc.",
+                "current_price": 39.5,
+                "market_cap": "$3.5B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 25.0
+                },
+                "pe_ratio": -15.2,
+                "volume": "15M",
+                "recent_dividend": "Initiated $0.06 quarterly"
+            },
+            "impact_theory": "Q4 earnings beat with dividend launch and AI partnerships. Implications: improved profitability amid UCaaS demand. Psychology: relief rally post-earnings. Parallels: Twilio post-earnings surges. Analogies: like scoring a goal in extra time; exam ace after studying hard.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Earnings beat +34% move; analysts raising PTs; positive X buzz on turnaround."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for further +15% on momentum",
+                "short_position": "Short if overbought, potential -10%",
+                "key_risks": "Competition in cloud comms, execution on AI."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings reaction with analyst support."
+        },
+        {
+            "details": {
+                "ticker": "NVO",
+                "full_name": "Novo Nordisk A/S",
+                "current_price": 40.37,
+                "market_cap": "$450B",
+                "sector_industry": "Healthcare/Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 25.1,
+                "volume": "50M",
+                "recent_dividend": "$0.94 annual"
+            },
+            "impact_theory": "CagriSema trial failed to beat Eli Lilly's Zepbound, causing 15% drop. Implications: slows next-gen obesity drug race. Psychology: fear of losing GLP-1 dominance. Parallels: 2022 Ozempic shortage panic. Analogies: like challenger losing to champ in boxing; Ferrari outspeed by Tesla.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "Trial disappointment; X mixed but mostly negative sentiment; downgrades incoming."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for rebound +20% on Wegovy sales",
+                "short_position": "Short for further -10% decline",
+                "key_risks": "Upcoming earnings surprise, competitor issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative trial data but core business strong."
+        },
+        {
+            "details": {
+                "ticker": "FROG",
+                "full_name": "JFrog Ltd.",
+                "current_price": 37.75,
+                "market_cap": "$3.8B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 52.0,
+                    "low": 28.0
+                },
+                "pe_ratio": -45.3,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Anthropic's Claude Code Security launch sparked AI fears, -25% drop. Implications: threat to devops security moat. Psychology: panic selling on AI disruption. Parallels: Snowflake post-OpenAI tie-up dip. Analogies: taxi panic over Uber; Blockbuster vs Netflix.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20%",
+                "reasoning": "Competitor product fear; X shows oversold calls but analysts defend; high volume selloff."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long oversold bounce +25%",
+                "short_position": "Short momentum fade -15%",
+                "key_risks": "AI hype overblown, JFrog differentiation holds."
+            },
+            "confidence_rating": "C",
+            "justification": "Sentiment-driven, analysts bullish despite drop."
+        },
+        {
+            "details": {
+                "ticker": "DPZ",
+                "full_name": "Domino's Pizza, Inc.",
+                "current_price": 410.0,
+                "market_cap": "$14B",
+                "sector_industry": "Consumer Cyclical/Restaurants",
+                "high_low_52_week": {
+                    "high": 430.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "2M",
+                "recent_dividend": "$5.44 annual, increased"
+            },
+            "impact_theory": "Q4 earnings beat on sales/deals, dividend hike. Implications: resilient consumer spending. Psychology: value play in tough economy. Parallels: Chipotle post-menu price hikes. Analogies: pizza party during recession; comfort food surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Earnings beat estimates; premarket gains; positive X/analyst on promo strategy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% gains",
+                "short_position": "Short post-earnings fade -5%",
+                "key_risks": "Margin pressure, consumer slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Solid earnings with guidance."
+        }
+    ]
+}
