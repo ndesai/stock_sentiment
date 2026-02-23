@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TNDM",
+                "full_name": "Tandem Diabetes Care, Inc.",
+                "current_price": 26.84,
+                "market_cap": "$1.7B",
+                "sector_industry": "Healthcare/Medical Devices",
+                "high_low_52_week": {
+                    "high": 35.13,
+                    "low": 9.98
+                },
+                "pe_ratio": -12.5,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tandem Diabetes Care reported strong Q4 2025 results with revenue of $290M beating estimates by 5%, record gross margins, and positive guidance amid PayGo transition. Economically, it signals robust demand for insulin pumps in diabetes management, boosting sector confidence. Market psychology: Earnings beats spark short squeeze (stock up 45%). Historical parallel: Similar to Dexcom's post-earnings surges in 2023. Analogies: 1. Rocket igniting after fuel load (earnings as fuel). 2. Dam breaking, flooding with buys.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Q4 beat, analyst upgrades (Truist PT $27, Lake Street Buy $50), positive X sentiment absent but news dominant. Web searches confirm surge; expect momentum continuation despite broader market tariff fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% gains on momentum, target $32.",
+                "short_position": "Avoid short, high squeeze risk; potential 5% downside if guidance questioned.",
+                "key_risks": "Medtech competition, reimbursement changes, overall market downturn."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, massive move already, analyst support."
+        },
+        {
+            "details": {
+                "ticker": "RNG",
+                "full_name": "RingCentral, Inc.",
+                "current_price": 39.5,
+                "market_cap": "$4B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 20.59
+                },
+                "pe_ratio": 25.3,
+                "volume": "8M",
+                "recent_dividend": "$0.30 (first)"
+            },
+            "impact_theory": "RingCentral beat Q4 estimates, issued strong FY26 guidance, launched first dividend, AI attach rates growing with OpenAI partnership. Econ: Cloud comms resilient to tariffs. Psych: Re-rating from undervalued to growth story (up 34%). Historical: Like Zoom post-IPO rally. Analogies: 1. Phoenix rising from undervalued ashes. 2. Dividend dam breaking investor drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat, dividend initiation, Piper PT $37; X mentions positive on value. Tariff-safe US software."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $45-50, 15% upside.",
+                "short_position": "Short if overbought, 5-10% pullback.",
+                "key_risks": "Competition from MSFT/Zoom, execution on AI."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but broader tech tariff sensitivity."
+        },
+        {
+            "details": {
+                "ticker": "FROG",
+                "full_name": "JFrog Ltd.",
+                "current_price": 37.75,
+                "market_cap": "$1.2B",
+                "sector_industry": "Technology/Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 68.98,
+                    "low": 30.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "JFrog down 25% amid sector-wide AI selloff triggered by Anthropic's Claude Code impacting dev tools. Econ: AI disruption to software supply chain. Psych: Fear of obsolescence. Historical: Like Snowflake post-AI hype correction. Analogies: 1. Domino falling in AI chain reaction. 2. Ship sinking as AI iceberg hits.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "AI competition news, high volume selloff; analysts maintain Buy but PT cut (Stifel $52). Limited X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on oversold bounce, 10% to $42.",
+                "short_position": "Short for 15-20% to $30, momentum down.",
+                "key_risks": "Earnings beat rebound, broader tech recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector event, but company-specific strength possible."
+        },
+        {
+            "details": {
+                "ticker": "IBM",
+                "full_name": "International Business Machines Corporation",
+                "current_price": 245.63,
+                "market_cap": "$225B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 314.98,
+                    "low": 200.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "2.6M",
+                "recent_dividend": "$1.67"
+            },
+            "impact_theory": "Anthropic's Claude Code streamlines COBOL, threatening IBM's legacy modernization services (core revenue). Econ: Accelerates AI disruption in enterprise IT. Psych: Panic selling ($24B wiped), viral X buzz. Historical: Like Oracle hit by cloud shift. Analogies: 1. Dinosaur vs. meteor (AI). 2. Horse vs. automobile in legacy tech.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Direct competition news, 10% drop, heavy X negative sentiment (multiple posts on COBOL threat)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy at support $230, 10% rebound.",
+                "short_position": "Short targeting $220, 10-15% downside.",
+                "key_risks": "IBM Watson counter, tariff insulation as US firm."
+            },
+            "confidence_rating": "A",
+            "justification": "Viral news, high engagement on X, clear competitive threat."
+        },
+        {
+            "details": {
+                "ticker": "DPZ",
+                "full_name": "Domino's Pizza, Inc.",
+                "current_price": 395.0,
+                "market_cap": "$14B",
+                "sector_industry": "Consumer Cyclical/Restaurants",
+                "high_low_52_week": {
+                    "high": 460.0,
+                    "low": 350.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "1.5M",
+                "recent_dividend": "$1.99 (up 14%)"
+            },
+            "impact_theory": "Q4 revenue beat, EPS miss offset by 14% dividend hike, 3% comp growth guidance > est., 392 stores added. Econ: Resilient consumer spending. Psych: Dividend boost attracts income investors. Historical: Like McD post-div hikes. Analogies: 1. Pizza party after earnings feast. 2. Dividend engine revving growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Guidance beat, dividend news positive on X (Buffett holding noted), premarket +5% despite tariffs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to $430.",
+                "short_position": "Short if comp slows, 5% pullback.",
+                "key_risks": "Consumer slowdown, competition from delivery apps."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but earnings miss tempers enthusiasm."
+        }
+    ]
+}
