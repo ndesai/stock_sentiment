@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "RNG",
+                "full_name": "RingCentral, Inc.",
+                "current_price": 39.5,
+                "market_cap": "$3.8B",
+                "sector_industry": "Communication Services / UCaaS Software",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 25.1
+                },
+                "pe_ratio": 28.5,
+                "volume": "25M",
+                "recent_dividend": "Initiated $0.48 quarterly dividend"
+            },
+            "impact_theory": "RingCentral reported Q4 2025 earnings beating estimates with revenue up 4.8% YoY to $644M, subscription revenue +5.5%, ARR +7%. Launched first dividend and guided 2026 revenue growth 4-5%, FCF to $590M. Economic implications: resilient demand for cloud comms amid hybrid work. Market psych: relief rally after profitability turnaround, AI partnerships boost. Historical: similar to ZM post-pandemic recovery. Analogies: like a rubber band snapping back after overstretch; phoenix rising from debt restructuring ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Earnings beat and strong guidance sparked 34% surge; X sentiment positive on dividend/AI; web news highlights optimistic 2026 outlook overriding tariff fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains on continued execution, target $48",
+                "short_position": "Short risky, avoid; potential -5% pullback",
+                "key_risks": "Macro slowdown in SMB spending, competition from MSFT Teams."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, high volume confirmation, analyst PT upgrades."
+        },
+        {
+            "details": {
+                "ticker": "FROG",
+                "full_name": "JFrog Ltd.",
+                "current_price": 37.75,
+                "market_cap": "$3.9B",
+                "sector_industry": "Technology / Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 52.3,
+                    "low": 28.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Anthropic's Claude Code Security preview sparked fears AI agents disrupt traditional code repo/security tools; sector lost $15B. Econ: accelerates AI capex shift from legacy software. Psych: panic selling in devops. Historical: like Zoom fears from Teams AI. Analogies: horse-drawn carriage vs automobile; Blockbuster vs Netflix streaming.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-30%",
+                "reasoning": "X posts highlight AI disruption wave, Stifel PT cut but buy; web confirms 25% drop on sentiment, not fundamentals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for rebound +15% if AI fears overblown",
+                "short_position": "Short for -10% further, target $32",
+                "key_risks": "JFrog core binary repo unaffected per analysts, quick recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Sentiment-driven, analysts maintain buy but high volatility."
+        },
+        {
+            "details": {
+                "ticker": "DNOW",
+                "full_name": "DNOW Inc.",
+                "current_price": 13.23,
+                "market_cap": "$1.1B",
+                "sector_industry": "Industrials / Industrial Distribution",
+                "high_low_52_week": {
+                    "high": 17.5,
+                    "low": 10.2
+                },
+                "pe_ratio": 12.8,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings miss post-MRC Global merger: revenue miss, swung to loss on transaction/ERP costs; synergies ahead but integration hiccups. Econ: energy sector distribution softening. Psych: merger doubts. Historical: like post-merger WABCO. Analogies: bumpy road after wedding; indigestion from big meal.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-25%",
+                "reasoning": "Earnings reaction typical; limited X buzz but web emphasizes miss amid tariff uncertainty for industrials."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for value +25% recovery on synergies",
+                "short_position": "Short momentum fade -8%",
+                "key_risks": "Oil price volatility, further integration delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Fundamentals intact long-term, short-term pain."
+        },
+        {
+            "details": {
+                "ticker": "LGN",
+                "full_name": "Legence Corp.",
+                "current_price": 55.24,
+                "market_cap": "$7.2B",
+                "sector_industry": "Industrials / Engineering & Construction",
+                "high_low_52_week": {
+                    "high": 55.48,
+                    "low": 26.96
+                },
+                "pe_ratio": 35.1,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Stock hit new highs on Bowers acquisition, index inclusion, accelerating revenue; post-IPO momentum. Econ: infrastructure boom. Psych: FOMO buying. Historical: recent IPOs like DUOL. Analogies: snowball rolling downhill; rocket fuel ignition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Strategic deals drive growth narrative; web PT raises to $58."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum +18% to $65",
+                "short_position": "Short overbought pullback -12%",
+                "key_risks": "Secondary offering dilution, construction slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum play, recent IPO risks."
+        },
+        {
+            "details": {
+                "ticker": "CC",
+                "full_name": "The Chemours Company",
+                "current_price": 17.04,
+                "market_cap": "$2.5B",
+                "sector_industry": "Basic Materials / Specialty Chemicals",
+                "high_low_52_week": {
+                    "high": 33.0,
+                    "low": 17.04
+                },
+                "pe_ratio": 8.2,
+                "volume": "11M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Q4 earnings miss: met rev but EPS miss, APM segment -4% sales on volume drop, weaker demand. Econ: cyclical chemicals softening despite data center cooling tailwind. Psych: profit take after doubling. Historical: chemical firms post-demand peak. Analogies: deflating balloon; summer highs to winter lows.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-20%",
+                "reasoning": "Earnings weakness in key segment; tariff risks for chemicals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long value +30% rebound",
+                "short_position": "Short continuation -10%",
+                "key_risks": "AI data center demand surprise upside."
+            },
+            "confidence_rating": "B",
+            "justification": "Cyclical sector, earnings confirmed."
+        }
+    ]
+}
