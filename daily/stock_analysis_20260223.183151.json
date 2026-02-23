@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ACLX",
+                "full_name": "Arcellx, Inc.",
+                "current_price": 114.01,
+                "market_cap": "$6.5B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 115.0,
+                    "low": 50.0
+                },
+                "pe_ratio": -25.5,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Gilead Sciences announced a $7.8B acquisition of Arcellx at $115/share, sparking a massive repricing. Economically, it signals robust M&A appetite in biotech amid cancer therapy demand. Market psychology: euphoria over premium deal, FOMO buying. Historical parallels: similar surges in 2023 biotech takeovers like Seagen (Pfizer). Analogies: 1) Winning a jackpot - instant value unlock. 2) Wedding proposal - commitment boosts confidence.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Deal premium to $115, stock at 114, X sentiment positive on acquisition, web news confirms surge post-announcement, likely closes higher barring issues."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% gains to deal price, hold till close.",
+                "short_position": "Avoid short, deal risk low.",
+                "key_risks": "Deal break (regulatory), arbitrage unwind."
+            },
+            "confidence_rating": "A",
+            "justification": "Definitive agreement announced, massive premium, biotech M&A precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "TNDM",
+                "full_name": "Tandem Diabetes Care, Inc.",
+                "current_price": 26.84,
+                "market_cap": "$1.7B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 13.0
+                },
+                "pe_ratio": -10.2,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings beat with record margins, Lake Street upgrade to Buy PT$50. Economic: diabetes tech demand rises with obesity epidemic. Psychology: relief rally post-transition issues. Parallels: 2021 insulin pump surges. Analogies: 1) Engine upgrade - smoother ride ahead. 2) Report card A+ - validation sparks buying.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Earnings beat drove 44% surge, analyst upgrade reinforces, X chatter positive on momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $35-40 short-term, potential 30% upside.",
+                "short_position": "Short if fades below 24, -10% risk.",
+                "key_risks": "Earnings digestion selloff, competition in pumps."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong fundamentals, analyst support, high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "VNDA",
+                "full_name": "Vanda Pharmaceuticals Inc.",
+                "current_price": 8.57,
+                "market_cap": "$450M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 9.0,
+                    "low": 4.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive clinical/FDA buzz driving 49% gain. Economic: expands motion sickness market. Psychology: catalyst chase in small biotech. Parallels: prior FDA approvals. Analogies: 1) Green light at race - acceleration. 2) Viral TikTok - sudden attention.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Listed as top gainer, FDA/earnings tailwinds per scans, sentiment shift positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum continuation +20%.",
+                "short_position": "Short post-pump fade -15%.",
+                "key_risks": "Dilution fears, regulatory delays."
+            },
+            "confidence_rating": "B",
+            "justification": "High mover but less specific news vs ACLX."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 190.0,
+                "market_cap": "$45B",
+                "sector_industry": "Financials / Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin -2% drags crypto stocks amid tariff uncertainty. Economic: risk-off in speculative assets. Psychology: fear of trade wars hurting crypto adoption. Parallels: 2018 tariff crypto dip. Analogies: 1) Storm clouds over party. 2) Domino fall in chain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "BTC drop, X posts confirm crypto stocks down 3-4%, broader market tariff fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if BTC rebounds +10%.",
+                "short_position": "Short targeting $170, 10% downside.",
+                "key_risks": "BTC rebound, ETF inflows."
+            },
+            "confidence_rating": "B",
+            "justification": "Correlated to BTC, tariff indirect but sentiment hit."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 68.0,
+                "market_cap": "$22B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 80.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 8.5,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Northeast snowstorm causes 5k cancellations, tariffs add uncertainty. Economic: revenue hit from ops disruption, trade war fuel costs. Psychology: operational fear. Parallels: 2022 storm dips. Analogies: 1) Grounded planes. 2) Tariff toll booth slowdown.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Flight cancels news, airline stocks -4%, X/markets confirm volume spike down."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-storm recovery +8%.",
+                "short_position": "Short on continued weather/tariff, -10%.",
+                "key_risks": "Quick recovery, stimulus."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but temporary weather."
+        }
+    ]
+}
