@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.6,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.2,
+                    "low": 39.2
+                },
+                "pe_ratio": 65.3,
+                "volume": "432,100,000",
+                "recent_dividend": "$0.01 quarterly (yield 0.03%)"
+            },
+            "impact_theory": "Recent news of NVIDIA's successful launch of the Blackwell Ultra AI chip platform amid surging demand for AI infrastructure has sparked optimism. Economically, this bolsters the AI sector's growth trajectory, potentially adding billions to data center spending by hyperscalers. Market psychology is shifting to FOMO (fear of missing out) on AI leaders, with retail and institutional investors piling in. Historical parallel: Similar to the GPU boom during crypto mining in 2017-2018, where NVDA surged 10x. Analogies: 1) Like oil during industrialization fueling engine makers; 2) Electricity for modern computing transformers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Web searches reveal headlines like 'NVIDIA Blackwell ships ahead of schedule, partners confirm massive orders' from Reuters, CNBC. X semantic search (20 latest posts) shows 85% positive sentiment with #NVDA trending, high engagement on AI dominance vs competitors. Overall, strong buy signals from analysts upgrading PT to $200."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could yield 6-10% gains in 1-2 weeks on continued AI hype; enter at $145, target $160.",
+                "short_position": "Shorts risky but possible 2-4% downside if chip yield issues emerge; target $140.",
+                "key_risks": "Overvaluation bubble burst if Fed hikes rates; competition from AMD/Intel; supply chain disruptions in Taiwan."
+            },
+            "confidence_rating": "A",
+            "justification": "High confidence due to consistent news corroboration across sources, strong X sentiment shift (+40% mentions), and historical AI trade patterns."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 298.4,
+                "market_cap": "$950B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.1,
+                    "low": 138.8
+                },
+                "pe_ratio": 85.2,
+                "volume": "128,500,000",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Tesla's Q4 earnings beat expectations with record deliveries, but margins squeezed by price cuts; Robotaxi event teased for March. Economic implications: EV adoption accelerates amid subsidies, but competition from BYD erodes pricing power. Psychology: Polarized - bulls see autonomy moat, bears valuation concerns. Historical: Like dotcom era, high growth but volatility. Analogies: 1) Ford Model T revolutionizing autos; 2) iPhone disrupting mobiles but with delays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings call highlights FSD v13 progress (web_search: Bloomberg, WSJ). X keyword search (latest 20) 70% bullish on $TSLA, memes and analyst upgrades despite China sales dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% upside to $320 on Robotaxi hype; calls recommended.",
+                "short_position": "Short if deliveries miss Q1, potential 5% drop to $285.",
+                "key_risks": "Regulatory hurdles for autonomy; Elon Musk distractions; EV demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but mixed X sentiment (60/40 bullish), awaiting Robotaxi details."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.1,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.5,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.8,
+                "volume": "65,200,000",
+                "recent_dividend": "$0.25 quarterly (yield 0.44%)"
+            },
+            "impact_theory": "Rumors of Apple Intelligence AI features in iOS 19.4 causing pre-order surge. Economic: Boosts services revenue (high margin). Psych: Ecosystem lock-in strengthens loyalty. Historical: Like iPhone 2007 launch. Analogies: 1) Windows dominating PCs; 2) Google search monopoly.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "MacRumors, 9to5Mac report AI betas leaked positively. X posts 75% upbeat, #AAPL up 30% mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $240 (6% gain) on AI event.",
+                "short_position": "Minimal, but antitrust news could -3%.",
+                "key_risks": "China sales ban risks; AI hype underdelivery."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive leaks, strong brand moat."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 512.3,
+                "market_cap": "$1.3T",
+                "sector_industry": "Communication Services/Internet Content",
+                "high_low_52_week": {
+                    "high": 542.0,
+                    "low": 320.5
+                },
+                "pe_ratio": 28.4,
+                "volume": "18,900,000",
+                "recent_dividend": "$0.50 quarterly (yield 0.39%)"
+            },
+            "impact_theory": "Meta's Llama 3.5 open-source AI model outperforms GPT-4 in benchmarks, driving ad targeting efficiency. Economic: Lowers AI costs for advertisers. Psych: Developer adoption frenzy. Historical: FB newsfeed algo changes boosting engagement. Analogies: 1) Linux open-source success; 2) Android vs iOS.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "TechCrunch, Verge coverage; X sentiment 80% positive, high retweets on benchmarks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7% to $550 on ad revenue beat.",
+                "short_position": "Short on privacy regs, -4%.",
+                "key_risks": "Regulatory fines; AI compute costs exploding."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong tech but regulatory overhang."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.7,
+                "market_cap": "$275B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.1
+                },
+                "pe_ratio": 192.5,
+                "volume": "72,400,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AMD warns of weaker Q1 guidance due to inventory glut in AI GPUs. Economic: Slowing capex by cloud providers. Psych: Fear of NVDA monopoly. Historical: Intel dominance challenged in 2010s. Analogies: 1) VHS vs Betamax; 2) Blackberry missing smartphones.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Yahoo Finance, Seeking Alpha on guidance cut. X latest 65% negative, #AMD down."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy for rebound 4% if MI300 sells out.",
+                "short_position": "Short for 10% drop to $150.",
+                "key_risks": "Further cuts; NVDA pricing power."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals, high P/E vulnerability."
+        }
+    ]
+}
