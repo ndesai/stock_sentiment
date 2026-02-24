@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 225.5,
+                "market_cap": "$360B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 267.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "150M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Meta's announcement of a multi-year $60-100B AI chip deal with AMD for 6GW of Instinct GPUs starting H2 2026, including warrants for up to 160M shares (10% stake), signals hyperscalers diversifying from Nvidia monopoly. Economic implications: accelerates AI infra spend, boosts AMD revenue visibility. Market psychology: shifts sentiment from AI bubble fears to validation of multi-vendor ecosystem. Historical parallels: similar to AWS-AMD deals in cloud era. Analogies: like Intel losing to AMD in CPUs; underdog gaining traction in AI like challenger brands in EVs.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Deal provides massive backlog, X sentiment highly positive (e.g., +10-15% intraday), web news confirms stock surge. Counteracts recent AI selloff, with Wolfe Research noting sustained capex."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AMD for 10-20% gains on AI rotation, target $260.",
+                "short_position": "Short if NVDA retaliation or capex slowdown, potential 5-10% dip.",
+                "key_risks": "Execution delays, competition from NVDA, broader semi tariff impacts."
+            },
+            "confidence_rating": "A",
+            "justification": "Major deal with top hyperscaler, strong X buzz, aligns with AI capex trends."
+        },
+        {
+            "details": {
+                "ticker": "ACLX",
+                "full_name": "Arcellx, Inc.",
+                "current_price": 113.75,
+                "market_cap": "$6.5B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 115.0,
+                    "low": 45.0
+                },
+                "pe_ratio": -25.6,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Gilead acquisition at $115/share cash + $5 CVR (up to $7.8B total) for cancer therapy anito-cel. Implications: validates CAR-T tech, accelerates commercialization. Psychology: M&A premium sparks biotech rally. Parallels: similar buyouts like Seagen by Pfizer. Analogies: lottery win for shareholders; consolidator snapping up pipeline.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+70-80%",
+                "reasoning": "Acquisition news drove +77% surge, positive sentiment on web/Reuters, high volume confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for arb to $115-120, 5-10% upside.",
+                "short_position": "Avoid or short post-deal if CVR doubts.",
+                "key_risks": "Deal break, regulatory hurdles."
+            },
+            "confidence_rating": "A",
+            "justification": "Definitive agreement announced, typical M&A pop."
+        },
+        {
+            "details": {
+                "ticker": "KEYS",
+                "full_name": "Keysight Technologies, Inc.",
+                "current_price": 301.4,
+                "market_cap": "$45B",
+                "sector_industry": "Technology / Electronic Equipment",
+                "high_low_52_week": {
+                    "high": 305.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12M",
+                "recent_dividend": "$0.28 quarterly"
+            },
+            "impact_theory": "Q1 beat with record revenue, raised FY26 guidance on AI infrastructure test demand. Implications: AI buildout needs validation tools. Psychology: earnings relief amid tech rebound. Parallels: 2023 AI hype lift for test equip. Analogies: pit crew for AI race cars; quality check in chip factory boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-25%",
+                "reasoning": "Strong orders/AI demand, BofA upgrade, +24% move, positive news coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% gains to $350.",
+                "short_position": "Short on AI slowdown.",
+                "key_risks": "Capex cuts, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but tied to volatile AI capex."
+        },
+        {
+            "details": {
+                "ticker": "NVO",
+                "full_name": "Novo Nordisk A/S",
+                "current_price": 39.63,
+                "market_cap": "$450B",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "80M",
+                "recent_dividend": "$0.94 annual"
+            },
+            "impact_theory": "CagriSema obesity drug trial showed less weight loss than Lilly's tirzepatide, plus price cut warnings. Implications: erodes competitive moat in GLP-1, pressure on Ozempic/Wegovy pricing. Psychology: peak obesity fears realized. Parallels: 2024 trial misses. Analogies: challenger car underperforms Tesla; price wars in pharma.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-20%",
+                "reasoning": "-16% drop on trial data, analysts throwing in towel, X/web bearish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip if buyback supports.",
+                "short_position": "Short for 10-15% further decline.",
+                "key_risks": "Pipeline recovery, Lilly stumbles."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear trial disappointment, sales guidance cuts."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 195.2,
+                "market_cap": "$4.8T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 65.4,
+                "volume": "400M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AMD-Meta deal highlights diversification, Wolfe warns AI spend hype too high. Implications: pricing pressure, slower growth. Psychology: monopoly erosion fears amid selloff. Parallels: Cisco post-dotcom. Analogies: Coke facing Pepsi surge; king facing viable challenger.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-7%",
+                "reasoning": "Slight dip on deal news, X mentions pressure, broader AI angst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dominance.",
+                "short_position": "Short rotation to AMD, 10% downside.",
+                "key_risks": "Capex slowdown, tariffs."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect impact, NVDA still leader but sentiment shifting."
+        }
+    ]
+}
