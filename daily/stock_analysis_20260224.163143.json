@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "KEYS",
+                "full_name": "Keysight Technologies, Inc.",
+                "current_price": 172.45,
+                "market_cap": "$30.2B",
+                "sector_industry": "Technology/Electronic Equipment & Instruments",
+                "high_low_52_week": {
+                    "high": 185.6,
+                    "low": 118.4
+                },
+                "pe_ratio": 28.2,
+                "volume": "5,200,000",
+                "recent_dividend": "$0.28 (quarterly)"
+            },
+            "impact_theory": "Keysight reported Q1 2026 earnings with revenue of $1.60B (up 23% YoY) beating estimates, driven by AI data center infrastructure demand and next-gen connectivity testing. Economic implications include sustained AI capex cycle boosting test equipment makers. Market psychology shifts from AI disruption fears to infrastructure enablers. Historical parallel: 2020-2021 semis test firms like KEYS surged with chip boom. Analogies: 1) Fuel pump for AI engine - without precise testing, AI hardware fails; 2) Like quality control in auto manufacturing scaling with EV boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "Earnings beat largest in 6 quarters, raised FY guidance; X sentiment positive on AI pivot (posts highlight customer doubling); web news confirms 18% surge on AI validation amid market rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-20% gains to $195+ in 1-2 weeks on momentum.",
+                "short_position": "Short below $160 for -5-8% if tariff fears weigh on tech.",
+                "key_risks": "Macro tariff escalation hitting capex, overbought RSI, peer competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with AI tailwinds, high volume confirmation, analyst upgrades."
+        },
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 14.2,
+                "market_cap": "$3.1B",
+                "sector_industry": "Healthcare/Healthcare Plans",
+                "high_low_52_week": {
+                    "high": 72.0,
+                    "low": 13.5
+                },
+                "pe_ratio": 45.3,
+                "volume": "12,500,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 earnings beat but Q1 guidance $600-625M missed due to $65M regulatory hit from FDA/SEC probe on compounded GLP-1 drugs. Economic: Regulatory clampdown curtails high-margin telehealth growth. Psychology: Fear of fines/legal overhang erodes premium valuation. Parallels: 2022 telehealth stocks like TDOC plunged on reimbursement cuts. Analogies: 1) Speeding ticket for fast-growing car - growth intact but fines slow it; 2) Like Uber facing city regs in expansion phase.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Guidance miss + SEC disclosure triggered selloff; X mixed (some recovery talk but bearish on fundamentals); web emphasizes regulatory risk overshadowing long-term vision."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip to $12 for rebound if resolution, +15% to $16.",
+                "short_position": "Short for -10-15% to $12 on probe escalation.",
+                "key_risks": "Unexpected favorable FDA outcome, subscriber growth beats."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong volume on downside, but LT subscriber base resilient; probe details pending."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.75,
+                "market_cap": "$272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.2
+                },
+                "pe_ratio": 195.0,
+                "volume": "85,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AMD announced $60B AI chip deal with Meta over 5 years (ships H2 2026), plus warrants for 160M shares (~10% stake). Economic: Validates AMD as Nvidia alternative in AI GPU race. Psychology: Reduces Nvidia monopoly fears, boosts semis rebound. Parallels: 2023 MSFT-AMD cloud deal sparked rally. Analogies: 1) Backup quarterback proving value in playoffs; 2) Like Intel-Amazon in early cloud shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Multi-year mega-deal amid AI capex surge; X buzzing (top traded, Meta/OpenAI ownership); news hails as major validation post-Monday selloff."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $185 (+10%), momentum trade.",
+                "short_position": "Avoid, or below $155 for tariff pullback.",
+                "key_risks": "Nvidia earnings crush, tariff on imports, execution delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Hyperscaler commitment locks revenue, X/high engagement confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "VIR",
+                "full_name": "Vir Biotechnology, Inc.",
+                "current_price": 9.25,
+                "market_cap": "$1.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 9.88,
+                    "low": 5.1
+                },
+                "pe_ratio": -12.5,
+                "volume": "18,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Vir announced Astellas collaboration + positive Phase 1 prostate cancer data (14/17 responses). Economic: Biotech M&A wave in oncology. Psychology: Catalyst unlocks pipeline value post-COVID setbacks. Parallels: 2021 BIIB Alz data spikes. Analogies: 1) Hidden gem in biotech chest; 2) Like lottery ticket hitting jackpot on trial readout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+50%",
+                "reasoning": "Premarket +58%, new 52w high; X/analyst cheers (Needham PT $18); news on deal/data drives frenzy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +30% to $12 on momentum.",
+                "short_position": "Short post-spike for -20% fade.",
+                "key_risks": "Trial dilution, biotech volatility, partnership terms."
+            },
+            "confidence_rating": "B",
+            "justification": "Explosive move but biotech prone to reversals; data solid but early stage."
+        },
+        {
+            "details": {
+                "ticker": "CLVT",
+                "full_name": "Clarivate Plc",
+                "current_price": 2.25,
+                "market_cap": "$1.1B",
+                "sector_industry": "Technology/Software-Application",
+                "high_low_52_week": {
+                    "high": 7.5,
+                    "low": 2.0
+                },
+                "pe_ratio": -5.2,
+                "volume": "9,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 2025 earnings: beat on cash flow, debt reduction, exploring LS&H sale; AI investments. Economic: Data analytics steady amid tech rebound. Psychology: Relief on balance sheet fixes. Parallels: Post-spin restructurings like 2022. Analogies: 1) Cleaning garage before sale; 2) Like trimming fat for marathon run.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Gap up post-earnings; X sentiment on AI/data; news highlights improvement despite loss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $3 (+30%) on sale rumors.",
+                "short_position": "Short if no catalysts, -10%.",
+                "key_risks": "Sale delays, continued losses, market rotation."
+            },
+            "confidence_rating": "C",
+            "justification": "Modest beat, low float volatility, but weak fundamentals."
+        }
+    ]
+}
