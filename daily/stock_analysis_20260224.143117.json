@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "KEYS",
+                "full_name": "Keysight Technologies, Inc.",
+                "current_price": 279.13,
+                "market_cap": "$50B",
+                "sector_industry": "Technology/Electronic Equipment",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 32.5,
+                "volume": "5.2M",
+                "recent_dividend": "$0.28 quarterly"
+            },
+            "impact_theory": "Keysight reported blowout Q1 FY2026 earnings with 23% revenue growth driven by AI infrastructure testing demand, record orders up 30%, and raised FY2026 guidance to 20%+ growth. Economic implications: Validates sustained AI capex boom. Market psychology: Earnings beats in AI supply chain boost confidence amid broader AI angst. Historical parallels: Similar to 2023 AI rally for test/measure firms like KEYS post-NVDA surge. Analogies: Like a pit crew fueling F1 cars during a race (testing AI hardware); oil rig booming on shale discovery (AI data center buildout).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Strong earnings beat, AI tailwinds, positive X sentiment (posts highlight double beat, orders surge). Web news confirms premarket +15%. Sustained momentum expected."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% upside on AI ramp; target $340.",
+                "short_position": "Short if guidance cut post-earnings; potential 5-10% pullback.",
+                "key_risks": "Broader AI slowdown, competition from Teradyne, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, aligned news/X sentiment, strong historical reaction to beats."
+        },
+        {
+            "details": {
+                "ticker": "IBM",
+                "full_name": "International Business Machines Corporation",
+                "current_price": 223.39,
+                "market_cap": "$200B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 25.1,
+                "volume": "15M",
+                "recent_dividend": "$1.67 quarterly"
+            },
+            "impact_theory": "Anthropic launched AI tool for COBOL modernization, threatening IBM's legacy mainframe/consulting revenue (high-margin). Economic: Accelerates AI disruption to $10B+ legacy IT market. Psychology: Fear of moat erosion in AI era triggers panic selling. Parallels: Palantir/legacy software drops on genAI; IBM's 2022 inflation dip. Analogies: Like Kodak ignoring digital cameras; taxi cabs vs Uber.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "13% drop yesterday worst since 2000; X posts amplify AI threat fears. News widespread on disruption. Sentiment negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip if oversold; +15% rebound to $260.",
+                "short_position": "Short for further 10-20% decline amid AI rotation.",
+                "key_risks": "IBM pivots to AI successfully, tariff benefits as US firm."
+            },
+            "confidence_rating": "A",
+            "justification": "Dramatic single-event drop with high media/X coverage."
+        },
+        {
+            "details": {
+                "ticker": "HD",
+                "full_name": "The Home Depot, Inc.",
+                "current_price": 380.5,
+                "market_cap": "$380B",
+                "sector_industry": "Consumer Discretionary/Home Improvement",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 320.0
+                },
+                "pe_ratio": 26.2,
+                "volume": "4.1M",
+                "recent_dividend": "$2.33 quarterly (raised)"
+            },
+            "impact_theory": "Q4 earnings beat with comp sales +0.4% vs expected decline, raised dividend. Implications: Housing steady despite rates; pro customer demand. Psychology: Defensive retail win amid tariffs/AI volatility. Parallels: 2021 home improvement surge. Analogies: Like grocery stores in recession (essentials hold); ship steadying in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Beat estimates after misses; X positive on housing/mortgage drop. Premarket +2.7%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% gains on housing rebound.",
+                "short_position": "Short if recession hits DIY.",
+                "key_risks": "Higher rates, consumer slowdown, tariffs on imports."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but conservative guidance tempers enthusiasm."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 195.0,
+                "market_cap": "$310B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "80M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "META deal for 6GW AI compute (~$100B+), warrants up to 10% stake on milestones. Implications: Validates AMD as #2 AI GPU player. Psychology: Hyperscaler commitment crushes credibility doubts. Parallels: MSFT-OpenAI boosting NVDA. Analogies: Like Pepsi outselling Coke in new market; underdog boxer landing title shot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Massive deal news, X buzzing (15% jump), web confirms multi-year commitment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 30%+ to $250 on AI share gains.",
+                "short_position": "Short dilution fears; 10% drop.",
+                "key_risks": "Execution misses, NVDA dominance, warrants dilution."
+            },
+            "confidence_rating": "A",
+            "justification": "Hyperscale anchor deal rare, strong sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 520.0,
+                "market_cap": "$1.3T",
+                "sector_industry": "Communication Services/Interactive Media",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "20M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Part of AMD deal secures AI compute diversification vs NVDA reliance. Implications: Front-loading AI capex $100B+. Psychology: Strategic diversification positive, but warrants dilution minor. Parallels: AWS multi-cloud shift. Analogies: Airline hedging fuel (compute supply); diversifying supplier like Apple chips.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "AI buildout commitment; X focuses on AMD but META benefits. Minor dilution offset by scale."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AI capex narrative; +15%.",
+                "short_position": "Short if AI hype fades.",
+                "key_risks": "Capex ROI fails, regulatory scrutiny."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but secondary to AMD; mixed X focus."
+        }
+    ]
+}
