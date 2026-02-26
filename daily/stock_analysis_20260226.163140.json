@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 186.13,
+                "market_cap": "$4.75T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.19,
+                    "low": 86.62
+                },
+                "pe_ratio": 48.41,
+                "volume": "450,000,000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Nvidia reported blockbuster Q4 FY2026 earnings with $68.13B revenue beating $66B estimates and EPS $1.62 beat, but provided Q1 guide slightly above yet not blowout, amid AI bubble fears. Economic implications: Signals sustained AI demand but slowing growth rate raises valuation concerns. Market psychology: 'Sell the news' after hype, dragging semis. Historical: Similar to 2023 post-earnings dips before rallies. Analogies: Like a sprinter slowing after record pace (overhype fatigue); fireworks fizzling post-peak (expectation mismatch).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Despite beats, stock -5% on weak sentiment from X/web, chip peers down, bubble worries; X sentiment mixed but negative reaction dominant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 5-10% rebound if AI narrative holds, target $195.",
+                "short_position": "Short for 10% downside to $170 on rotation out of tech, +15% potential.",
+                "key_risks": "Unexpected AI demand surge, Fed cuts boost, China export relief."
+            },
+            "confidence_rating": "A",
+            "justification": "Major event, clear data from earnings/news, high volume shift."
+        },
+        {
+            "details": {
+                "ticker": "YOU",
+                "full_name": "Clear Secure, Inc.",
+                "current_price": 46.51,
+                "market_cap": "$4.52B",
+                "sector_industry": "Technology/Security Services",
+                "high_low_52_week": {
+                    "high": 46.63,
+                    "low": 21.52
+                },
+                "pe_ratio": 20.17,
+                "volume": "10,000,000",
+                "recent_dividend": "$0.15 + $0.20 special"
+            },
+            "impact_theory": "Q4 earnings EPS $0.31 beat $0.28, rev $240.8M beat, leading to +39% surge. Implications: Strong travel/security demand. Psychology: Undervalued beat sparks FOMO buying. Historical: Similar small-cap beats in travel post-COVID. Analogies: Rocket launch after quiet buildup; dam breaking on pent-up demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Earnings beat, new 52w high, positive analyst upgrades; limited X but web gainer lists confirm sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum play +15-25% to $55.",
+                "short_position": "Fade rally -10% if overbought.",
+                "key_risks": "Market pullback, economic slowdown hits travel."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong move but less news depth on why beat."
+        },
+        {
+            "details": {
+                "ticker": "AXON",
+                "full_name": "Axon Enterprise, Inc.",
+                "current_price": 520.18,
+                "market_cap": "$43.21B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 885.92,
+                    "low": 396.41
+                },
+                "pe_ratio": 171.59,
+                "volume": "4,400,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 rev $797M +39% YoY beat, FY26 guide 27-30% growth, bookings $7.4B +46%. Implications: AI/public safety tech boom. Psychology: Validates growth story. Historical: Post-earnings surges in defense tech. Analogies: Tsunami of orders; snowball accelerating downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Huge beat/guidance, +17% move, positive web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride to $600 +15%.",
+                "short_position": "Minimal, high PE.",
+                "key_risks": "Budget cuts, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, strong guidance."
+        },
+        {
+            "details": {
+                "ticker": "GDDY",
+                "full_name": "GoDaddy Inc.",
+                "current_price": 77.34,
+                "market_cap": "$11.60B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 193.55,
+                    "low": 73.06
+                },
+                "pe_ratio": 15.8,
+                "volume": "9,300,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 rev beat but FY26 guide miss, margin pressure. Implications: Slowing growth in domains/hosting. Psychology: Disappointment on AI lag. Historical: SaaS guidance misses tank stocks. Analogies: Balloon deflating; racehorse stumbling.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "Guidance short, PT cuts by analysts, -14% drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value buy at low PE +10% rebound.",
+                "short_position": "To $70 -10%.",
+                "key_risks": "AI pivot success."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct earnings reaction."
+        },
+        {
+            "details": {
+                "ticker": "IBRX",
+                "full_name": "ImmunityBio, Inc.",
+                "current_price": 9.54,
+                "market_cap": "$9.03B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.43,
+                    "low": 1.83
+                },
+                "pe_ratio": -24.47,
+                "volume": "80,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Profit-taking after trial milestone (ANKTIVA enrollment complete, 85% response), YTD +372%. Implications: Path to FDA 2026. Psychology: Overextension pullback. Historical: Biotech runs fade. Analogies: Rollercoaster dip; rubber band snapback.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "-17% on profit take despite positive news, high valuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for trial data +30%.",
+                "short_position": "Further dilution -20%.",
+                "key_risks": "Trial failure."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals, profit-taking vs fundamentals."
+        }
+    ]
+}
