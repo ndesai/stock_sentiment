@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "YOU",
+                "full_name": "Clear Secure, Inc.",
+                "current_price": 46.51,
+                "market_cap": "$5.2B",
+                "sector_industry": "Technology / Identity Verification",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 20.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12M",
+                "recent_dividend": "Announced new dividend, yield 0.5%"
+            },
+            "impact_theory": "Q4 earnings met estimates with revenue beat, strong growth in membership, analyst upgrade to $55 PT by Telsey. Economic: boosts confidence in travel/security sector recovery. Psychology: FOMO buying on new high. Historical: similar to post-earnings runs in tech like OKTA. Analogies: like a lock picking up steam in a secure vault; runner breaking tape at finish line.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings positive, new high, positive X sentiment sparse but promotional. Web news highlights gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% gains on continued momentum, target $55.",
+                "short_position": "Short risky, avoid due to uptrend.",
+                "key_risks": "Margin compression, market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, analyst support."
+        },
+        {
+            "details": {
+                "ticker": "CRCL",
+                "full_name": "Circle Internet Group",
+                "current_price": 83.14,
+                "market_cap": "$25B",
+                "sector_industry": "Financials / Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 90.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 profit surge on stablecoin USDC demand amid crypto boom. Economic: signals crypto adoption. Psychology: euphoria in crypto stocks. Historical: like COIN post-ETF. Analogies: stablecoin as steady ship in crypto storm; rocket fueled by digital gold.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Massive earnings beat, stock +35%, positive web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +25% to $100+.",
+                "short_position": "Short on overbought pullback -10%.",
+                "key_risks": "Regulatory risks in crypto, rate outlook PT cut."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings but crypto volatility."
+        },
+        {
+            "details": {
+                "ticker": "IBRX",
+                "full_name": "ImmunityBio, Inc.",
+                "current_price": 9.54,
+                "market_cap": "$6.1B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 3.0
+                },
+                "pe_ratio": -15.0,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Profit-taking after recent highs, despite positive trial enrollment for ANKTIVA. Economic: biotech funding tight. Psychology: fear after insider selling. Historical: biotech dips post-news like BNTX. Analogies: rollercoaster in clinical trials; boxer taking breather after punch.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "17% drop on profit taking, insider sell, X mixed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy +20% on trial news.",
+                "short_position": "Short for -15% continuation.",
+                "key_risks": "Positive clinical surprises."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals."
+        },
+        {
+            "details": {
+                "ticker": "LUNR",
+                "full_name": "Intuitive Machines, Inc.",
+                "current_price": 15.8,
+                "market_cap": "$1.2B",
+                "sector_industry": "Industrials / Aerospace",
+                "high_low_52_week": {
+                    "high": 25.0,
+                    "low": 4.0
+                },
+                "pe_ratio": -20.0,
+                "volume": "10M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "$175M equity raise at discount causes dilution fears. Economic: space sector capital intensive. Psychology: panic selling. Historical: like SPCE dilutions. Analogies: watering down shares like diluting soup; rocket launch with extra weight.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "Dilution announcement, 16% drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-dilution bottom +30%.",
+                "short_position": "Short momentum -20%.",
+                "key_risks": "Investment use for growth."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear dilution catalyst."
+        },
+        {
+            "details": {
+                "ticker": "CAVA",
+                "full_name": "CAVA Group, Inc.",
+                "current_price": 85.0,
+                "market_cap": "$10B",
+                "sector_industry": "Consumer Cyclical / Restaurants",
+                "high_low_52_week": {
+                    "high": 90.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 60.0,
+                "volume": "5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Mentioned as top gainer, likely earnings or expansion news. Economic: consumer spending resilient. Psychology: growth stock rally. Historical: like DPZ expansions. Analogies: fast-casual wave; Mediterranean diet trend.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Listed in gainers, sector strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10-15%.",
+                "short_position": "Avoid.",
+                "key_risks": "Economic slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific news."
+        }
+    ]
+}
