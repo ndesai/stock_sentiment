@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 186.0,
+                "market_cap": "3.8T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "450,000,000",
+                "recent_dividend": "$0.04 quarterly (yield 0.09%)"
+            },
+            "impact_theory": "NVIDIA reported record Q4 FY2026 revenue of $68.1B (beat est $66.2B), EPS $1.62 (beat $1.54), data center $62.3B up 75% YoY, Q1 guide $78B (beat $72B). Despite beats, stock fell 5% on profit-taking, concerns over AI hyperscaler capex sustainability (62% growth 2026 vs 73% 2025), first RPO QoQ decline in 3 years misinterpreted as bookings slowdown. Economic implications: AI demand robust but potential supply glut or capex peak in 2027. Market psychology: 'Sell the news' after massive runup, high expectations unmet even on beats. Historical parallels: Post-2023 earnings after AI hype peaks. Analogies: 1) Climber reaching summit too fast, pausing for breath; 2) Party where host serves feast but guests worry hangover.",
+            "news_impact_analysis": {
+                "outlook": "Bearish (short-term)",
+                "estimated_price_impact_pct": "-3%",
+                "reasoning": "X sentiment mixed (dip buyers vs capex doubts), web news highlights underwhelming reaction despite beats, dragging semis and Nasdaq; Goldman notes 'very good not good enough'."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound to $195 (+5%), AI story intact",
+                "short_position": "Short to $175 (-6%), if capex fears grow",
+                "key_risks": "Unexpected AI demand surge; broader market rally; options expiration volatility."
+            },
+            "confidence_rating": "A",
+            "justification": "Major event with clear data from earnings, X/news consensus on reaction drivers."
+        },
+        {
+            "details": {
+                "ticker": "FSLR",
+                "full_name": "First Solar, Inc.",
+                "current_price": 180.5,
+                "market_cap": "19.5B",
+                "sector_industry": "Technology / Solar",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "12,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FSLR Q4 earnings with weak 2026 sales guidance ~$1B below consensus, stock plunged 13.6%. Event: Guidance reflects softer demand or pricing pressures in solar amid policy uncertainty. Economic: Renewables slowdown vs EV boom; implications for clean energy transition costs. Psychology: Fear of margin compression, analyst downgrades (Baird Neutral $205, Wells $255). Parallels: 2020 solar glut selloff. Analogies: 1) Ship captain lowering sails before storm; 2) Runner slowing pace after strong start.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "News uniform on guidance miss, multiple PT cuts; X limited but aligns with sector weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization, +10% to $200 on policy tailwinds",
+                "short_position": "Short to $165 (-9%), extend decline",
+                "key_risks": "IRA policy boosts; China competition eases; Q1 surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear guidance trigger, but renewables volatile with policy."
+        },
+        {
+            "details": {
+                "ticker": "JAZZ",
+                "full_name": "Jazz Pharmaceuticals plc",
+                "current_price": 140.0,
+                "market_cap": "8.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 15.8,
+                "volume": "2,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "JAZZ Q4 2025 EPS $6.64 beat, FY rev in-line, oxybate franchise outlook positive; stock +13%. Event: Earnings beat resets expectations. Economic: Pharma growth amid patent cliffs. Psychology: Relief rally on stable guidance. Parallels: Post-2022 earnings surges. Analogies: 1) Patient recovering faster than expected; 2) Engine revving after tune-up.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "News positive on beat and outlook; X engagement high on gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $155 (+10%), pipeline catalysts",
+                "short_position": "Fade rally to $130 (-7%)",
+                "key_risks": "Regulatory hurdles; competition in narcolepsy."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings reaction, but biotech volatile."
+        },
+        {
+            "details": {
+                "ticker": "CRM",
+                "full_name": "Salesforce, Inc.",
+                "current_price": 285.0,
+                "market_cap": "275B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "8,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "CRM Q4 rev $11.2B beat, EPS beat 25%, but FY26 rev guide below est at $46B; $50B buyback announced. Mixed: Agentforce AI growth vs growth slowdown fears. Economic: Enterprise software shift to AI agents. Psychology: Buyback supportive but guide disappoints. Parallels: 2022 growth scare. Analogies: 1) Buffet buying back but slowing sales; 2) Athlete strong sprint but marathon pace down.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Beat but guide miss, controversial buyback; stock mixed but slid."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for AI Agentforce +8% to $310",
+                "short_position": "Short on growth fears -5% to $270",
+                "key_risks": "AI adoption accelerates; macro IT spend up."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed signals from earnings."
+        },
+        {
+            "details": {
+                "ticker": "MELI",
+                "full_name": "MercadoLibre, Inc.",
+                "current_price": 1790.0,
+                "market_cap": "91B",
+                "sector_industry": "Consumer Cyclical / E-commerce",
+                "high_low_52_week": {
+                    "high": 2000.0,
+                    "low": 1500.0
+                },
+                "pe_ratio": 65.3,
+                "volume": "1,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MELI Q4 beat rev but profit miss, margins pressured; stock -8%. Event: Execution strong but profitability concerns in LatAm e-comm/fintech. Economic: EM growth but FX/inflation headwinds. Psychology: Bulls see buy, bears margin fears. Parallels: 2022 Argentina crisis dips. Analogies: 1) Rocket with strong thrust but heavy fuel; 2) Growing tree in rocky soil.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Profit miss dominates headlines despite rev beat; Wedbush upgrade but slide."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long undervalued growth +12% to $2000",
+                "short_position": "Short margins to $1650 (-8%)",
+                "key_risks": "LatAm recovery; fintech acceleration."
+            },
+            "confidence_rating": "C",
+            "justification": "EM exposure adds volatility; less X buzz."
+        }
+    ]
+}
