@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "DELL",
+                "full_name": "Dell Technologies Inc.",
+                "current_price": 142.5,
+                "market_cap": "$102B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45M",
+                "recent_dividend": "$0.445 quarterly"
+            },
+            "impact_theory": "Dell reported blowout Q4 earnings with AI server revenue expected to double in FY27, navigating memory shortages successfully. This signals sustained AI infrastructure demand, boosting economic growth in tech sector. Market psychology shifts to optimism on AI hardware plays amid bubble fears elsewhere. Historical parallel: Similar to 2023 AI boom post-ChatGPT. Analogies: Like a dam bursting with pent-up AI orders; fueling the engine of hyperscaler expansions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Earnings beat expectations significantly; AI guidance surprised positively per analysts. X sentiment highly positive on premarket surge; web news unanimous on upside. Continued momentum expected into open."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 15-20% gains near-term on AI tailwinds; target $165.",
+                "short_position": "Avoid or short above $160 if memory costs spike unexpectedly.",
+                "key_risks": "Broader tech selloff, supply chain disruptions, competition from HPE/others."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings surprise, clear AI catalyst, high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "SQ",
+                "full_name": "Block, Inc.",
+                "current_price": 65.0,
+                "market_cap": "$40B",
+                "sector_industry": "Financials / Fintech",
+                "high_low_52_week": {
+                    "high": 90.0,
+                    "low": 50.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "22M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Block announced major workforce cuts (40%) and AI pivot, refocusing on core payments/AI integration. Improves margins amid slowing growth; positive for profitability. Psychology: Cost discipline in uncertain economy. Parallel: Layoff waves in 2022 led to rebounds. Analogies: Trimming fat for leaner sprint; phoenix rising via AI reinvention.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Premarket +20% on news; X buzz positive on restructuring. Web highlights efficiency gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% upside to $78 on execution.",
+                "short_position": "Short if execution falters post-layoffs.",
+                "key_risks": "Execution risk on AI pivot, crypto exposure volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but fintech volatility tempers highest confidence."
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler, Inc.",
+                "current_price": 167.0,
+                "market_cap": "$25B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 130.0
+                },
+                "pe_ratio": -45.0,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q2 earnings beat but stock sells off as guidance disappointed high expectations despite 26% growth. Investors pricing in tougher comps/slower cybersecurity demand. Psychology: Sell the news in growth stock rotation. Parallel: 2022 cybersecurity pullback. Analogies: Expectations like Icarus flying too high; peak too soon in cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Premarket -10%; analysts note need for more upside. X/web sentiment disappointed despite beat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip to $150 for rebound.",
+                "short_position": "Short for 12% downside to $145.",
+                "key_risks": "AI security tailwinds surprise positively."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but sentiment shift clear; watch for stabilization."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 184.7,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 70.2,
+                "volume": "320M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Beat earnings by $2B, guided higher but stock drops on AI bubble fears, OpenAI valuation, layoffs. Implications: AI capex peaking? Psychology: Profit-taking in mega-cap. Parallel: Dotcom 2000 unwind. Analogies: Balloon deflating after hype; whale surfacing after deep dive.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Continued slide post-earnings; X/web cite bubble, PPI inflation. Sentiment negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long below $175 for recovery.",
+                "short_position": "Short momentum to $170.",
+                "key_risks": "Any positive AI news reverses quickly."
+            },
+            "confidence_rating": "A",
+            "justification": "Broad AI fatigue confirmed by volume/price action."
+        },
+        {
+            "details": {
+                "ticker": "LOW",
+                "full_name": "Lowe's Companies, Inc.",
+                "current_price": 220.0,
+                "market_cap": "$125B",
+                "sector_industry": "Consumer Discretionary / Home Improvement",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "5M",
+                "recent_dividend": "$1.15 quarterly"
+            },
+            "impact_theory": "Q4 profit down but comps sales rise; FY26 flat to higher. Housing weakness but resilience shown. Psychology: Defensive amid macro slowdown. Parallel: Post-2008 home improvement stability. Analogies: Steady ship in stormy economy; patching roof before rain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Profit drop weighs; limited X buzz, web notes cautious outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for dividend yield/stability.",
+                "short_position": "Short on housing slowdown.",
+                "key_risks": "Rate cuts boost housing."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed earnings, less sentiment shift vs. tech."
+        }
+    ]
+}
