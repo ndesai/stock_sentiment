@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SQ",
+                "full_name": "Block, Inc.",
+                "current_price": 84.5,
+                "market_cap": "$52.3B",
+                "sector_industry": "Financials / Fintech & Payments",
+                "high_low_52_week": {
+                    "high": 95.2,
+                    "low": 55.4
+                },
+                "pe_ratio": 48.2,
+                "volume": "45.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Block announced Q4 earnings beat with raised 2026 guidance to $12.2B gross profit (+18% YoY), alongside 40% layoffs (4,000 jobs) attributed to AI-driven efficiency gains. Economic implications include accelerated AI adoption reducing labor costs but raising unemployment fears; market psychology shifts to rewarding cost-cutting over headcount growth. Historical parallels: 2022 tech layoffs amid rate hikes; analogies: like trimming fat from a bloated ship to sail faster (AI as trim), or a caterpillar shedding skin for butterfly efficiency.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Earnings beat and AI pivot outweighed layoff negativity; X sentiment positive on efficiency (posts highlight stock surge), web news confirms 16-24% premarket gains despite broader market PPI selloff."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long SQ targeting $95 (12% upside) on AI narrative strength; potential 15-25% gains if peers follow efficiency trend.",
+                "short_position": "Short software peers like ZS/TEAM vulnerable to AI fears; 10% downside.",
+                "key_risks": "Macro recession from AI layoffs eroding consumer spend; regulatory scrutiny on fintech AI use."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings + raised guidance + market reaction; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "DELL",
+                "full_name": "Dell Technologies Inc.",
+                "current_price": 142.3,
+                "market_cap": "$105B",
+                "sector_industry": "Technology / Servers & Storage",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 90.5
+                },
+                "pe_ratio": 28.5,
+                "volume": "32.1M",
+                "recent_dividend": "$0.37 quarterly"
+            },
+            "impact_theory": "DELL beat Q4 estimates ($33.38B rev +39% YoY), forecasts AI server revenue doubling FY27 to ~$50B amid memory shortages boosting pricing power. Implications: AI infrastructure boom sustains despite PPI inflation; psychology favors AI hardware winners. Parallels: Cisco during dot-com; analogies: fueling the AI rocket (servers as fuel), or building highways for data traffic surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+18%",
+                "reasoning": "AI demand exceeds expectations per news; positive analyst upgrades, strong premarket +11-19%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long DELL to $160 (12% gain) on AI backlog; 20%+ upside FY27.",
+                "short_position": "Avoid; minimal short opportunity.",
+                "key_risks": "Supply chain disruptions in memory chips; broader tech rotation on hot PPI."
+            },
+            "confidence_rating": "A",
+            "justification": "Blowout earnings and AI outlook directly tied to growth narrative."
+        },
+        {
+            "details": {
+                "ticker": "AAOI",
+                "full_name": "Applied Optoelectronics, Inc.",
+                "current_price": 82.1,
+                "market_cap": "$3.2B",
+                "sector_industry": "Technology / Optical Components",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 10.0
+                },
+                "pe_ratio": -15.3,
+                "volume": "18.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 EPS beat by 90%, targets >$1B rev 2026 on 800G/1.6T transceiver ramps for AI datacenters. Implications: Niche AI supply chain beneficiary; psychology of small-cap AI plays exploding. Parallels: 2023 optics surge; analogies: fiber optic nerves for AI brain, or accelerators in a race car.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+45%",
+                "reasoning": "Hyperscaler orders + AI ramp; news reports 40-50% surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long to $100 (22% gain); high volatility upside.",
+                "short_position": "Short on dilution risks post-rally.",
+                "key_risks": "High short interest; execution on production ramps."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalysts but smaller cap, higher volatility."
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler, Inc.",
+                "current_price": 167.0,
+                "market_cap": "$25.8B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 336.0,
+                    "low": 160.0
+                },
+                "pe_ratio": -120.5,
+                "volume": "12.3M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mixed Q4 results, PT cuts (Mizuho $250), Block AI layoffs stoke fears of software efficiency cuts. Implications: SaaS vulnerable to AI disruption; psychology panic in cybersecurity amid hot PPI. Parallels: 2022 SaaS rout; analogies: like antivirus obsolete vs new virus (AI), or horse carriages in auto age.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "Earnings reaction + analyst downgrades; ties to broader software AI fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if stabilizes $160 support.",
+                "short_position": "Short to $150 (10% gain) on AI disruption wave.",
+                "key_risks": "Cyber threats boost demand countering AI fears."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear downside momentum but potential rebound."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "$3.15T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVDA declines amid AI skepticism post-earnings, compounded by hot PPI signaling higher rates hurting growth multiples. Implications: Valuation reset in AI hype; psychology from euphoria to caution. Parallels: 2000 dot-com peak; analogies: like tulip mania cooling, or rocket fuel burn rate exceeding orbit.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "PPI hot reduces rate cut odds; news highlights NVDA drag on Nasdaq, AI volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips for AI long-term.",
+                "short_position": "Short targeting $120 (7% gain) amid rotation.",
+                "key_risks": "Unexpected AI demand beats; China sales rebound."
+            },
+            "confidence_rating": "C",
+            "justification": "Macro headwinds strong but NVDA resilient historically."
+        }
+    ]
+}
