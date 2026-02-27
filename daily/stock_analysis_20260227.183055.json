@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "DELL",
+                "full_name": "Dell Technologies Inc.",
+                "current_price": 147.01,
+                "market_cap": "$105B",
+                "sector_industry": "Technology / Servers & Storage",
+                "high_low_52_week": {
+                    "high": 180.45,
+                    "low": 95.2
+                },
+                "pe_ratio": 28.5,
+                "volume": "45,200,000",
+                "recent_dividend": "$0.37 quarterly"
+            },
+            "impact_theory": "Dell reported blowout Q4 earnings with AI server revenue surging due to high demand, forecasting doubling of AI server sales in FY27. Economic implications include sustained AI infrastructure spend boosting tech growth amid inflation worries. Market psych: Reinforces AI hype despite broader selloff. Historical parallels: Similar to 2023 AI boom stocks like NVDA post-earnings rallies. Analogies: Like a dam breaking with pent-up AI demand flooding in; or rocket fuel igniting after a slow burn.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat, strong guidance on AI servers amid sector rotation from semis to systems integrators. X sentiment positive on AI tailwinds, web news highlights 20% surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 10-15% gains on continued AI momentum, target $160-165.",
+                "short_position": "Avoid or short on PPI pullback, potential 5% dip to $140.",
+                "key_risks": "Broader market selloff on inflation, competition from HPE/others, supply chain memory costs."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with strong volume and premarket leadership."
+        },
+        {
+            "details": {
+                "ticker": "SQ",
+                "full_name": "Block Inc.",
+                "current_price": 92.5,
+                "market_cap": "$55B",
+                "sector_industry": "Financials / Payments Technology",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 50.1
+                },
+                "pe_ratio": -45.2,
+                "volume": "32,100,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Block announced 40% workforce cuts (4k jobs) citing AI efficiencies, alongside Q4 beat and raised 2026 guidance. Implications: Cost savings boost margins in fintech amid economic slowdown fears. Psych: Investors reward aggressive restructuring. Parallels: Similar to Meta 2022 layoffs sparking rally. Analogies: Trimming fat for leaner runner; phoenix rising from AI ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Layoffs signal profitability focus, stock up 16-20% on news. Positive analyst reactions, X buzz on AI pivot despite market down."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12-18% upside to $105-110 on margin expansion.",
+                "short_position": "Short if execution falters, 8% drop to $85.",
+                "key_risks": "Regulatory scrutiny on fintech, consumer spending slowdown, AI hype fade."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong post-earnings reaction with raised guidance."
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler Inc.",
+                "current_price": 143.19,
+                "market_cap": "$22B",
+                "sector_industry": "Technology / Cybersecurity Software",
+                "high_low_52_week": {
+                    "high": 259.0,
+                    "low": 107.8
+                },
+                "pe_ratio": 185.3,
+                "volume": "18,500,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "ZS beat Q2 earnings but guided conservatively on ARR growth slowdown. Implications: Signals maturing cybersecurity demand amid budget scrutiny. Psych: High expectations unmet trigger selloff. Parallels: Crowdstrike post-outage 2024 drop. Analogies: Balloon deflating after overinflation; speed bump on highway to growth.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Down 14% despite beat due to guidance miss vs expectations. X and news highlight growth concerns in high-valuation software."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound to $160 (10% gain) if sector stabilizes.",
+                "short_position": "Short for 15-20% to $120 on continued rotation out of SaaS.",
+                "key_risks": "Earnings reaction overdone, cyber threats spike demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but guidance disappointment in volatile software space."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 180.47,
+                "market_cap": "$4.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 108.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "512,000,000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVDA beat Q4 by $2B but stock sold off on AI bubble fears, Burry warnings, high purchase obligations. Implications: Questions sustainability of AI capex. Psych: Profit-taking after mega-rally. Parallels: Cisco dot-com peak 2000. Analogies: Icarus flying too close to sun; dam cracking under pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Post-earnings drop 5.5%, dragging Nasdaq amid PPI hot data. X heavy put flow, sentiment shift on overvaluation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long pullback to $195 (8% gain) on AI reaffirm.",
+                "short_position": "Short to $165 (8-10% loss) on bubble burst.",
+                "key_risks": "Continued AI demand surprise upside, Blackwell ramp."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but market pricing in risks, high conviction bearish psych."
+        },
+        {
+            "details": {
+                "ticker": "CRWV",
+                "full_name": "CoreWeave Inc.",
+                "current_price": 86.52,
+                "market_cap": "$50B",
+                "sector_industry": "Technology / AI Cloud Computing",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 65.0
+                },
+                "pe_ratio": -120.5,
+                "volume": "22,300,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "CRWV Q4 revenue beat but huge capex doubling to $30-35B sparked margin fears, larger loss. Implications: Aggressive AI infra build vs profitability. Psych: Investors wary of burn rate. Parallels: Early cloud hyperscalers like AMZN AWS phase. Analogies: Betting farm on gold rush; sprinting before learning to walk.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12-18%",
+                "reasoning": "Shares down 16% on capex concerns despite growth. News/X focus on debt/spending risks in AI space."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% to $100 on AI demand validation.",
+                "short_position": "Short for 20% to $70 on dilution fears.",
+                "key_risks": "Capex pays off with hyperscaler contracts."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed results, newer IPO with high volatility."
+        }
+    ]
+}
