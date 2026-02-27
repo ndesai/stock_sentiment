@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 90.86,
+                "market_cap": "$362B",
+                "sector_industry": "Communication Services/Interactive Media",
+                "high_low_52_week": {
+                    "high": 134.12,
+                    "low": 75.01
+                },
+                "pe_ratio": 33.43,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Netflix drops out of bidding war for Warner Bros. Discovery after Paramount's superior $31/share offer, securing a $2.8B breakup fee. Economic implications: frees up capital for buybacks and $20B content spend, avoiding integration risks/debt. Market psychology: relief rally as investors feared dilution/deal risks; FOMO on cash-rich position. Historical parallels: AOL-Time Warner merger disaster. Analogies: dodging a sinking ship to sail solo; like breaking off a bad date with a hefty consolation prize.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment highly positive with posts celebrating fee and competitive edge vs PARA/WBD; premarket +7%, web news highlights capital discipline. Strong volume and breakout above key resistance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls or shares for 10-15% upside on momentum/fee deployment; target $100.",
+                "short_position": "Avoid; momentum too strong.",
+                "key_risks": "Hot PPI data pressures growth stocks; renewed M&A interest."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with positive X/news alignment, historical relief rallies post-deal breaks."
+        },
+        {
+            "details": {
+                "ticker": "SQ",
+                "full_name": "Block, Inc.",
+                "current_price": 65.08,
+                "market_cap": "$40B",
+                "sector_industry": "Financials/Fintech",
+                "high_low_52_week": {
+                    "high": 99.26,
+                    "low": 55.0
+                },
+                "pe_ratio": 25.97,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Jack Dorsey announces 40% layoffs (4K jobs) citing AI tools enabling smaller teams/higher output (+40% engineer productivity). Economic: massive cost savings boost margins amid rising profits. Psych: validates AI as efficiency driver, precedent for tech. Parallels: Twitter 80% cuts post-Musk. Analogies: upgrading from horse-drawn cart to engine; pruning tree for better fruit.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Stock +19% premarket; X buzzing positively on AI trend/Dorsey boldness, despite some backlash; earnings beat with raised guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20%+ on AI narrative; target $80.",
+                "short_position": "Short puts for income.",
+                "key_risks": "Execution risks, employee morale, regulatory scrutiny on layoffs."
+            },
+            "confidence_rating": "A",
+            "justification": "Market rewarding cost discipline; strong X engagement."
+        },
+        {
+            "details": {
+                "ticker": "WBD",
+                "full_name": "Warner Bros. Discovery, Inc.",
+                "current_price": 28.8,
+                "market_cap": "$71B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 30.0,
+                    "low": 7.52
+                },
+                "pe_ratio": 152.1,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Paramount wins with enhanced $30-31/share all-cash offer (superior to Netflix); deal expected Q4 2026. Econ: synergies in content/streaming, deleveraging. Psych: premium validates value, end to uncertainty. Parallels: AT&T-Time Warner. Analogies: merging two studios like Avengers team-up; selling undervalued gem.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Trading near $31 bid; positive X mentions in PARA context; regulatory progress noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Arbitrage long to $31; 8% gain.",
+                "short_position": "Avoid pre-close.",
+                "key_risks": "Deal break, antitrust blocks."
+            },
+            "confidence_rating": "B",
+            "justification": "Premium offer but regulatory hurdles."
+        },
+        {
+            "details": {
+                "ticker": "PARA",
+                "full_name": "Paramount Global",
+                "current_price": 15.0,
+                "market_cap": "$10B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 13.59,
+                    "low": 9.78
+                },
+                "pe_ratio": -39.82,
+                "volume": "12M",
+                "recent_dividend": "1.21%"
+            },
+            "impact_theory": "Paramount Skydance clinches WBD after Netflix bows out. Econ: massive content bolt-on, scale vs streamers. Psych: victory rally, strategic win. Parallels: Viacom-CBS merger. Analogies: winning auction for prized art; consolidating fragmented media.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Bidding war win; X posts highlight triumph; staff concerns but market focuses upside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on deal momentum; target $20.",
+                "short_position": "N/A",
+                "key_risks": "Integration issues, debt load."
+            },
+            "confidence_rating": "B",
+            "justification": "High upside but execution risks."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 184.89,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.19,
+                    "low": 86.62
+                },
+                "pe_ratio": 37.72,
+                "volume": "High",
+                "recent_dividend": "0.02%"
+            },
+            "impact_theory": "Q4/FY2026 beat ($215B rev +65%), but sinks 5% on AI capex sustainability fears, high purchase obligations ($95B). Econ: growth intact but ROI questions. Psych: profit-taking after run-up. Parallels: 2022 chip downturn. Analogies: balloon deflating post-peak; feast to famine cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "X concerns on capex/FCF; tech selloff leader despite beat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if holds support.",
+                "short_position": "Short to $170; 10% downside.",
+                "key_risks": "AI demand rebound, PPI inflation."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed: beat but forward concerns."
+        }
+    ]
+}
