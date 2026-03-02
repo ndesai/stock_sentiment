@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 116.5,
+                "market_cap": "$170B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 128.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "8.2M",
+                "recent_dividend": "$0.59 (Q1 2026)"
+            },
+            "impact_theory": "U.S. and Israeli strikes on Iran have escalated Middle East tensions, boosting demand for defense equipment. Economic implications include potential increases in military spending; market psychology shows flight to safety in defense amid broad sell-off. Historical parallels: 2022 Russia-Ukraine invasion rallied defense stocks 20-30%. Analogies: Like betting on firefighters during a wildfire surge; or oil rigs during a hurricane warning.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Oil surge 13% and defense rally confirmed by CNBC, WSJ; X posts show positive sentiment on RTX amid Iran conflict (x_semantic_search). Premarket +6.41% (Benzinga)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long RTX for 10% gains in 1-2 weeks on sustained tensions",
+                "short_position": "Short if quick de-escalation, potential 5% pullback",
+                "key_risks": "Diplomatic resolution reduces demand; broader market crash drags sector."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus across news and X on defense surge from verified geopolitical event."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 56.35,
+                "market_cap": "$50B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "12.5M",
+                "recent_dividend": "$0.22 (Q4 2025)"
+            },
+            "impact_theory": "Iran conflict threatens oil supply via Strait of Hormuz, spiking prices 13%. Implications: higher energy revenues, inflation fears. Psychology: risk premium on commodities. Parallels: 2019 Iran tanker attacks +10% oil. Analogies: Like umbrellas selling out before rain; or salt during a snowstorm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Premarket +6.65% (Facebook/Benzinga), WSJ oil jump; X mentions with $XOM $OXY on Hormuz threats."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long OXY targeting 10% upside short-term",
+                "short_position": "Avoid or short on supply glut post-tensions",
+                "key_risks": "Iran bluff or quick ceasefire caps oil rally; recession hurts demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to oil supply disruption, historical precedents strong."
+        },
+        {
+            "details": {
+                "ticker": "APA",
+                "full_name": "APA Corporation",
+                "current_price": 32.66,
+                "market_cap": "$12B",
+                "sector_industry": "Energy / Oil & Gas Exploration",
+                "high_low_52_week": {
+                    "high": 38.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 8.7,
+                "volume": "15M",
+                "recent_dividend": "$0.25 (Q1 2026)"
+            },
+            "impact_theory": "Geopolitical risk from Iran strikes lifts crude prices, benefiting upstream producers. Implications: improved margins. Psychology: momentum trading into energy. Parallels: Gulf War 1990 oil spike. Analogies: Fishing boats thriving in rough seas; vineyards during frost alerts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-18%",
+                "reasoning": "Top premarket gainer +8.03%/+7.54% (Investing.com, Benzinga); web searches confirm oil surge impact."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% gains if oil >$80",
+                "short_position": "Short on de-escalation -8%",
+                "key_risks": "Overleveraged balance sheet vulnerable to price reversal."
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility in small-cap energy, but clear catalyst."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 17.2,
+                "market_cap": "$7.5B",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 27.0,
+                    "low": 16.5
+                },
+                "pe_ratio": -12.5,
+                "volume": "9.8M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Rising oil prices from Iran conflict increase fuel costs for cruise operators, squeezing margins. Implications: higher fares or losses. Psychology: risk-off in travel. Parallels: 2022 Ukraine war hit airlines/cruises. Analogies: Cars guzzling gas in traffic jam; airlines during fuel crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-15%",
+                "reasoning": "Premarket -7.91% (Benzinga), X posts on cruise lines down due to fuel; earnings soft guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip if tensions ease +10%",
+                "short_position": "Short for 12% downside on prolonged oil high",
+                "key_risks": "Demand resilience or hedging mitigates; positive earnings surprise."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear cost pressure from oil, confirmed movers."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 505.0,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 20.8,
+                "volume": "2.1M",
+                "recent_dividend": "$3.15 (Q1 2026)"
+            },
+            "impact_theory": "Escalating Iran conflict drives defense budget hikes, F-35 demand. Implications: backlog growth. Psychology: safe haven play. Parallels: Post-9/11 defense boom. Analogies: Armor sales during battle rumors; lifeboats on sinking ship hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "S&P top movers, X semantic on defense rally Iran (Threads, MarketWatch); up ~2.5% intraday."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 8% on contracts",
+                "short_position": "Minimal, unless peace deal",
+                "key_risks": "Budget cuts if war avoided; competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent mentions in news/X as beneficiary."
+        }
+    ]
+}
