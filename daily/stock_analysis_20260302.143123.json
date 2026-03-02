@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "APA",
+                "full_name": "APA Corporation",
+                "current_price": 32.45,
+                "market_cap": "$11.5B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 35.2,
+                    "low": 24.8
+                },
+                "pe_ratio": 9.8,
+                "volume": "6.2M",
+                "recent_dividend": "$0.25 quarterly (yield 3.1%)"
+            },
+            "impact_theory": "US and Israel strikes on Iran have escalated Middle East tensions, driving oil prices to $80+ per barrel amid fears of supply disruptions in the Strait of Hormuz. This boosts APA's exploration and production revenues as higher crude prices improve margins. Market psychology shifts to risk-off, favoring energy over growth stocks. Historical parallel: 2022 Russia-Ukraine war saw oil spike 50%+, lifting E&P stocks 20-40%. Analogies: 1) Like a dam bursting, oil supply fears flood energy profits. 2) Betting on fire insurance during a wildfire season.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Oil surge directly benefits APA as Brent up 13% overnight; premarket +8%; X sentiment positive on energy amid conflict; web news highlights energy gainers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long APA for 10-15% gains if oil >$90; target $36-38.",
+                "short_position": "Avoid or short if de-escalation, potential -5% drop.",
+                "key_risks": "Rapid de-escalation or ceasefire caps oil rally; broader recession from high energy prices hurts demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear causal link from news to sector tailwinds, strong premarket move, historical precedents."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 61.2,
+                "market_cap": "$54.2B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 68.5,
+                    "low": 48.9
+                },
+                "pe_ratio": 14.2,
+                "volume": "12.1M",
+                "recent_dividend": "$0.22 quarterly (yield 1.4%)"
+            },
+            "impact_theory": "Iran conflict escalates oil to multi-month highs, enhancing OXY's profitability in Permian Basin ops. Investors flock to safe energy plays amid geopolitical risk. Parallels 2019 Iran tanker attacks (oil +10%). Analogies: 1) Oil majors as lifeboats in a stormy sea of equities. 2) Like wheat prices during drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Premarket +6.65%; X posts on oil crisis; news confirms energy surge as airlines sink."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long OXY +12% to $68 if sustained oil rally.",
+                "short_position": "Short on peace talks, -4-7% loss.",
+                "key_risks": "OPEC+ increase supply; US SPR release."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with oil price action and company fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 119.8,
+                "market_cap": "$160B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 128.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 24.5,
+                "volume": "8.5M",
+                "recent_dividend": "$0.59 quarterly (yield 2.0%)"
+            },
+            "impact_theory": "Heightened conflict boosts defense spending; RTX missiles/systems in demand for US/Israel. Psych: Flight to defensible assets. Parallels: Post-10/7/2023 Hamas attack, defense up 15%. Analogies: 1) Arms makers profit from 'broken window' wars. 2) Like umbrella sales in rain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Premarket +6.41%; news on war escalation favors RTX; X mentions defense plays."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long RTX +8-12% amid prolonged conflict.",
+                "short_position": "Short if quick resolution, -3%.",
+                "key_risks": "De-escalation reduces orders; budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but defense less direct than energy to oil."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 21.95,
+                "market_cap": "$9.8B",
+                "sector_industry": "Consumer Cyclical / Leisure - Cruises",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 16.2
+                },
+                "pe_ratio": 16.4,
+                "volume": "4.8M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Oil spike raises fuel costs 20-30% for cruises, squeezing margins; risk-off hits discretionary travel. Parallels: 2022 oil rally saw cruise stocks -25%. Analogies: 1) Airlines/cruises as canaries in fuel-cost coal mine. 2) Party boats in a fuel shortage.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-15%",
+                "reasoning": "Premarket -7.91%; news on airlines/cruises sinking; X bearish on travel amid war."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy if oil peaks.",
+                "short_position": "Short NCLH -10-15% to $19.",
+                "key_risks": "Fuel hedges mitigate; demand rebound."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct exposure to fuel costs and sentiment."
+        },
+        {
+            "details": {
+                "ticker": "CCL",
+                "full_name": "Carnival Corporation & plc",
+                "current_price": 18.42,
+                "market_cap": "$25.1B",
+                "sector_industry": "Consumer Cyclical / Leisure - Cruises",
+                "high_low_52_week": {
+                    "high": 24.0,
+                    "low": 13.5
+                },
+                "pe_ratio": 15.2,
+                "volume": "15.2M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Rising oil erodes CCL's thin margins (fuel ~20% costs); conflict deters bookings. Psych: Avoid vacation stocks in war. Parallels: Gulf War 1990 cruise slump. Analogies: 1) Cruise ships grounded by high gas. 2) Luxury yachts in oil embargo.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7-12%",
+                "reasoning": "Premarket -6.97%; grouped with losers in news; sentiment shift on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long only post-dip if de-escalate.",
+                "short_position": "Short CCL -12% to $16.",
+                "key_risks": "Strong balance sheet recovery; hedging."
+            },
+            "confidence_rating": "A",
+            "justification": "Premarket data and sector news alignment."
+        }
+    ]
+}
