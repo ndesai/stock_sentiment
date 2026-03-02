@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "VG",
+                "full_name": "Venture Global, Inc.",
+                "current_price": 11.83,
+                "market_cap": "$23.75B",
+                "sector_industry": "Energy / LNG",
+                "high_low_52_week": {
+                    "high": 19.5,
+                    "low": 5.72
+                },
+                "pe_ratio": 11.39,
+                "volume": "11,374,890",
+                "recent_dividend": "$0.07 (0.70%)"
+            },
+            "impact_theory": "Venture Global reported strong Q4 earnings with core profit nearly tripling due to higher LNG sales, coinciding with oil surge from US-Israel strikes on Iran disrupting Middle East supply. Economic implications: higher global energy demand boosts LNG exporters. Market psychology: fear-driven buying in energy amid geopolitical tensions. Historical parallels: 2022 Russia-Ukraine war LNG boom. Analogies: like a dam bursting flooding demand for alternatives; rocket fuel for LNG amid pipeline fears.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Earnings beat Zacks estimate ($0.41 vs $0.35), shares +22% on volume; X sentiment positive on energy, web news highlights profit surge and LNG readiness as Qatar halts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains on sustained oil >$80, target $14.",
+                "short_position": "Short if de-escalation, potential -10% loss.",
+                "key_risks": "Earnings guidance below expectations for 2026, oil price reversal if SPR release."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings + macro tailwind, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 124.5,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "35M",
+                "recent_dividend": "$3.80 annual (3.05%)"
+            },
+            "impact_theory": "US-Israel strikes on Iran caused oil to surge 8% to $73+, boosting integrated majors. Implications: higher refining margins, production profits. Psychology: risk premium on supply fears. Parallels: 1991 Gulf War oil spike +20%. Analogies: tailwind for supertanker profits; bonfire under energy stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Premarket +4.5%, X posts highlight retail buying, news on oil jump to $80 potential; positive sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting +8% to $135, high conviction.",
+                "short_position": "Avoid or short post-spike -5%.",
+                "key_risks": "De-escalation, US SPR release flooding supply."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro driver but volatile geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 525.0,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 20.2,
+                "volume": "2.5M",
+                "recent_dividend": "$12.60 annual (2.4%)"
+            },
+            "impact_theory": "Geopolitical escalation increases defense spending, missile intercepts boost orders. Implications: backlog growth, govt contracts. Psychology: safe haven in uncertainty. Parallels: Post-9/11 defense rally. Analogies: sharpening swords before battle; insurance policy premium spike.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Premarket +4.9%, X buzz on re-orders for interceptors, news on war fears gripping markets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +7% gains amid prolonged conflict.",
+                "short_position": "Minimal, -3% if quick resolution.",
+                "key_risks": "Diplomatic de-escalation reducing urgency."
+            },
+            "confidence_rating": "A",
+            "justification": "Historical precedent strong, X sentiment bullish."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 68.5,
+                "market_cap": "$22B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 80.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 8.1,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Oil surge raises jet fuel costs 20-30%, squeezing margins. Implications: higher fares, reduced travel. Psychology: fear of inflation/travel curbs. Parallels: 2014 oil spike airline rout. Analogies: pouring gasoline on cost fires; anchors dragging profit ships.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-12%",
+                "reasoning": "Premarket -6%, X and news on airlines sliding, war fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, or long bounce +5%.",
+                "short_position": "Short for -10% to $60.",
+                "key_risks": "Fuel hedging protects, demand resilience."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct oil exposure, but airlines resilient historically."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "400M",
+                "recent_dividend": "$0.16 annual (0.1%)"
+            },
+            "impact_theory": "Risk-off rotation from tech amid broader market selloff on Iran news. Implications: delayed capex in uncertainty. Psychology: flight to value/energy. Parallels: 2022 rate hike tech drop. Analogies: tech as fair-weather friend fleeing storm; herd fleeing fireworks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-5%",
+                "reasoning": "Nasdaq down, X options flow mixed but futures -1%, news on tech dive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip +5-10% rebound.",
+                "short_position": "Short to $130, -5%.",
+                "key_risks": "AI demand overrides macro, quick recovery."
+            },
+            "confidence_rating": "C",
+            "justification": "Geopolitical secondary to AI narrative, sentiment volatile."
+        }
+    ]
+}
