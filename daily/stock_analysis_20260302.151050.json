@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "APA",
+                "full_name": "APA Corporation",
+                "current_price": 28.5,
+                "market_cap": "$10.9B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 35.2,
+                    "low": 18.5
+                },
+                "pe_ratio": 12.5,
+                "volume": "12.3M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "US and Israel strikes on Iran escalated Middle East tensions, causing oil prices to surge ~10% amid fears of supply disruptions through Strait of Hormuz. Economic implications include higher global energy costs, potential inflation spike, and boosted profits for US oil producers. Market psychology shifts to risk-off for broad market but bullish for energy sector as safe haven play. Historical parallels: 2022 Russia-Ukraine invasion oil spike (+30%). Analogies: 1. Like 1990 Gulf War where oil doubled in weeks. 2. Ship in a storm - energy stocks as anchors holding firm while others capsize.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-12%",
+                "reasoning": "Oil surge directly benefits APA's production costs and revenues; premarket +8%; X sentiment positive on energy amid Iran news; web searches confirm sector leadership in gainers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long APA targeting $32-35 (12-20% upside) on sustained oil >$80/bbl.",
+                "short_position": "Avoid or minimal; momentum favors upside.",
+                "key_risks": "Rapid de-escalation, OPEC+ supply increase, broader recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct causal link from geopolitical event to oil prices and stock premarket move; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 55.2,
+                "market_cap": "$49.2B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 68.7,
+                    "low": 45.2
+                },
+                "pe_ratio": 14.8,
+                "volume": "9.8M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Iran conflict drives Brent crude to $76+, enhancing OXY's margins as major Permian producer. Implications: Energy inflation hedge amid stock selloff. Psychology: Investors rotate to commodities. Parallels: 2019 drone attacks on Saudi Aramco (+15% oil). Analogies: 1. Rocket fuel for energy stocks in tension. 2. Like a tailwind for oil sails in geopolitical gale.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Premarket +6.65%; strong X mentions in oil surge context; news highlights energy winners from Iran strikes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long OXY to $62-65 (12-18% gain) if conflict persists.",
+                "short_position": "Not recommended currently.",
+                "key_risks": "US strategic reserve release, demand slowdown from higher prices."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear premarket leadership and volume surge tied to oil event."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 110.8,
+                "market_cap": "$148.5B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 132.5,
+                    "low": 89.0
+                },
+                "pe_ratio": 24.2,
+                "volume": "6.2M",
+                "recent_dividend": "$0.77 quarterly"
+            },
+            "impact_theory": "Escalating US-involved conflict boosts defense spending expectations for RTX's missiles/systems. Econ: Fiscal stimulus via contracts. Psych: 'Buy defense in uncertainty'. Parallels: Post-9/11 defense rally. Analogies: 1. War drums beating sales for arms makers. 2. Like insurance policy surging in hurricane season.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Premarket +6.41%; X buzz on defense amid Iran; web confirms sector gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long RTX to $120-125 (8-13%) on contract news.",
+                "short_position": "Low conviction.",
+                "key_risks": "Diplomatic resolution, budget cuts if economy weakens."
+            },
+            "confidence_rating": "A",
+            "justification": "Defense stocks classically rise on geopolitics; strong premarket data."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 21.9,
+                "market_cap": "$9.4B",
+                "sector_industry": "Consumer Cyclical / Travel Services",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 14.8
+                },
+                "pe_ratio": -15.3,
+                "volume": "18.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Oil spike raises fuel costs for fuel-intensive cruises, squeezing margins amid weak guidance. Econ: Higher opEx hits leisure travel. Psych: Avoidance of volatile travel stocks. Parallels: 2022 oil rally crushed airlines/cruises. Analogies: 1. Anchor dragging ship down in oil storm. 2. Like paying premium gas in a gas-guzzler during shortage.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-12%",
+                "reasoning": "Premarket -7.91%; compounded by guidance; X/trade chatter negative on travel."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy only post-stabilization.",
+                "short_position": "Short NCLH to $19-18 (10-15% downside) on sustained high oil.",
+                "key_risks": "Oil pullback, strong bookings offsetting costs."
+            },
+            "confidence_rating": "A",
+            "justification": "Fuel sensitivity + premarket plunge directly from event."
+        },
+        {
+            "details": {
+                "ticker": "CCL",
+                "full_name": "Carnival Corporation & plc",
+                "current_price": 17.65,
+                "market_cap": "$23.8B",
+                "sector_industry": "Consumer Cyclical / Travel Services",
+                "high_low_52_week": {
+                    "high": 22.4,
+                    "low": 11.9
+                },
+                "pe_ratio": -12.1,
+                "volume": "28.7M",
+                "recent_dividend": "$0.50 annual"
+            },
+            "impact_theory": "Higher jet/marine fuel from Iran tensions erodes CCL profitability; demand risk if recession fears grow. Econ: Cyclical hit. Psych: Sell travel on macro woes. Parallels: COVID fuel drop ironically helped, now reverse. Analogies: 1. Cruise ship burning expensive fuel uphill. 2. Party boat leaking profits.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Premarket -6.97%; peers down; news links oil to travel pain."
+            },
+            "potential_profit_risks": {
+                "long_position": "Minimal; wait for oil peak.",
+                "short_position": "Short CCL to $15.50-16 (10-12%) if oil holds.",
+                "key_risks": "Seasonal demand surge, hedging covers costs."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with sector move and historical fuel sensitivity."
+        }
+    ]
+}
