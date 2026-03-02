@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "APA",
+                "full_name": "APA Corporation",
+                "current_price": 31.44,
+                "market_cap": "$10.77B",
+                "sector_industry": "Energy / Oil & Gas Exploration",
+                "high_low_52_week": {
+                    "high": 32.74,
+                    "low": 13.58
+                },
+                "pe_ratio": 7.27,
+                "volume": "High (intraday surges)",
+                "recent_dividend": "$0.25 quarterly, yield 3.29%"
+            },
+            "impact_theory": "Escalating US-Iran tensions and Middle East conflict drive oil prices higher, boosting upstream producers like APA. Economic implications include higher energy costs, inflation pressures; market psychology shifts to risk-on for commodities amid safe-haven flows. Historical parallels: 2019 Iran tanker attacks spiked oil 10%+. Analogies: Like fueling a rocket (geopolitics igniting energy rally); pouring gasoline on a bonfire (tensions amplifying price surges).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Premarket +8%, analyst upgrades (Wolfe to $39 PT), X sentiment positive on oil spike from Iran conflict (posts highlight supply risks). Web news confirms gap-up on upgrades and crude surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on sustained oil >$80/bbl",
+                "short_position": "Avoid or short on de-escalation",
+                "key_risks": "Quick resolution, SPR releases, broader market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong premarket move, aligned X/web sentiment, clear catalyst."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 53.99,
+                "market_cap": "$52.74B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 56.34,
+                    "low": 34.78
+                },
+                "pe_ratio": 33.18,
+                "volume": "20M+ shares",
+                "recent_dividend": "$0.26 quarterly, yield 1.79%"
+            },
+            "impact_theory": "Iran conflict risks Strait of Hormuz disruptions, spiking crude prices and benefiting OXY's Permian assets. Implications: Higher input costs for consumers, boosted producer margins; psychology favors energy amid uncertainty. Parallels: 2022 Ukraine war oil rally. Analogies: Ship in a storm (geopolitics tossing oil prices up); Buffett's favorite horse getting steroids (Warren backing + tensions).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "New 12m high, premarket +6.65%, X posts bullish on oil surge (calls flooding, upgrades expected), news ties to Exxon/Chevron rally on Middle East risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $60, potential 12% upside",
+                "short_position": "Short if oil fades",
+                "key_risks": "Sanctioned oil flood, economic slowdown curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent mentions in gainers, strong X energy bid sentiment."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 210.15,
+                "market_cap": "$140B (approx large cap)",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 211.74,
+                    "low": 100.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "2.8M shares",
+                "recent_dividend": "$0.68 quarterly"
+            },
+            "impact_theory": "Geopolitical escalation boosts defense spending, missiles/aerospace demand for RTX. Implications: Fiscal stimulus via contracts, risk-off rotation; psychology sees 'wartime winners'. Parallels: Post-9/11 defense surge. Analogies: Arms dealer at a bar fight (profiting from chaos); shield in a swordfight (protection premium rises).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "New 1y high +6.41% premarket, X highlights missile demand amid Iran strikes, news on wartime targets/upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% on contract wins",
+                "short_position": "Minimal",
+                "key_risks": "De-escalation, budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear theme but less volume vs energy."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd",
+                "current_price": 21.62,
+                "market_cap": "$9.5B (approx)",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 30.0,
+                    "low": 15.0
+                },
+                "pe_ratio": -10.0,
+                "volume": "High on drop",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Q4 earnings beat EPS but miss revenue, weak 2026 guidance ($2.38 EPS vs exp), new CEO flags missteps. Implications: Margin pressure, deleveraging delay; psychology shifts to caution on consumer spending. Parallels: Post-COVID cruise resets. Analogies: Captain hitting iceberg (guidance miss); party boat running out of fuel (yield flat).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-15%",
+                "reasoning": "-10% drop, X bearish on lowered FY26 guide, revenue miss, web confirms tumble on outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or dip buy post-selloff",
+                "short_position": "Short for 10% downside",
+                "key_risks": "Travel rebound, positive revisions."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings reaction, consensus miss."
+        },
+        {
+            "details": {
+                "ticker": "CF",
+                "full_name": "CF Industries Holdings, Inc.",
+                "current_price": 103.6,
+                "market_cap": "$20B (approx)",
+                "sector_industry": "Basic Materials / Fertilizers",
+                "high_low_52_week": {
+                    "high": 103.6,
+                    "low": 70.0
+                },
+                "pe_ratio": 15.0,
+                "volume": "2.3M shares",
+                "recent_dividend": "2% yield"
+            },
+            "impact_theory": "Iran war disrupts fertilizer supply (urea/ammonia via Hormuz), energy costs up; benefits US producers. Implications: Agri input inflation, food prices; psychology to commodities. Parallels: 2022 energy crisis fertilizer spike. Analogies: Farmer's gold rush (prices jumping); ripple from oil pond (energy feeds fertilizers).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "+11% premarket, news/X on 12.8% fert prices jump from Hormuz, new 1y high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8-12% on prolonged disruption",
+                "short_position": "On resolution",
+                "key_risks": "Supply normalization, recession."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect catalyst but tied to energy theme."
+        }
+    ]
+}
