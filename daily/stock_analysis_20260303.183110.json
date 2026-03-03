@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MDB",
+                "full_name": "MongoDB, Inc.",
+                "current_price": 182.34,
+                "market_cap": "$13.4B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 509.62,
+                    "low": 180.05
+                },
+                "pe_ratio": -42.8,
+                "volume": "18,450,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MongoDB plunged amid broad tech sell-off triggered by US-Iran war escalation, oil spike, and risk-off sentiment. Economic implications: higher energy costs fuel inflation, hurting growth stocks. Market psychology: flight to safety, parallels 2022 Ukraine invasion tech rout. Analogy 1: Tech as canary in coal mine dying first in volatility storm. Analogy 2: Overvalued balloon popping on geopolitical pin.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Premarket -27%, YTD -40% on software weakness; web news highlights stark declines; X chatter on losers confirms negative sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-20% rebound if de-escalation, post-earnings recovery",
+                "short_position": "Short for 10-15% further downside on sustained risk-off",
+                "key_risks": "Surprise positive guidance, broader market bounce, high short interest squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "Prominent in multiple premarket loser lists and news, clear sector rotation."
+        },
+        {
+            "details": {
+                "ticker": "LNG",
+                "full_name": "Cheniere Energy, Inc.",
+                "current_price": 185.67,
+                "market_cap": "$45.2B",
+                "sector_industry": "Energy / Oil & Gas Midstream",
+                "high_low_52_week": {
+                    "high": 198.23,
+                    "low": 152.34
+                },
+                "pe_ratio": 12.4,
+                "volume": "4,200,000",
+                "recent_dividend": "$0.45 quarterly"
+            },
+            "impact_theory": "Top premarket gainer +8.79% on oil surge from Iran Strait of Hormuz fears, LNG supply risks. Implications: higher energy prices boost exporters. Psychology: scramble for commodities. Parallels: 2022 Russia-Ukraine energy rally. Analogy 1: Rocket fueled by war panic. Analogy 2: Whale swimming upstream in geopolitical tide.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Oil spikes 7-13%, LNG halt in Qatar; Benzinga lists top gainer; X posts highlight energy winners."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% on prolonged tensions",
+                "short_position": "Avoid or small for -5% if quick resolution",
+                "key_risks": "De-escalation, oversupply, demand drop from recession."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to oil/LNG news, top mover status."
+        },
+        {
+            "details": {
+                "ticker": "FANG",
+                "full_name": "Diamondback Energy, Inc.",
+                "current_price": 178.9,
+                "market_cap": "$32.1B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 195.67,
+                    "low": 140.12
+                },
+                "pe_ratio": 9.8,
+                "volume": "3,800,000",
+                "recent_dividend": "$0.92 quarterly"
+            },
+            "impact_theory": "Oil producer up on WTI/Brent surge from Middle East war, supply disruption fears. Implications: profit margins expand. Psychology: bet on higher-for-longer energy. Parallels: Gulf War oil shocks. Analogy 1: Miner striking gold in chaos. Analogy 2: Shark feasting on bloody waters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Premarket +4.56%, energy sector rally in news; X semantic on oil impacted stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 12% upside on $80+ oil",
+                "short_position": "Risky, potential -8% on peace",
+                "key_risks": "OPEC+ increase output, global slowdown curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector tailwind but less specific mention than LNG."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 512.45,
+                "market_cap": "$125.6B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.4,
+                    "low": 420.18
+                },
+                "pe_ratio": 20.1,
+                "volume": "2,100,000",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Defense giant rallies on US strikes on Iran, escalation fears boost orders. Implications: govt spending surge. Psychology: war premium. Parallels: post-9/11 defense boom. Analogy 1: Blacksmith thriving in wartime forge. Analogy 2: Insurance policy skyrocketing in hurricane season.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "X posts, news on defense winners like LMT +7% premarket; rotation to safe sectors."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% on contract wins",
+                "short_position": "Avoid, -5% max on de-escalate",
+                "key_risks": "Quick ceasefire, budget cuts."
+            },
+            "confidence_rating": "A",
+            "justification": "Repeated mentions in defense rally context."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 42.78,
+                "market_cap": "$28.9B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.5,
+                    "low": 38.2
+                },
+                "pe_ratio": 7.2,
+                "volume": "12,500,000",
+                "recent_dividend": "$0.10 quarterly"
+            },
+            "impact_theory": "Airline hammered by oil spike, fuel costs soar, travel fears from war. Implications: margins crushed, demand soft. Psychology: avoidance of risk assets. Parallels: 2022 oil-driven airline pain. Analogy 1: Bird grounded by headwind. Analogy 2: Lemon stand in rainstorm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "News lists airlines top losers -3-10%; higher oil explicit headwind; X confirms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value buy for 15% recovery on oil drop",
+                "short_position": "Short for 10% on sustained high oil",
+                "key_risks": "Fuel hedges protect, demand rebound."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector loser from news, but hedges may mitigate."
+        }
+    ]
+}
