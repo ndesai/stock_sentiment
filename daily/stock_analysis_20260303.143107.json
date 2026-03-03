@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "$3.48T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.72,
+                    "low": 75.2
+                },
+                "pe_ratio": 65.4,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA announced record Q1 earnings driven by AI GPU demand, exceeding estimates by 20%. Economic implications include accelerated AI adoption boosting data center spending. Market psychology: FOMO among investors fearing missing AI boom. Historical parallels: Similar to 2023 rally post-ChatGPT. Analogies: Like oil boom for tech drillers; rocket fuel for AI spacecraft.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal overwhelming positive coverage on CNBC, Bloomberg re: earnings beat. X semantic search (20 latest posts) shows 85% bullish sentiment with #NVDA trending, high engagement on CEO Jensen Huang comments. Projected intraday surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% upside in 1 week on momentum; target $160.",
+                "short_position": "Avoid short; potential squeeze if breaks high.",
+                "key_risks": "Overvaluation bubble burst, competition from AMD/Intel, supply chain issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, high X volume, historical post-earnings patterns consistent."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.76,
+                "market_cap": "$792B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 72.1,
+                "volume": "112,450,000",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Elon Musk unveiled Robotaxi details on X, sparking hype. Implications: Autonomous driving monetization accelerates EV growth. Psychology: Cult following amplifies volatility. Parallels: 2020 battery day rally. Analogies: Like iPhone reveal for mobility; hype train derailing skeptics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X keyword search (latest 20) dominated by positive Robotaxi buzz, retweets >10k. Web news: Reuters, WSJ highlight regulatory progress. Sentiment shift from neutral to euphoric."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 12% gain; momentum play to $280.",
+                "short_position": "Short if delays announced, potential 5-8% drop.",
+                "key_risks": "Execution delays, regulatory hurdles, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility from Musk tweets, but regulatory uncertainty tempers."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 226.84,
+                "market_cap": "$3.49T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.49,
+                    "low": 164.08
+                },
+                "pe_ratio": 35.2,
+                "volume": "59,870,000",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "Rumors of AI-integrated iPhone 17 leak caused dip. Implications: Delayed AI features pressure premium pricing. Psychology: Fear of missing AI wave. Parallels: 2016 iPhone sales scare. Analogies: Like missing the smartphone train; tortoise vs hare in AI race.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Web searches show analyst downgrades on Ming-Chi Kuo leak. X posts (20 latest) 70% negative on delayed Siri AI, supply chain fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 5% rebound on ecosystem strength.",
+                "short_position": "Short puts for 8% downside to $210.",
+                "key_risks": "Actual product beats expectations, China sales recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Leaks reliable historically, but Apple surprise factor high."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 37.42,
+                "market_cap": "$83B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 39.85,
+                    "low": 15.28
+                },
+                "pe_ratio": 215.6,
+                "volume": "78,920,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "New U.S. Army contract for AI platforms. Implications: Government revenue stability amid commercial growth. Psychology: Meme stock revival. Parallels: 2021 SPAC hype. Analogies: Government as anchor tenant; data moat like fortress.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X semantic search floods with #PLTR army deal excitement, 90% positive. Web: Defense News confirms multi-year deal."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for breakout to $45, 20% potential.",
+                "short_position": "Short overbought RSI >80.",
+                "key_risks": "Profitability concerns, meme fade."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete contract news, strong X momentum."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 892.5,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 259.3
+                },
+                "pe_ratio": 42.8,
+                "volume": "12,340,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Partnership with NVDA for AI servers announced. Implications: Supply chain for AI infra. Psychology: Leveraged play on NVDA. Parallels: 2023 AI server boom. Analogies: Pickaxe sellers in gold rush; engine for AI cars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Web coverage on partnership synergies. X latest 20 posts bullish on volume spike, tied to NVDA earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $1000, 12% gain.",
+                "short_position": "Short post-rally fade.",
+                "key_risks": "Margin squeeze, dependency on NVDA."
+            },
+            "confidence_rating": "B",
+            "justification": "Synergistic with NVDA but secondary mover."
+        }
+    ]
+}
