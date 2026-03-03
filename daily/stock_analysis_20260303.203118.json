@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LNG",
+                "full_name": "Cheniere Energy, Inc.",
+                "current_price": 251.98,
+                "market_cap": "$60.2B",
+                "sector_industry": "Energy / Oil & Gas Midstream",
+                "high_low_52_week": {
+                    "high": 260.5,
+                    "low": 160.2
+                },
+                "pe_ratio": 14.2,
+                "volume": "4.8M",
+                "recent_dividend": "$0.43 (Q4 2025)"
+            },
+            "impact_theory": "Middle East conflict escalation involving Iran disrupts global oil and gas supplies, boosting demand for US LNG exports as Europe seeks alternatives to Russian gas. Economic implications include higher energy prices fueling inflation but benefiting US exporters. Market psychology shifts to safe-haven energy plays amid broad sell-off. Historical parallels: 2022 Ukraine invasion saw LNG stocks surge 50%+. Analogies: Like a dam bursting floods downstream beneficiaries; or betting on umbrellas during a weather forecast storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Oil surge and LNG disruptions from war; premarket +8.79%; X sentiment positive on energy amid fear; web news highlights Cheniere benefits from DOE approvals and geopolitics."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could gain 10-15% short-term on continued tensions; target $280.",
+                "short_position": "Short risky, potential -5% if de-escalation.",
+                "key_risks": "Rapid war resolution, US diplomatic success reducing prices; oversupply from other sources."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation to oil prices (r=0.85 historically); consistent news alignment and premarket momentum."
+        },
+        {
+            "details": {
+                "ticker": "FANG",
+                "full_name": "Diamondback Energy, Inc.",
+                "current_price": 178.96,
+                "market_cap": "$32.1B",
+                "sector_industry": "Energy / Oil & Gas Exploration",
+                "high_low_52_week": {
+                    "high": 183.36,
+                    "low": 120.5
+                },
+                "pe_ratio": 9.8,
+                "volume": "5.2M",
+                "recent_dividend": "$0.92 (Q4 2025)"
+            },
+            "impact_theory": "Oil prices spike >8% on Mideast war fears, directly boosting E&P profitability via higher realizations. Econ: Potential stagflation but energy margins expand 20%+ per $10/bbl rise. Psych: Rotation from tech to value/energy. Parallels: 2014-15 oil crash reverse in 2022 rally +100%. Analogies: Tailwind for sailors in gale-force winds; farmer's bounty in drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Premarket +4.56%; benefiting from crude surge; X posts on oil stocks; recent strong earnings support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +12% to $200 on sustained oil >$90.",
+                "short_position": "Avoid or small -3% if pullback.",
+                "key_risks": "OPEC+ increase production; recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear oil linkage but Permian specifics add variability; high volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "MDB",
+                "full_name": "MongoDB, Inc.",
+                "current_price": 250.0,
+                "market_cap": "$18.5B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 380.0,
+                    "low": 220.0
+                },
+                "pe_ratio": -45.6,
+                "volume": "12.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 earnings beat but Q1 FY26 guidance miss on EPS ($1.15-1.19 vs exp $1.25) amid high costs/slower growth signals cloud sector woes. Econ: Tech spending caution in macro uncertainty. Psych: Profit-taking in Nasdaq sell-off. Parallels: 2022 tech wreck post-earnings. Analogies: Party ends with hangover; balloon deflates post-peak.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-25%",
+                "reasoning": "Stock -27% on guidance miss despite revenue beat; X bearish; web confirms weak outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long risky, dip buy +5% rebound.",
+                "short_position": "Short: 15% downside to $210.",
+                "key_risks": "AI tailwinds surprise upside; broader tech recovery."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings reaction with volume spike; analyst cuts like UBS PT slash."
+        },
+        {
+            "details": {
+                "ticker": "SE",
+                "full_name": "Sea Limited",
+                "current_price": 80.42,
+                "market_cap": "$45.8B",
+                "sector_industry": "Communication Services / Internet Content & Information",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 65.0
+                },
+                "pe_ratio": -120.3,
+                "volume": "15.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 revenue beat but EPS miss ($0.63 vs $0.80), high costs, slower GMV growth forecast pressure Shopee/Garena. Econ: EM consumer slowdown. Psych: EM tech aversion in risk-off. Parallels: 2023 Sea rout -50%. Analogies: Tsunami hits beachfront despite strong foundations; marathon runner hits wall.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-23%",
+                "reasoning": "-23% drop; Reuters on costs/GMV; X limited but market fear amplifies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +8% recovery if Asia rebound.",
+                "short_position": "Short: 10-15% to $70.",
+                "key_risks": "China stimulus boosts; earnings overreaction."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings specific but EM macro adds uncertainty; strong volume."
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 158.2,
+                "market_cap": "$72.4B",
+                "sector_industry": "Consumer Defensive / Discount Stores",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 17.5,
+                "volume": "6.5M",
+                "recent_dividend": "$1.12 (Q4 2025)"
+            },
+            "impact_theory": "Q4 EPS beat $2.44 vs exp $2.16, FY26 guidance $7.50-8.50 EPS +2% sales growth bucks retail weakness. Econ: Resilient consumer spend. Psych: Defensive play in downturn. Parallels: 2020 pandemic surge. Analogies: Lighthouse in storm; oasis in desert.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Premarket +5.37%; beat and guidance; positive X/retail sentiment vs market."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +10% to $175.",
+                "short_position": "Short: -4% if consumer weakens.",
+                "key_risks": "Inflation erodes margins; Walmart competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but macro oil/inflation headwinds temper."
+        }
+    ]
+}
