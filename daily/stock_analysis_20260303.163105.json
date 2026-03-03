@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 122.5,
+                "market_cap": "$482B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.75,
+                    "low": 102.3
+                },
+                "pe_ratio": 13.2,
+                "volume": "18.5M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Escalating war tensions between US/Israel and Iran have driven oil prices up over 9% to above $85/bbl for Brent, boosting XOM's refining and production margins. Economic implications include higher energy costs fueling inflation fears, prompting risk-off in equities but rotation to energy. Market psychology shifts to safe-haven commodities amid uncertainty. Historical parallel: 1990 Gulf War saw oil spike 30%+, energy stocks +20% in weeks. Analogies: 1) Oil surge acts like rocket fuel propelling energy giants while broader market stalls. 2) A geopolitical storm flooding profits for oil majors like a rising tide lifting ships.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Web searches confirm oil surge on Middle East war; X posts highlight energy rotation. Consensus on higher crude benefiting integrated majors like XOM with strong balance sheet."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 10-15% gains in 1-2 weeks if oil holds $85+",
+                "short_position": "Avoid; limited downside",
+                "key_risks": "Rapid de-escalation drops oil 20%; broader recession hits demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation between oil price and XOM performance; multiple sources confirm sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 158.2,
+                "market_cap": "$295B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 172.4,
+                    "low": 135.8
+                },
+                "pe_ratio": 14.8,
+                "volume": "9.2M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Iran war escalation surges oil, enhancing CVX's upstream earnings amid supply fears through Strait of Hormuz. Implications: Inflation rebound delays rate cuts, energy outperforms. Psychology: Flight to yield-bearing commodities. Parallel: 2022 Russia-Ukraine oil to $130, CVX +25%. Analogies: 1) Geopolitical fire igniting CVX's profit furnace. 2) Like a tailwind boosting a jumbo jet in turbulent skies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "News highlights energy rally; X semantic search shows positive oil war links."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX targeting 12% upside short-term",
+                "short_position": "Not recommended",
+                "key_risks": "OPEC+ ramps production; conflict resolution."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with XOM; Chevron's Permian assets amplify gains."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 512.3,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.0,
+                    "low": 435.2
+                },
+                "pe_ratio": 20.1,
+                "volume": "1.1M",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Middle East conflict boosts defense spending; LMT benefits from missile/drones demand. Implications: US aid to Israel accelerates orders. Psychology: War premium on contractors. Parallel: Post-10/7/2023 Hamas, LMT +15%. Analogies: 1) Conflict as a contract magnet pulling in billions. 2) Like armor shining brighter in battle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Seeking Alpha, WSJ note defense spikes; X engagement on war winners."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long LMT for 8-12% if escalation persists",
+                "short_position": "Minimal",
+                "key_risks": "Ceasefire reduces budgets; budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but less direct than oil; depends on procurement news."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 48.75,
+                "market_cap": "$31B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 62.5,
+                    "low": 38.9
+                },
+                "pe_ratio": 7.9,
+                "volume": "16.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Oil spike raises jet fuel costs 20%+, eroding DAL margins amid weak demand. Implications: Higher fares, slashed profits. Psychology: Risk aversion hits travel. Parallel: 2022 oil rally, airlines -30%. Analogies: 1) Fuel surge as lead weights on airline wings. 2) Storm grounding flights while oil soars.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Multiple sources list airlines as top losers; X keyword shows negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid",
+                "short_position": "Short DAL for 15% downside if oil >$90",
+                "key_risks": "Oil pullback; strong earnings beat."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct hit from fuel costs; consistent reporting."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 68.4,
+                "market_cap": "22B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 79.2,
+                    "low": 48.1
+                },
+                "pe_ratio": 6.5,
+                "volume": "12.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Geopolitical oil rally hammers UAL's high fuel exposure. Implications: Capacity cuts, losses. Psychology: Travel fear. Parallel: COVID oil crash but reverse squeeze. Analogies: 1) Rising fuel like a no-fly zone for profits. 2) Headwind turning tailwind nightmare.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7-11%",
+                "reasoning": "News confirms airline slides; aligns with DAL."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid",
+                "short_position": "Short for 10-15% decline",
+                "key_risks": "Demand rebound; hedging protects."
+            },
+            "confidence_rating": "A",
+            "justification": "Sector-wide pressure evident in searches."
+        }
+    ]
+}
