@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 210.79,
+                "market_cap": "$52B",
+                "sector_industry": "Financials/Cryptocurrency Exchange",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "11M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Coinbase announced launch of stock and ETF trading on its platform, diversifying beyond crypto amid BTC rebound to $71K. Economic implications: Expands revenue streams in fintech, reduces crypto volatility dependence. Market psychology: Relief rally post-Iran conflict de-escalation fears, short squeeze as most shorted stock. Historical parallels: Similar to Robinhood's options boom in 2021. Analogies: Like adding wheels to a bike (diversification); turning a casino into a full resort (everything exchange).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment highly positive (multiple posts on launch, BTC link), web news confirms product expansion. High volume, short unwind potential amid market rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% gains on continued BTC rally and adoption.",
+                "short_position": "Short risks -10% losses if crypto surges.",
+                "key_risks": "Regulatory scrutiny, BTC volatility, broader market sell-off from geopolitics."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong catalyst from product launch, confirmed X buzz and gainers list."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 54.81,
+                "market_cap": "$21B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 40.0
+                },
+                "pe_ratio": -15.3,
+                "volume": "7.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Settled $2.25B patent dispute over COVID vaccine tech with Arbutus/Roivant, removing major overhang. Econ impl: Clears path for future mRNA pipeline growth. Psych: Relief from litigation risk, sympathy in biotech. Historical: Like PFE post-COVID settlement rallies. Analogies: Removing a boulder from road (clears path); unlocking a chained beast (frees R&D).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Direct from X and web: Settlement news drives +10% move, positive sentiment shift from overhang."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +12% on pipeline momentum.",
+                "short_position": "Avoid short, -8% risk on biotech rotation.",
+                "key_risks": "Pipeline failures, market rotation away from biotech."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear positive news catalyst, top gainer confirmation."
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 42.5,
+                "market_cap": "$38B",
+                "sector_industry": "Financials/Online Brokerage",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 55.1,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "'Take Flight' keynote unveils new features, BTC rebound boosts volumes. Econ: Fintech growth in volatile markets. Psych: Momentum from crypto peers like COIN. Historical: 2021 meme frenzy. Analogies: Fueling a rocket (new products); surfing the BTC wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "X lists as top mover with COIN, BTC correlation strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% on trading volume surge.",
+                "short_position": "Short -7% if crypto dips.",
+                "key_risks": "Competition from COIN, regulatory risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but tied to crypto volatility."
+        },
+        {
+            "details": {
+                "ticker": "BOX",
+                "full_name": "Box, Inc.",
+                "current_price": 29.5,
+                "market_cap": "$6.8B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 22.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings beat: Revenue +8%, EPS strong, AI initiatives. Econ: Enterprise cloud demand resilient amid turmoil. Psych: Counter to AI disruption fears. Historical: SaaS beats in 2023. Analogies: Steady ship in storm (resilient growth); diamond in rough (undervalued beat).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Earnings confirmation across sources, +6-7% move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +9% on FY27 guidance.",
+                "short_position": "Short -6% post-earnings fade.",
+                "key_risks": "Macro slowdown, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings-driven, reliable catalyst."
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores, Inc.",
+                "current_price": 145.2,
+                "market_cap": "$48B",
+                "sector_industry": "Consumer Cyclical/Apparel Retail",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 25.6,
+                "volume": "4M",
+                "recent_dividend": "$0.375 quarterly, +10% hike"
+            },
+            "impact_theory": "Q4 beat: Sales +12%, EPS $2.00, new buyback $2.55B, FY26 guidance upbeat. Econ: Resilient consumer in off-price. Psych: Retail rebound signal. Historical: TJX rallies post-beats. Analogies: Bargain hunter's paradise in inflation; phoenix from ashes (strong start).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Multiple news on beat/buyback, X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8% on consumer strength.",
+                "short_position": "Short -5% if recession fears.",
+                "key_risks": "Consumer spending slowdown, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings but sector cyclical."
+        }
+    ]
+}
