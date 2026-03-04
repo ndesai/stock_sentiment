@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MDB",
+                "full_name": "MongoDB, Inc.",
+                "current_price": 252.73,
+                "market_cap": "$18.5B",
+                "sector_industry": "Technology / Database Software",
+                "high_low_52_week": {
+                    "high": 520.25,
+                    "low": 198.75
+                },
+                "pe_ratio": 105.2,
+                "volume": "5.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MongoDB reported Q4 FY2026 earnings beating estimates with $1.65 EPS (vs $1.46 exp) and $695M revenue (+27% YoY), but provided weak FY2027 guidance due to slower Atlas growth and macro pressures. Economic implications include reduced cloud spending amid inflation fears from Middle East crisis. Market psychology: sell-the-news after beat, fear of recession hitting software. Historical parallels: Snowflake SNOW -30% post-earnings 2024 despite beat. Analogies: 1. Like a runner beating personal best but slowing pace, disappointing spectators. 2. Overhyped party where drinks run low early.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "Earnings beat overshadowed by soft guidance; X sentiment negative on growth slowdown; web news highlights tumbling stock despite numbers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited rebound +5% if market stabilizes; enter >260.",
+                "short_position": "Strong downside -20% to 200 support; target 220.",
+                "key_risks": "Earnings reaction overdone, potential buyback; broader tech rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with consistent post-earnings drops in peers; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "KTB",
+                "full_name": "Kontoor Brands, Inc.",
+                "current_price": 78.18,
+                "market_cap": "$4.3B",
+                "sector_industry": "Consumer Discretionary / Apparel Manufacturing",
+                "high_low_52_week": {
+                    "high": 85.4,
+                    "low": 52.1
+                },
+                "pe_ratio": 18.5,
+                "volume": "2.9M",
+                "recent_dividend": "$0.50 quarterly (Q1 2026)"
+            },
+            "impact_theory": "KTB beat Q4 estimates, reported strong revenue growth post-Helly Hansen acquisition, guided FY2026 revenue $3.4-3.45B and EPS $6.40-6.50 (above consensus). Econ: resilient consumer spending on brands like Wrangler. Psych: relief rally in cyclicals amid market turmoil. Historical: Similar to PVH +15% post-guidance 2023. Analogies: 1. Like a ship steadying after storm with full sails. 2. Underdog boxer landing knockout punch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Beat and raised guidance; top gainer lists; positive X mentions on apparel resilience."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum to 90 (+15%); hold through volatility.",
+                "short_position": "Fade rally -8% to 70; if consumer weakens.",
+                "key_risks": "Geopolitical oil spike hits spending; overbought."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but sector sensitive to macro."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 180.05,
+                "market_cap": "$4.45T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 105.2
+                },
+                "pe_ratio": 52.3,
+                "volume": "98M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Billionaire TSLA holder Leo KoGuan bought 1M NVDA shares (~$180M), plans more; calls AI not bubble, foundational layer. CLSA PT $300. Econ: Validates AI capex amid hyperscaler spend fears. Psych: Vote of confidence from whale lifts dip-buyers. Historical: ARK buys sparked 2023 rallies. Analogies: 1. Whale jumping back in pool calms nervous swimmers. 2. Veteran general reinforcing troops.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "High-profile buy and analyst reiterate; X buzzing positively, counters recent AI fatigue."
+            },
+            "potential_profit_risks": {
+                "long_position": "Break 190 to 200 (+11%); AI hype cycle.",
+                "short_position": "Capex cut rumors -10%; short >185.",
+                "key_risks": "Broader semi weakness, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Influential insider action; consistent AI narrative strength."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 395.0,
+                "market_cap": "$1.25T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 310.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "82M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "TSLA gapped up premarket breaking $400 on Elon AGI humanoid comment; despite recent community divide and overnight dip. Econ: Autonomy/robotics long-term vs EV slowdown. Psych: FOMO on Musk vision overrides noise. Historical: 2020 splits rallied on tweets. Analogies: 1. Rollercoaster thrill after dip scares riders. 2. Prodigal son returning to cheers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Premarket surge; X hype on AGI; counters bearish community posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "To 420 (+6%); robotaxi catalyst.",
+                "short_position": "EV demand fade -12% to 350.",
+                "key_risks": "Delivery misses, regulatory hurdles."
+            },
+            "confidence_rating": "B",
+            "justification": "Volatile sentiment; depends on macro auto."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 45.2,
+                "market_cap": "$102B",
+                "sector_industry": "Technology / Software - Defense/AI",
+                "high_low_52_week": {
+                    "high": 52.8,
+                    "low": 22.5
+                },
+                "pe_ratio": 210.5,
+                "volume": "55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Reports Palantir provided data fusion for Iran op (satellite/drone real-time); stock up on Middle East escalation validating defense AI. Econ: Boosts gov contracts amid war. Psych: 'War stock' premium. Historical: NOC/LMT surges in conflicts. Analogies: 1. Swiss army knife in battlefield toolkit. 2. Oracle of war seeing hidden patterns.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Geopolitical tie-in; X mentions military use; web articles on defense rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "To 55 (+22%); contract wins.",
+                "short_position": "Peace de-escalation -15%.",
+                "key_risks": "Overreliance on gov; valuation stretch."
+            },
+            "confidence_rating": "B",
+            "justification": "Timely but speculative link; strong YTD performance."
+        }
+    ]
+}
