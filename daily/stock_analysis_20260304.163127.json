@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores, Inc.",
+                "current_price": 212.5,
+                "market_cap": "$48.2B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 230.1,
+                    "low": 122.3
+                },
+                "pe_ratio": 25.4,
+                "volume": "2.1M",
+                "recent_dividend": "$0.37 quarterly, ex-date Feb 2026"
+            },
+            "impact_theory": "Ross Stores reported Q4 earnings beating expectations with EPS $2.00 vs $1.90 est, sales $6.6B vs $6.4B, strong comp sales 10%. FY2026 guidance sales growth 3-4% above est, driven by young shoppers and off-price demand. Economic implications: resilient consumer spending amid inflation. Market psychology: relief rally in retail amid market volatility. Historical parallels: similar beats in 2021 post-COVID. Analogies: like a treasure hunt where bargains draw crowds (off-price model); steady ship in stormy economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat and upbeat guidance spark buying; X sentiment positive on comp sales strength; web news highlights market share gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued retail strength; target $240.",
+                "short_position": "Short if guidance disappointment, potential 5% pullback.",
+                "key_risks": "Macro slowdown, competition from TJX, oil-driven inflation hurting consumers."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, positive analyst upgrades, high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 49.8,
+                "market_cap": "$19.1B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 170.5,
+                    "low": 23.1
+                },
+                "pe_ratio": -8.2,
+                "volume": "15.4M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Moderna settled global patent litigation with Arbutus/Genevant for up to $2.25B over COVID vaccine, resolving overhang. Implications: clearer path for mRNA pipeline, reduced legal costs. Psychology: removes uncertainty, boosts confidence. Parallels: Pfizer settlements post-COVID. Analogies: clearing legal clouds like sun after storm; unlocking pipeline like key to treasure chest.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Patent resolution positive per analysts; X posts note upside despite settlement cost; web highlights improved certainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $60, 20% upside on pipeline news.",
+                "short_position": "Short on cash burn concerns, 10% downside.",
+                "key_risks": "Further litigation, weak vaccine demand, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear positive news but biotech volatility and cash impact."
+        },
+        {
+            "details": {
+                "ticker": "STVN",
+                "full_name": "Stevanato Group S.p.A.",
+                "current_price": 26.1,
+                "market_cap": "$6.2B",
+                "sector_industry": "Healthcare / Medical Instruments",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 12.0
+                },
+                "pe_ratio": 45.3,
+                "volume": "1.2M",
+                "recent_dividend": "€0.13 annual"
+            },
+            "impact_theory": "STVN Q4/FY2025 revenue +7% to €1.186B, record high-value solutions/margins; FY26 guidance growth. Implications: biologics demand boom. Psychology: growth validation. Parallels: 2021 medtech surge. Analogies: precision glass for drugs like Ferrari parts; scaling biotech infrastructure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Earnings beat drives premarket surge; limited X but positive web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 25% gains to $32.",
+                "short_position": "Avoid or short post-rally fade 10%.",
+                "key_risks": "Biopharma funding slowdown, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid results but smaller cap, less coverage."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 158.2,
+                "market_cap": "$712B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 159.2,
+                    "low": 95.8
+                },
+                "pe_ratio": 14.1,
+                "volume": "18.5M",
+                "recent_dividend": "$0.95 quarterly, ex-date Feb 2026"
+            },
+            "impact_theory": "Middle East tensions (US-Israel-Iran) spike oil to multi-month highs, disrupting supply. Implications: higher revenues/profits. Psychology: safe haven in energy amid volatility. Parallels: 2022 Ukraine oil surge. Analogies: oil as blood of economy clotting on conflict; supertanker riding geopolitical waves.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil +10% rally lifts energy; X mixed but web bullish on sustained prices."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $170, 8% gain.",
+                "short_position": "Short on de-escalation, 5-10% drop.",
+                "key_risks": "Quick resolution, recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Geopolitical clear driver, historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 187.3,
+                "market_cap": "$340B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 191.6,
+                    "low": 132.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "9.8M",
+                "recent_dividend": "$1.78 quarterly, raised 4% 2026"
+            },
+            "impact_theory": "Similar to XOM, oil surge from Middle East war lifts majors. Implications: margin expansion. Psychology: defensive play. Parallels: Gulf wars. Analogies: steady gusher in turbulent seas; dividend fortress amid chaos.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector tailwind; analyst buy ratings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $200, 7% upside.",
+                "short_position": "Short on oil pullback.",
+                "key_risks": "Supply normalization, regulatory pressures."
+            },
+            "confidence_rating": "A",
+            "justification": "Tied to oil prices, strong fundamentals."
+        }
+    ]
+}
