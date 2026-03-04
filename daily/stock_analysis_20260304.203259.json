@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 285.75,
+                "market_cap": "$1.34T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 351.2,
+                    "low": 189.5
+                },
+                "pe_ratio": 42.3,
+                "volume": "28.4M",
+                "recent_dividend": "$0.65 quarterly (yield 0.9%)"
+            },
+            "impact_theory": "Broadcom's Q1 FY2026 earnings release after market close on March 4 drove hype around AI chip demand and data center growth amid broader tech rebound from Iran tensions. Economic implications include sustained AI capex boosting semis sector despite macro volatility; market psychology shifted to optimism on tech resilience. Historical parallels: NVDA post-earnings rallies in 2023-24. Analogies: Like a rocket booster igniting amid storm clouds (geopolitics), or a lighthouse steady in turbulent seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Earnings expected at $2.02 EPS, 28% revenue growth; X sentiment positive on AI/data center; web news highlights buy before March 4. Tech rally supports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 5-10% gains on earnings beat, target $300.",
+                "short_position": "Avoid or short if miss, potential 3-5% drop.",
+                "key_risks": "Earnings miss, AI slowdown, escalation in Iran raising rates/oil."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong pre-earnings momentum, consensus beats history, AI tailwinds confirmed in news/X."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 248.3,
+                "market_cap": "$62B",
+                "sector_industry": "Financials / Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 320.1,
+                    "low": 120.45
+                },
+                "pe_ratio": 55.8,
+                "volume": "12.7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Coinbase surged 5.9% premarket on March 4 amid market rebound from jobs data and easing Iran fears, boosting crypto sentiment as BTC safe-haven. Implications: Crypto rotation in risk-on; psychology of dip-buying post-volatility. Parallels: 2024 crypto rallies post-halving. Analogies: Phoenix rising from volatility ashes, or tide lifting all boats in risk rebound.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X posts highlight +5.9% premarket, strong jobs data; web movers list as top gainer; crypto tied to market sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% upside to $270 on continued rebound.",
+                "short_position": "Short if BTC dumps, 5% loss potential.",
+                "key_risks": "Geopolitical escalation hurting risk assets, regulatory news."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear gainer in snippets/X, but crypto volatility tempers highest confidence."
+        },
+        {
+            "details": {
+                "ticker": "ANF",
+                "full_name": "Abercrombie & Fitch Co.",
+                "current_price": 95.38,
+                "market_cap": "$4.8B",
+                "sector_industry": "Consumer Cyclical / Apparel",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 85.2
+                },
+                "pe_ratio": 18.2,
+                "volume": "5.6M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "ANF sank post-Q4 earnings beat on March 4 due to weak guidance amid consumer spending caution from Iran oil spike/inflation fears. Implications: Retail rotation out; psychology sell-the-news. Parallels: Lululemon post-earnings drops 2024. Analogies: Balloon deflating after hype, or sugar rush crash.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Earnings beat but stock sinks; Yahoo news confirms; X/trending negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, or dip buy if oversold for 5% rebound.",
+                "short_position": "Short for 10% downside to $85.",
+                "key_risks": "Strong consumer data surprise, broader retail rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear post-earnings reaction in news, consistent bearish sentiment."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 156.09,
+                "market_cap": "$102B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 208.4,
+                    "low": 140.5
+                },
+                "pe_ratio": 62.1,
+                "volume": "8.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "PANW cut FY2026 forecast despite earnings, sparking growth fears in cybersecurity amid macro uncertainty. Implications: Software punished on guidance; fear of spending cuts. Parallels: SNOW/ZS misses 2024. Analogies: Car braking hard on highway, or rain on parade.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-9%",
+                "reasoning": "Yahoo live earnings: sinks after cuts to $5.6B vs expected; web confirms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if stabilizes, 4% up to $162.",
+                "short_position": "Short targeting $145, 7% gain.",
+                "key_risks": "Cyber demand surge from geopolitics, beat lowered expectations."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct from earnings news, high volume reaction."
+        },
+        {
+            "details": {
+                "ticker": "MDB",
+                "full_name": "MongoDB, Inc.",
+                "current_price": 252.73,
+                "market_cap": "$19B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 220.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "4.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "MDB cratered 22% on March 3 on weak guidance amid software selloff, extended on March 4 volatility. Implications: Cloud/software growth slowdown; psychology of dispersion in earnings. Parallels: CRM guidance misses. Analogies: Icarus flying too close to sun, or domino falling in chain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Yahoo: -22% on Tue; X mentions crater; ongoing sentiment negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, potential further 5% drop.",
+                "short_position": "Short for 12% to $220.",
+                "key_risks": "Tech rebound lifts all, positive AI/database news."
+            },
+            "confidence_rating": "B",
+            "justification": "Sharp move confirmed, but could stabilize in rebound."
+        }
+    ]
+}
