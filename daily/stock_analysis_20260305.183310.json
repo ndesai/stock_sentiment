@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 327.58,
+                "market_cap": "1.552T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 414.61,
+                    "low": 138.1
+                },
+                "pe_ratio": 68.77,
+                "volume": "37,450,152",
+                "recent_dividend": "2.60 (0.82%)"
+            },
+            "impact_theory": "Broadcom reported Q1 FY2026 earnings beating estimates with $19.31B revenue (up 29% YoY) driven by AI chips; CEO projected AI revenue >$100B in 2027. Economic implications: Signals sustained AI infrastructure spend boosting semis sector amid tech rally. Market psychology: Relief rally post-earnings beat counters ROI fears, FOMO on AI growth. Historical parallels: Similar to NVDA post-earnings surges in 2023-24. Analogies: Like a rocket booster igniting (AI demand), or dam breaking flooding semis with positivity.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Earnings beat and strong AI guidance spark positive sentiment; stock up post-earnings. Web searches confirm pops on beat, AI projections; high volume indicates momentum into March 6."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on AI hype continuation; target $360.",
+                "short_position": "Short if broader tech selloff; potential 5% loss to $310.",
+                "key_risks": "Overvaluation (high PE), tariff impacts on semis, market rotation from tech."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, clear AI catalyst, historical AI stock patterns reliable."
+        },
+        {
+            "details": {
+                "ticker": "CIEN",
+                "full_name": "Ciena Corporation",
+                "current_price": 283.53,
+                "market_cap": "40.057B",
+                "sector_industry": "Technology / Communication Equipment",
+                "high_low_52_week": {
+                    "high": 365.9,
+                    "low": 49.21
+                },
+                "pe_ratio": 329.26,
+                "volume": "4,468,422",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat on AI/data center orders (revenue +33% to $1.43B), but FY2026 guidance midpoint $6.1B disappointed vs expectations. Implications: Highlights AI networking demand but profitability concerns. Psychology: Sell-the-news after run-up, profit-taking. Parallels: Optics peers like ACLS post-beats drops. Analogies: Like eating dessert first (beat) then bitter coffee (guidance), or peak bloom wilting.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Stock down 16% despite beat due to weak FY guide; news emphasizes disappointment after YTD gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for rebound to $320 if AI narrative holds; 10% upside.",
+                "short_position": "Short for 20% further drop to $230 on guidance fears.",
+                "key_risks": "Unexpected AI order acceleration, broader market recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear guidance miss drives sentiment, but AI tailwinds could reverse."
+        },
+        {
+            "details": {
+                "ticker": "TTD",
+                "full_name": "The Trade Desk, Inc.",
+                "current_price": 29.87,
+                "market_cap": "14.624B",
+                "sector_industry": "Communication Services / Advertising Agencies",
+                "high_low_52_week": {
+                    "high": 91.45,
+                    "low": 21.08
+                },
+                "pe_ratio": 33.23,
+                "volume": "61,819,752",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Reports of OpenAI ad partnership talks + CEO $148M stock buy spark rally (up 20-30%). Implications: Validates adtech in AI era, potential revenue boost. Psychology: Oversold bounce + insider confidence. Parallels: Adtech surges on big tech deals (e.g., GOOG partnerships). Analogies: Lifeline to drowning sailor (OpenAI), or phoenix rising from ad slump ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Explosive volume, multiple reports on OpenAI + insider buy; huge sentiment shift from YTD losses."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $40; 30%+ gains.",
+                "short_position": "Short if talks fizzle; 10% retrace.",
+                "key_risks": "Deal not materializing, ad market slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Speculative catalyst strong but unconfirmed; insider buy adds credibility."
+        },
+        {
+            "details": {
+                "ticker": "AEO",
+                "full_name": "American Eagle Outfitters, Inc.",
+                "current_price": 19.31,
+                "market_cap": "3.273B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 28.46,
+                    "low": 9.27
+                },
+                "pe_ratio": 17.09,
+                "volume": "7,801,097",
+                "recent_dividend": "0.50 (2.23%)"
+            },
+            "impact_theory": "Q4 record revenue (+10%) on Aerie growth, but margins compressed by tariffs. Implications: Consumer resilience vs cost pressures. Psychology: Mixed earnings reaction, tariff fears weigh. Parallels: Retailers hit by trade wars 2018-19. Analogies: Strong harvest but storm clouds (tariffs), or full sails meeting headwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Beat but tariff headwinds dominate headlines; consumer cyclical sensitivity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long value play to $25; 25% upside.",
+                "short_position": "Short on tariff escalation; 10% to $17.",
+                "key_risks": "Tariff relief, strong consumer spend."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed results, macro tariff uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "VSCO",
+                "full_name": "Victoria's Secret & Co.",
+                "current_price": 50.6,
+                "market_cap": "4.054B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 66.89,
+                    "low": 13.76
+                },
+                "pe_ratio": 23.71,
+                "volume": "6,589,264",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings/revenue beat, upbeat outlook but flags price hikes on tariffs; stock drops. Implications: Turnaround progress vs inflation. Psychology: Profit-taking despite positives. Parallels: Apparel peers post-earnings fades. Analogies: Victory lap trip-up, or feast followed by fast.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Beat not enough vs high expectations; tariff mentions sour sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long rebound to $60; 20% gains.",
+                "short_position": "Short to $45; 10% downside.",
+                "key_risks": "Consumer strength overrides tariffs."
+            },
+            "confidence_rating": "C",
+            "justification": "Positive ops overshadowed by macros; moderate conviction."
+        }
+    ]
+}
