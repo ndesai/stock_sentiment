@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 152.5,
+                "market_cap": "$680B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "18.5M",
+                "recent_dividend": "$0.95 quarterly, 2.5% yield"
+            },
+            "impact_theory": "Escalating US-Israel-Iran war disrupts Persian Gulf oil shipments, pushing Brent crude above $82/bbl amid supply fears. Economic boost for XOM's refining and production margins; market psychology shifts from panic to opportunistic buying in energy. Parallels 1990 Gulf War (oil +35%, XOM +20% in weeks). Analogies: profiting from a drought as a water supplier; riding a tidal wave in a surfboard factory.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Web searches confirm oil surge from Iran conflict; X posts highlight energy beneficiaries like ONGC/OIL but US majors similar. Sentiment positive with market recovery (S&P +0.8%), limit 20 latest posts show hype on crude."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +8-12% gains in 1-2 weeks on sustained oil >$85",
+                "short_position": "Avoid or short above $160 for -3-5% if de-escalation",
+                "key_risks": "Quick peace talks (Iran outreach per NYT), OPEC+ surge, recession curbing demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear macro driver with historical precedent and real-time price action alignment."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 145.2,
+                "market_cap": "$280B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "12.2M",
+                "recent_dividend": "$1.63 quarterly, 4.5% yield"
+            },
+            "impact_theory": "Iran war escalations hit Hormuz Strait, elevating oil prices and CVX's upstream profits. Implications: inflation hedge play; psych: relief rally post-initial dip. Like 2019 drone attacks (oil +15%, CVX +10%). Analogies: selling umbrellas in a monsoon; harvesting bumper crop from fertilizer boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Similar to XOM, news on gas prices +30%, X semantic search on oil majors positive amid volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting +7-10% as oil holds gains",
+                "short_position": "Minimal upside short, potential -4%",
+                "key_risks": "Diplomatic resolution, US SPR releases"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong sector tailwinds confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 505.0,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 20.1,
+                "volume": "1.8M",
+                "recent_dividend": "$3.15 quarterly, 2.5% yield"
+            },
+            "impact_theory": "Prolonged Iran conflict ramps defense spending, F-35/missile demand for LMT. Econ: fiscal stimulus via contracts; psych: safe-haven bid. Parallels Ukraine war (defense +25% YTD 2022). Analogies: armor sales during battle; locksmith booming in crime wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "X keyword searches flag defense plays; web on war extension boosts sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +6-9% on order inflows",
+                "short_position": "-2-4% if quick win",
+                "key_risks": "Ceasefire, budget cuts post-conflict"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but depends on war duration."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 112.5,
+                "market_cap": "$150B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 22.4,
+                "volume": "5.1M",
+                "recent_dividend": "$0.59 quarterly, 2.1% yield"
+            },
+            "impact_theory": "RTX Patriot/missiles critical vs Iran drones/missiles. Implications: backlog growth; psych: geopolitical premium. Like Gulf War II (RTX +18%). Analogies: bulletproof vests in shootout; firewalls during cyber surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "News on strikes, X on defense stocks amid Iran."
+            },
+            "potential_profit_risks": {
+                "long_position": "+5-8% near-term",
+                "short_position": "Limited -3%",
+                "key_risks": "De-escalation, supply chain issues"
+            },
+            "confidence_rating": "B",
+            "justification": "High conviction but secondary to LMT."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 44.2,
+                "market_cap": "$28B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 7.2,
+                "volume": "15.3M",
+                "recent_dividend": "N/A (suspended)"
+            },
+            "impact_theory": "Jet fuel costs soar 30%+ from Iran oil spike, eroding DAL margins. Econ: higher fares/lower demand; psych: risk-off travel. Parallels 2022 Ukraine (airlines -20%). Analogies: gas-guzzler in oil crisis; beach vendor in hurricane.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "Web on gas prices jump hurting transport; X sentiment negative on high energy costs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, or +3% rebound on peace",
+                "short_position": "-8-12% on sustained oil rally",
+                "key_risks": "Fuel hedges mitigate, demand resilience"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct cost exposure with historical downside."
+        }
+    ]
+}
