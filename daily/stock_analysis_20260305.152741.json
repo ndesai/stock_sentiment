@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 181.9,
+                "market_cap": "4.421T",
+                "sector_industry": "Semiconductors / Technology",
+                "high_low_52_week": {
+                    "high": 212.19,
+                    "low": 86.62
+                },
+                "pe_ratio": 37.05,
+                "volume": "37,227,291",
+                "recent_dividend": "0.04 (0.02%), ex-date Mar 11, 2026"
+            },
+            "impact_theory": "NVIDIA continues to dominate AI chip demand with rumors of a $30B OpenAI investment aligning with IPO timing and strong sector momentum as top S&P gainer +2.1%. Economic implications include accelerated AI infrastructure spending boosting tech GDP contribution. Market psychology: FOMO on AI leaders amid rotation into risk assets. Historical parallels: Similar to 2023 AI boom post-ChatGPT launch. Analogies: Like oil majors during shale revolution (supply constrained demand surge); rocket fuel for data centers akin to gold rush infrastructure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Web searches show positive news on OpenAI ties, JPM PT raise to $265; X semantic search reveals buy signals (8.1/10 score), revenue acceleration, institutional flows, neutral-to-bullish TA near resistance. Sentiment shift upward with semis broadly up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% gains targeting $190 on breakout above $184 resistance; momentum continuation.",
+                "short_position": "Short if fails $180 support, potential 3% drop to $176, but low conviction amid bullish trend.",
+                "key_risks": "Valuation premium, AI capex slowdown, broader market rotation out of tech."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment of news, X sentiment (mostly buy), historical AI momentum, high volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 329.03,
+                "market_cap": "1.56T",
+                "sector_industry": "Semiconductors / Technology",
+                "high_low_52_week": {
+                    "high": 414.61,
+                    "low": 138.1
+                },
+                "pe_ratio": 69.14,
+                "volume": "20,347,456",
+                "recent_dividend": "2.60 (Ex-Date: Dec 22, 2025)"
+            },
+            "impact_theory": "Broadcom Q1 FY26 earnings beat with record $19.31B revenue, AI semis +106% YoY, Q2 guide $22B. Econ impl: Validates AI hardware supercycle, $100B+ TAM. Psych: Relief post-underwhelm fears, analyst upgrades. Historical: Parallels Cisco during dot-com (networking boom). Analogies: Like Intel in PC era ramp; AI accelerators as picks-and-shovels for gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings beat headlines, X posts positive reaction, gap-and-go setups, 26/28 analysts Buy avg PT $458 (40%+ upside), AI revenue doubling. Sentiment shift post-earnings positive despite prior ROI concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $350-365 on breakout, 8-10% upside; strong analyst support.",
+                "short_position": "Avoid or short below $314 support for 5% drop if guidance digestion leads to profit-taking.",
+                "key_risks": "High PE, competition in AI networking, macro slowdown in capex."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings beat with raised guides, unanimous analyst buys, X bullish TA and flows confirm sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "ODFL",
+                "full_name": "Old Dominion Freight Line, Inc.",
+                "current_price": 213.88,
+                "market_cap": "44.72B",
+                "sector_industry": "Industrials / Trucking",
+                "high_low_52_week": {
+                    "high": 221.63,
+                    "low": 126.01
+                },
+                "pe_ratio": 44.19,
+                "volume": "207,258",
+                "recent_dividend": "0.29 (ex-date: Mar. 4, 2026)"
+            },
+            "impact_theory": "ODFL breaks above $208.45 extending intermediate uptrend, new 52w high despite Feb revenue -3.3% YoY. Econ: Signals trucking recovery amid industrial rebound. Psych: Breakout attracts momentum chasers. Historical: Like 2021 logistics surge post-COVID. Analogies: Truck as economy's heartbeat accelerating; dam breaking after freight winter.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Tech Talk highlights breakout; operating metrics update shows resilience. No strong X data but price action confirms sentiment shift upward in transports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 4-6% to $225 on continued breakout; sector rotation play.",
+                "short_position": "Short on revenue weakness confirmation, 5% to $200 support.",
+                "key_risks": "Freight volume slowdown, fuel costs, economic softening."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear breakout TA, but revenue dip tempers; limited recent sentiment data."
+        },
+        {
+            "details": {
+                "ticker": "PFE",
+                "full_name": "Pfizer Inc.",
+                "current_price": 26.48,
+                "market_cap": "150.558B",
+                "sector_industry": "Healthcare / Drug Manufacturers - General",
+                "high_low_52_week": {
+                    "high": 27.94,
+                    "low": 20.92
+                },
+                "pe_ratio": 19.47,
+                "volume": "6,757,492",
+                "recent_dividend": "1.72 (ex-date Jan 23, 2026)"
+            },
+            "impact_theory": "Pfizer top S&P loser -1.3% amid obesity drug delays, policy risks on vaccines. Econ: Highlights pharma pricing pressures, R&D ROI uncertainty. Psych: Disappointment in post-COVID pivot. Historical: Similar to 2019 patent cliffs. Analogies: Ship missing tide (GLP-1 wave); marathon runner hitting wall.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "S&P movers list loser; X posts bearish on obesity progress, policy volatility, overbought TA. Sentiment shift downward post-rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips to $25 for dividend yield, 5% rebound if oncology wins.",
+                "short_position": "Short targeting $24 support, 6-8% downside on continued headwinds.",
+                "key_risks": "Pipeline surprises, M&A catalysts, undervaluation bounce."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent bearish X analysis, but low valuation and dividends provide floor."
+        },
+        {
+            "details": {
+                "ticker": "IBRX",
+                "full_name": "ImmunityBio, Inc.",
+                "current_price": 9.03,
+                "market_cap": "9.292B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.43,
+                    "low": 1.83
+                },
+                "pe_ratio": 0.0,
+                "volume": "6,061,284",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "ImmunityBio plunges -10% top loser, high volume suggests negative catalyst like earnings preview or trial data miss. Econ: Biotech volatility impacts sector funding. Psych: Fear of dilution/failure. Historical: Biotech crashes on FDA delays. Analogies: Rollercoaster biotech bet; house of cards on trial winds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Yahoo lists as top loser; elevated volume, no positive news, prior downtrends noted. Sharp sentiment shift negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-risk long below $8 for 15% bounce on oversold.",
+                "short_position": "Short momentum to $7, 10-15% further drop.",
+                "key_risks": "Binary biotech events, short squeeze on volume."
+            },
+            "confidence_rating": "C",
+            "justification": "Price action strong bearish, but sparse news/X data limits conviction."
+        }
+    ]
+}
