@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 13.85,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy / Oil & Gas Offshore",
+                "high_low_52_week": {
+                    "high": 20.5,
+                    "low": 5.2
+                },
+                "pe_ratio": -12.5,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "DOJ legal opinion suggests Defense Production Act can override California state laws blocking Sable's pipeline restart amid Iran tensions boosting oil needs. Economic: Increases CA oil production by 10-20%, reduces imports. Market psych: Short squeeze with high interest, momentum trading. Historical: Similar to 2022 energy crisis rallies. Analogies: Like a dam breaking for pent-up supply; federal trump card in state-federal battles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "X posts hyped DOJ memo, +37% surge with volume spike; web news confirms legal boost. Sentiment shift from stalled project to greenlight potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +25% gains on pipeline approval momentum.",
+                "short_position": "Short risky, potential squeeze losses -15%.",
+                "key_risks": "Legal delays, oil price drop from de-escalation, regulatory reversal."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, volume confirmation, timely geopolitical tie-in."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 178.5,
+                "market_cap": "$830B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 42.3,
+                "volume": "35M",
+                "recent_dividend": "$0.53 quarterly"
+            },
+            "impact_theory": "Q1 earnings beat with rev $19.3B (+29% YoY), AI rev +106% to $8.4B, Q2 guide $22B beat est, $10B buyback. Economic: Validates AI capex sustainability. Psych: Relief in chip sector amid Nasdaq correction. Historical: Parallels NVDA post-earnings rallies 2023-24. Analogies: AI rocket fuel igniting; buyback as shareholder fortress.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web reports beat/guidance, X positive on AI/custom chips despite some ROI concerns; +5% AH move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 52w high, +15% potential.",
+                "short_position": "Short on overvaluation, -10% if AI hype fades.",
+                "key_risks": "Broader tech selloff, competition from custom ASICs, macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but mixed X tones on ROI; high conviction on AI trend."
+        },
+        {
+            "details": {
+                "ticker": "MDB",
+                "full_name": "MongoDB Inc.",
+                "current_price": 248.2,
+                "market_cap": "$18.5B",
+                "sector_industry": "Technology / Database Software",
+                "high_low_52_week": {
+                    "high": 510.0,
+                    "low": 195.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 rev $695M (+27% YoY) beat but weak FY26 guide revives AI monetization fears. Economic: Highlights software spending caution. Psych: Selloff on guidance miss despite beat. Historical: Similar to SNOW 2024 drop. Analogies: Guidance as reality check balloon pop; conservative forecast in bullish AI narrative.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Web: tumbled 19% on forecast; X: cratered but some bounce/upgrade notes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dip buy if AI traction improves, +10%.",
+                "short_position": "Short for further derating, -20% to support.",
+                "key_risks": "Earnings recovery surprise, analyst upgrades, M&A interest."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear guidance trigger but bounce suggests capitulation."
+        },
+        {
+            "details": {
+                "ticker": "TNGX",
+                "full_name": "Tango Therapeutics Inc.",
+                "current_price": 16.83,
+                "market_cap": "$1.5B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 22.0,
+                    "low": 8.5
+                },
+                "pe_ratio": 0.0,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top gainer +36%, likely positive clinical data or partnership in precision oncology. Economic: Biotech momentum amid M&A wave. Psych: FOMO buying. Historical: Like CRSP 2020 surges. Analogies: Clinical win as lottery ticket cash; biotech rocket launch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Listed as top gainer in multiple sources; high volume implies news catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for biotech run-up, +30%.",
+                "short_position": "Avoid or small for fade.",
+                "key_risks": "Trial failures, dilution, sector rotation."
+            },
+            "confidence_rating": "C",
+            "justification": "Gainer status clear but specific news sparse."
+        },
+        {
+            "details": {
+                "ticker": "TTD",
+                "full_name": "The Trade Desk Inc.",
+                "current_price": 112.4,
+                "market_cap": "$55B",
+                "sector_industry": "Technology / AdTech",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 55.1,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top gainer mention, possibly strong ad spend data amid rebound. Economic: Digital ad recovery. Psych: Rotation to ad stocks. Historical: 2021 adtech rally. Analogies: Ad dollars flowing like election spending; CTV tailwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Gainer lists; ties to market rebound hopes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on ad growth, +12%.",
+                "short_position": "Short if recession fears, -8%.",
+                "key_risks": "Ad budget cuts, competition from GOOG."
+            },
+            "confidence_rating": "C",
+            "justification": "Inferred from gainers, less direct news."
+        }
+    ]
+}
