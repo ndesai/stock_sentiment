@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.75,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 132.5,
+                    "low": 102.3
+                },
+                "pe_ratio": 13.2,
+                "volume": "12.5M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iran conflict escalates, halting Persian Gulf shipping and spiking oil prices to $90+ WTI. Economic implications: higher input costs fuel inflation, stagflation risks with weak 92k jobs loss. Market psych: risk-off rotation to energy. Historical: 1979 Iranian Revolution oil shock doubled prices. Analogies: like a dam bursting flooding energy sector; poker player bluffing with aces in oil hand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web news and X posts show oil surge driving energy gains amid broad market selloff; X sentiment positive on $XOM with mentions of sustained rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains on prolonged tensions; target $135.",
+                "short_position": "Avoid short; de-escalation could cap at +2%.",
+                "key_risks": "Quick resolution to conflict drops oil 10-20%; recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus across news/X on oil impact; historical precedents reliable."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 156.4,
+                "market_cap": "$285B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 11.8,
+                "volume": "8.2M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Same Iran-driven oil spike benefits majors; implications: margin expansion but capex caution. Psych: safe haven in volatility. Parallels: 1990 Gulf War +30% oil. Analogies: rising tide lifting all oil boats; snowball effect from geopolitics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Reports highlight CVX gains >1% amid oil rally; X buzz on energy rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% upside; target $165.",
+                "short_position": "Short risky; minimal downside.",
+                "key_risks": "Oil supply waivers (e.g., Russia/India) ease prices; demand destruction."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to oil prices confirmed in multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 65.2,
+                "market_cap": "$58B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 72.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "15.1M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Pure-play E&P benefits most from price surge; econ: higher revenues offset weak jobs. Psych: momentum play. Historical: 2022 Ukraine oil boom. Analogies: rocket fuel for shale; domino tipping energy upside.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Premarket gainer +2.8%; X/news link to oil surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $72, 10%+ gains.",
+                "short_position": "High risk short.",
+                "key_risks": "Leveraged balance sheet vulnerable to oil pullback."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but more volatile than integrateds."
+        },
+        {
+            "details": {
+                "ticker": "VST",
+                "full_name": "Vistra Corp.",
+                "current_price": 96.5,
+                "market_cap": "$34B",
+                "sector_industry": "Utilities / Independent Power Producers",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "4.5M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Nuclear/power demand rises as oil alternative for AI/data centers amid surge. Econ: hedges inflation. Psych: AI energy play. Parallels: post-Fukushima nuclear shift. Analogies: lighthouse in oil storm; backup generator kicking in.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "X posts highlight VST/TLN for AI power in oil crisis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% on energy shift.",
+                "short_position": "N/A",
+                "key_risks": "Oil de-escalation reduces urgency; regulatory hurdles."
+            },
+            "confidence_rating": "B",
+            "justification": "Emerging sentiment, less direct news."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 44.8,
+                "market_cap": "$14.7B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 58.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 6.2,
+                "volume": "9.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Higher jet fuel from oil spike squeezes margins; econ: cuts demand/travel. Psych: risk-off travel. Historical: 2008 oil to $147 crushed airlines. Analogies: anchor dragging airline profits; fuel fire burning cash.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-6%",
+                "reasoning": "Oil surge hits airlines hard per news; broad market down, X implies rotation out."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy only post-de-escalation.",
+                "short_position": "Short for 5-8% losses; target $40.",
+                "key_risks": "Fuel hedging protects short-term; demand rebound."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear logical link to oil costs, historical proof."
+        }
+    ]
+}
