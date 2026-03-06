@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 83.17,
+                "market_cap": "$75.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.2,
+                    "low": 52.1
+                },
+                "pe_ratio": 62.5,
+                "volume": "45.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Marvell reported Q4 FY2026 earnings beating estimates with 42% revenue growth driven by AI data center demand. Economic implications include sustained semi demand despite macro slowdown from weak jobs data. Market psychology: AI hype overrides broader selloff from geopolitics/oil spike. Historical parallels: Similar to NVDA post-earnings rallies in 2023-24. Analogies: Lone lighthouse in stormy seas; Ferrari on a highway of sedans.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong earnings beat, upbeat AI guidance, analyst upgrades (Benchmark to Buy, UBS PT $120). Positive X sentiment on AI strength, web news highlights premarket surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15-20% gains on continued AI momentum, target $95-100.",
+                "short_position": "Short risky amid upgrades, potential -5% if market dumps semis.",
+                "key_risks": "Broader chip sector weakness from tariffs/geopolitics, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, strong analyst/X support, aligns with AI mega-trend."
+        },
+        {
+            "details": {
+                "ticker": "IOT",
+                "full_name": "Samsara Inc.",
+                "current_price": 32.24,
+                "market_cap": "$18.5B",
+                "sector_industry": "Technology / Software - IoT",
+                "high_low_52_week": {
+                    "high": 40.5,
+                    "low": 22.3
+                },
+                "pe_ratio": -85.2,
+                "volume": "12.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 revenue $444M beat (vs $422M est), 28% YoY growth from fleet telematics. Implications: Enterprise IoT resilient in economic uncertainty. Psychology: Growth stock relief rally amid rate cut hopes. Parallels: Similar beats by CRM in past cycles. Analogies: Steady climber up Everest while others slip; coffee boost in sleepy market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Earnings beat, raised guidance. Premarket up 9%, positive mentions in CNBC movers, X buzz on volume surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $38-42 (+20%), ride earnings momentum.",
+                "short_position": "Avoid short, momentum favors upside.",
+                "key_risks": "Loss-making, sensitive to growth slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but less hype than semis; good but not A-tier."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 13.85,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 18.7,
+                    "low": 6.5
+                },
+                "pe_ratio": 0.0,
+                "volume": "8.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Up 37% on DOJ legal opinion boosting California pipeline hopes + oil spike from Iran tensions. Implications: Higher energy prices support E&P profitability. Psychology: FOMO on small-cap oil amid geopolitics. Parallels: 2022 Ukraine oil surge. Analogies: Wildfire in dry forest; dam breaking flood of buys.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Pipeline news + macro oil rally, top gainer lists, high X engagement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +25% to $17, oil above $90 catalyst.",
+                "short_position": "Short if pipeline stalls, -15% risk.",
+                "key_risks": "Regulatory reversal, oil price pullback."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong move but volatile small-cap, geo risk."
+        },
+        {
+            "details": {
+                "ticker": "BATL",
+                "full_name": "Battalion Oil Corporation",
+                "current_price": 25.81,
+                "market_cap": "$450M",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 28.9,
+                    "low": 8.2
+                },
+                "pe_ratio": 0.0,
+                "volume": "5.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Premarket gainer +35% on oil surge from geopolitical risks (Iran conflict escalation). Implications: Short-term energy inflation hedge. Psychology: Panic buying oil amid stock selloff. Parallels: Oct 2023 Hamas oil pops. Analogies: Shark in bloodied waters; lottery ticket in bear market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "Top premarket gainer, oil ETF USO +8%, X most watched."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing +30% if oil holds $90+.",
+                "short_position": "Short post-spike fade, -20%.",
+                "key_risks": "Geopolitical de-escalation."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility small-cap, sentiment driven."
+        },
+        {
+            "details": {
+                "ticker": "GPS",
+                "full_name": "Gap Inc.",
+                "current_price": 27.5,
+                "market_cap": "$10.3B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 32.1,
+                    "low": 18.4
+                },
+                "pe_ratio": 12.8,
+                "volume": "15.6M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Stock drops on tariff threats from Trump admin impacting imports, despite sales growth outlook 2-3%. Implications: Retail margins squeeze. Psychology: Risk-off on consumer discretionary amid macro fears. Parallels: 2018 tariff war hits. Analogies: Anchor in rising tide; speed bump on recovery road.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "CEO flags tariffs, CNBC premarket mover down, broader retail weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if tariffs mild, +10%.",
+                "short_position": "Short to $24 (-10%), tariff confirmation.",
+                "key_risks": "Strong consumer beats expectations."
+            },
+            "confidence_rating": "B",
+            "justification": "Credible tariff risk, but sales growth supportive."
+        }
+    ]
+}
