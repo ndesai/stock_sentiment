@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TPET",
+                "full_name": "Trio Petroleum Corp.",
+                "current_price": 1.45,
+                "market_cap": "$120M",
+                "sector_industry": "Energy / Oil & Gas Exploration",
+                "high_low_52_week": {
+                    "high": 2.1,
+                    "low": 0.35
+                },
+                "pe_ratio": -5.2,
+                "volume": "55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Massive surge amid rising oil prices due to Iran conflict tightening supplies. Economic implications: Higher energy costs boost small-cap explorers' valuations. Market psychology: FOMO buying in penny stocks during geo-tensions. Historical parallels: Similar to 2022 Ukraine invasion oil spikes benefiting juniors. Analogies: Like a match lighting dry tinder in volatile energy sector; rocket fueled by geopolitical jetstream.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X posts highlight +87% gain, web news on ATM offering expansion and oil volatility; strong sentiment from traders piling in on supply fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains on continued oil rally",
+                "short_position": "Short risky, potential -10% if de-escalates",
+                "key_risks": "High volatility, dilution from offerings, quick reversal on peace news."
+            },
+            "confidence_rating": "B",
+            "justification": "Multiple X mentions of top gainer, news corroborates oil event, but small cap speculative."
+        },
+        {
+            "details": {
+                "ticker": "LGMK",
+                "full_name": "LogicMark, Inc.",
+                "current_price": 5.2,
+                "market_cap": "$45M",
+                "sector_industry": "Technology / Security Devices",
+                "high_low_52_week": {
+                    "high": 6.5,
+                    "low": 1.2
+                },
+                "pe_ratio": -3.8,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: +86% surge listed as top gainer, possibly tied to product expansion or funding news. Economic: Boosts microcap tech sentiment. Psychology: Momentum chase in low-float stocks. Parallels: Penny stock pumps during sector rotations. Analogies: Domino effect in overlooked tech; snowball rolling downhill gaining mass.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "X top gainers lists, older news on offerings but recent momentum; high engagement on surges."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for quick 15% flips",
+                "short_position": "Avoid or -5% on pullback",
+                "key_risks": "Pump-and-dump risk, low liquidity, regulatory filings dilution."
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific news, purely momentum from lists."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1850.5,
+                "market_cap": "$850B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1950.0,
+                    "low": 1200.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "35M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Event: Q1 FY2026 earnings beat, AI revenue doubles to record $19.3B. Implications: Validates AI infrastructure spend. Psychology: Reinforces mega-cap tech leadership. Parallels: NVDA post-earnings runs. Analogies: AI freight train picking up steam; dam breaking flood of semis demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Earnings reports across web, premarket +6%, X mentions strong guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8% to new highs",
+                "short_position": "Short for -3% profit-taking",
+                "key_risks": "Overbought, broader tech rotation, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Detailed earnings data, consistent positive coverage."
+        },
+        {
+            "details": {
+                "ticker": "TTD",
+                "full_name": "The Trade Desk, Inc.",
+                "current_price": 125.75,
+                "market_cap": "$62B",
+                "sector_industry": "Technology / AdTech",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 52.1,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Reports of potential OpenAI ad partnership. Implications: Bridges AI and digital ads growth. Psychology: Hype around AI tie-ins. Parallels: Similar rumors boosting ad stocks pre-announcement. Analogies: Perfect storm of AI-ad convergence; catalyst igniting ad spend rally.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Premarket +19-21% on X/web, partnership talks fuel sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +20% if confirmed",
+                "short_position": "Short -10% on denial",
+                "key_risks": "Rumor unconfirmed, competition in adtech."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong premarket move, multiple mentions."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 82.3,
+                "market_cap": "$72B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 90.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "28M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Event: Earnings beat, CEO highlights ongoing AI demand, shares +20%. Implications: Sustained AI chip boom. Psychology: Relief rally post volatility. Parallels: Peers like AVGO. Analogies: Wave in AI tsunami; phoenix rising from chip cycle ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "CNBC/web reports surge, AI demand cited."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +15% on AI tailwinds",
+                "short_position": "Short -5% pullback",
+                "key_risks": "Supply chain issues, AI hype fade."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news on earnings surge."
+        }
+    ]
+}
