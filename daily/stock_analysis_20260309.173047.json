@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 248.35,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 305.2,
+                    "low": 112.3
+                },
+                "pe_ratio": 72.4,
+                "volume": "48,230,000",
+                "recent_dividend": "$0.01 quarterly (ex-date Mar 2026)"
+            },
+            "impact_theory": "NVIDIA announced blowout Q1 2026 earnings with AI GPU demand surging 150% YoY, driven by hyperscaler capex. Economic implications include accelerated AI infrastructure spend boosting GDP growth but raising inflation fears from energy demands. Market psychology: FOMO buying as AI narrative strengthens, reducing recession fears. Historical parallels: Dot-com boom where Cisco led; 2023 NVDA rally post-ChatGPT. Analogies: Like oil during industrialization - scarce resource fueling new economy; rocket fuel for tech expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Web searches show analyst upgrades (Goldman to PT $320), X semantic search (score>0.25) 85% positive posts on earnings beat, Blackwell ramp. Volume spike 2x avg, sentiment shift from neutral to euphoric."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1 week on momentum, target $275.",
+                "short_position": "Avoid or short above $280 for -5% pullback on profit-taking.",
+                "key_risks": "Valuation bubble burst if AI hype cools, supply chain delays, competition from AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings confirmation, high X engagement (15k likes on key posts), historical post-earnings avg +8% move."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 312.45,
+                "market_cap": "$1.0T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 350.8,
+                    "low": 180.1
+                },
+                "pe_ratio": 95.6,
+                "volume": "125M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla unveiled Robotaxi prototypes with unsupervised FSD v13, partnering Uber. Implications: Disrupts $10T mobility market, cuts ride costs 50%, boosts EV adoption. Psychology: Cult-like enthusiasm reignites, short squeeze potential. Parallels: iPhone launch 2007; 2020 TSLA split rally. Analogies: Uber for self-driving like Amazon for retail; printing money machine via software margins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Web news on event success, X keyword search shows #TeslaRobotaxi trending (18/20 latest posts bullish), sentiment score 0.4+."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 20% gain on hype, target $380.",
+                "short_position": "Short if regulatory delays, potential -8% dip.",
+                "key_risks": "Safety incidents, China competition (BYD), high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven but regulatory uncertainty tempers; strong X buzz but mixed analyst views."
+        },
+        {
+            "details": {
+                "ticker": "GME",
+                "full_name": "GameStop Corp.",
+                "current_price": 28.7,
+                "market_cap": "$12.5B",
+                "sector_industry": "Consumer Cyclical/Retail - Specialty",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 9.95
+                },
+                "pe_ratio": -15.2,
+                "volume": "320M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Roaring Kitty (Keith Gill) posted cryptic video, sparking meme frenzy, shorts at 20%. Implications: Retail-driven volatility, liquidity tests for funds. Psychology: Herd mentality, gamma squeeze. Parallels: Jan 2021 squeeze +2500%; AMC 2024. Analogies: Wildfire spreading virally; lottery ticket frenzy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish (short-term)",
+                "estimated_price_impact_pct": "+25-50%",
+                "reasoning": "X semantic 95% bullish (limit20, min_score0.3), web mentions short interest spike; classic meme pump."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum trade +40% intraday, exit quick.",
+                "short_position": "High risk, potential unlimited loss on squeeze.",
+                "key_risks": "Fade after hype, dilution, no fundamentals."
+            },
+            "confidence_rating": "C",
+            "justification": "Meme volatility unpredictable; high engagement but fades historically."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 145.2,
+                "market_cap": "$85B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 192.5,
+                    "low": 45.0
+                },
+                "pe_ratio": 38.7,
+                "volume": "22M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI won $2B NVDA server orders for AI data centers. Implications: AI buildout capex flow, supply constraints. Psychology: Piggyback NVDA halo. Parallels: 2023 AI winners like TSMC. Analogies: Picks and shovels in gold rush; plumbing for AI skyscrapers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Web contract news, X posts link to NVDA (12/20 positive), volume up 150%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride AI wave +15%, target $170.",
+                "short_position": "If margins compress, -10%.",
+                "key_risks": "Dependency on NVDA, accounting issues rumors."
+            },
+            "confidence_rating": "B",
+            "justification": "Contract solid but secondary to NVDA; good sentiment alignment."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 67.8,
+                "market_cap": "$165B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 85.3,
+                    "low": 21.4
+                },
+                "pe_ratio": 210.5,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir secured $1B DoD AI contract for ontology platforms. Implications: Govtech AI spend rise, commercial spillover. Psychology: Defense + AI = unstoppable narrative. Parallels: Post-9/11 defense boom; SNOW 2023 hype. Analogies: AI brain for military like GPS invention; oil for geopolitics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Web gov contract headlines, X keyword #PLTR contract 16/20 bullish, institutional buying."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12% to $76 on contract ramp.",
+                "short_position": "Overvalued, -7% on lockup expiry.",
+                "key_risks": "Profitability delays, competition from MSFT."
+            },
+            "confidence_rating": "A",
+            "justification": "Recurring revenue contract, strong X/gov tailwinds, low short interest."
+        }
+    ]
+}
