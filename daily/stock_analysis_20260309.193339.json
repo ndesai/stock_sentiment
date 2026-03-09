@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 25.5,
+                "market_cap": "$5.6B",
+                "sector_industry": "Healthcare/Telemedicine",
+                "high_low_52_week": {
+                    "high": 30.2,
+                    "low": 10.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "28M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Partnership announcement with Novo Nordisk following lawsuit withdrawal sparked massive buying. Economic implications include expanded access to weight loss drugs boosting revenue. Market psychology: FOMO buying on growth potential. Historical parallels: Similar to Teladoc surges on partnerships. Analogies: Like Uber partnering with major pharma for rapid scaling; rocket fuel for subscriber growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+40-50%",
+                "reasoning": "X sentiment highly positive with multiple posts on +48% premarket surge; web news confirms Novo deal driving hype amid GLP-1 demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains on continued momentum, target $30.",
+                "short_position": "Avoid short, high short squeeze risk.",
+                "key_risks": "Deal not materializing, market rotation from growth stocks, overbought RSI."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with strong X buzz and premarket volume."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.75,
+                "market_cap": "$482B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.5,
+                    "low": 98.2
+                },
+                "pe_ratio": 13.2,
+                "volume": "18.2M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iran war escalation drove oil to $120/barrel before dip, benefiting integrated majors. Implications: Higher refining margins, supply fears. Psychology: Safe haven shift to energy amid stagflation fears. Parallels: 2022 Ukraine invasion oil rally. Analogies: Like betting on storm clouds for umbrella sales; war premium on black gold.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Web searches highlight oil surge on Iran strikes; X mentions energy leaders ripping higher."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% on sustained $100+ oil, target $130.",
+                "short_position": "Short if de-escalation, potential -5%.",
+                "key_risks": "Rapid de-escalation, SPR releases, recession curbing demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro tailwind but volatile geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 152.3,
+                "market_cap": "$280B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 135.4
+                },
+                "pe_ratio": 11.8,
+                "volume": "9.5M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Similar to XOM, oil volatility from Iran conflict boosts upstream earnings. Implications: Inflation hedge. Psychology: Flight to dividends. Parallels: Gulf War oil spikes. Analogies: Filling gas tank before price hike; armor in uncertain times.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "News on oil >$100 due to war; energy sector outperforming broader market drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8-12% to $165.",
+                "short_position": "Short on peace talks, -4%.",
+                "key_risks": "OPEC+ increase, demand destruction."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector but less volatile than smaller peers."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 465.2,
+                "market_cap": "$112B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 495.0,
+                    "low": 410.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "1.2M",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "US-Israel strikes on Iran boost defense spending outlook. Implications: Contract windfalls. Psychology: War premium pricing. Parallels: Post-9/11 rally. Analogies: Sharpening swords before battle; insurance policy activation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Multiple news on defense stocks jumping amid conflict; X sector rotation mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% to $500+.",
+                "short_position": "Minimal, avoid.",
+                "key_risks": "Quick resolution, budget cuts."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary of named conflict."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 42.8,
+                "market_cap": "$28B",
+                "sector_industry": "Industrials/Airlines",
+                "high_low_52_week": {
+                    "high": 60.5,
+                    "low": 38.0
+                },
+                "pe_ratio": 7.2,
+                "volume": "12.4M",
+                "recent_dividend": "$0.10 quarterly"
+            },
+            "impact_theory": "Oil spike to $120 crushes margins for fuel-heavy carriers. Implications: Higher costs, fare hikes limited. Psychology: Risk-off on travel. Parallels: 2014 oil shock drops. Analogies: Headwind for jets; pouring water on fire.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "News on airlines as biggest losers amid oil surge; banks/airlines movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or dip buy post-drop.",
+                "short_position": "Short for -10% on sustained oil high.",
+                "key_risks": "Oil pullback, hedging covers."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative from oil but airlines resilient historically."
+        }
+    ]
+}
