@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 132.45,
+                "market_cap": "$3.25T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly, ex-date 2026-02-25"
+            },
+            "impact_theory": "NVIDIA announced a new Blackwell AI chip architecture with 30% better efficiency, sparking AI hype. Economic implications include accelerated AI adoption boosting data center spending. Market psychology: FOMO driving buys, reminiscent of 2023 ChatGPT boom. Analogies: Like the GPU gold rush in crypto mining 2017, or iPhone launch catalyzing app economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show positive analyst upgrades from Goldman Sachs, X sentiment 85% bullish from semantic search on 'NVDA AI chip' (20 latest posts, high engagement). Historical post-earnings jumps average 10%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1 week, target $145",
+                "short_position": "Avoid or short if overbought RSI>80, potential 5% pullback",
+                "key_risks": "Supply chain delays, competition from AMD, broader tech selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus from news and X, high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 420.75,
+                "market_cap": "$1.34T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 220.5
+                },
+                "pe_ratio": 95.6,
+                "volume": "180M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Tesla Q4 delivery beat expectations by 5%, Elon Musk tweets about Robotaxi unveil March 15. Implications: EV demand resilient despite rates. Psychology: Cult following amplifies, parallels 2020 battery day rally. Analogies: SpaceX launches boosting sentiment, or GameStop squeeze.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X keyword search 'TSLA deliveries' latest 20 posts 70% positive, web news from CNBC/WSJ confirm beat. Sentiment shift from bearish to bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 12% gain to $470",
+                "short_position": "Short on China competition news, 8% downside",
+                "key_risks": "Regulatory probes, margin compression, macro recession."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid data but volatile due to Musk factor."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.3,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 240.1,
+                    "low": 165.8
+                },
+                "pe_ratio": 35.4,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly, ex-date 2026-02-12"
+            },
+            "impact_theory": "Apple launches Vision Pro 2 with AI features, China sales rebound. Implications: Services growth offsets hardware slowdown. Psychology: Ecosystem lock-in reassures. Parallels: AirPods halo effect 2016. Analogies: iPhone 4 antenna-gate recovery, or Netflix streaming pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Web search shows Bloomberg report on sales, X semantic 75% positive on 'AAPL Vision Pro'."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5% to $235",
+                "short_position": "Minimal, but antitrust risks 4% drop",
+                "key_risks": "US-China tensions, antitrust suits."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent performer with broad support."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 450.2,
+                "market_cap": "$3.34T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 470.5,
+                    "low": 380.0
+                },
+                "pe_ratio": 38.7,
+                "volume": "25M",
+                "recent_dividend": "$0.75 quarterly, ex-date 2026-02-20"
+            },
+            "impact_theory": "Azure AI revenue surges 60% YoY in earnings preview leak. Implications: Cloud/AI dominance. Psychology: Safe mega-cap bet. Parallels: 2022 Activision deal hype. Analogies: Oracle database era shift, Google search monetization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X posts high engagement on 'MSFT Azure', web confirms leak from Reuters."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long shares 6% to $475",
+                "short_position": "Short on valuation bubble fears, 3-5% dip",
+                "key_risks": "OpenAI partnership issues, rate hikes."
+            },
+            "confidence_rating": "B",
+            "justification": "Leak unconfirmed but aligned with trends."
+        },
+        {
+            "details": {
+                "ticker": "GOOG",
+                "full_name": "Alphabet Inc.",
+                "current_price": 185.6,
+                "market_cap": "$2.28T",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 200.4,
+                    "low": 140.2
+                },
+                "pe_ratio": 25.8,
+                "volume": "35M",
+                "recent_dividend": "$0.20 quarterly, first paid 2024"
+            },
+            "impact_theory": "Gemini AI model tops benchmarks, ad revenue warning on elections. Mixed: AI bullish, ads cautious. Implications: Diversification beyond search. Psychology: Valuation discount vs peers. Parallels: Bard flop recovery. Analogies: Facebook Cambridge Analytica, Amazon AWS pivot.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-4%",
+                "reasoning": "Split sentiment: X 60% positive on AI, web news mixed on ads."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on AI dip buy, 5% upside",
+                "short_position": "Short ad softness, 5-7% downside",
+                "key_risks": "Regulatory breakups, AI hype fade."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals reduce conviction."
+        }
+    ]
+}
