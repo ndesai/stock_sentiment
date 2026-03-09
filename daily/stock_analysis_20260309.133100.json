@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.58T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.42,
+                    "low": 76.2
+                },
+                "pe_ratio": 62.5,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVIDIA announced a major breakthrough in its next-generation Blackwell AI chip architecture, promising 4x performance gains for data centers. Economically, this accelerates enterprise AI adoption, boosting capex in cloud computing. Market psychology: Triggers FOMO among investors fearing missing the AI wave. Historical parallel: Similar to the 2023 ChatGPT-fueled rally. Analogies: Like pouring gasoline on the AI bonfire; a quantum leap in silicon supremacy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Web searches reveal positive coverage on chip launch; X posts show overwhelming bullish sentiment with high engagement on AI future (semantic search score >0.25). Analyst upgrades from Goldman Sachs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/hold for 10-15% upside in 1-2 weeks on momentum.",
+                "short_position": "Avoid or small short if overbought RSI>80, potential 3-5% pullback.",
+                "key_risks": "Valuation bubble burst, supply chain delays, competition from AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete product announcement with immediate after-hours surge; strong historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 420.5,
+                "market_cap": "$1.34T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 95.2,
+                "volume": "120,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q4 2025 earnings beating estimates by 15% on EV deliveries and energy storage growth. Economic: Signals resilient demand amid rate cuts. Psychology: Reinforces Elon Musk halo effect. Parallels: Post-2020 delivery beats. Analogies: Like a cybertruck smashing through bearish walls; battery of optimism for autonomy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Earnings call highlights robotaxi progress; X keyword search shows #TSLA trending positive, min_faves high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains targeting $460.",
+                "short_position": "Short on delivery misses, 5% downside.",
+                "key_risks": "Regulatory hurdles for FSD, China competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but high expectations baked in."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 185.75,
+                "market_cap": "$115B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 160.0
+                },
+                "pe_ratio": -45.3,
+                "volume": "45,200,000",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "FAA launched probe into latest 737 MAX incident, halting deliveries. Economic: Delays $10B+ revenue. Psychology: Renewed safety fears erode confidence. Parallels: 2019 MAX crisis (-20%). Analogies: Like a plane grounded mid-flight; trust parachute failure.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-10%",
+                "reasoning": "Negative headlines dominate web; X semantic search reveals panic selling sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip buy at $170.",
+                "short_position": "Short for 10% downside to $165.",
+                "key_risks": "Resolution faster than expected, govt bailout."
+            },
+            "confidence_rating": "A",
+            "justification": "Regulatory actions historically cause sharp drops."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.1,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 38.7,
+                "volume": "8,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Announced expanded partnership with NVIDIA for AI servers, backlog +50%. Economic: Fuels data center buildout. Psychology: Piggyback on NVDA hype. Parallels: 2024 AI server surge. Analogies: The chassis to NVDA's engine; AI infrastructure gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Synergistic news with NVDA; positive X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $1000, 12% gain.",
+                "short_position": "High volatility, 8% drop possible.",
+                "key_risks": "Margin squeeze, inventory glut."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to NVDA but smaller cap higher beta."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 45.8,
+                "market_cap": "$105B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 210.4,
+                "volume": "65,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Secured $500M US Army AI contract. Economic: Govt spending on defense AI. Psychology: Validates commercial pivot. Parallels: Post-IPO contract wins. Analogies: Crystal ball for military intel; data oracle strikes gold.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Govt contracts reliable revenue; X posts hype 'PLTR to moon'."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7-10% on contract momentum.",
+                "short_position": "Short if profitability misses.",
+                "key_risks": "High valuation, contract delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Recurring theme but valuation stretched."
+        }
+    ]
+}
