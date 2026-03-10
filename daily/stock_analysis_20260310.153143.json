@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MOBX",
+                "full_name": "Mobix Labs, Inc.",
+                "current_price": 1.5,
+                "market_cap": "$50M",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 2.0,
+                    "low": 0.1
+                },
+                "pe_ratio": -15.2,
+                "volume": "150M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mobix Labs announced a significant U.S. Navy order for Tomahawk missile components, accelerating production amid heightened geopolitical tensions from Iran conflict signals. Economically, boosts defense sector spending; psychologically, FOMO drives retail frenzy on penny stock surge. Parallels 2022 defense rally post-Ukraine; analogies: like a spark igniting dry tinder in volatile markets, or a dam breaking after pressure buildup.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "X sentiment highly positive with mentions of surges; web news highlights order as catalyst. Defense tailwinds from Iran war fears amplify. High volume confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 30% gains on continued defense hype; target $2.00.",
+                "short_position": "Short if fades post-pump, potential 20% loss.",
+                "key_risks": "Penny stock volatility, dilution, contract delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalyst and volume, but microcap risks temper high confidence."
+        },
+        {
+            "details": {
+                "ticker": "ATPC",
+                "full_name": "Agape ATP Corporation",
+                "current_price": 2.2,
+                "market_cap": "$30M",
+                "sector_industry": "Healthcare/Wellness Products",
+                "high_low_52_week": {
+                    "high": 3.5,
+                    "low": 0.5
+                },
+                "pe_ratio": -8.5,
+                "volume": "80M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Unspecified catalyst sparked +92% intraday surge per X posts, likely momentum or rumor in wellness sector. Implications: retail-driven pump in small caps amid market wobble. Psychology: herd behavior in low-float stocks. Parallels meme surges 2021; analogies: snowball rolling downhill, or match lighting gasoline.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X latest posts show top gainer status, high engagement. No major news but volume explosion indicates sentiment flip to positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long for 20% quick flip.",
+                "short_position": "Short on fade, 15% downside.",
+                "key_risks": "Pump-dump scheme, low float halts."
+            },
+            "confidence_rating": "C",
+            "justification": "Pure momentum without clear news, moderate confidence."
+        },
+        {
+            "details": {
+                "ticker": "ARQ",
+                "full_name": "Arq, Inc.",
+                "current_price": 2.8,
+                "market_cap": "$150M",
+                "sector_industry": "Industrials/Pollution Control",
+                "high_low_52_week": {
+                    "high": 8.0,
+                    "low": 2.5
+                },
+                "pe_ratio": -35.1,
+                "volume": "50M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4/FY2025 earnings released March 10 missed expectations despite FY26 EBITDA guidance $17-20M. Economic: highlights industrial slowdown; psychology: profit-taking panic. Parallels post-earnings drops in cyclical stocks; analogies: punctured balloon, or house of cards collapsing.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-30%",
+                "reasoning": "X flags as top decliner -42%; earnings call today confirms miss, negative sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if oversold, 15% rebound.",
+                "short_position": "Short for 25% further decline.",
+                "key_risks": "Guidance beats expectations on re-read, short squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with clear miss, high confidence."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 14.5,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 18.0,
+                    "low": 9.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "DOJ legal opinion boosts California pipeline restart hopes amid oil slide from Iran jitters easing. Implications: production ramp potential; psychology: relief rally. Parallels 2023 energy permitting wins; analogies: clearing storm clouds for sunshine, or unlocking a chained beast.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "News of DOJ opinion, stock gapped up; X/oil context positive despite broader energy dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on pipeline progress, 20% upside.",
+                "short_position": "Avoid or short if oil crashes further.",
+                "key_risks": "Regulatory reversals, oil price volatility from geopolitics."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid legal news, but tied to volatile energy sector."
+        },
+        {
+            "details": {
+                "ticker": "DXST",
+                "full_name": "Decent Holding Inc.",
+                "current_price": 1.8,
+                "market_cap": "$20M",
+                "sector_industry": "Industrials/Waste Management",
+                "high_low_52_week": {
+                    "high": 2.5,
+                    "low": 0.3
+                },
+                "pe_ratio": 12.5,
+                "volume": "60M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FY2025 financial results announced, showing improvement in wastewater services. Economic: China infra demand; psychology: undervalued turnaround. Parallels small cap recovery plays; analogies: phoenix rising, or seed sprouting after rain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Stocktitan ranks high gainer +152%; X active, positive FY news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for growth in China enviro services, 25% gains.",
+                "short_position": "Short if China slowdown hits.",
+                "key_risks": "Geopolitical China risks, execution."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings positive, volume support, but small cap/China exposure."
+        }
+    ]
+}
