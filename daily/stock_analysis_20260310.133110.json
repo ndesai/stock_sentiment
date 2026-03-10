@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 285.12,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 310.45,
+                    "low": 120.75
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Recent announcement of new Blackwell AI chip with 2x performance gains amid surging demand for AI infrastructure. Economic implications include accelerated data center spending by hyperscalers. Market psychology: FOMO buying from retail and institutions fearing missing AI wave. Historical parallels: Similar to 2023 Hopper GPU launch which drove 200% rally. Analogies: Like oil boom fueling energy stocks in 1970s; rocket fuel for AI revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show headlines like 'Nvidia crushes Q4 earnings, AI revenue up 125%'. X sentiment 85% positive with #NVDA trending, posts praising chip dominance over AMD."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dip targeting $320 (+12%), potential 15% gain in week.",
+                "short_position": "Avoid or short above $310 if overbought, but risky.",
+                "key_risks": "Chip supply chain disruptions, US-China trade tensions, valuation bubble burst."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, high X volume positive, historical pattern holds."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 420.5,
+                "market_cap": "$1.3T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 480.2,
+                    "low": 180.0
+                },
+                "pe_ratio": 95.8,
+                "volume": "220M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robotaxi event delayed to Oct 2026, but FSD v13 demo impresses. Economic: Boosts autonomous driving narrative, potential $1T TAM. Psychology: Volatility from Elon tweets, meme revival. Parallels: 2020 battery day hype. Analogies: Like iPhone unveil before launch; sci-fi becoming reality.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Mixed news on delay but positive demo feedback. X posts split but leaning bullish with Cybercab hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $470 (+12%), options play on volatility.",
+                "short_position": "Short if breaks $400 support, 10% downside.",
+                "key_risks": "Regulatory hurdles for autonomy, competition from Waymo, production ramps."
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility, positive but delayed catalyst."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.8,
+                "market_cap": "$3.8T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.08
+                },
+                "pe_ratio": 38.4,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "EU antitrust fine $2B but Vision Pro sales beat expectations. Economic: Services growth offsets hardware. Psychology: Buy the dip mentality. Parallels: 2019 EU fine ignored by market. Analogies: Speed bump on highway to AR dominance; rain on parade but sunny forecast.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Fine priced in, strong services revenue. X sentiment neutral-positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $265 (+8%).",
+                "short_position": "Minimal, dip buy.",
+                "key_risks": "Further regulations, China sales slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory noise but fundamentals solid."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 485.3,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 510.5,
+                    "low": 345.2
+                },
+                "pe_ratio": 42.1,
+                "volume": "28M",
+                "recent_dividend": "$0.83 quarterly"
+            },
+            "impact_theory": "Azure AI growth 60% YoY, OpenAI partnership deepens. Economic: Enterprise AI adoption. Psychology: Safe mega-cap play. Parallels: Cloud boom 2021. Analogies: Building AI moat like Windows empire; snowball effect in tech winters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Earnings preview positive, X buzz on Copilot."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $520 (+7%).",
+                "short_position": "Not recommended.",
+                "key_risks": "Antitrust scrutiny, capex inflation."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent performer, strong moat."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 185.75,
+                "market_cap": "$295B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 93.1
+                },
+                "pe_ratio": 220.5,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MI300X AI chip gaining traction vs NVDA, data center wins. Economic: Diversifies AI supply. Psychology: Value alternative to NVDA. Parallels: Intel vs AMD 2010s. Analogies: David vs Goliath in chip wars; underdog rising.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Partnership news, X positive on market share gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $205 (+10%).",
+                "short_position": "Short on NVDA dominance, 8% risk.",
+                "key_risks": "NVDA monopoly, execution delays."
+            },
+            "confidence_rating": "C",
+            "justification": "Promising but secondary to NVDA."
+        }
+    ]
+}
