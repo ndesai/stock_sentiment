@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 385.5,
+                "market_cap": "$95B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 80.5,
+                "volume": "15.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ramp up in cyberterrorism amid Iran war tensions, Cramer endorsement, Trump $15B cyber budget. Economic: boosts defense spending, contracts for cyber firms. Psych: fear drives safe-haven buying in cyber stocks while broad market sells off. Parallels: post-2021 SolarWinds hack rally in cyber. Analogies: Like buying fire insurance during wildfire season; armoring tanks before battle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment highly positive with +20% mentions, web news on cyber attacks, Cramer call; outperforms market down 1-2%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-15% gains in 1-2 weeks on contract wins.",
+                "short_position": "Avoid or short if de-escalation; potential -5% pullback.",
+                "key_risks": "Geopolitical de-escalation reduces urgency; high valuation vulnerable to rotation."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, Cramer, policy support align with historical cyber rallies."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 52.3,
+                "market_cap": "$120B",
+                "sector_industry": "Technology / Software & Data Analytics",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 20.0
+                },
+                "pe_ratio": -45.2,
+                "volume": "80.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "NVIDIA partnership on Sovereign AI OS reference architecture announced. Economic: accelerates AI infra deals, esp gov't sovereign AI. Psych: breakout charts fuel FOMO. Parallels: 2023 AI boom post-ChatGPT. Analogies: Like Ford partnering with Tesla on EVs; building the OS for AI factories.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X posts on cup/handle breakout, NVDA collab; positive sentiment amid tech dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $60, +15% potential.",
+                "short_position": "Short if fails breakout, -8%.",
+                "key_risks": "High short interest, dilution fears."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but speculative valuation."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 410.0,
+                "market_cap": "$130B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 60.2,
+                "volume": "4.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cyber strategy budget, Iran cyber threats boost sector. Economic: increased enterprise/gov spending. Psych: defensive play in turmoil. Parallels: Ukraine war cyber surge 2022. Analogies: Lifeboats on Titanic; antivirus in virus outbreak.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "X shows +12% gains, sector leader in posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "+10% on momentum.",
+                "short_position": "-4% if sector cools.",
+                "key_risks": "Competition, earnings miss."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent mentions with CRWD in cyber rally."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 135.2,
+                "market_cap": "$550B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 14.1,
+                "volume": "20.3M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil >$100 on tanker attacks, Gulf tensions. Economic: higher revenues, margins. Psych: inflation hedge. Parallels: 2022 Ukraine oil spike. Analogies: Gold rush for drillers; gas during blizzard.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil surge news, X on Russia profits; energy outperforms."
+            },
+            "potential_profit_risks": {
+                "long_position": "+8% to 52w high.",
+                "short_position": "-5% on de-escalation.",
+                "key_risks": "Price cap, recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Commodity direct play, but volatile."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 182.5,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 70.3,
+                "volume": "500M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "PLTR partnership positive, but bubble fears, stochastic bear cross, market selloff. Economic: AI demand strong but valuation strain. Psych: profit-taking. Parallels: 2000 dotcom. Analogies: Overinflated balloon; Ferrari in traffic jam.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "X bearish signals, broader tech down despite collab."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip +5-10% rebound.",
+                "short_position": "-7% to support.",
+                "key_risks": "AI hype fade, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals, high uncertainty."
+        }
+    ]
+}
