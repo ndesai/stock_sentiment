@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 52.35,
+                "market_cap": "$120B",
+                "sector_industry": "Technology / Software - AI & Data Analytics",
+                "high_low_52_week": {
+                    "high": 65.2,
+                    "low": 18.5
+                },
+                "pe_ratio": 245.6,
+                "volume": "65M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Palantir announced a Sovereign AI OS reference architecture with NVIDIA, providing turnkey AI datacenters; partnered with Centrus Energy identifying $300M cost savings for uranium enrichment expansion; hosted AIPCon event; CEO supported US Iran approach highlighting AIP's targeted ops potential. Economic implications: Accelerates sovereign AI adoption, enhances US energy security amid nuclear revival. Market psychology: Positions PLTR as indispensable AI enabler for gov/commercial. Historical parallels: Similar to MSFT's cloud partnerships in 2010s boosting Azure. Analogies: 1. Like AWS building cloud highways for apps. 2. Assembling Lego sets for instant AI factories.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X posts show high engagement on partnerships/AIPCon (e.g., $300M savings, NVDA collab), positive sentiment; web news highlights expansion of defense TAM and commercial wins; overall AI hype amid tensions boosts PLTR's dual-use tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could see 20% gains in 1-2 weeks on momentum; target $65.",
+                "short_position": "Avoid shorts; limited downside with catalysts.",
+                "key_risks": "Broader tech selloff from oil/geopolitics, high valuation vulnerable to rotation."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple fresh catalysts, strong X buzz, aligns with AI/geopolitical trends."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 135.8,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Iran war escalates with tanker attacks in Strait of Hormuz, oil surges past $100; threats to block strait. Economic: Supply disruption ~20% global oil, inflation spike, stagflation risk. Psychology: Flight to energy stocks, fear of prolonged crisis. Historical: 1979 oil crisis +150% prices. Analogies: 1. Like Suez Canal block but for oil. 2. Pinching garden hose - pressure builds upstream.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Oil rebound to $96+ pressures broad market but lifts majors like XOM; X/web highlight energy picks amid tensions; historical outperformance in crises."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% upside to $150 on sustained oil >$100.",
+                "short_position": "Short if de-escalation; 5-8% drop possible.",
+                "key_risks": "Quick resolution/diplomacy, SPR releases flooding supply."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary of clear geopolitical catalyst, strong historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 65.4,
+                "volume": "420M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "Partnered with PLTR on Sovereign AI OS reference architecture for datacenters. Economic: Enables nations/companies rapid AI infra buildout. Psychology: Reinforces NVDA GPU dominance in AI race. Historical: CUDA ecosystem like Intel's in PCs. Analogies: 1. Providing engines for AI race cars. 2. Gold rush picks and shovels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Synergy with PLTR news amplifies; X mentions in trending AI context despite market dip; sovereign AI demand rising."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to $155 on AI momentum.",
+                "short_position": "Short on rotation out of tech; 5% downside.",
+                "key_risks": "Geopolitical market pressure, AI bubble fears."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid partnership but secondary to PLTR, market headwinds."
+        },
+        {
+            "details": {
+                "ticker": "LEU",
+                "full_name": "Centrus Energy Corp.",
+                "current_price": 125.4,
+                "market_cap": "$2.1B",
+                "sector_industry": "Energy / Uranium",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "1.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strategic partnership with PLTR deploying AI for uranium enrichment expansion, already $300M savings; EPC with Fluor. Economic: Cuts costs for US domestic supply amid bans on Russia. Psychology: Nuclear renaissance play. Historical: Uranium boom post-Fukushima. Analogies: 1. AI optimizing oil rigs. 2. Software supercharging hardware factories.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "X posts highlight Evercore upgrade $390 PT; ties to energy security/oil crisis; small cap volatility amplifies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long explosive 25%+ to $150.",
+                "short_position": "Avoid; momentum strong.",
+                "key_risks": "Execution delays, uranium price volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive news but smaller cap, higher risk."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla Inc.",
+                "current_price": 401.91,
+                "market_cap": "$1.3T",
+                "sector_industry": "Consumer Cyclical / Auto - EV",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 98.7,
+                "volume": "110M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "High oil prices from Hormuz crisis hurt EV adoption; technical rejection at trendline. Economic: Higher fuel costs delay switch to EVs. Psychology: Rotation from growth to value/energy. Historical: 2022 oil spike pressured TSLA. Analogies: 1. Headwind for solar on cloudy day. 2. EV like sailboat in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "X technical bearish posts, rejection; oil surge negative for EVs; high volume selling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if bounces; 8% to $430.",
+                "short_position": "Short for 10% to $360.",
+                "key_risks": "Robotaxi news reversal, strong support."
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect impact, technicals mixed."
+        }
+    ]
+}
