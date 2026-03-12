@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 153.74,
+                "market_cap": "$693B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 160.5,
+                    "low": 110.2
+                },
+                "pe_ratio": 12.5,
+                "volume": "18,500,000",
+                "recent_dividend": "$0.95 quarterly, yield 2.5%"
+            },
+            "impact_theory": "Middle East tensions, particularly Iran conflict and tanker attacks, drove oil prices near $100/barrel. Trump's statement that the war is 'very complete' provided temporary relief but supply fears persist. Economic implications: higher energy costs fuel inflation, boosting energy profits. Market psychology: flight to energy on safe-haven amid risk-off. Historical parallels: 2019 Iran tensions spiked oil 10%+. Analogies: like betting on umbrellas during a storm forecast; fueling the fire of inflation worries.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Oil surge benefits XOM's upstream operations; web searches confirm energy rally amid conflict; X sentiment positive on commodities."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% gains on sustained high oil; target $162.",
+                "short_position": "Avoid or short if de-escalation confirmed, potential 3% drop.",
+                "key_risks": "Quick war resolution drops oil 10-15%; recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation oil price to stock; multiple news confirm surge impact."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 192.83,
+                "market_cap": "$350B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 11.8,
+                "volume": "12M",
+                "recent_dividend": "$1.71 quarterly, yield 3.5%"
+            },
+            "impact_theory": "Same Iran war/oil surge event; BofA upgrade to $206 PT amid tensions. Implications: margin expansion from high crude. Psychology: defensive play in volatility. Parallels: 2022 Ukraine oil spike +20%. Analogies: ship rising with tide; armor in battle of markets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Analyst upgrades + oil rally; positive X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 4-7% upside to $205.",
+                "short_position": "Risky, only on peace news.",
+                "key_risks": "Geopolitical de-escalation, regulatory hurdles."
+            },
+            "confidence_rating": "A",
+            "justification": "Recent upgrades align with macro event."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 58.21,
+                "market_cap": "$52B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "12,628,169",
+                "recent_dividend": "$0.22 quarterly, yield 1.5%"
+            },
+            "impact_theory": "Oil surge + natural gas deal; Wells Fargo positive 2026 outlook. Implications: accelerated production. Psychology: high beta energy play. Parallels: 2020 recovery. Analogies: rocket fuel from conflict; wild horse in stampede.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Up 5.76% today per news; sentiment shift to growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% to $63.",
+                "short_position": "Short if oil peaks.",
+                "key_risks": "Debt load, oil volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong daily move, analyst support."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 49.5,
+                "market_cap": "$32B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 7.5,
+                "volume": "15M",
+                "recent_dividend": "$0.1875 quarterly"
+            },
+            "impact_theory": "High oil erodes margins; $100 oil threatens 2026 EPS. Implications: fuel costs 30%+ of expenses. Psychology: risk-off sell travel. Parallels: 2008 oil spike -20% airlines. Analogies: plane grounded by headwinds; burning cash on fuel.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-10%",
+                "reasoning": "Multiple articles on airline plunge; negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy if oil falls.",
+                "short_position": "Short for 8-12% downside to $44.",
+                "key_risks": "Demand resilience, hedging."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear inverse oil relation."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.0,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "300M",
+                "recent_dividend": "Minimal, $0.01"
+            },
+            "impact_theory": "Risk-off from war/oil hits tech; but AI foundational per CEO. Implications: delayed capex? Psychology: rotation from growth. Parallels: 2022 bear. Analogies: lighthouse in storm; bubble pops on macro.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "AI hype persists despite market dip; X movers include NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long rebound 5%; target 132.",
+                "short_position": "Short if recession, -10%.",
+                "key_risks": "Valuation stretch, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals, less direct impact."
+        }
+    ]
+}
