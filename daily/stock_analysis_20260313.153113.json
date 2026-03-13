@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LWLG",
+                "full_name": "Lightwave Logic, Inc.",
+                "current_price": 7.08,
+                "market_cap": "$730M",
+                "sector_industry": "Technology / Photonics",
+                "high_low_52_week": {
+                    "high": 8.0,
+                    "low": 0.79
+                },
+                "pe_ratio": 0.0,
+                "volume": "High (millions)",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Lightwave Logic surged 41% amid broader market selloff due to Iran tensions and oil spikes. News of development agreement with Tower Semiconductor for high-speed modulators on silicon photonics platform ties into AI/data center boom. Economic implications: boosts AI infrastructure efficiency. Market psychology: flight to tech innovators. Historical parallels: similar surges in photonics stocks during 2023 AI hype. Analogies: like a turbocharger for data highways; rocket fuel for AI optics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X sentiment positive on tech movers, web shows top gainer status despite market down on geopolitics. Earnings momentum and AI tie-in support further gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% gains on AI hype continuation",
+                "short_position": "Short if offering dilution hits (recent $35M raise)",
+                "key_risks": "Volatility from small cap, dilution, broader tech pullback on rates/oil."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong price action and news, but small cap risks moderate confidence."
+        },
+        {
+            "details": {
+                "ticker": "ONDS",
+                "full_name": "Ondas Holdings Inc.",
+                "current_price": 10.33,
+                "market_cap": "$500M",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 1.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$30M+ defense contract and Palantir partnership amid Iran war boost defense tech demand. Economic: increased military autonomy spending. Psychology: safe haven in geopolitics. Parallels: drone stocks in Ukraine war. Analogies: like arming drones with AI brains; shield in cyber-physical wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "X posts highlight contract, web news on partnerships; top mover amid oil/market fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $16 analyst PT, 50% upside",
+                "short_position": "Avoid or short on execution risks",
+                "key_risks": "Geopolitical de-escalation, contract delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalysts and sector tailwinds from current events."
+        },
+        {
+            "details": {
+                "ticker": "BMBL",
+                "full_name": "Bumble Inc.",
+                "current_price": 3.81,
+                "market_cap": "$1.5B",
+                "sector_industry": "Communication Services / Interactive Media",
+                "high_low_52_week": {
+                    "high": 15.0,
+                    "low": 3.0
+                },
+                "pe_ratio": -10.0,
+                "volume": "Elevated",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Earnings beat and guidance lift caused 34% surge. Implications: resilient consumer spending on dating apps. Psychology: relief rally in beaten-down tech. Parallels: post-earnings pops in social stocks like SNAP 2023. Analogies: spark igniting user growth fire; match.com in bull market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Earnings surprise amid macro fears, positive X/web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-earnings momentum, 15% gains",
+                "short_position": "Short on competition from Tinder",
+                "key_risks": "Economic slowdown hits discretionary spend."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings driven, but sector cyclical."
+        },
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 25.0,
+                "market_cap": "$5B",
+                "sector_industry": "Healthcare / Specialty Retail",
+                "high_low_52_week": {
+                    "high": 70.0,
+                    "low": 13.0
+                },
+                "pe_ratio": 50.0,
+                "volume": "High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rallied on Novo Nordisk partnership for weight-loss drugs, GLP-1 demand. Implications: telehealth expansion in obesity market. Psychology: momentum from health trends. Parallels: telehealth boom in COVID. Analogies: Uber for prescriptions; GLP-1 gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Recent 58% rally, positive news despite some legal pressures."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on GLP-1 tailwinds, 20% upside",
+                "short_position": "Short if competition/legal issues",
+                "key_risks": "Regulatory scrutiny, drug pricing."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong trend but valuation stretched."
+        },
+        {
+            "details": {
+                "ticker": "IREN",
+                "full_name": "Iris Energy Limited",
+                "current_price": 40.38,
+                "market_cap": "$7B",
+                "sector_industry": "Technology / AI Cloud Services",
+                "high_low_52_week": {
+                    "high": 76.87,
+                    "low": 5.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "Active",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Shift to AI cloud, expanding GPUs, MSCI index add. Implications: bitcoin mining pivot to AI infra amid power costs. Psychology: AI hype. Parallels: mining to AI like MARA. Analogies: bitcoin rigs reborn as AI beasts; green data centers goldmine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "AI expansion news, X mentions, resilient amid market dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for AI infra play, 30% gains",
+                "short_position": "Short on energy costs/crypto volatility",
+                "key_risks": "Competition from hyperscalers, power prices."
+            },
+            "confidence_rating": "B",
+            "justification": "Strategic pivot strong, but execution risks."
+        }
+    ]
+}
