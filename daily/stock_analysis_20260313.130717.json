@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 395.2,
+                "market_cap": "$1.26T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 350.0
+                },
+                "pe_ratio": 95.5,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Cybercab prototype with new logo spotted in Austin, signaling imminent production ramp and robotaxi service expansion. Economic implications: Positions Tesla as leader in autonomous mobility, potentially adding trillions in long-term value via robotaxi fleets. Market psychology: Generates FOMO among retail investors amid broader market sell-off, countering macro fears. Historical parallels: Similar to 2020 battery day hype leading to 700% rally. Analogies: 1) Like Apple's iPhone unveil sparking decade-long bull run; 2) SpaceX Starship tests boosting valuation pre-revenue.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X posts show overwhelming positive sentiment (e.g., 'buy under $400 generational entry', Cybercab excitement), web news highlights regulatory deadlines and BofA buy rating at $460. Oil/geopolitical noise overshadowed, but Tesla-specific catalysts drive decoupling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on robotaxi rollout confirmation; target $450.",
+                "short_position": "Avoid short; high short squeeze risk.",
+                "key_risks": "Regulatory hurdles on FSD, broader EV slowdown, Elon distractions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz (20+ positive posts), consistent historical pattern on product reveals."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 452.3,
+                "market_cap": "$205B",
+                "sector_industry": "Technology/Software - Application",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "15M",
+                "recent_dividend": "$1.60 quarterly"
+            },
+            "impact_theory": "Event: Q1 earnings beat but CEO Shantanu Narayen announces step down, muted FY guidance amid AI competition fears. Economic implications: Uncertainty in leadership transition hampers AI pivot (Firefly), potential subscriber churn to open-source alternatives. Market psychology: Panic selling in SaaS sector already down $1T. Historical parallels: Similar to Salesforce post-Benioff succession rumors dips. Analogies: 1) Captain abandoning ship mid-storm; 2) Like GE under Welch successor struggles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Multiple sources (CNBC, Bloomberg) confirm CEO exit post-earnings, stock plunges to 7-year low; X mentions downside with EVCM/PAR. SaaS weakness amplifies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-transition; limited upside.",
+                "short_position": "Short for 10% further drop; target $400.",
+                "key_risks": "New CEO AI surprise rally, subscription stickiness."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news confirmation across outlets, immediate after-hours reaction."
+        },
+        {
+            "details": {
+                "ticker": "CE",
+                "full_name": "Celanese Corporation",
+                "current_price": 59.6,
+                "market_cap": "$6.5B",
+                "sector_industry": "Basic Materials/Chemicals",
+                "high_low_52_week": {
+                    "high": 80.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 12.3,
+                "volume": "8M",
+                "recent_dividend": "$0.03 quarterly"
+            },
+            "impact_theory": "Event: Citigroup upgrades to 'Top Pick' amid Middle East tensions boosting chemical feedstock prices. Economic implications: Higher oil spurs ethylene margins for acetyls producer. Market psychology: Rotation to value/energy amid tech sell-off. Historical parallels: 2022 Ukraine war chemical rally. Analogies: 1) Tailwind from commodity supercycle; 2) Like fertilizer firms in 2021 ag boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Top gainer +14.75% (Yahoo), Citi PT $81; benefits from oil spike per reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% upside on sustained oil >$100; target $72.",
+                "short_position": "Minimal; momentum strong.",
+                "key_risks": "Oil de-escalation, demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear gainer status, upgrade news, but tied to volatile geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "CF",
+                "full_name": "CF Industries Holdings, Inc.",
+                "current_price": 105.2,
+                "market_cap": "20B",
+                "sector_industry": "Basic Materials/Agricultural Inputs",
+                "high_low_52_week": {
+                    "high": 108.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 15.8,
+                "volume": "5M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Event: Continued rally on strong nitrogen demand, buybacks; +13% daily amid commodity surge. Economic implications: Fertilizer prices up with oil/ag inflation. Market psychology: Undervalued play in rotation. Historical parallels: 2021-22 urea boom. Analogies: 1) Gold rush for ag commodities; 2) Like rare earths in EV shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Multi-month rally 37%, new highs (Nasdaq, Investing.com); top gainer lists."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% on ag cycle; target $120.",
+                "short_position": "Risky near highs.",
+                "key_risks": "Crop yield oversupply, recession cuts demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum evident, but less specific daily news vs. others."
+        },
+        {
+            "details": {
+                "ticker": "MPC",
+                "full_name": "Marathon Petroleum Corporation",
+                "current_price": 230.09,
+                "market_cap": "$82B",
+                "sector_industry": "Energy/Oil & Gas Refining - Midstream",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 9.2,
+                "volume": "4M",
+                "recent_dividend": "$1.00 quarterly"
+            },
+            "impact_theory": "Event: Oil surge from Iran/ME tensions boosts refining margins. Economic implications: Crack spreads widen, higher throughput profits. Market psychology: Safe haven in energy amid risk-off. Historical parallels: 2019 drone attacks on Saudi Aramco. Analogies: 1) Refiner's paradise in oil shock; 2) Like airlines in cheap fuel era (inverse).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Jumps 4-5% on oil rally (Quiver, Yahoo), Q4 blowout echoes; energy sector +2%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12% on oil $100+; target $260.",
+                "short_position": "Avoid amid geopolitics.",
+                "key_risks": "Quick de-escalation, demand destruction."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to macro oil event, high conviction on short-term but volatile."
+        }
+    ]
+}
