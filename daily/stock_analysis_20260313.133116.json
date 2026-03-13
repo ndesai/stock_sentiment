@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 18.5,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy / Oil & Gas Exploration",
+                "high_low_52_week": {
+                    "high": 20.4,
+                    "low": 4.5
+                },
+                "pe_ratio": -12.5,
+                "volume": "15.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Reports emerged that President Trump plans to invoke emergency powers to facilitate the restart of Sable Offshore's operations off the California coast, amid a standoff with regulators. This news triggered a sentiment shift from regulatory uncertainty to optimism. Economic implications include boosted US oil production amid Iran tensions and rising oil prices. Market psychology: FOMO buying on political intervention. Historical parallel: 2022 Exxon permits under Biden. Analogies: 1) Like a dam breaking after years of drought - pent-up supply floods market. 2) Political lifeline tossed to a sinking ship in stormy oil seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Multiple reports (Yahoo, Seeking Alpha) of 15-20% jumps; X sentiment positive on energy plays amid war news. Web searches confirm trader bets on Trump intervention. Continued momentum likely into March 14."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20%+ gains if restart confirmed; target $22.",
+                "short_position": "Avoid or short if legal hurdles persist; potential 10% drop.",
+                "key_risks": "Regulatory backlash, oil price reversal from Iran de-escalation, high short interest."
+            },
+            "confidence_rating": "A",
+            "justification": "Overwhelming news volume, consistent price surges, ties to broader energy sentiment from geopolitical events."
+        },
+        {
+            "details": {
+                "ticker": "AMPX",
+                "full_name": "Amprius Technologies, Inc.",
+                "current_price": 2.45,
+                "market_cap": "$280M",
+                "sector_industry": "Technology / Batteries (Silicon Anode)",
+                "high_low_52_week": {
+                    "high": 2.8,
+                    "low": 0.8
+                },
+                "pe_ratio": -8.2,
+                "volume": "45.6M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Amprius reported Q4 2025 results with revenue up YoY, issuing 2026 guidance for $125M+ revenue (70% growth) and reduced losses. Shift from skepticism to excitement on EV battery scalability. Implications: Positions in high-energy density batteries amid EV boom. Psychology: Volume spike signals breakout. Parallels: QuantumScape hype cycles. Analogies: 1) Rocket fuel for stagnant EV sector. 2) Like upgrading from coal to nuclear in power storage.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "StockTitan ranks #2 monthly gainer +58%; Yahoo/Motley Fool coverage on surge post-guidance. Limited X but positive EV sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum trade for 30% upside on partnerships.",
+                "short_position": "Short if misses production ramps; 15% downside.",
+                "key_risks": "Execution delays, competition from CATL, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong guidance but smaller cap, volatile; backed by earnings but needs follow-through."
+        },
+        {
+            "details": {
+                "ticker": "NIO",
+                "full_name": "NIO Inc.",
+                "current_price": 5.8,
+                "market_cap": "$12.1B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers (EV)",
+                "high_low_52_week": {
+                    "high": 7.5,
+                    "low": 3.9
+                },
+                "pe_ratio": -2.1,
+                "volume": "28.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "NIO posted first-ever quarterly profit, sparking mixed reactions amid China EV price wars. Implications: Path to profitability reduces burn rate concerns. Psychology: Relief rally but analyst caution on growth. Parallels: Tesla 2013 profitability milestone. Analogies: 1) First green shoot in desert of losses. 2) Like a phoenix rising from EV subsidy ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Yahoo video highlights profit; premarket mover per CNBC/X. Sentiment shift from loss-making to sustainable."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15% rebound on deliveries.",
+                "short_position": "Short if China demand weakens; 10% drop.",
+                "key_risks": "Competition, tariffs, CEO pay package scrutiny."
+            },
+            "confidence_rating": "B",
+            "justification": "Historic profit but mixed analyst views, EV sector volatility."
+        },
+        {
+            "details": {
+                "ticker": "RIVN",
+                "full_name": "Rivian Automotive, Inc.",
+                "current_price": 14.2,
+                "market_cap": "$14.3B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers (EV)",
+                "high_low_52_week": {
+                    "high": 18.0,
+                    "low": 8.2
+                },
+                "pe_ratio": -3.8,
+                "volume": "22.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "TD Cowen upgrades to Buy ahead of R2 SUV unveil at SXSW March 12; Autonomy updates. Shift to growth optimism. Implications: Mass-market expansion. Psychology: Catalyst hype. Parallels: Ford F-150 Lightning launch. Analogies: 1) Compact cannonball in EV wars. 2) Bridge from luxury to mainstream EVs.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Yahoo/CNBC coverage on upgrade; X mentions as mover. Ties to EV focus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ahead of R2 details; 20% potential.",
+                "short_position": "Fade hype post-event; 8% pullback.",
+                "key_risks": "Production delays, VW partnership risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst upgrade solid but event-dependent."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 485.0,
+                "market_cap": "$215B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "8.9M",
+                "recent_dividend": "$1.60 quarterly"
+            },
+            "impact_theory": "CEO Shantanu Narayen to step down after 18 years, amid AI disruption concerns and solid earnings. Sentiment from stability to uncertainty on leadership transition. Implications: Potential strategy shifts in AI race. Psychology: Fear of unknown successor. Parallels: Microsoft Ballmer to Nadella. Analogies: 1) Captain jumping ship mid-voyage. 2) Changing goalie before playoffs.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7-12%",
+                "reasoning": "CNBC/Reuters report 8-9% drop premarket; investor fears on AI continuity per web searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip if earnings strong; rebound 10%.",
+                "short_position": "Short transition uncertainty; 15% downside.",
+                "key_risks": "AI competition (e.g., Canva), successor quality."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct CEO news with immediate price reaction, high coverage."
+        }
+    ]
+}
