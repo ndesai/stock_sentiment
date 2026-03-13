@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 17.45,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 18.0,
+                    "low": 8.5
+                },
+                "pe_ratio": 12.5,
+                "volume": "5.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: DOJ legal opinion and potential federal intervention allowing restart of Santa Ynez Unit offshore platforms amid soaring oil prices from U.S.-Iran conflict escalation. Economic implications: Boosts U.S. domestic oil supply, supports energy independence. Market psychology: FOMO buying on small-cap energy play with 100%+ monthly gains. Historical parallels: Similar surges in offshore stocks during 2022 Ukraine crisis oil spikes. Analogies: Like a dam breaking - pent-up production floods market; rocket fuel for shortsqueeze.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X sentiment highly positive with mentions of raging back; news on Trump intervention, DOJ opinion driving momentum. Oil >$95 supports. Web searches confirm monthly top gainer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains on production restart catalyst; target $22.",
+                "short_position": "Avoid or short on profit-taking post-spike, potential -10%.",
+                "key_risks": "Regulatory delays, oil price retreat, geopolitical de-escalation."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming news sources, top monthly gainer, high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "AMPX",
+                "full_name": "Amprius Technologies, Inc.",
+                "current_price": 2.15,
+                "market_cap": "$220M",
+                "sector_industry": "Technology / Batteries",
+                "high_low_52_week": {
+                    "high": 2.5,
+                    "low": 0.8
+                },
+                "pe_ratio": -15.2,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Issued strong FY2026 guidance with 70%+ revenue growth, ESOP registration, analyst upgrades. Economic implications: Positions in EV/AI battery demand boom. Market psychology: Short squeeze + growth hype. Historical parallels: Battery stocks like QS in 2021. Analogies: Like planting seeds in fertile soil - guidance waters explosive growth; snowball rolling downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "News on 54% surge post-guidance; X trending as monthly rocket. Positive analyst sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $3+ on momentum, 40% upside.",
+                "short_position": "Short on dilution risks, -15%.",
+                "key_risks": "Execution misses, competition from CATL, market rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong guidance but volatile small-cap."
+        },
+        {
+            "details": {
+                "ticker": "BW",
+                "full_name": "Babcock & Wilcox Enterprises, Inc.",
+                "current_price": 14.76,
+                "market_cap": "$1.3B",
+                "sector_industry": "Industrials / Clean Energy Tech",
+                "high_low_52_week": {
+                    "high": 14.76,
+                    "low": 0.5
+                },
+                "pe_ratio": -8.5,
+                "volume": "3.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: New lucrative project awards, Q4 results, 52w high. Economic implications: Benefits from energy transition/infra spend. Market psychology: Multi-bagger YTD run continues. Historical parallels: Industrial turnarounds like NOC in 2023. Analogies: Phoenix rising from ashes; dam bursting with orders.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "X lists as top rocket; news on project starts, new highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continuation to $20, 35% gains.",
+                "short_position": "Short overbought, -20% pullback.",
+                "key_risks": "Earnings miss upcoming Mar 16, debt levels."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum strong but upcoming earnings risk."
+        },
+        {
+            "details": {
+                "ticker": "VLO",
+                "full_name": "Valero Energy Corp.",
+                "current_price": 234.56,
+                "market_cap": "$75B",
+                "sector_industry": "Energy / Refining",
+                "high_low_52_week": {
+                    "high": 240.27,
+                    "low": 99.0
+                },
+                "pe_ratio": 9.8,
+                "volume": "2.1M",
+                "recent_dividend": "$1.07 quarterly, increased Jan 2026"
+            },
+            "impact_theory": "Event: Oil spike to $100+ from Iran war, wide refinery margins. Economic implications: Higher crack spreads boost profits. Market psychology: Energy sector crush amid geopolitics. Historical parallels: 2022 refinery rally. Analogies: Refinery as money printer during oil volatility; surfer riding geopolitical wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Up 26% month per X; institutional buying."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long $250 target, 7% upside.",
+                "short_position": "Short on oil retreat, -8%.",
+                "key_risks": "Demand destruction, oil pullback."
+            },
+            "confidence_rating": "A",
+            "justification": "Macro tailwinds from oil, confirmed volume."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 255.7,
+                "market_cap": "$110B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Q1 earnings beat ($6.4B rev) but CEO Shantanu Narayen stepping down after 18yrs, AI cannibalization fears. Economic implications: Leadership transition in AI era. Market psychology: Sell on news, uncertainty. Historical parallels: MSFT post-Ballmer. Analogies: Captain abandoning ship mid-storm; rug pull on AI hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Stock down 9% despite beat; X heavy negative on CEO exit, AI threats."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip to $244 support, rebound 10%.",
+                "short_position": "Short to $230, 10% gains.",
+                "key_risks": "Buyback support, AI integration success."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from earnings/CEO, high volume reaction."
+        }
+    ]
+}
