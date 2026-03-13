@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ISPC",
+                "full_name": "iSpecimen Inc.",
+                "current_price": 0.44,
+                "market_cap": "$2.5M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 2.5,
+                    "low": 0.2
+                },
+                "pe_ratio": -1.5,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Launch of AI-powered Inventory Agent streamlines biospecimen matching, enhancing platform efficiency amid rising demand for AI in biotech. Economic implications include faster R&D for pharma. Market psychology: excitement over AI integration in niche market. Historical parallels: similar AI announcements in biotech like Tempus. Analogies: like Uber for biospecimens; AI matchmaker revolutionizing supply chain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+50-100%",
+                "reasoning": "X sentiment highly positive with massive volume surge; news from Yahoo/Biospace on AI launch drove premarket +95%, continued intraday gains. Web searches confirm product revolutionizing matching."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +30-50% on momentum if volume sustains; short-term trade.",
+                "short_position": "Short on fade after pump; potential -20% pullback.",
+                "key_risks": "Low float volatility, dilution risk in microcap biotech, overall market downturn."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalyst and X momentum, but microcap high risk."
+        },
+        {
+            "details": {
+                "ticker": "BIAF",
+                "full_name": "bioAffinity Technologies, Inc.",
+                "current_price": 2.2,
+                "market_cap": "$25M",
+                "sector_industry": "Healthcare/Diagnostics",
+                "high_low_52_week": {
+                    "high": 3.0,
+                    "low": 0.5
+                },
+                "pe_ratio": -5.2,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Record 2025 revenue +87% YoY, CyPath Lung test volumes +99% after dropping unprofitable services. Implications: path to profitability in cancer diagnostics. Psychology: turnaround story in bearish market. Parallels: diagnostic firms post-earnings like Exact Sciences. Analogies: shedding deadweight like a company diet; rocket fuel for growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+80-120%",
+                "reasoning": "Earnings beat with record revenue; X posts show +108% intraday, Reddit hype. StockTitan confirms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +50% potential on continued earnings momentum.",
+                "short_position": "Short post-rally fade -30%.",
+                "key_risks": "Widening losses despite revenue, biotech funding risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Concrete earnings data, high volume, but loss-making."
+        },
+        {
+            "details": {
+                "ticker": "CXAI",
+                "full_name": "CXApp Inc.",
+                "current_price": 0.27,
+                "market_cap": "$8M",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 1.5,
+                    "low": 0.1
+                },
+                "pe_ratio": -2.1,
+                "volume": "5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Nasdaq grants 180-day extension to meet $1 bid price, averting delisting. Implications: breathing room for turnaround. Psychology: relief rally in distressed stock. Parallels: many microcaps bounce on extensions. Analogies: stay of execution; second chance script.",
+            "news_impact_analysis": {
+                "outlook": "Bullish short-term",
+                "estimated_price_impact_pct": "+20-40%",
+                "reasoning": "Yahoo/SEC filings confirm extension to Sep 2026; X premarket +26%, intraday +21%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long bounce +25%; quick trade.",
+                "short_position": "Short if fails to hold gains -15%.",
+                "key_risks": "Fails compliance again, underlying business weak."
+            },
+            "confidence_rating": "C",
+            "justification": "Relief rally typical but unsustainable without fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "IP",
+                "full_name": "International Paper Company",
+                "current_price": 45.5,
+                "market_cap": "$15B",
+                "sector_industry": "Materials/Packaging",
+                "high_low_52_week": {
+                    "high": 48.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "8M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "M&A talks and spin-off plans into two companies (NA/EMEA) post-DS Smith acquisition. Implications: unlocked value, focus. Psychology: restructuring optimism amid market dip. Parallels: GE splits. Analogies: divorcing for better performance; splitting pizza for bigger slices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "TheStreet reports +5.67% lead gainer; PRNewswire on split."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +8% on M&A speculation.",
+                "short_position": "Minimal, stable.",
+                "key_risks": "Execution risks in split, cyclical sector."
+            },
+            "confidence_rating": "A",
+            "justification": "Large cap, concrete restructuring news."
+        },
+        {
+            "details": {
+                "ticker": "ARES",
+                "full_name": "Ares Management Corporation",
+                "current_price": 155.0,
+                "market_cap": "$45B",
+                "sector_industry": "Financials/Asset Management",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "3M",
+                "recent_dividend": "$0.43 quarterly"
+            },
+            "impact_theory": "Rebound in private credit amid volatility; Ares outlook positive on growth/maturity. Implications: attractive yields in uncertain markets. Psychology: safe haven in alts. Parallels: 2022 credit rebound. Analogies: phoenix from volatility ashes; credit buffet in feast times.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "X post notable gainer +5.5%; Ares own outlook, Bloomberg townhall reassurance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +10% on private credit inflows.",
+                "short_position": "Short if rates hurt -5%.",
+                "key_risks": "Market volatility, redemption pressures."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector rebound in down market, strong firm."
+        }
+    ]
+}
