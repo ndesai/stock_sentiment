@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ULTA",
+                "full_name": "Ulta Beauty Inc",
+                "current_price": 535.72,
+                "market_cap": "$25.4B",
+                "sector_industry": "Consumer Cyclical/Beauty Retail",
+                "high_low_52_week": {
+                    "high": 800.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "12,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ulta Beauty reported Q4 earnings that beat EPS but issued disappointing FY2026 guidance with EPS $28.05-$28.55 below consensus, citing rising costs, margin pressure from global conflicts, and softer consumer spending. Economic implications include reduced discretionary spending amid inflation and geopolitical tensions. Market psychology: Selloff on re-rating multiple from growth to value amid consumer slowdown fears. Historical parallels: Similar to 2022 post-earnings drops during inflation peaks. Analogies: 1. Like a beauty product past its shelf life - hype fades on weak outlook. 2. Car braking hard before a turn - growth stalls on macro headwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Earnings beat overshadowed by weak guidance and margin compression; X sentiment negative with mentions of 14% drop; web news confirms tumble on profit miss and global uncertainty affecting shoppers. Analyst buy dip calls but overall sentiment shift down."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited rebound potential +5% if dip buy; wait for stabilization.",
+                "short_position": "Strong short opportunity +10-20% downside if guidance misses continue amid recession fears.",
+                "key_risks": "Quick bounce if analysts upgrade; consumer resilience; broader retail recovery."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with consistent reporting across sources; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.5,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 55.3,
+                "volume": "450,000,000",
+                "recent_dividend": "$0.01"
+            },
+            "impact_theory": "Nvidia GTC 2026 kicks off March 16 with Jensen Huang keynote; anticipation for AI updates, new chips. Economic: Boosts AI capex narrative amid volatility. Psychology: Excitement overrides market dip; bellwether status. Parallels: Past GTCs boosted stock 5-20%. Analogies: 1. Like Apple keynote hype - event drives frenzy. 2. Rocket launch countdown - anticipation builds velocity.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Web searches highlight GTC as big day; analysts watching key announcements; X buzz on AI; historical post-event gains support upside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy ahead of event for 8-15% gains on positive reveals.",
+                "short_position": "Avoid or small if no new catalysts; risk of squeeze.",
+                "key_risks": "Disappointing announcements; broader market selloff from Fed/oil."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong historical precedent but depends on event outcomes; high anticipation."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 161.2,
+                "market_cap": "$650B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "25,000,000",
+                "recent_dividend": "$0.95"
+            },
+            "impact_theory": "Iran war escalates, WTI spikes to $119 briefly; boosts oil majors. Economic: Higher energy prices inflate revenues/profits. Psychology: Safe haven rotation to energy amid volatility. Parallels: 2022 Ukraine invasion rally. Analogies: 1. Filling gas tank in shortage - prices surge. 2. Ship rising with tide - sector lifts all.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Oil crisis news dominant; energy only positive sector; X/web confirm stock gains on supply fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10%+ on sustained oil >$100.",
+                "short_position": "Risky; de-escalation could drop 5-10%.",
+                "key_risks": "Iran ceasefire; demand destruction from high prices."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to oil price action; clear geopolitical driver."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 172.8,
+                "market_cap": "$320B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "18,000,000",
+                "recent_dividend": "$1.71"
+            },
+            "impact_theory": "Similar to XOM, oil spike from Middle East war; Chevron benefits from diversified ops. Economic: Margin expansion. Psychology: Rotation play. Parallels: Gulf wars. Analogies: 1. Like surfing oil wave. 2. Dividend anchor in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Tied to Brent >$100; news on energy outperformance; positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Solid long +7-12% with oil rally.",
+                "short_position": "High risk of squeeze.",
+                "key_risks": "Supply resolution; restructuring news."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but slightly less than XOM due to specific news."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology Inc",
+                "current_price": 426.13,
+                "market_cap": "$95B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "35,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Micron HBM sold out for 2026; AI memory demand surge. Economic: AI infrastructure boom. Psychology: Undervalued AI play. Parallels: 2023 memory recovery. Analogies: 1. Filling AI's memory bank. 2. Gold rush for chips.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "News on sold-out supply, earnings upcoming; stock gaining; positive analyst views."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% on AI tailwinds.",
+                "short_position": "Avoid; momentum strong.",
+                "key_risks": "Earnings miss; cycle downturn."
+            },
+            "confidence_rating": "B",
+            "justification": "AI theme strong but cyclical risks."
+        }
+    ]
+}
