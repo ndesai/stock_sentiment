@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 185.5,
+                "market_cap": "$4.6T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "$0.04 quarterly"
+            },
+            "impact_theory": "NVIDIA's GTC 2026 kicks off on March 16 with CEO Jensen Huang's keynote focusing on AI inference platforms and agentic AI compute demands. This event historically boosts NVDA stock (e.g., +10% post-2024 GTC). Economic implications include accelerated AI adoption driving data center spending amid Iran war volatility distracting broader markets. Market psychology: FOMO on AI narrative overrides geopolitical risks; historical parallel to 2023 ChatGPT hype surge. Analogies: 1) Like Apple's WWDC announcements sparking ecosystem rallies; 2) Tesla's Autonomy Day hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "GTC hype and X sentiment bullish on AI agents/compute (e.g., posts on underappreciated demand); web news highlights analyst focus on inference strategy; overrides war noise."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% gains on GTC announcements; target $195.",
+                "short_position": "Short if keynote disappoints, potential 3% drop to $180.",
+                "key_risks": "Geopolitical escalation, competition from AMD/Intel, high valuation vulnerable to rate hikes."
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event with proven track record; strong X/web sentiment."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.2,
+                "market_cap": "$132B",
+                "sector_industry": "Technology / Memory Chips",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Micron completes PSMC Taiwan fab acquisition and plans second facility, boosting DRAM capacity for AI/HBM. Up 6% on news amid memory stock surge. Implications: Secures supply chain vs. China risks, supports AI boom. Psychology: Relief rally on expansion; parallels 2021 chip shortage frenzy. Analogies: 1) Intel's fab investments sparking semis rally; 2) Like farmland acquisitions in ag booms signaling scarcity plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Taiwan expansion news drives gains; earnings Wed expected strong; X/web highlight AI memory demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $130 (10% upside) on earnings beat.",
+                "short_position": "Avoid; momentum strong.",
+                "key_risks": "Memory downcycle risk, Taiwan geopolitics, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Concrete expansion news but earnings pending."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 17.25,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 19.5,
+                    "low": 4.5
+                },
+                "pe_ratio": -15.2,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Federal DOE order restarts Santa Ynez oil pipeline overriding CA regs, +96% March amid Iran war oil volatility. Implications: Boosts US production 50k bbl/d, counters supply fears. Psychology: Trump admin win fuels energy nationalists; parallels 2022 Russia invasion oil spikes. Analogies: 1) GameStop short squeeze on regulatory shift; 2) Like pipeline approvals igniting midstream rallies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X posts note short squeeze (40% SI), DOJ opinion; top monthly gainer; oil sentiment mixed but SOC specific catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for squeeze to $22 (25% gain).",
+                "short_position": "Short post-pump on legal backlash, -20% to $14.",
+                "key_risks": "CA lawsuits, oil price drop, production delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst but political risks high."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 542.0,
+                "market_cap": "$240B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 45.1,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$150M DOJ settlement on sub cancellations + Q1 beat but AI monetization concerns; stock down ~7% post-earnings. Implications: Regulatory overhang hits growth narrative. Psychology: Sell-the-news; parallels Salesforce Slack scrutiny. Analogies: 1) Like Netflix password crackdown fears; 2) Airline baggage fee lawsuits denting sentiment.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "DOJ fine and CEO transition noise despite earnings beat; X options flow mixed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip to $530 support.",
+                "short_position": "Short to $520 (5% gain).",
+                "key_risks": "AI Firefly upside surprise, broader tech rally."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals post-earnings."
+        },
+        {
+            "details": {
+                "ticker": "AMPX",
+                "full_name": "Amprius Technologies, Inc.",
+                "current_price": 17.8,
+                "market_cap": "$1.9B",
+                "sector_industry": "Industrials / Batteries",
+                "high_low_52_week": {
+                    "high": 18.5,
+                    "low": 1.0
+                },
+                "pe_ratio": -20.4,
+                "volume": "9M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top monthly gainer +55% on Si battery tech advances, events schedule; ties to EV/AI power needs amid war. Implications: Niche growth in high-energy density. Psychology: Speculative frenzy; parallels quantum computing hype. Analogies: 1) Solid-state battery pureplays in 2023; 2) Like rare earth miners in green transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "#3 monthly gainer; 12-month high hits; battery demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $22 (20%).",
+                "short_position": "Short overbought pullback -15%.",
+                "key_risks": "Dilution, commercialization delays, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum play, less news depth."
+        }
+    ]
+}
