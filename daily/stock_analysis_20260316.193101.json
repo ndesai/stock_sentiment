@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 182.5,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "$0.01 quarterly, ex-date Mar 12, 2026"
+            },
+            "impact_theory": "Nvidia's GTC 2026 keynote featured CEO Jensen Huang projecting $1T in AI demand through 2027 (double prior $500B estimate) and announcing new CPU-based server racks for AI optimization. However, the market sold off sharply, erasing $300B in market cap in 15 minutes, reflecting 'sell the news' psychology amid high expectations. Economic implications include sustained AI capex boom boosting semis, but wariness over valuation at 55x PE. Historical parallels: Post-2023 GTC rallies faded; analogies: like iPhone launch hype followed by profit-taking (Apple 2007), or dot-com peak where announcements couldn't sustain multiples.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "X sentiment shifted bearish post-keynote (e.g., 'sell after GTC' calls, downside targets 183 broken), web news highlights expectation gap despite bullish updates. High volatility, $300B wipeout signals profit-taking; broader market down 0.6% adds pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 10-15% rebound if AI demand confirmed, target $200.",
+                "short_position": "Short for 10% downside to $165 support, amid valuation concerns.",
+                "key_risks": "Unexpected AI adoption surge; geopolitical de-escalation hurting peers but not NVDA; high short interest squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of recent X posts (20+ latest) and news confirm sentiment flip; event directly tied to price action."
+        },
+        {
+            "details": {
+                "ticker": "ULTA",
+                "full_name": "Ulta Beauty, Inc.",
+                "current_price": 550.0,
+                "market_cap": "$25B",
+                "sector_industry": "Consumer Cyclical/Retail",
+                "high_low_52_week": {
+                    "high": 706.82,
+                    "low": 390.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ulta reported Q4 earnings beat on revenue but missed profit due to margin compression from ad costs and inventory issues; FY26 guidance below consensus amid consumer slowdown and beauty boom ending. Economic: Signals discretionary spending weakness in macro uncertainty (Iran war inflation). Psychology: Shattered 'invincibility' narrative. Parallels: Estee Lauder 2024 post-earnings plunge; analogies: like Lululemon post-pandemic normalization, or Chipotle E.coli scare eroding premium moat.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12% to -15%",
+                "reasoning": "Largest S&P drag at -14.2%; news cites weak outlook, macro pressures; X sentiment negative on consumer stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for value at 18x PE, 8-12% recovery to $600 if guidance raised.",
+                "short_position": "Short momentum fade, 10% further to $500.",
+                "key_risks": "Consumer rebound; buybacks support; recession deepens downside."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings catalyst; consistent reports of -14% drop, but limited X volume."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 449.55,
+                "market_cap": "$100B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 454.86,
+                    "low": 60.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Micron popped on completing acquisition of Powerchip and HBM4 supply sold out for 2026 with locked pricing; premarket +4.3%. Ties to NVDA GTC AI demand. Economic: Memory shortage boosts pricing power. Psychology: Rotation into undervalued semis post-NVDA selloff. Parallels: 2021 memory cycle; analogies: like SMCI post-NVDA supply deals, or TSMC amid chip wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +7%",
+                "reasoning": "Premarket leader +4.56%; news on HBM sold out, acquisition; positive semis sentiment vs NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AI memory play, 15% to $520 pre-earnings.",
+                "short_position": "Fade rally to $420 if earnings disappoint.",
+                "key_risks": "Q2 earnings Mar 18 miss; cyclical downturn; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Premarket data clear, but earnings pending; moderate X buzz."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 160.0,
+                "market_cap": "$700B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "20M",
+                "recent_dividend": "$0.95 quarterly, ex-date Feb 12, 2026"
+            },
+            "impact_theory": "Oil surged >$100 on Iran war escalation, Strait of Hormuz threats disrupting tankers; XOM up 30% YTD. Economic: Supply crunch lifts revenues, but inflation risks. Psychology: Safe haven shift to energy. Parallels: 2022 Ukraine; analogies: like gold in crises, or defense stocks in wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +5%",
+                "reasoning": "Oil break $100; energy sector outperformance amid war; X posts on Hormuz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $175 if war prolongs, 10% gain.",
+                "short_position": "Short de-escalation to $150, 5-7%.",
+                "key_risks": "Ceasefire; demand destruction from recession; refining margins."
+            },
+            "confidence_rating": "A",
+            "justification": "Geopolitical event direct; multiple news/oil links."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 45.77,
+                "market_cap": "$200B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 49.17,
+                    "low": 24.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "60M",
+                "recent_dividend": "$0.125 quarterly, ex-date Feb 7, 2026"
+            },
+            "impact_theory": "INTC premarket +3.65% on semis rotation post-NVDA, potential new chip buzz. Economic: Foundry push amid AI. Psychology: Value vs growth shift. Parallels: AMD post-NVDA dips; analogies: like Cisco in dot-com rotation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Premarket gainer; market cap mover; ties to semis momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long rotation, 10% to $50.",
+                "short_position": "Short overvaluation to $40.",
+                "key_risks": "Foundry losses; competition; earnings."
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific news; grouped with semis movers."
+        }
+    ]
+}
