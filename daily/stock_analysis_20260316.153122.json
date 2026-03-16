@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 17.99,
+                "market_cap": "$2.1B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 20.5,
+                    "low": 8.25
+                },
+                "pe_ratio": 0.0,
+                "volume": "15.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sable Offshore received DOJ legal opinion and Trump admin emergency order to restart Santa Ynez offshore oil operations and pipeline amid Iran war-driven oil surge to $100/bbl. Economic boost to US energy independence; psychology of short squeeze (40% SI) + national security narrative. Parallels: 2022 oil crisis gainers. Analogies: Lighting a match in a room full of shorts (squeeze); oil lifeline in Hormuz storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X sentiment exploding on squeeze talk, news coverage as key US oil play amid crisis; web confirms +96% March gains, premarket +7%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains on squeeze/momentum; target $22-25.",
+                "short_position": "Avoid or short above $22 post-squeeze; potential 10% drop.",
+                "key_risks": "Regulatory reversal post-Trump admin, oil price pullback, dilution."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, news alignment with macro oil tailwinds, high volume/short interest."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 180.25,
+                "market_cap": "$4.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.19,
+                    "low": 86.62
+                },
+                "pe_ratio": 60.2,
+                "volume": "320M",
+                "recent_dividend": "$0.04 quarterly"
+            },
+            "impact_theory": "GTC 2026 kicks off March 16 with Jensen keynote; hype on Rubin AI chips, Blackwell ramp. Implications: AI capex confirmation despite macro (oil/war). Psychology: Event-driven volatility. Parallels: Prior GTC rallies (e.g., +15% post-Blackwell). Analogies: Superbowl for AI (hype spectacle); tightrope over Rubin rumors.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Historical GTC boosts, X predictions positive despite down 25% YTD; web previews Rubin/partner wins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for event pop to $195; 8-12% upside.",
+                "short_position": "Short if no catalysts, target $170; 5-10% downside.",
+                "key_risks": "Delay rumors, macro selloff from Iran/oil, MU earnings read-through."
+            },
+            "confidence_rating": "B",
+            "justification": "Proven event alpha but macro headwinds (war/oil) temper."
+        },
+        {
+            "details": {
+                "ticker": "AMPX",
+                "full_name": "Amprius Technologies, Inc.",
+                "current_price": 17.58,
+                "market_cap": "$1.9B",
+                "sector_industry": "Industrials / Batteries",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 1.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "8.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Issued strong FY2026 guidance: 70%+ rev growth, Q4 beat; silicon-anode batteries for AI/EV. Implications: EV/AI demand tailwind. Psychology: Oversold bounce. Parallels: Battery stocks post-Tesla ramps. Analogies: Rocket fuel in EV race; diamond in battery rough (+55% March).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Web/X highlight surge on guidance/ESOP; top monthly gainer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $22-25; 20%+ gains.",
+                "short_position": "Short overbought; 10% pullback risk.",
+                "key_risks": "Execution delays, competition, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid guidance but speculative small-cap."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 130.5,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil surges to $100+ on Iran war/Hormuz attacks; XOM benefits as top producer. Implications: Higher margins, buybacks. Psychology: Safe haven energy. Parallels: 2022 Ukraine oil boom. Analogies: Whale in oil tsunami; fortress amid supply crunch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Macro tailwind from crisis, web calls bargains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $140; 7-10% gains.",
+                "short_position": "Short if de-escalation; -5%.",
+                "key_risks": "Geopolitical resolution, recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct oil exposure, stable giant."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 160.2,
+                "market_cap": "$295B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "10M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Similar to XOM; leveraged to crude spike from tanker strikes/Iran conflict. Implications: Dividend aristocrat shine. Psychology: Rotation to energy. Parallels: Gulf War rallies. Analogies: Anchor in energy storm; dividend dam holding flood.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "IEA releases but supply fears persist; web bargains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $170; 6% gains.",
+                "short_position": "Minimal; oversold bounce risk.",
+                "key_risks": "Oil cap by releases, demand destruction."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven in crises, high yield."
+        }
+    ]
+}
