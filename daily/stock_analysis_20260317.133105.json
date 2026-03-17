@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 140.2,
+                    "low": 95.8
+                },
+                "pe_ratio": 13.2,
+                "volume": "12.5M",
+                "recent_dividend": "$0.95 quarterly, yield 3.0%"
+            },
+            "impact_theory": "Oil prices surged above $100/barrel due to escalating U.S.-Iran tensions and disruptions in the Strait of Hormuz, boosting energy sector profitability amid supply fears. Economic implications include higher inflation but record profits for majors. Market psychology shifts to energy as safe haven amid broader market fears. Historical parallel: 2022 Ukraine crisis oil rally where XOM gained 80%. Analogies: Like a dam bursting flooding energy stocks with gains; or a rising tide lifting all oil boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "X posts and news show positive sentiment on energy amid oil spike; web searches confirm energy stocks rallying as oil hits highs, sentiment score high from latest 20 posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains in 1-2 weeks on sustained oil rally",
+                "short_position": "Avoid or short if de-escalation, potential 5% loss",
+                "key_risks": "Geopolitical de-escalation causing oil drop, recession reducing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation between oil price and XOM performance, multiple news confirming surge."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 525.3,
+                "market_cap": "$1.3T",
+                "sector_industry": "Communication Services / Social Media",
+                "high_low_52_week": {
+                    "high": 580.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "18.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Reuters report on plans for 20% layoffs sparked jump, signaling cost discipline amid AI investments. Economic: Improves margins, free cash flow. Psychology: Investors reward efficiency post-2022 layoffs rally. Historical: 2022 layoffs led to 50%+ rebound. Analogies: Trimming fat from a bloated whale to make it swim faster; pruning a tree for better fruit.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X sentiment positive despite company denial, news from Yahoo confirms jump; latest posts show excitement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% upside on confirmed cuts",
+                "short_position": "Short if denied and no action, 4% downside",
+                "key_risks": "If layoffs not materialize or AI spend rises, backlash."
+            },
+            "confidence_rating": "B",
+            "justification": "Speculative but historical precedent strong, recent X buzz."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.2,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "45.1M",
+                "recent_dividend": "$0.01 quarterly, negligible yield"
+            },
+            "impact_theory": "GTC 2026 conference kickoff with AI announcements, sustaining hype despite macro worries. Economic: AI capex boom. Psychology: Event-driven momentum. Historical: Past GTCs led to 10-20% pops. Analogies: Like a rockstar concert boosting fan frenzy; unveiling new gadgets at CES.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "X and news mention +1% move, videos hyping outlook, positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long event trade 6-10% gains",
+                "short_position": "Short post-event if no new catalysts, 5% drop",
+                "key_risks": "Disappointing announcements, oil/macro drag on tech."
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven, but broader market oil fears temper."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 44.8,
+                "market_cap": "$15B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 6.8,
+                "volume": "8.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Oil surge to $100+ crushes margins as fuel costs soar amid Middle East tensions. Economic: Higher jet fuel prices squeeze profits. Psychology: Risk-off on transport. Historical: 2022 oil rally saw airlines drop 20-30%. Analogies: Pouring gasoline on a fire for costs; heavy backpack slowing a runner.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "News links oil spike to airline pressure, X premarket mixed but overall negative sentiment on high oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, or long on de-escalation +3%",
+                "short_position": "Short for 10% downside short-term",
+                "key_risks": "Oil pullback or demand resilience."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct negative correlation with oil prices confirmed in news."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.4,
+                "market_cap": "$900B",
+                "sector_industry": "Consumer Cyclical / Auto",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "110M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mixed retail sales, oil surge hits EV demand indirectly via economy; listed as loser. Economic: Higher energy costs hurt consumers. Psychology: Rotation from growth. Historical: 2022 bear market drops. Analogies: Storm clouds over EV party; speed bump for hypercar.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Marketwatch lists as loser, broader market down on oil/mixed data, X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy +7% rebound",
+                "short_position": "Short momentum fade 8% loss",
+                "key_risks": "Elon news or China demand surprise."
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate shift, multiple factors."
+        }
+    ]
+}
