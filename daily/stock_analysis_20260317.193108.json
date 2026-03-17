@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 950.5,
+                "market_cap": "$900B",
+                "sector_industry": "Healthcare / Drug Manufacturers—General",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 700.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "5.2M",
+                "recent_dividend": "$1.30 quarterly"
+            },
+            "impact_theory": "HSBC downgraded LLY to Reduce with PT cut to $850 due to overestimated obesity drug TAM ($80-120B vs consensus $150B+), pricing pressures, and overly optimistic oral drug expectations. Economically, this signals peak growth concerns for GLP-1 drugs amid competition. Market psychology: profit-taking after rally, fear of valuation bubble. Historical parallel: 2022 biotech selloff post-COVID hype. Analogies: Like Tesla post-2021 EV boom correction; or Netflix after streaming surge when competition intensified.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "X posts and news show heavy bearish sentiment from downgrade; Street consensus PT ~$1240 but HSBC outlier triggers selling. Oil rise indirectly hurts via inflation, but direct catalyst is pharma-specific."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip to $850; potential rebound if earnings beat, +5-10% short-term",
+                "short_position": "Short with 5-8% downside to $880; target $850 PT",
+                "key_risks": "Strong earnings surprise, FDA approvals, broader market rally ignoring downgrade."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with X buzz (20+ posts), analyst action, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 18.2,
+                "market_cap": "$2.1B",
+                "sector_industry": "Energy / Oil & Gas Exploration & Production",
+                "high_low_52_week": {
+                    "high": 25.0,
+                    "low": 5.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SOC top monthly gainer (+88%) amid rising oil from Mideast tensions (Iran war), DOJ opinion allowing override of CA curbs, Trump intervention hopes. Econ: Higher oil boosts E&P profitability. Psych: Short squeeze (47% float short). Historical: Oil juniors surged in 2022 Ukraine crisis. Analogies: Like small oil plays in 2014 ISIS surge; or meme squeezes like GME but fundamentals-driven.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Oil up on geopolitics; X mentions shorts evaporating, high options vol; monthly leader per StockTitan."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% to $22 amid oil rally",
+                "short_position": "Avoid; high short interest risks squeeze",
+                "key_risks": "No revenue yet, regulatory delays, oil price reversal."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but speculative small cap; tied to macro oil."
+        },
+        {
+            "details": {
+                "ticker": "GPN",
+                "full_name": "Global Payments Inc.",
+                "current_price": 72.1,
+                "market_cap": "$19B",
+                "sector_industry": "Financial Services / Credit Services",
+                "high_low_52_week": {
+                    "high": 100.6,
+                    "low": 65.9
+                },
+                "pe_ratio": 19.8,
+                "volume": "4.8M",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "GPN up 6-7% on positive earnings reaction, expecting double-digit EPS growth in 2026. Econ: Payments volume resilient despite macro. Psych: Oversold rebound. Historical: Fintechs rallied post-2023 lows. Analogies: Like PYPL recovery; or Visa post-dips.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Earnings beat, Yahoo/WSJ lists as top gainer; stable amid market caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $80, +10%",
+                "short_position": "Limited downside, -3%",
+                "key_risks": "Recession hits payments, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings-driven, consistent with gainer lists."
+        },
+        {
+            "details": {
+                "ticker": "DLTR",
+                "full_name": "Dollar Tree, Inc.",
+                "current_price": 114.4,
+                "market_cap": "$25B",
+                "sector_industry": "Consumer Defensive / Discount Stores",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 24.5,
+                "volume": "5.3M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "DLTR +6.4% on Q4 revenue +9%, inflation-weary shoppers. Econ: Discount retail thrives in uncertainty. Psych: Value rotation. Historical: 2022 inflation boost. Analogies: Dollar stores in 2008 crisis; Walmart during high CPI.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "247wallst top gainer, sales growth despite slowing outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $125, +9%",
+                "short_position": "Risky, momentum play",
+                "key_risks": "Margin squeeze, consumer spending drop."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings pop, listed gainer."
+        },
+        {
+            "details": {
+                "ticker": "MOS",
+                "full_name": "The Mosaic Company",
+                "current_price": 28.0,
+                "market_cap": "$10B",
+                "sector_industry": "Basic Materials / Agricultural Inputs—Fertilizers",
+                "high_low_52_week": {
+                    "high": 40.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 9.8,
+                "volume": "15.7M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "MOS -5.6% on weak demand, prior downgrades (Barclays), grower economics pressure. Econ: Fertilizer slump with ag cycle. Psych: Rotation from materials. Historical: 2023 fert drop post-Ukraine peak. Analogies: Commodity cycles like copper miners; ag in 2015 glut.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "High vol loser per 247wallst, ongoing demand issues."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value at low PE, +10% rebound",
+                "short_position": "To $25, -10%",
+                "key_risks": "Commodity rebound, weather boosts demand."
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific today news, broader sector weakness."
+        }
+    ]
+}
