@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 183.5,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "45,200,000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVIDIA's GTC conference announced a $1T inference demand pipeline for 2026-2027, shifting focus from training to inference workloads. Economic implications include accelerated AI capex by hyperscalers. Market psychology: Priced for perfection, good news not moving stock much, but long-term bullish. Historical parallels: Post-2023 GTC rallies. Analogies: Like iPhone launch hype sustaining Apple; rocket fuel for AI economy amid war distractions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "GTC announcements reinforce AI dominance; X sentiment mixed but positive on $1T forecast, web news highlights stock up 1.7% post-event despite broader market caution from oil/Fed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA calls, potential 10% gain on AI hype continuation",
+                "short_position": "Short if Fed hawkish, -5% risk",
+                "key_risks": "Overvaluation, competition from AMD/Intel, geopolitical distraction from war."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but stock muted reaction indicates high expectations baked in."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 157.5,
+                "market_cap": "$654B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 97.8
+                },
+                "pe_ratio": 14.5,
+                "volume": "22,000,000",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Middle East war escalations (Iran attacks) drove oil >$100/bbl, benefiting integrated majors. Implications: Higher revenues/margins. Psychology: Risk-on for energy amid supply fears. Parallels: 2022 Ukraine war oil spike. Analogies: Betting on fire during drought; tailwind from storm for sailors.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Oil surge from Hormuz tensions, X posts note shares to highs, web confirms energy up 1-3%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM, 8-12% upside if oil $110+",
+                "short_position": "Short on de-escalation, -10% loss",
+                "key_risks": "Quick war resolution, SPR releases, recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to oil prices, clear catalyst."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 152.0,
+                "market_cap": "$280B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "10,500,000",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Similar to XOM, oil price climb from Iran war boosts upstream profits. Implications: Inflation hedge. Psychology: Flight to safety in commodities. Parallels: Gulf War 1990. Analogies: Profiting from chaos like war profiteer; rising tide lifts energy boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Energy sector rally, X mentions with XOM/OXY."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long shares, 7% gain potential",
+                "short_position": "Avoid or short on peace talks",
+                "key_risks": "Regulatory pressures, dividend cut risk if prolonged low oil later."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven track record in high oil environments."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 65.0,
+                "market_cap": "$58B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 68.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 16.2,
+                "volume": "15,000,000",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Pure-play upstream benefits most from oil spike. Implications: Leverage to prices. Psychology: High beta play. Parallels: 2014 ISIS oil shock. Analogies: High-octane rocket vs steady ship.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Up 1.4% noted, X posts highlight with XLE."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long OXY, 15% upside leveraged",
+                "short_position": "High volatility downside",
+                "key_risks": "Debt load, Buffett selling."
+            },
+            "confidence_rating": "B",
+            "justification": "Higher beta but more risk."
+        },
+        {
+            "details": {
+                "ticker": "COP",
+                "full_name": "ConocoPhillips",
+                "current_price": 118.0,
+                "market_cap": "$135B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 13.9,
+                "volume": "8,000,000",
+                "recent_dividend": "$0.78 quarterly"
+            },
+            "impact_theory": "Oil majors gaining on supply disruptions. Implications: EPS boost. Psychology: Sector rotation to energy. Parallels: Post-9/11 oil rally. Analogies: Feeding frenzy in high prices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Reached 52w high, up with peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long position 10% gain",
+                "short_position": "Minimal",
+                "key_risks": "OPEC+ increase supply."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent performer in oil uptrends."
+        }
+    ]
+}
