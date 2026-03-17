@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 16.58,
+                "market_cap": "$1.2B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 19.25,
+                    "low": 8.5
+                },
+                "pe_ratio": 0.0,
+                "volume": "5,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Sable Offshore resumed oil flow as ordered by federal DPA, expecting 50k bbl/d and first sales by April 1. With oil at $100+, boosts revenue prospects. Econ: increases US supply amid tensions. Psych: relief rally on regulatory win. Historical: similar to Exxon restarts post-spills. Analogies: dam bursting floods market with positivity; locked treasure chest opened.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "X posts positive on flow resume, oil prices supportive, top monthly gainer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains on sales start",
+                "short_position": "Short if judge rules against, 10% loss",
+                "key_risks": "Legal challenges, oil price drop"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct company news, high volume sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 184.92,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 70.5,
+                "volume": "160,513,800",
+                "recent_dividend": "0.01"
+            },
+            "impact_theory": "GTC 2026 keynote unveiled DLSS 5, Rubin GPUs, AI advancements. Econ: accelerates AI adoption. Psych: hype renewal post-pullback. Historical: RTX launch rallies. Analogies: fireworks show igniting crowd; new engine revving car.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Positive X buzz on DLSS5, Google Cloud adoption, analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% on AI momentum",
+                "short_position": "Avoid, overbought risk low",
+                "key_risks": "Market rotation from tech"
+            },
+            "confidence_rating": "A",
+            "justification": "Major event, strong historical reaction."
+        },
+        {
+            "details": {
+                "ticker": "LULU",
+                "full_name": "Lululemon Athletica Inc.",
+                "current_price": 250.0,
+                "market_cap": "$30B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 300.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 20.0,
+                "volume": "2,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q4 FY2025 earnings after close March 17, consensus $3.6B rev flat YoY. Econ: consumer spending gauge. Psych: beat/miss volatility. Historical: big post-earnings moves. Analogies: box of chocolates unknown; tightrope walk.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+/-10%",
+                "reasoning": "Pre-earnings run-up, history of surprises, X mentions competition."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls if beat guidance",
+                "short_position": "Short if miss China sales",
+                "key_risks": "Macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 550.0,
+                "market_cap": "$1.4T",
+                "sector_industry": "Communication Services/Internet Content",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 30.0,
+                "volume": "15,000,000",
+                "recent_dividend": "0.50"
+            },
+            "impact_theory": "Plans 20% layoffs to fund AI capex. Econ: efficiency gains. Psych: cost-cut optimism. Historical: 2022 layoffs rallied stock. Analogies: pruning tree for growth; shedding weight for speed.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Shares jumped on report, X neutral but market positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8% on AI pivot",
+                "short_position": "Short if execution fails",
+                "key_risks": "AI spend dilution"
+            },
+            "confidence_rating": "B",
+            "justification": "Speculative layoffs, past precedent."
+        },
+        {
+            "details": {
+                "ticker": "ENPH",
+                "full_name": "Enphase Energy, Inc.",
+                "current_price": 63.8,
+                "market_cap": "$8B",
+                "sector_industry": "Technology/Solar",
+                "high_low_52_week": {
+                    "high": 100.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 50.0,
+                "volume": "3,000,000",
+                "recent_dividend": "0.1"
+            },
+            "impact_theory": "Solar shares rally amid sector rotation, oil high boosts alternatives? Econ: green energy push. Psych: oversold bounce. Historical: 2021 solar boom. Analogies: phoenix rising; underdog comeback.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Listed in gainers, sector momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 15% sector tailwind",
+                "short_position": "Short on rates rise",
+                "key_risks": "Interest rates, subsidies"
+            },
+            "confidence_rating": "C",
+            "justification": "Broader sector, less specific news."
+        }
+    ]
+}
