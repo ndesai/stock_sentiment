@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SOFI",
+                "full_name": "SoFi Technologies, Inc.",
+                "current_price": 17.61,
+                "market_cap": "$18.5B",
+                "sector_industry": "Financial Services / Fintech",
+                "high_low_52_week": {
+                    "high": 20.89,
+                    "low": 6.01
+                },
+                "pe_ratio": 45.2,
+                "volume": "45M",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "SoFi rebutted a Muddy Waters short seller report alleging accounting issues and hidden debt. CEO Anthony Noto bought $500K shares. Economic implications: Validates business model amid fintech growth. Market psychology: Short squeeze potential as management fights back. Historical parallels: Similar to GameStop short squeezes. Analogies: 1. Like a boxer counterpunching a jab. 2. David vs Goliath where underdog exposes attacker.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Short report caused initial drop but swift rebuttal and CEO buy sparked recovery and surge to $17.61. X sentiment positive on rebuttal, web news highlights legal action threat boosting confidence."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could gain 15% if shorts cover, target $20+.",
+                "short_position": "Short risky post-rebuttal, potential 20% losses on squeeze.",
+                "key_risks": "Legal outcomes, regulatory scrutiny on fintech lending, broader market downturn."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong management response, CEO buyback, historical short fight successes."
+        },
+        {
+            "details": {
+                "ticker": "GIS",
+                "full_name": "General Mills, Inc.",
+                "current_price": 60.25,
+                "market_cap": "$34B",
+                "sector_industry": "Consumer Defensive / Packaged Foods",
+                "high_low_52_week": {
+                    "high": 72.42,
+                    "low": 55.2
+                },
+                "pe_ratio": 15.8,
+                "volume": "12M",
+                "recent_dividend": "$0.59 quarterly, yield 3.9%"
+            },
+            "impact_theory": "Q3 earnings miss on revenue and EPS due to strategy shift and weak demand. Implications: Highlights consumer spending slowdown in staples. Psychology: Erodes investor faith in defensive stocks. Parallels: 2022 consumer staples selloff amid inflation. Analogies: 1. Ship hitting iceberg despite warnings. 2. Diet fad hitting cereal sales.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Earnings miss confirmed, stock down post-report. Limited X buzz, web coverage on miss and lowered outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for dividend support, 5% rebound if market stabilizes.",
+                "short_position": "Short for 10% downside to $54 support.",
+                "key_risks": "Defensive rebound, acquisition rumors, inflation easing."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings miss but staples resilient historically."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.4,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.08
+                },
+                "pe_ratio": 35.2,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly, yield 0.4%"
+            },
+            "impact_theory": "Tim Cook denies retirement rumors on GMA, reaffirming commitment. Implications: Stability in leadership amid AI/tariff challenges. Psychology: Reduces uncertainty premium. Parallels: Cook's past denials stabilized stock. Analogies: 1. Captain assuring crew no mutiny. 2. CEO like evergreen oak not falling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Denial eases succession fears, X mixed but news positive. Stock steady despite bearish reversal post."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $240 on AI catalyst, 8% upside.",
+                "short_position": "Short below 200EMA, 10% to $200.",
+                "key_risks": "China sales, antitrust, broader tech selloff."
+            },
+            "confidence_rating": "B",
+            "justification": "Minor news but leadership stability valued in megacaps."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 120.5,
+                "market_cap": "$480B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 128.2,
+                    "low": 95.8
+                },
+                "pe_ratio": 13.5,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly, yield 3.2%"
+            },
+            "impact_theory": "Oil prices >$100 on Iran strikes, Middle East tensions. Implications: Higher energy costs, inflation risk. Psychology: Fear drives energy rally. Parallels: 2022 Ukraine invasion oil spike. Analogies: 1. Fire under oil barrel. 2. Geopolitical storm fueling tankers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil surge lifts majors, X mentions export bans/spreads, web on $100 oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $130, 10% gain on sustained oil.",
+                "short_position": "Short on de-escalation, 8% loss potential.",
+                "key_risks": "OPEC cuts, recession demand drop, green transition."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical reliable driver for energy."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.0,
+                "market_cap": "$2.9T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.88,
+                    "low": 39.23
+                },
+                "pe_ratio": 65.4,
+                "volume": "350M",
+                "recent_dividend": "$0.01 quarterly, minimal yield"
+            },
+            "impact_theory": "Debate on 'Nvidia stock problem' amid valuation concerns, AI hype cooling. Implications: Tech rotation from AI leaders. Psychology: Profit-taking after run-up. Parallels: 2021 chip selloff. Analogies: 1. Balloon overinflated pricked. 2. Racehorse tiring post-sprint.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Expert weighs in on issues, X positive on AI but reversal hints. Web questions sustainability."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on GTC catalysts, 12% to $130.",
+                "short_position": "Short to $100 support, 15% gain.",
+                "key_risks": "AI demand surprise, earnings beat, sector rotation back."
+            },
+            "confidence_rating": "C",
+            "justification": "Speculative sentiment shifts, high volatility."
+        }
+    ]
+}
