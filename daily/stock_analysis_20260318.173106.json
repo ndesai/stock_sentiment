@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 132.5,
+                "market_cap": "$145B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 155.2,
+                    "low": 68.0
+                },
+                "pe_ratio": 42.3,
+                "volume": "25.4M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Micron is set to report Q2 2026 earnings after market close on March 18, with high expectations due to sold-out HBM capacity through 2026 amid AI demand surge. Hot PPI data adds pressure but AI tailwinds dominate. Market psychology: anticipation of beat leading to breakout. Historical parallels: Similar pre-earnings run-ups in 2024 led to 10-20% pops. Analogies: Like a coiled spring ready to launch (physics), or a dam about to burst with pent-up demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "X sentiment positive on earnings hype (signal_rsi divergence noted), web news highlights HBM sold out, recent pop on Taiwan site purchase. Hot inflation secondary to AI narrative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares pre-earnings, potential 10% gain on beat.",
+                "short_position": "Avoid or short post-earnings if miss, but low probability.",
+                "key_risks": "Earnings miss on margins, broader semi selloff from Fed hawkishness."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong AI demand confirmed, earnings catalyst clear, positive pre-report momentum."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.8,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 75.4
+                },
+                "pe_ratio": 62.1,
+                "volume": "320M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Debate on whether NVDA has a 'stock problem' amid valuation concerns, GTC updates digested, hot PPI raises rate fears hurting growth stocks. Psychology: FOMO turning to fatigue. Parallels: Dot-com peaks with similar expert doubts. Analogies: Overinflated balloon at risk of pop, or climber reaching thin air.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "Yahoo/Barron's questioning stock sustainability, X mentions volatility, inflation data pressures mega caps."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy on AI conviction, 5% rebound if Fed dovish.",
+                "short_position": "Short or puts, 10% downside to support.",
+                "key_risks": "Unexpected positive AI news, sector rotation back to tech."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed signals but macro headwinds dominate short-term."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.6,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "58.2M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Tim Cook denies retirement rumors, stabilizing sentiment as AAPL acts as market anchor amid volatility. Implications: Continuity in leadership supports steady growth. Psychology: Relief rally. Parallels: Similar denials in past boosted 2-5%. Analogies: Captain steadying the ship in storm, or keystone holding arch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Positive news counters broader tech weakness, X notes anomaly in sentiment strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long shares, 4% upside to resistance.",
+                "short_position": "Minimal, stable name.",
+                "key_risks": "China sales weakness, antitrust updates."
+            },
+            "confidence_rating": "B",
+            "justification": "Reliable company, rumor denial effective but limited catalyst."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 122.4,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18.7M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices surge back above $100 on supply concerns/geopolitics, boosting energy majors. Implications: Higher revenues, stagflation hedge. Psychology: Rotation to value. Parallels: 2022 oil rally +30%. Analogies: Rising tide lifting boats, or fuel to fire in inflationary environment.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Yahoo notes oil >$100, positive for XOM amid market drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on oil momentum, 8% to 52w high.",
+                "short_position": "If oil peaks, quick reversal.",
+                "key_risks": "Demand destruction from recession, OPEC+ increase."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to oil price, clear macro driver."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 198.2,
+                "market_cap": "$580B",
+                "sector_industry": "Financials / Banks",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 155.0
+                },
+                "pe_ratio": 11.9,
+                "volume": "9.8M",
+                "recent_dividend": "$1.25 quarterly"
+            },
+            "impact_theory": "Hot PPI data signals persistent inflation, raising fears of fewer rate cuts hurting NIMs less but loan growth slows. Psychology: Risk-off to defensives. Parallels: 2022 rate hike cycle volatility. Analogies: Tightening noose on growth, or brakes on speeding economy.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Mentioned technical weakness, futures fall on PPI, pre-Fed nerves."
+            },
+            "potential_profit_risks": {
+                "long_position": "If Fed signals cuts, rebound 5%.",
+                "short_position": "Short ahead of FOMC, 7% to support.",
+                "key_risks": "Surprise dovish Powell, strong earnings season."
+            },
+            "confidence_rating": "C",
+            "justification": "FOMC uncertainty high, mixed bank outlook."
+        }
+    ]
+}
