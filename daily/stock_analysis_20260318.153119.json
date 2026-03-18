@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSAT",
+                "full_name": "Telesat Corporation",
+                "current_price": 42.34,
+                "market_cap": "$1.2B",
+                "sector_industry": "Communication Services / Satellite Communications",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 20.1
+                },
+                "pe_ratio": -5.2,
+                "volume": "2.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Telesat reported narrower Q4 losses and CEO expressed bullish outlook on satellite demand amid AI and global connectivity needs. Economic implications include growth in LEO/GEO services. Market psychology: positive earnings surprise boosts confidence. Historical parallels: similar to satellite firms during 2021 space race hype. Analogies: like a rocket launch gaining momentum; or a satellite locking onto a strong signal.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Strong earnings beat and CEO optimism amid hot PPI/Fed but sector resilient. X sentiment positive on satellite tech. Web news confirms 19% surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% gains on continued momentum, target $50.",
+                "short_position": "Avoid short, high volume supports upside.",
+                "key_risks": "Market selloff from Fed hawkishness, competition from Starlink."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct company news driving move, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "BW",
+                "full_name": "Babcock & Wilcox Enterprises Inc.",
+                "current_price": 14.9,
+                "market_cap": "$1.3B",
+                "sector_industry": "Industrials / Industrial Machinery",
+                "high_low_52_week": {
+                    "high": 15.5,
+                    "low": 4.0
+                },
+                "pe_ratio": -12.1,
+                "volume": "5.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$2.4B AI data-center power contract expands backlog, raised 2026 EBITDA to $80-100M. Ties to energy demand from AI/oil surge. Psychology: AI-energy nexus excites investors. Parallels: GE power deals in 2010s. Analogies: fueling the AI engine; powering up like a nuclear reactor.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Contract news amid oil volatility boosts energy infra play. Positive analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $20+ (35% gain), momentum strong.",
+                "short_position": "Short if execution risks emerge, potential 10% pullback.",
+                "key_risks": "Project delays, high debt, broader industrial slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Specific catalyst with backlog growth, aligns with macro energy trends."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 17.45,
+                "market_cap": "$1.8B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 8.5
+                },
+                "pe_ratio": 0.0,
+                "volume": "3.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Resumed oil flow from pipeline after federal order, expected 50k bbl/d amid Brent $108 on Iran attack. Implications: supply boost in high price env. Psychology: relief rally. Parallels: US shale restarts. Analogies: oil gusher; pipeline unclogged.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Geopolitical oil spike + operational restart. Monthly top gainer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-25% on production ramp.",
+                "short_position": "Short on regulatory reversals.",
+                "key_risks": "California regs, oil price reversal."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news but small cap volatility."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$500B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "25M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Brent crude soars to $108 on Iran gas field attack, boosting majors. Implications: higher refining margins. Psychology: flight to energy. Parallels: 2022 Ukraine. Analogies: oil price tsunami; energy shield in geopolitics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Oil up 5%+, energy sector outperforms amid PPI fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 5-10% gains if oil >$110.",
+                "short_position": "Short on de-escalation.",
+                "key_risks": "Geopolitical resolution, recession."
+            },
+            "confidence_rating": "B",
+            "justification": "Macro driven, less company specific."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 895.0,
+                "market_cap": "$2.2T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 65.3,
+                "volume": "350M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Hotter PPI raises rate hike fears pre-Fed, hits growth stocks. Implications: higher discount rates hurt valuations. Psychology: risk-off. Parallels: 2022 rate cycle. Analogies: interest rate anchor dragging chip boats; Fed hawk shadow.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "Futures down 0.4%, Nasdaq sensitive to yields up. Sentiment shift negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip if Fed dovish.",
+                "short_position": "Short for 5-10% downside.",
+                "key_risks": "AI demand overrides, Fed pause."
+            },
+            "confidence_rating": "B",
+            "justification": "Broad market reaction, high conviction on rates impact."
+        }
+    ]
+}
