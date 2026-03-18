@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "$3.2T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 155.2,
+                    "low": 98.7
+                },
+                "pe_ratio": 62.3,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVIDIA's GTC 2026 event unveiled new Blackwell and Vera Rubin AI architectures, but experts question if the stock has a 'problem' amid YTD -4% decline and China market adaptations with Groq-like chips. Economically, AI demand remains robust boosting data center revenue, but valuation concerns and competition weigh. Market psychology: FOMO on AI vs profit-taking after massive gains. Historical parallels: Post-2023 hype corrections like 2022 -50% drop. Analogies: 1. Like a rocket burning hot but risking burnout from high altitude. 2. High-performance engine in traffic jam of macro risks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3%",
+                "reasoning": "Mixed X sentiment on NVDA YTD performance; news highlights potential issues despite announcements. Web searches show expert debates on stock problems, premarket little changed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10% rebound on AI tailwinds if Fed dovish.",
+                "short_position": "Short for 8% downside on valuation reset amid war/oil distraction.",
+                "key_risks": "Escalating AI competition, Fed hawkishness, geopolitical supply chain hits."
+            },
+            "confidence_rating": "B",
+            "justification": "High news volume but conflicting signals from bullish tech event vs bearish expert views."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 122.3,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil surges above $100 on Iran war, attacks on energy facilities; XOM benefits as major producer. Economic: Higher input costs but profits soar on pricing power. Psychology: Risk-on shift to commodities amid war fears. Parallels: 2022 Ukraine invasion oil rally. Analogies: 1. Filling up gas tank during shortage - demand inelastic. 2. Safe harbor in storm for dividend seekers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Web/X posts highlight energy strength despite market shrug; oil at $101, war drags on favoring supermajors."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12-15% gains if oil >$110 sustained.",
+                "short_position": "Avoid or short if quick resolution caps prices.",
+                "key_risks": "De-escalation lowers oil, recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from oil prices/war, historical precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 505.0,
+                "market_cap": "$122B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 528.0,
+                    "low": 410.0
+                },
+                "pe_ratio": 21.2,
+                "volume": "1.2M",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Middle East escalation boosts defense spending; LMT key missile/F-35 supplier. Economic: Govt contracts stable in uncertainty. Psychology: Flight to safety/defense plays. Parallels: Post-9/11 surge. Analogies: 1. Blacksmith thriving in wartime forge. 2. Insurance policy payout in disaster.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "X mentions defense primed; war news implies higher budgets, energy stocks but defense correlated."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% upside on contract wins.",
+                "short_position": "Minimal, stable long-term.",
+                "key_risks": "Peace deal, budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect mentions but logical extension of war news."
+        },
+        {
+            "details": {
+                "ticker": "TSAT",
+                "full_name": "Telesat Corporation",
+                "current_price": 42.34,
+                "market_cap": "$580M",
+                "sector_industry": "Communication Services / Satellite Communications",
+                "high_low_52_week": {
+                    "high": 43.0,
+                    "low": 8.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Top gainer +19% post-Q4 earnings call prep; satellite demand amid global tensions. Economic: LEO competition but GEO niche. Psychology: Small cap momentum. Parallels: Earnings pops in volatile markets. Analogies: 1. Rocket launch breaking orbit. 2. Underdog scoring in finals.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Listed as top gainer in Morningstar/Yahoo; earnings conference March 17 likely positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum trade 30% more if volume sustains.",
+                "short_position": "Fade post-spike for -15%.",
+                "key_risks": "Earnings miss, dilution."
+            },
+            "confidence_rating": "C",
+            "justification": "Strong daily move but limited news depth."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.0,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 35.1,
+                "volume": "55M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Tim Cook denies retirement rumors; stock correcting in channel amid oil/war distraction. Economic: China sales pressure. Psychology: Leadership stability reassures. Parallels: Succession fears like 2011 Jobs. Analogies: 1. Captain steadying ship in storm. 2. Evergreen tree weathering winds.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "Denial quells rumors; X charts show channel support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy support for 8% bounce.",
+                "short_position": "Short breakdown for -10%.",
+                "key_risks": "China tensions, AI lag."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific news but minor vs macro."
+        }
+    ]
+}
