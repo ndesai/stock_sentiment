@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LUNR",
+                "full_name": "Intuitive Machines, Inc.",
+                "current_price": 15.25,
+                "market_cap": "$950M",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 25.1,
+                    "low": 3.15
+                },
+                "pe_ratio": -12.5,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Intuitive Machines reported strong Q4 and FY 2025 earnings on March 19, highlighting operational expansion, major transactions, and positive cash flow. Economic implications include boosted investor confidence in space sector amid NASA contracts. Market psychology shifts to bullish on small-cap space plays. Historical parallels: Similar to Rocket Lab post-milestone rallies. Analogies: Like a rocket launch igniting investor fuel; or a moon landing sparking sector euphoria.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Earnings beat expectations with revenue growth and backlog; X sentiment positive on expansion; web news highlights key deals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% gains on continued space hype; target $18+.",
+                "short_position": "Avoid short; limited downside if momentum holds.",
+                "key_risks": "High volatility in small-cap; execution risks on contracts; broader market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with clear positive news flow and high volume."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 142.5,
+                "market_cap": "$620B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 145.2,
+                    "low": 95.8
+                },
+                "pe_ratio": 14.2,
+                "volume": "25M",
+                "recent_dividend": "$0.95 quarterly, yield 2.7%"
+            },
+            "impact_theory": "Iran attacks on energy sites escalate Middle East war, driving oil to $100+. Economic boost to producers via higher margins; psychology favors energy rotation. Parallels: 2022 Ukraine invasion oil surge. Analogies: Oil as blood of economy clotting supply; war premium like storm fueling energy demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Oil majors up YTD 30%; web searches confirm energy gainers on Iran crisis; X buzz on $100 oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% upside on sustained oil rally.",
+                "short_position": "Short if de-escalation; potential 5% drop.",
+                "key_risks": "Geopolitical resolution; recession curbing demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro tailwind but dependent on war duration."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 552.3,
+                "market_cap": "$135B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 565.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 21.8,
+                "volume": "1.8M",
+                "recent_dividend": "$3.15 quarterly, yield 2.3%"
+            },
+            "impact_theory": "Escalating Iran war depletes munitions, boosts defense spending; Pentagon seeks $200B extra. Implications: Higher contracts; psychology defensive shift. Parallels: Post-9/11 rally. Analogies: War as tailwind filling contractor arsenals; conflict sharpening defense budgets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Defense stocks up on strikes; WSJ/CNBC confirm LMT gains; arms sales approvals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 8% gains on budget hikes.",
+                "short_position": "Minimal; resilient sector.",
+                "key_risks": "Quick war end; budget cuts."
+            },
+            "confidence_rating": "A",
+            "justification": "Historical precedent and direct ties to conflict."
+        },
+        {
+            "details": {
+                "ticker": "SIG",
+                "full_name": "Signet Jewelers Limited",
+                "current_price": 88.56,
+                "market_cap": "$3.9B",
+                "sector_industry": "Consumer Cyclical / Luxury Goods",
+                "high_low_52_week": {
+                    "high": 92.5,
+                    "low": 65.2
+                },
+                "pe_ratio": 9.5,
+                "volume": "4.5M",
+                "recent_dividend": "$0.29 quarterly, yield 1.3%"
+            },
+            "impact_theory": "Q4 FY2026 earnings beat with strong FCF guidance >$500M. Implications: Resilient consumer spending; psychology buyback/share repurchase. Parallels: Post-pandemic luxury recovery. Analogies: Diamonds shining brighter on earnings polish; cash flow as jewel in crown.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Top gainer +12%; earnings preview positive; high engagement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% on momentum.",
+                "short_position": "Short post-rally fade 5-8%.",
+                "key_risks": "Consumer slowdown; luxury sensitivity."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings driven but sector rotation risk."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.2,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.5
+                },
+                "pe_ratio": 75.3,
+                "volume": "350M",
+                "recent_dividend": "$0.01 quarterly, negligible yield"
+            },
+            "impact_theory": "Market risk-off on Iran war/oil spike hits over-owned Mag7; broader indices down 1%+. Implications: Rotation out of tech; psychology fears inflation/Fed pause. Parallels: 2022 bear market tech rout. Analogies: Tech giants as titans trembling in geopolitical quake; AI hype cooling in war heat.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "S&P/Nasdaq down; X mixed but selloff noted; over-owned concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound 10%; AI long-term.",
+                "short_position": "Short for 8% on continued risk-off.",
+                "key_risks": "AI demand surprise; quick de-escalation."
+            },
+            "confidence_rating": "C",
+            "justification": "Macro driven, volatile sentiment."
+        }
+    ]
+}
