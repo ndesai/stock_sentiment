@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 437.5,
+                "market_cap": "$485B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 102.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "25.3M",
+                "recent_dividend": "$0.15 quarterly"
+            },
+            "impact_theory": "Micron reported record Q2 revenue of $23.86B driven by AI memory demand, raised dividend, but announced heavy capex for expansion and amid Qatar energy supply concerns. Economic implications: Strong AI tailwinds boost demand but rising costs pressure margins. Market psychology: 'Sell the news' after high expectations, fear of overcapacity. Historical parallels: Similar to 2021 chip selloffs post-boom. Analogies: Like a chef buying too many ingredients for a big party (capex) or athlete training too hard risking injury.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Despite earnings beat, stock down 5.5% premarket on high spending plans and external energy risks; X sentiment bearish with puts cashing in, analysts mixed but Barclays raised PT."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 5-10% rebound on AI narrative, target $460",
+                "short_position": "Short for 8-12% downside to $400 support, momentum favors bears",
+                "key_risks": "AI demand surprise upside, broader semi rally, short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings reaction but volatile sector, mixed analyst/X views."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 142.0,
+                "market_cap": "$340B",
+                "sector_industry": "Consumer Cyclical/E-commerce",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "18.7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q3 earnings miss: Revenue $40.73B vs $42.15B exp, EPS $1.01 vs $1.59, but Cloud +36% YoY, Qwen AI 300M MAUs. Implications: China macro weakness but AI pivot promising. Psychology: Disappointment on core e-comm, hope in AI. Parallels: 2022 regulatory selloffs. Analogies: Ship missing port but strong engines (AI), or student failing exam but acing project.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Earnings miss led to gap down; X highlights EPS crush YoY despite QoQ gains and AI strength, sentiment cautious."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long undervalued AI growth for 10% to $155",
+                "short_position": "Short momentum to $130, China risks",
+                "key_risks": "AI hype rebound, stimulus news, regulatory easing."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings miss clear but AI positives, China uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "SOC",
+                "full_name": "Sable Offshore Corp.",
+                "current_price": 28.5,
+                "market_cap": "$2.1B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 30.0,
+                    "low": 10.0
+                },
+                "pe_ratio": -15.3,
+                "volume": "5.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Pipeline restart order by Energy Sec, DOJ opinion overriding CA curbs; +96% March YTD. Implications: Production ramp-up boosts revenue amid oil prices. Psychology: Relief rally on regulatory win. Parallels: Permian pipeline fights. Analogies: Dam breaking flood of oil, locked door finally opened.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Recent news on production resumption drives gains; top monthly gainer, positive sentiment on Trump-era deregulation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% to $35 on production",
+                "short_position": "Avoid or short pullback to $25",
+                "key_risks": "Legal setbacks, oil price drop, CA resistance."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete regulatory wins, strong YTD momentum."
+        },
+        {
+            "details": {
+                "ticker": "RGC",
+                "full_name": "Regencell Bioscience Holdings Limited",
+                "current_price": 26.38,
+                "market_cap": "$150M",
+                "sector_industry": "Healthcare/Biotech",
+                "high_low_52_week": {
+                    "high": 470.0,
+                    "low": 4.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "1.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Recent 22.5% gain amid YTD rocket from $4; DOJ probe on trading but TCM neuro treatments hype. Implications: Speculative biotech frenzy. Psychology: Meme-like FOMO. Parallels: 2021 biotechs. Analogies: Lottery ticket, wildfire spread.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "Continued volatility with big % moves; retail frenzy despite probe."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long 20%+ swings",
+                "short_position": "Short squeezes risky, 30% drops possible",
+                "key_risks": "DOJ halt, dilution, no revenues."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility, speculative."
+        },
+        {
+            "details": {
+                "ticker": "STX",
+                "full_name": "Seagate Technology Holdings plc",
+                "current_price": 385.0,
+                "market_cap": "$20B",
+                "sector_industry": "Technology/Data Storage",
+                "high_low_52_week": {
+                    "high": 430.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 28.7,
+                "volume": "4.5M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "Sympathy to MU memory selloff/Sandisk; listed as mover +3.93% earlier but sector pressure. Implications: AI storage demand vs cyclical top fears. Psychology: Sector rotation out. Parallels: 2018 memory glut. Analogies: Tide going out on beach (memory cycle), domino fall.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3%",
+                "reasoning": "Tied to MU reaction; X mentions sympathy down, no specific positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy AI storage 7% to $410",
+                "short_position": "Short to $370 sector weakness",
+                "key_risks": "MU rebound lifts, earnings beat."
+            },
+            "confidence_rating": "B",
+            "justification": "Sympathy play, sector context strong."
+        }
+    ]
+}
