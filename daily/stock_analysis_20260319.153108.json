@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 152.75,
+                "market_cap": "$652B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 162.3,
+                    "low": 108.5
+                },
+                "pe_ratio": 14.2,
+                "volume": "28.5M",
+                "recent_dividend": "$0.95 quarterly, yield 2.5%"
+            },
+            "impact_theory": "Oil prices surged past $115/bbl due to escalating Middle East tensions with Iran striking key energy facilities in Qatar, Saudi Arabia, and Kuwait. This disrupts global supply, boosting energy majors like XOM. Economic implications include higher inflation and potential recession risks, but short-term windfall profits for producers. Market psychology: fear of supply crunch drives risk-on for energy. Historical parallels: 1973 Oil Crisis, 2022 Ukraine war oil spike. Analogies: Like a dam breaking flooding profits downstream; or poker where bad geopolitical hand forces all-in on energy chips.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web searches confirm oil at $115+, X posts bullish on $XOM/$CVX. Sentiment shift positive amid supply fears, Fed rate hold adds to inflation narrative favoring producers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 5-8% gains in 1-3 days on continued tensions.",
+                "short_position": "Avoid or short if de-escalation news emerges (-3%).",
+                "key_risks": "Rapid de-escalation, increased production elsewhere, recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear causal link from news to sector surge, strong X sentiment, historical precedents."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 168.2,
+                "market_cap": "$310B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "15.2M",
+                "recent_dividend": "$1.71 quarterly, yield 4.1%"
+            },
+            "impact_theory": "Similar to XOM, CVX benefits from oil rally triggered by Iran attacks on Gulf energy sites. Implications: higher refining margins, export boosts. Psychology: investors flock to safe energy havens. Parallels: Gulf War 1990 oil spike. Analogies: Riding a tsunami wave of scarcity; betting on fire sale profits in a burning oilfield.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Oil surge news dominant, X posts show $CVX 'blue skies', positive sentiment shift from broader market decline."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 4-7% upside short-term.",
+                "short_position": "Short only on peace breakthrough (-2-4%).",
+                "key_risks": "OPEC+ output hike, demand destruction from high prices."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary of confirmed supply disruptions, high volume likely."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 525.4,
+                "market_cap": "$128B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 540.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 20.1,
+                "volume": "1.8M",
+                "recent_dividend": "$3.15 quarterly, yield 2.4%"
+            },
+            "impact_theory": "Geopolitical escalation with US-Iran/Israel war boosts defense spending; F-35 incident highlights demand. Implications: accelerated contracts, backlog growth. Psychology: flight to safety in arms makers. Parallels: Post-9/11 defense boom. Analogies: War drumbeat marching stock higher; sharpening swords in forge of conflict.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Defense stocks rising per news, X mentions $LMT with F-35 news, sentiment positive amid war."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 3-5% gains on contract news.",
+                "short_position": "Short if ceasefire (-2%).",
+                "key_risks": "De-escalation, budget cuts post-conflict."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong theme but less direct than oil, dependent on US involvement."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 118.9,
+                "market_cap": "$160B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "4.2M",
+                "recent_dividend": "$0.59 quarterly, yield 2.0%"
+            },
+            "impact_theory": "RTX gains from missile/interceptor demand amid Iran strikes, low stockpiles. Implications: govt orders surge. Psychology: war premium. Parallels: Ukraine aid boom. Analogies: Ammo belt filling as guns blaze; shield sales in storm of arrows.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Reports of interceptor shortages, X buzz on $RTX, positive shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 3% near-term.",
+                "short_position": "Minimal, avoid.",
+                "key_risks": "Quick resolution, supply chain issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with defense trend, but some volatility."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 44.25,
+                "market_cap": "$28B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 7.8,
+                "volume": "12.5M",
+                "recent_dividend": "$0.10 quarterly, yield 0.9%"
+            },
+            "impact_theory": "High oil crushes airline margins as jet fuel soars with crude. Implications: cost inflation, demand softening. Psychology: risk-off for fuel-sensitive. Parallels: 2008 oil peak airline rout. Analogies: Plane grounded by fuel storm; wings clipped by rising jet bills.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Oil surge directly hits costs, broader market down, X/market sentiment negative for travel."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip buy.",
+                "short_position": "Short for 4-6% downside.",
+                "key_risks": "Fuel hedging protection, demand resilience."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear inverse to oil, but airlines hedged somewhat."
+        }
+    ]
+}
