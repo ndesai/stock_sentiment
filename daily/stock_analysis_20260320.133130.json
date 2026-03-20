@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TLYS",
+                "full_name": "Tilly's, Inc.",
+                "current_price": 3.5,
+                "market_cap": "$105M",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 3.6,
+                    "low": 1.0
+                },
+                "pe_ratio": -5.2,
+                "volume": "4.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tilly's reported its first profitable Q4 since 2021 with net income of $2.9M and comparable sales up 20% for seven months straight. Economically, signals retail recovery amid consumer spending resilience despite inflation. Market psychology: Short squeeze as shorts covered post-earnings, volume spiked. Historical parallel: Similar to small-cap retail pops like RVLV in 2023. Analogies: Like a rubber band snapping back after prolonged compression; or a dam breaking after steady pressure buildup.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Earnings crush expectations, Q1 guidance above street. X sentiment positive on turnaround, web news highlights surge. Retail momentum strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20-30% gains on continued momentum to $4.5.",
+                "short_position": "Short risky, potential -15% losses on squeeze.",
+                "key_risks": "High short interest, volatility, broader retail slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, volume confirmation, recent highs broken."
+        },
+        {
+            "details": {
+                "ticker": "BW",
+                "full_name": "Babcock & Wilcox Enterprises, Inc.",
+                "current_price": 14.5,
+                "market_cap": "$1.25B",
+                "sector_industry": "Industrials / Specialty Industrial Machinery",
+                "high_low_52_week": {
+                    "high": 15.0,
+                    "low": 0.95
+                },
+                "pe_ratio": -12.1,
+                "volume": "2.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$2.4B AI data-center contract announced, raised 2026 EBITDA to $80-100M. Economic: Positions in AI infrastructure boom, energy-efficient boilers key for data centers. Psychology: Validation of turnaround, gap-up on news. Historical: Like GE's pivot to renewables. Analogies: Betting on the plumber during housing boom; fueling the AI fire with clean energy tech.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Major contract win, EBITDA upgrade. Positive web coverage, X buzz on AI tie-in."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $18-20, +30% upside.",
+                "short_position": "Avoid or -20% losses on execution.",
+                "key_risks": "Execution delays, debt load, market saturation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst but company history of volatility."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 178.0,
+                "market_cap": "$4.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 72.5,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Iran war volatility threatens supply chains (Taiwan exposure), but CEO Huang touts space/orbital data centers and CUDA in satellites. Economic: Geopolitical risk premium on semis, offset by AI demand. Psychology: Fear vs. innovation hype. Historical: 2022 Ukraine war chip dips recovered fast. Analogies: Storm clouds over sunny AI forecast; oil shocks hitting tech pipelines.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish long",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "War news dominates, X mixed with CEO positive. Supply fears weigh."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for +10% rebound.",
+                "short_position": "Short for 5-8% on escalation.",
+                "key_risks": "Rapid resolution, AI demand surge."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical uncertainty high."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 154.0,
+                "market_cap": "$685B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil >$100 on Iran war, Strait of Hormuz risks tighten supply. Economic: Higher energy prices boost majors' margins. Psychology: Safe-haven rotation to oil. Historical: 2019 Iran tensions sent oil +20%. Analogies: Filling gas tank during storm; war premium like war bonds.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Crude surge direct benefit, positive analyst notes, X sentiment up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8-12% on sustained oil rally.",
+                "short_position": "Risky, -10% on de-escalation.",
+                "key_risks": "Quick peace, demand destruction."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct oil correlation proven."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 380.0,
+                "market_cap": "$1.21T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 105.3,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mixed: Deliveries down but FSD regulatory hopes; war indirect via battery metals. Economic: EV demand resilient but macro slowdown. Psychology: Profit-taking after rally. Historical: 2022 dips before robotaxi hype. Analogies: Speeding car hitting speed bumps; EV vs. oil war dichotomy.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "-2 to +3%",
+                "reasoning": "No major news, technical pullback. X trending but mixed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on FSD catalyst +5-10%.",
+                "short_position": "Short momentum fade -5%.",
+                "key_risks": "Earnings miss, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Lacks specific catalyst today."
+        }
+    ]
+}
