@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "PL",
+                "full_name": "Planet Labs PBC",
+                "current_price": 35.57,
+                "market_cap": "$10.2B",
+                "sector_industry": "Technology/Geospatial Analytics",
+                "high_low_52_week": {
+                    "high": 36.5,
+                    "low": 2.1
+                },
+                "pe_ratio": -45.2,
+                "volume": "52,340,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Planet Labs surged 30%+ on reports of increased contracts for satellite imagery amid the escalating US-Israel-Iran war, providing real-time intel on troop movements and infrastructure. Economically, boosts defense spending; psychologically, fear-driven demand for surveillance tech mirrors post-9/11 defense boom. Historical parallel: 2022 Ukraine war spiked geospatial stocks 50-100%. Analogies: Like radar stocks in WWII; weather satellites during hurricanes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment positive on war relevance (posts mentioning PL with YSS), web news shows PT raises and pops; broader market down but defense/space resilient."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued war escalation; target $42.",
+                "short_position": "Short risky, potential 5% loss if de-escalation.",
+                "key_risks": "Geopolitical resolution, competition from gov satellites, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong volume surge, direct tie to current Iran conflict news, historical precedents solid."
+        },
+        {
+            "details": {
+                "ticker": "YSS",
+                "full_name": "York Space Systems Inc.",
+                "current_price": 21.84,
+                "market_cap": "$2.8B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 22.5,
+                    "low": 8.2
+                },
+                "pe_ratio": 65.4,
+                "volume": "18,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings showed 52% revenue growth to $386M, FY26 guide $545-595M despite below est; war boosts satellite constellation demand. Econ: accelerates space economy; psych: safety in defense plays. Parallel: SpaceX suppliers up 200% post-Ukraine. Analogies: Shipbuilders in WWII; drone makers in recent conflicts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Earnings beat margins, X mentions with PL; war amplifies defense spending per news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions eyeing 12% upside to $25.",
+                "short_position": "Avoid or short post-earnings fade for 4-7% drop.",
+                "key_risks": "Guidance miss reaction, budget cuts, execution delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings positive but guide cautious; war tailwind strong."
+        },
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 58.09,
+                "market_cap": "$1.5B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 59.0,
+                    "low": 3.1
+                },
+                "pe_ratio": 120.5,
+                "volume": "12,400,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "19% surge on continued AI chip demand, new highs after massive YTD run; war indirectly boosts semis via compute for intel. Econ: supply chain resilience; psych: FOMO on multi-baggers. Parallel: 2020 semi boom. Analogies: Pickaxes in gold rush; fiber optics in dotcom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Trending on news, X chatter; resilient amid market selloff."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum 8-12% gains.",
+                "short_position": "Short overextended for 10% pullback.",
+                "key_risks": "Insider selling, valuation bubble, cycle downturn."
+            },
+            "confidence_rating": "B",
+            "justification": "Extended technically, but volume supports."
+        },
+        {
+            "details": {
+                "ticker": "TSEM",
+                "full_name": "Tower Semiconductor Ltd.",
+                "current_price": 166.08,
+                "market_cap": "$18.4B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 167.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "8,200,000",
+                "recent_dividend": "$0.82"
+            },
+            "impact_theory": "17% jump on new BCD power tech launch and 52w high; benefits from auto/defense chips amid war. Econ: specialty semis premium; psych: acquisition rumors. Parallel: Intel foundry deals. Analogies: Foundry in chip wars; engines in auto boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Product news, X volume; semi sector rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 10% to $180.",
+                "short_position": "Minimal, 3-5% risk.",
+                "key_risks": "Geopolitics (Israel-based), competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific catalyst, but broader semi volatility."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.45,
+                "market_cap": "$512B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 130.2,
+                    "low": 95.7
+                },
+                "pe_ratio": 14.2,
+                "volume": "25,600,000",
+                "recent_dividend": "$0.95"
+            },
+            "impact_theory": "Oil stocks rally as Iran war enters week 3, supply fears push crude +20%; inflation spike hits broader market. Econ: higher energy prices fuel inflation; psych: safe haven in commodities. Parallel: 2022 Ukraine oil surge. Analogies: Gas masks in pandemics; canned goods in recessions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Ubiquitous news on oil/Iran, positive energy sentiment despite X focus on tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% on sustained oil >$100.",
+                "short_position": "Short on de-escalation for 4-6% loss.",
+                "key_risks": "Quick war end, recession demand drop, regulation."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct macro event, historical reliability."
+        }
+    ]
+}
