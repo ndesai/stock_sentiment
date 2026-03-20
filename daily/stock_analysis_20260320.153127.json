@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 650.25,
+                "market_cap": "$15.2B",
+                "sector_industry": "Technology / Servers & AI Hardware",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 24.5,
+                "volume": "25.3M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "US DOJ charged SMCI co-founder and employees with smuggling $2.5B Nvidia AI chips to China using dummy servers. Economic implications: regulatory scrutiny on AI supply chain, potential bans/fines. Market psychology: fear of delisting or lost contracts amid US-China tensions. Historical parallels: Huawei ban caused 30% drop in 2019. Analogies: like Enron scandal eroding trust; or Boeing 737 issues grounding fleet.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-25%",
+                "reasoning": "Direct indictment leads to massive selloff (premarket -25%), X posts negative, web news heavy on plunge. Sentiment shift from AI hype to risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; short opportunity +20-30% downside if probe expands.",
+                "short_position": "Strong short +25% gains near-term; cover if company clears name.",
+                "key_risks": "Company distances from individuals, potential rebound; broader AI sector dip."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear news catalyst with immediate price reaction and high volume."
+        },
+        {
+            "details": {
+                "ticker": "FDX",
+                "full_name": "FedEx Corporation",
+                "current_price": 285.4,
+                "market_cap": "$68.5B",
+                "sector_industry": "Industrials / Transportation",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "8.2M",
+                "recent_dividend": "$1.38 quarterly"
+            },
+            "impact_theory": "Q3 FY26 earnings beat: EPS $5.25 vs $4.11 exp, revenue $24B beat, raised FY26 guidance $19.30-20.10. Implications: resilient demand despite economy/war. Psychology: relief rally post-cost cuts. Parallels: UPS 2022 beat. Analogies: athlete beating injury comeback; ship steady in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Earnings surprise 27%, guidance up, premarket +9%. Positive X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% to 330; momentum play.",
+                "short_position": "Avoid; upside risk.",
+                "key_risks": "Macro slowdown, oil costs from Iran war."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat with raised guidance."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.75,
+                "market_cap": "$510B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "22.1M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iran war escalation: Israel strikes, oil to $110+, Goldman warns record highs if disruptions. Implications: higher revenues/margins. Psychology: flight to energy safety. Parallels: 2022 Ukraine oil spike +50%. Analogies: gas station price gouge frenzy; storm hoarding fuel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Oil surge sentiment on X/web, energy gainers like TTE +4%. War volatility favors majors."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8-12% if oil >120.",
+                "short_position": "Risky; de-escalation -10%.",
+                "key_risks": "Ceasefire, recession demand destruction."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical but unpredictable duration."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.3,
+                "market_cap": "$290B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 15.1,
+                "volume": "12.4M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Same Iran war oil surge. Implications: supply fears boost supermajors. Psychology: hedge against inflation. Parallels: Gulf War 1990. Analogies: betting on fire during drought; gold rush in chaos.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Sector tailwind, similar to XOM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10%; dividend play.",
+                "short_position": "Avoid.",
+                "key_risks": "OPEC increase, peace talks."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector but shared with XOM."
+        },
+        {
+            "details": {
+                "ticker": "AA",
+                "full_name": "Alcoa Corporation",
+                "current_price": 35.6,
+                "market_cap": "$6.3B",
+                "sector_industry": "Materials / Aluminum",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 22.0
+                },
+                "pe_ratio": -12.3,
+                "volume": "15.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Loser amid energy rally? X posts show -8.69%, perhaps China demand fears or commodity rotation. Implications: higher energy costs squeeze margins. Psychology: risk-off in metals. Parallels: 2020 COVID drop. Analogies: can crushed in recession; ice melting in heatwave.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-9%",
+                "reasoning": "X sentiment lists as top loser, no positive news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for bottom +15% rebound.",
+                "short_position": "Short +10% further.",
+                "key_risks": "Stimulus, demand recovery."
+            },
+            "confidence_rating": "C",
+            "justification": "Less clear catalyst vs others."
+        }
+    ]
+}
