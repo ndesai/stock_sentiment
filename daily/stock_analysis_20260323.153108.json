@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "25M",
+                "recent_dividend": "Annual $3.88, yield 3.0%"
+            },
+            "impact_theory": "U.S. President Trump announced a 5-day pause on strikes against Iranian power plants following productive talks, causing oil prices to tumble over 8% below $100. This de-escalates war tensions that had spiked oil earlier. Economic implications: lower inflation fears, boosting consumer stocks but hurting energy producers. Market psychology: relief rally in equities, rotation out of energy. Historical parallels: 2019 Iran tensions where oil spiked then fell on diplomacy. Analogies: deflating a balloon after hype (oil rally bursts); tide going out revealing overextended energy positions.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Oil plunge directly hits XOM's upstream revenues. X sentiment shows profit-taking; web news confirms energy sector selloff on de-escalation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited, wait for dip buy if war resumes; potential 2% gain short-term.",
+                "short_position": "Strong short opportunity, 4-6% downside if oil stabilizes low; risks: renewed tensions spike oil.",
+                "key_risks": "Geopolitical reversal, supply disruptions elsewhere, strong Q1 earnings."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from Trump announcement, consistent with oil correlation (r=0.9 historically)."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.3,
+                "market_cap": "$290B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "18M",
+                "recent_dividend": "Quarterly $1.63, yield 4.0%"
+            },
+            "impact_theory": "Same Iran de-escalation news triggers oil selloff. Implications: reduced refining margins, capex cuts possible. Psychology: fear of prolonged low oil erodes gains from war rally. Parallels: 2022 Ukraine de-escalation dip. Analogies: rug pulled from under oil bulls; sugar high crash after war candy.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2.5% to -4%",
+                "reasoning": "Chevron heavily exposed to crude; news searches show sector-wide pressure, X posts highlight short energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive dividend play, 1-2% rebound if stabilizes.",
+                "short_position": "Target 3% drop, high volume supports.",
+                "key_risks": "OPEC cuts, US production slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong link but diversified ops provide buffer."
+        },
+        {
+            "details": {
+                "ticker": "LNG",
+                "full_name": "Cheniere Energy, Inc.",
+                "current_price": 282.0,
+                "market_cap": "$65B",
+                "sector_industry": "Energy / Oil & Gas Midstream",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 11.5,
+                "volume": "3.5M",
+                "recent_dividend": "None recent, focus on growth"
+            },
+            "impact_theory": "LNG less tied to crude but global energy volatility from war; de-escalation eases European demand surge. Implications: softer spot prices. Psychology: premarket gainer now reversing. Parallels: 2022 LNG boom fade. Analogies: wave crest receding; party ending early.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Premarket +4% on oil shock, now sentiment shift per Benzinga/FB posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term export growth, 3% upside.",
+                "short_position": "Quick 2-3% trade.",
+                "key_risks": "Europe winter demand, new contracts."
+            },
+            "confidence_rating": "B",
+            "justification": "LNG decoupled from oil somewhat, moderate shift."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "$130B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tech rotation amid war fears sold semis; de-escalation sparks broad rally. Implications: lower rates/inflation aids capex. Psychology: buy dip in AI leaders. Parallels: post-2022 dip rebounds. Analogies: storm clouds parting for tech sun; pendulum swing from energy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Premarket loser now leading Nasdaq bounce; X/web show relief."
+            },
+            "potential_profit_risks": {
+                "long_position": "5-7% gains on AI demand.",
+                "short_position": "Avoid, momentum up.",
+                "key_risks": "China trade, memory glut."
+            },
+            "confidence_rating": "A",
+            "justification": "Nasdaq +1.7% confirms tech lead."
+        },
+        {
+            "details": {
+                "ticker": "APA",
+                "full_name": "APA Corporation",
+                "current_price": 39.5,
+                "market_cap": "$11B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 7.2,
+                "volume": "12M",
+                "recent_dividend": "Quarterly $0.25, yield 2.5%"
+            },
+            "impact_theory": "Pure-play upstream hit hard by oil drop. Implications: production cuts loom. Psychology: high beta energy unwind. Parallels: 2020 oil crash. Analogies: race car slamming brakes; house of cards on oil.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Premarket mover now reversing on news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value trap unless oil rebounds.",
+                "short_position": "5% potential.",
+                "key_risks": "Earnings beat, M&A."
+            },
+            "confidence_rating": "B",
+            "justification": "Volatile small cap, but clear catalyst."
+        }
+    ]
+}
