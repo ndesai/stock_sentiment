@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 412.5,
+                "market_cap": "$1.3T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.2,
+                    "low": 180.0
+                },
+                "pe_ratio": 95.2,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Recent X posts highlight Jay Leno's video on TSLA Semi-truck, potential Model YL spotting at Giga Texas, and new Advanced Technology Fab construction. These signal product innovation and expansion, boosting investor excitement amid market relief rally from Middle East de-escalation. Economic implications: strengthens EV leadership, reduces supply chain risks with in-house chips. Market psychology: FOMO on Tesla's multi-vertical growth (auto, AI, robots). Historical parallels: Similar to 2020 battery day rally. Analogies: Like Apple iPhone launches sparking hype waves; a rocket fueling upward trajectory.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "High engagement on X (thousands views, hundreds likes) shows positive sentiment shift. Web news on market rebound supports tech gains. Geopolitical relief aids risk-on assets like growth stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 5-10% gains in next week on continued buzz and rally.",
+                "short_position": "Avoid or short if EV demand softens, potential 2-3% loss on hype fade.",
+                "key_risks": "Geopolitical re-escalation, competition from legacy autos, high valuation vulnerable to rate hikes."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz volume, aligns with broader market relief rally."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.75,
+                "market_cap": "$3.8T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "62M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Bloomberg reports Apple starting ads in Maps this summer, major ad expansion; iPhone Air twice as popular as iPhone 16 Plus. Implications: Diversifies revenue beyond hardware, enhances ecosystem stickiness. Psychology: Validates services growth narrative. Parallels: Google ad expansions in 2010s. Analogies: Like adding fuel to a jet engine; planting money trees in services orchard.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Positive X mentions amid tech rebound. Services growth offsets hardware cycles."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 3% upside on ad revenue potential.",
+                "short_position": "Short if antitrust pressures mount, 1-2% downside.",
+                "key_risks": "Regulatory scrutiny on ads/privacy, China sales volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Credible Bloomberg source, but less X volume than TSLA."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 148.3,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.5,
+                    "low": 70.0
+                },
+                "pe_ratio": 72.1,
+                "volume": "45M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "X post highlights $1000 in NVDA 5yrs ago now $126k, underscoring AI dominance. Market rally favors semis. Implications: AI capex boom continues. Psychology: Reinforcement of winner-take-all. Parallels: Dotcom chip boom. Analogies: Gold rush pickaxe seller; engine of AI revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Sentiment strong on historical returns, semis lead rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 5-8% on AI hype persistence.",
+                "short_position": "Short on bubble fears, 3% risk.",
+                "key_risks": "AI spending slowdown, competition from AMD/Intel."
+            },
+            "confidence_rating": "B",
+            "justification": "Viral X comparison boosts sentiment."
+        },
+        {
+            "details": {
+                "ticker": "TLYS",
+                "full_name": "Tilray Brands, Inc.",
+                "current_price": 2.45,
+                "market_cap": "$1.8B",
+                "sector_industry": "Healthcare/Drug Manufacturers",
+                "high_low_52_week": {
+                    "high": 3.2,
+                    "low": 0.8
+                },
+                "pe_ratio": -12.3,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top monthly gainer +167% in March per StockTitan. Likely cannabis reform or earnings buzz. Implications: Sector rotation to small caps. Psychology: Greed on multi-baggers. Parallels: 2018 weed stock mania. Analogies: Lottery ticket in bull market; phoenix rising from ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Leading monthly gainers list, momentum play."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long for 15%+ short-term.",
+                "short_position": "Short on fade, high volatility.",
+                "key_risks": "Regulatory delays, dilution."
+            },
+            "confidence_rating": "C",
+            "justification": "Monthly not daily specific, speculative."
+        },
+        {
+            "details": {
+                "ticker": "USAS",
+                "full_name": "Americas Gold and Silver Corp.",
+                "current_price": 5.92,
+                "market_cap": "$220M",
+                "sector_industry": "Basic Materials/Silver",
+                "high_low_52_week": {
+                    "high": 6.5,
+                    "low": 1.01
+                },
+                "pe_ratio": -4.5,
+                "volume": "4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Morningstar notes +10.24%. Precious metals up on geo tensions then relief? Implications: Inflation hedge. Psychology: Safe haven shift. Parallels: 2022 gold rally. Analogies: Bunker in storm; glittering safety net.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Explicit gainer mention amid volatile commodities."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% on metals momentum.",
+                "short_position": "Short if dollar strengthens.",
+                "key_risks": "Commodity price swings, operational issues."
+            },
+            "confidence_rating": "C",
+            "justification": "Limited details, small cap volatility."
+        }
+    ]
+}
