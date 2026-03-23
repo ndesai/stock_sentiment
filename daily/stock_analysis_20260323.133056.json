@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 110.5,
+                "market_cap": "$493B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 132.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "45.2M",
+                "recent_dividend": "3.76% yield, $0.95 quarterly"
+            },
+            "impact_theory": "Trump's announcement of pausing strikes on Iranian power plants for 5 days following productive US-Iran talks led to a sharp unwind of the geopolitical risk premium. Oil prices plunged over 10% (WTI below $90), reversing prior gains from war fears over Strait of Hormuz. Economic implications: lower energy costs boost consumers but hurt producers' margins. Market psychology: relief rally in equities, panic selling in energy. Historical parallels: similar to 2019 US-Iran de-escalation after Soleimani strike. Analogies: deflating a balloon (war hype burst) or rug-pull in crypto (hype reversal).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.5%",
+                "reasoning": "Oil plunge directly hits XOM's upstream revenues; X sentiment shows unwind of longs, web news confirms energy sector leading losers post-announcement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential further downside if talks progress (-2-5% more)",
+                "short_position": "Opportunity for 3-6% gains short-term; cover if escalation resumes",
+                "key_risks": "Talks fail, oil rebounds sharply; broader market rotation away from energy."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear causal link from news to price action, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 142.3,
+                "market_cap": "$268B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 172.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 14.1,
+                "volume": "28.7M",
+                "recent_dividend": "4.2% yield, $1.63 quarterly"
+            },
+            "impact_theory": "Same de-escalation event crushed oil prices, shifting sentiment from bullish (war premium) to bearish for integrated majors. Implications: reduced refining margins, capex cuts possible. Psychology: FOMO longs reversed to capitulation. Parallels: 2022 Ukraine de-tension moments. Analogies: wave crashing after buildup; popped champagne expectations.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5.2%",
+                "reasoning": "Mirrors XOM; web searches show energy leading declines, X posts highlight oil longs exiting."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk, wait for stabilization (+/-3%)",
+                "short_position": "Target 4-7% downside; high reward if oil stays low",
+                "key_risks": "OPEC cuts, renewed tensions; dividend supports floor."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with sector move, strong news correlation."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 45.2,
+                "market_cap": "$29B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 7.8,
+                "volume": "22.1M",
+                "recent_dividend": "N/A (suspended)"
+            },
+            "impact_theory": "Lower oil prices reduce jet fuel costs (30-40% of expenses), boosting margins amid de-escalation relief. Implications: improved profitability, capacity growth. Psychology: risk-on shift favors cyclicals. Parallels: post-2020 COVID oil crash rally. Analogies: tailwind for flight; weight lifted off wings.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6.8%",
+                "reasoning": "Airlines surge on cheap fuel; X chatter on risk unwind favors transports, news confirms sector leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "3-8% upside potential as oil stabilizes low",
+                "short_position": "Avoid; momentum favors bulls",
+                "key_risks": "Demand weakness, recession fears; fuel hedge limits upside."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong logical link but airlines volatile on other factors."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 38.9,
+                "market_cap": "$12.8B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 58.0,
+                    "low": 33.0
+                },
+                "pe_ratio": 6.5,
+                "volume": "18.4M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Identical to DAL: fuel cost relief from oil crash post-Trump pause. Implications: earnings upgrade potential. Psychology: broad market rally amplifies. Parallels: 2016 oil glut. Analogies: cheaper gas for road trip; sunny skies ahead.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7.2%",
+                "reasoning": "Sector rotation into transports; sentiment from X shows unwind benefiting consumers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 5-10% gains",
+                "short_position": "Risky amid rally",
+                "key_risks": "Travel slowdown, high debt load."
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven but sector breadth supports."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 425.1,
+                "market_cap": "$102B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.0,
+                    "low": 410.0
+                },
+                "pe_ratio": 18.9,
+                "volume": "1.8M",
+                "recent_dividend": "2.8% yield, $3.15 quarterly"
+            },
+            "impact_theory": "De-escalation reduces near-term defense spending urgency, though backlog intact. Implications: delayed contracts. Psychology: risk-off unwind hits 'war trades'. Parallels: post-Cold War 1990s dips. Analogies: storm passing without rain; sword back in sheath.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3.1%",
+                "reasoning": "Defense lags rally; X/web note rotation out of safe-havens."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for long-term (+2-4%)",
+                "short_position": "Limited 2-5% downside",
+                "key_risks": "Any escalation reverses; strong fundamentals."
+            },
+            "confidence_rating": "C",
+            "justification": "Less direct impact than energy; other factors at play."
+        }
+    ]
+}
