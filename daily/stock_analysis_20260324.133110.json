@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.5,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 132.45,
+                    "low": 102.3
+                },
+                "pe_ratio": 23.0,
+                "volume": "18,500,000",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Surging oil prices above $102/bbl due to Iran-US conflict and Strait of Hormuz disruptions boost upstream revenues for integrated majors like XOM. Economic implications include higher energy costs fueling inflation fears, delaying Fed cuts. Market psychology: risk-on for energy amid geo-tensions. Historical parallels: 2019 Iran tanker attacks (+10% oil spike). Analogies: like a dam bursting (oil supply constrained), or poker bluff escalating (Trump pause then rebound).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web searches show oil rebound after Trump Iran post uncertainty; X posts highlight positive for upstream oil amid war. High engagement on energy winners."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 5-8% gains if oil >$110 sustained.",
+                "short_position": "Avoid or short if de-escalation, potential 3% loss.",
+                "key_risks": "Diplomatic resolution dropping oil prices, recession from high energy costs."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation oil-stock, consistent news theme across sources."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 160.2,
+                "market_cap": "$290B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 168.9,
+                    "low": 135.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "8,200,000",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Similar to XOM, Chevron benefits from elevated crude realizations; disruptions hit competitors more (per WSJ). Implications: widens fiscal deficits via subsidies elsewhere. Psychology: flight to quality energy. Parallels: Gulf War 1990 oil shock. Analogies: rising tide lifts oil boats; shadow boxing in Middle East.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Mentioned in WSJ as impacted but resilient; X sentiment positive for oil giants."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX targeting 4-7% upside.",
+                "short_position": "Short on peace talks, 2-4% downside.",
+                "key_risks": "Asset impairments from attacks, regulatory scrutiny."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news hits on Chevron in conflict context."
+        },
+        {
+            "details": {
+                "ticker": "MPC",
+                "full_name": "Marathon Petroleum Corporation",
+                "current_price": 180.75,
+                "market_cap": "$62B",
+                "sector_industry": "Energy / Refining",
+                "high_low_52_week": {
+                    "high": 192.0,
+                    "low": 145.5
+                },
+                "pe_ratio": 9.5,
+                "volume": "4,100,000",
+                "recent_dividend": "$0.83 quarterly"
+            },
+            "impact_theory": "Refiners gain from wide crack spreads (high crude, higher products). Implications: offsets some consumer pain. Psychology: value play in volatility. Parallels: 2022 Ukraine war. Analogies: arbitrage in chaos; refinery as oil filter in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Premarket gainer; highlighted in oil surge articles."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MPC for 6-10% if spreads hold.",
+                "short_position": "N/A high conviction long.",
+                "key_risks": "Demand destruction from recession."
+            },
+            "confidence_rating": "B",
+            "justification": "Premarket data supports, but refiners volatile."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 45.3,
+                "market_cap": "$29B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.5,
+                    "low": 38.0
+                },
+                "pe_ratio": 7.8,
+                "volume": "12,800,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "High ATF/fuel costs (40% expenses) squeeze margins amid Hormuz closure. Implications: higher fares, demand drop. Psychology: risk-off travel. Parallels: 2022 oil spike (-20% airlines). Analogies: plane grounded by fuel storm; wallet drained by gas guzzler.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "X posts negative for aviation; autos/air hit by Hormuz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; wait for dip buy.",
+                "short_position": "Short DAL for 6-9% gains.",
+                "key_risks": "Fuel hedging mitigates, demand resilient."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector impact from news."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 500.1,
+                "market_cap": "$120B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 535.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 20.1,
+                "volume": "1,200,000",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Geo-tensions accelerate defense orders (F-35, missiles). Implications: budget hikes. Psychology: safe haven defense. Parallels: post-9/11 boom. Analogies: arms race ignition; fortress in turmoil.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "X positive for defense PSUs; US equivalent benefits."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long LMT 3-5% gains.",
+                "short_position": "Minimal.",
+                "key_risks": "De-escalation cuts spending."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but logical from war news."
+        }
+    ]
+}
