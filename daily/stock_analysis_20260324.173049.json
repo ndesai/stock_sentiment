@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 183.22,
+                "market_cap": "$4.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 110.2
+                },
+                "pe_ratio": 68.4,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.04 quarterly (ex-date Mar 12, 2026)"
+            },
+            "impact_theory": "NVIDIA's GTC conference announced major advancements in AI chips like Blackwell full production ramp-up and new partnerships, boosting economic growth in AI sector by accelerating data center builds. Market psychology: renewed FOMO among investors after brief AI fatigue. Historical parallels: Similar to 2023 ChatGPT hype driving NVDA 200%+ run. Analogies: 1. Like fueling a rocket engine mid-flight for faster orbit. 2. Pouring gasoline on the AI bonfire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Goldman Sachs raised PT to $250 (36% upside), GTC news bigger than expected per analysts; X sentiment highly positive with high engagement posts on new chips (from x_semantic_search: 80% bullish posts latest 20); web news highlights revenue forecasts $215B FY26."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains in 1-2 weeks on momentum; enter at $183 target $205.",
+                "short_position": "Avoid short, or small short if overbought RSI>80 for 3-5% pullback.",
+                "key_risks": "Overvaluation bubble burst if AI hype fades; competition from AMD; supply chain delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong analyst upgrades, recent conference momentum, high X volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 245.6,
+                "market_cap": "$780B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 300.1,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla delayed robotaxi unveil to October per WSJ leak, dampening EV/autonomy hype. Economic: Slows capex in autonomy, pressures margins. Psychology: Frustration after Musk hype. Parallels: 2020 battery day miss caused 20% drop. Analogies: 1. Promised feast, served appetizer. 2. Car stalled at green light.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Leak on delay sparked selloff; X posts mixed-negative (60% bearish latest); prior news on Q1 deliveries miss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long risky, wait for dip buy at $230 for rebound.",
+                "short_position": "Short for 10% downside to $220; high short interest opportunity.",
+                "key_risks": "Musk tweet reversal; China sales surprise; broader EV rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Reliable sources on delay, but Musk history of surprises tempers confidence."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 228.9,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.1
+                },
+                "pe_ratio": 35.7,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly (ex-date Feb 12, 2026)"
+            },
+            "impact_theory": "Apple won partial antitrust appeal, easing DOJ pressure on App Store. Economic: Preserves $25B revenue stream. Psychology: Relief rally. Parallels: 2021 Epic win boost. Analogies: 1. Bullet dodged in court shootout. 2. Gate reopened for golden goose.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Court ruling favorable; X buzz positive on services growth; analyst notes stable."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5% to $240 on services beat.",
+                "short_position": "Not recommended, low volatility.",
+                "key_risks": "Full DOJ case escalation; China iPhone sales slump."
+            },
+            "confidence_rating": "B",
+            "justification": "Partial win positive but ongoing litigation."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 42.3,
+                "market_cap": "$95B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 50.2,
+                    "low": 15.3
+                },
+                "pe_ratio": 210.1,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir won $500M DoD contract for AI platforms. Economic: Accelerates gov revenue to 60%. Psychology: Meme-to-legit shift. Parallels: SNOW gov deals 2022. Analogies: 1. Government check cashed big. 2. AI spy toolkit upgrade.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Contract announcement drove volume; X hype high (retweets 10k+); commercial growth too."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum play 15% to $50.",
+                "short_position": "Short if no follow-through, 8% to $39.",
+                "key_risks": "High valuation; contract delays; insider selling."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete contract news, strong sentiment."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 856.4,
+                "market_cap": "$50B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 259.3
+                },
+                "pe_ratio": 42.8,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI reported record server shipments tied to NVDA demand. Economic: AI infra boom. Psychology: Catch-up to NVDA rally. Parallels: 2023 AI server surge. Analogies: 1. Building the AI skyscrapers. 2. Tractor trailer for chip freight.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Earnings beat whispers; X trader buzz linking to GTC; supply chain intact."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% breakout to $1000.",
+                "short_position": "Short pullback post-earnings 10%.",
+                "key_risks": "Margin squeeze; NVDA slowdown; accounting issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to NVDA but higher beta, volatile."
+        }
+    ]
+}
