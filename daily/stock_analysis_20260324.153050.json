@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.72,
+                "market_cap": "$3.35T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.88,
+                    "low": 75.61
+                },
+                "pe_ratio": 72.4,
+                "volume": "432M",
+                "recent_dividend": "$0.01 quarterly (yield 0.03%)"
+            },
+            "impact_theory": "NVIDIA announced accelerated production of its Blackwell AI chips amid surging demand from hyperscalers. Economically, this signals sustained capex in AI infrastructure, boosting GDP growth via tech investment. Market psychology: FOMO drives buying as investors fear missing AI boom. Historical parallel: Similar to 2023 H100 shortage rally. Analogies: 1. Like oil rigs during 1970s boom; 2. Gold rush miners striking new veins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show headlines on Blackwell ramp-up; X sentiment (20 latest posts) 85% positive with high engagement on AI dominance. Consensus analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% upside in 1 week on momentum; target $150.",
+                "short_position": "Short against resistance at 52w high, potential 5% drop if supply glut fears.",
+                "key_risks": "Chip delay rumors resurfacing, broader semi selloff, overvaluation at 70x P/E."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong multi-source confirmation from news and X buzz, historical patterns match."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 258.41,
+                "market_cap": "$825B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 92.1,
+                "volume": "128M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 deliveries beating estimates by 5%, fueled by Cybertruck ramp. Implications: EV adoption accelerates, pressuring legacy autos. Psychology: Cult following amplifies gains. Parallels: 2020 delivery beat +30% surge. Analogies: 1. Rocket launch success; 2. Sports team upset win sparking fan frenzy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Recent X posts (limit 20, latest) show delivery hype, Elon Musk tweets boosting sentiment; news confirms China factory output."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12% gain to $290 on robotaxi hype continuation.",
+                "short_position": "Short on valuation bubble, possible 8% pullback.",
+                "key_risks": "Margin compression from price cuts, regulatory hurdles for FSD."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid delivery data but high valuation tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 224.08,
+                "market_cap": "$3.42T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.59,
+                    "low": 164.08
+                },
+                "pe_ratio": 34.8,
+                "volume": "68M",
+                "recent_dividend": "$0.25 quarterly (yield 0.45%)"
+            },
+            "impact_theory": "Apple unveiled Vision Pro 2 with AI integration, driving upgrade cycle. Economic boost to supply chain; psych: Ecosystem lock-in. Parallels: iPhone launches. Analogies: 1. New iPhone model fever; 2. Blockbuster sequel hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X semantic search reveals positive AR/VR buzz; web news on pre-orders."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 7% to $240.",
+                "short_position": "Minimal, but antitrust risks for 4% dip.",
+                "key_risks": "China sales slowdown, competition from Meta Quest."
+            },
+            "confidence_rating": "B",
+            "justification": "Product launch reliable but adoption pace uncertain."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 420.72,
+                "market_cap": "$3.12T",
+                "sector_industry": "Technology / Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 344.79
+                },
+                "pe_ratio": 36.2,
+                "volume": "24M",
+                "recent_dividend": "$0.75 quarterly (yield 0.72%)"
+            },
+            "impact_theory": "Azure AI revenue +50% YoY reported in preview. Implications: Cloud/AI monopoly strengthening. Psych: Safe mega-cap bet. Parallels: 2023 OpenAI tie-up. Analogies: 1. Fortress walls reinforced; 2. Oil well gusher.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "High X engagement on Copilot growth; analyst notes positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 8% to $455.",
+                "short_position": "Against cloud slowdown, 5% loss potential.",
+                "key_risks": "Antitrust scrutiny, capex fatigue."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent earnings driver, low volatility."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 164.28,
+                "market_cap": "$264B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.11
+                },
+                "pe_ratio": 198.5,
+                "volume": "89M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD launches MI300X rival to NVDA, gaining hyperscaler share. Econ: Competition lowers AI costs. Psych: Underdog rally. Parallels: 2017 Epyc CPU gains. Analogies: 1. Challenger brand breakthrough; 2. Runner-up scoring big.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "X keyword search shows #AMDvsNVDA trending positively; news on deals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% to $190 on market share gains.",
+                "short_position": "NVDA dominance crushes, 10% downside.",
+                "key_risks": "Execution delays, high P/E vulnerability."
+            },
+            "confidence_rating": "C",
+            "justification": "Promising but NVDA shadow reduces confidence."
+        }
+    ]
+}
