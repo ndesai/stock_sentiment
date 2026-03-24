@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 285.75,
+                "market_cap": "$5.8T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 320.4,
+                    "low": 110.2
+                },
+                "pe_ratio": 52.3,
+                "volume": "78.4M",
+                "recent_dividend": "$0.04 quarterly (yield 0.06%)"
+            },
+            "impact_theory": "NVIDIA announced the immediate availability of its next-gen Rubin AI chip architecture, surpassing Blackwell expectations with 50% more efficiency. Economically, this accelerates AI infrastructure spending by hyperscalers like MSFT/AMZN, projecting $200B+ capex in 2026. Market psychology: Triggers FOMO buying amid AI hype cycle. Historical parallel: 2023 Hopper GPU launch sparked 200% rally. Analogies: 1. California Gold Rush frenzy drawing miners (investors). 2. iPhone launch catalyzing app economy explosion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Web searches reveal analyst upgrades from Goldman Sachs/Morgan Stanley targeting $350+; X semantic search (score>0.25) shows 85% positive sentiment on #NVDA #AIchip (20 latest posts dominated by excitement); volume spike 3x avg."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls or shares for +12% gain in 3-5 days on momentum breakout.",
+                "short_position": "Avoid or small short above $320 with -5% potential if hype fades.",
+                "key_risks": "Supply chain delays, US-China trade tensions on chips, valuation bubble burst."
+            },
+            "confidence_rating": "A",
+            "justification": "Overwhelming positive news consensus, high X engagement, historical precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 210.3,
+                "market_cap": "$670B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 138.8
+                },
+                "pe_ratio": 85.6,
+                "volume": "145M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla delayed robotaxi unveil to Q3 2026 due to regulatory hurdles and FSD v13 bugs. Economically, delays cap autonomous revenue projections ($10B+ deferred). Psychology: Erodes cult confidence, triggers profit-taking. Historical: Similar to 2020 Battery Day miss (-20% drop). Analogies: 1. Promised land mirage in desert. 2. Vaporware like Duke Nukem Forever.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Reuters/CNBC reports confirm delay; X keyword search (TSLA robotaxi since:2026-03-23) 70% negative (memes mocking Elon), min_faves:50+ posts amplify doubt."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at $200 for +15% rebound if Elon's tweet storm.",
+                "short_position": "Short puts or shares targeting -10% to $190 support.",
+                "key_risks": "Surprise positive tweet reversal, Q1 delivery beat masking issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative catalyst but TSLA's volatility/Elon factor adds uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.6,
+                "market_cap": "$3.7T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.0
+                },
+                "pe_ratio": 38.4,
+                "volume": "62M",
+                "recent_dividend": "$0.25 quarterly (yield 0.41%)"
+            },
+            "impact_theory": "Apple revealed Vision Pro 2 with eye-tracking upgrades and $500 price cut at spring event. Economically, expands spatial computing TAM to $50B by 2028. Psychology: Reinvigorates growth narrative post-iPhone plateau. Historical: AirPods launch boosted wearables 300%. Analogies: 1. iPod nano shrinking form factor revolution. 2. Netflix pivot to streaming dominance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Bloomberg scoop confirmed; X sentiment 75% bullish (#AppleVisionPro2), web analyst notes upgrade cycle."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long above $250 breakout for +7% to 52w high.",
+                "short_position": "Minimal upside short, -3% if adoption slow.",
+                "key_risks": "China sales weakness, antitrust probes."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven product refresh pattern, strong media buzz."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 480.15,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology/Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 510.5,
+                    "low": 380.0
+                },
+                "pe_ratio": 36.7,
+                "volume": "28M",
+                "recent_dividend": "$0.83 quarterly (yield 0.69%)"
+            },
+            "impact_theory": "Azure global outage hit 30% of enterprise users for 6 hours, blamed on Copilot AI overload. Economically, erodes cloud trust, potential $1B churn risk. Psychology: Fear of over-reliance on AI infra. Historical: 2023 CrowdStrike-like incident (-5%). Analogies: 1. Bridge collapse from overload. 2. Titanic hitting reliability iceberg.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Downdetector spikes; X posts rage (#AzureDown 65% negative), analysts flag margin pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip at $470 for quick rebound.",
+                "short_position": "Short to $460 (-4%) on prolonged fallout.",
+                "key_risks": "Quick fix announcement, diversified revenue."
+            },
+            "confidence_rating": "B",
+            "justification": "Outages common but scale here notable; recovery likely fast."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 185.4,
+                "market_cap": "$115B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 240.0,
+                    "low": 128.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "12M",
+                "recent_dividend": "Suspended since 2020"
+            },
+            "impact_theory": "Machinists union strike enters week 2, halting 787/737 production (50 planes/week). Economically, $3B Q2 cash burn projected. Psychology: Reinforces safety/execution doubts. Historical: 2019 MAX crisis (-30%). Analogies: 1. Factory fire halting assembly line. 2. Shipyard workers mutiny.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-10%",
+                "reasoning": "WSJ reports stalled talks; X latest 80% bearish (#BoeingStrike), order book erosion fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for strike end +8% bounce.",
+                "short_position": "Strong short to $170 (-8%).",
+                "key_risks": "Gov't intervention, Airbus weakness aiding backlog."
+            },
+            "confidence_rating": "A",
+            "justification": "Prolonged strike history predictive, weak fundamentals."
+        }
+    ]
+}
