@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 152.5,
+                "market_cap": "$170B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 52.3
+                },
+                "pe_ratio": 105.2,
+                "volume": "25,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Arm unveiled its first in-house AI chip (AGI CPU), projecting $15B annual revenue, marking a pivot from licensing to manufacturing. Economically, boosts AI sector growth amid chip demand surge; psychologically, shifts investor view from IP firm to hardware player, sparking FOMO. Parallels NVIDIA's 2023 AI boom; analogies: like Apple entering chip design with M1 (explosive growth), or Intel's early microprocessor dominance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-15%",
+                "reasoning": "Premarket +13%, X posts bullish (e.g., 350% option gains), web news confirms revenue guidance $15-25B by 2031. Sentiment shift positive via x_semantic_search showing trader excitement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20%+ gains on AI hype, target $180; short-term options explosive.",
+                "short_position": "Avoid or short if execution risks emerge, potential 5-10% pullback.",
+                "key_risks": "Chip supply chain issues, competition from NVDA/AMD, overvaluation in semis."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with specific revenue proj., strong premarket/X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 129.5,
+                "market_cap": "$310B",
+                "sector_industry": "Consumer Cyclical/E-commerce",
+                "high_low_52_week": {
+                    "high": 152.0,
+                    "low": 75.1
+                },
+                "pe_ratio": 14.8,
+                "volume": "18,000,000",
+                "recent_dividend": "$1.20"
+            },
+            "impact_theory": "China regulator signals end to food-delivery price wars, allowing profit recovery; Alibaba's $100B AI bet. Implications: margin expansion in core biz, AI growth; psychology: relief from regulatory pressure. Parallels JD.com 2021 recovery; analogies: like ending Uber Eats wars (profit surge), or Amazon post-antitrust easing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Premarket +3.8%, news on price war end + AI investment; X sentiment positive amid China tech rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% upside to $140 on margin recovery.",
+                "short_position": "Short if geopolitics flare, 5% downside.",
+                "key_risks": "China regulation, US-China tensions, weak consumer spending."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news but China risks temper confidence."
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 72.8,
+                "market_cap": "$51B",
+                "sector_industry": "Financial Services/Trading Platforms",
+                "high_low_52_week": {
+                    "high": 80.5,
+                    "low": 18.0
+                },
+                "pe_ratio": 55.3,
+                "volume": "12,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Riding broader market rally on Iran truce hopes, crypto rebound; premarket gainer. Implications: higher trading vol; psychology: retail frenzy return. Parallels 2021 meme surge; analogies: like Coinbase on BTC pumps, or brokerages in bull markets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Premarket +3.68%, general market up/oil down benefits risk assets; limited specific news but X/momentum positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for vol spike, +10% to $80.",
+                "short_position": "Short post-pump, 5% retrace.",
+                "key_risks": "Regulatory scrutiny, market downturn kills vol."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum play, lacks strong catalyst."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 382.1,
+                "market_cap": "$1.22T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.3,
+                    "low": 248.0
+                },
+                "pe_ratio": 82.4,
+                "volume": "95,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Euro sales rebound amid EV demand; broader AI/robotaxi hype on X. Implications: validates demand; psychology: counters sales fears. Parallels 2023 China rebound; analogies: like iPhone sales recovery, or Boeing order wins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "News on Euro rebound, X bullish (targets $750), but mixed with some pullback talk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $420 on robotaxi catalyst.",
+                "short_position": "Short if deliveries miss, -8%.",
+                "key_risks": "Competition, Elon risks, macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but volatile sentiment."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.2,
+                "market_cap": "$495B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 142.5,
+                    "low": 98.7
+                },
+                "pe_ratio": 12.1,
+                "volume": "16,500,000",
+                "recent_dividend": "$3.80 (annual)"
+            },
+            "impact_theory": "Oil prices fall on US-Iran truce prospects, down 4%+. Implications: lower refining margins; psychology: risk-off for energy. Parallels 2019 drone attack unwind; analogies: like post-COVID oil crash, or 2020 demand drop.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Oil drop on peace hopes (Bloomberg), X mentions energy down; no specific XOM but sector drag."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if truce fails, rebound 5%.",
+                "short_position": "Short for 8% drop on sustained low oil.",
+                "key_risks": "Geopolitical flare-up reverses."
+            },
+            "confidence_rating": "C",
+            "justification": "Sector-wide, less XOM-specific."
+        }
+    ]
+}
