@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 135.5,
+                "market_cap": "$135B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 98.5,
+                "volume": "12,500,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Arm announced its first in-house AI/AGI CPU chip, marking a shift from pure IP licensing to manufacturing high-performance silicon, projecting $15-25B annual revenue by 2031. Economically, this diversifies revenue amid AI boom, reducing reliance on licensees like Nvidia. Market psychology: FOMO on Nvidia-like pivot, best day in year. Historical parallel: Nvidia's 2023 GPU surge. Analogies: 1) Like Apple entering chip design with M1, vertical integration boosts margins. 2) Tesla's Dojo chip, capturing AI compute value.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-15%",
+                "reasoning": "Web searches show stock up 12-15% on news of AI chip revenue windfall; X sentiment positive on strategic shift despite some caution on margins/supply. Oil rally secondary boost to tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 20%+ gains on AI adoption, target $160+.",
+                "short_position": "Short if supply issues emerge, potential 10% pullback to $120.",
+                "key_risks": "Customer pushback from incumbents, execution delays, valuation stretch."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with revenue guidance, strong X/web buzz, historical AI chip precedents."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 72.5,
+                "market_cap": "$24B",
+                "sector_industry": "Industrials/Airlines",
+                "high_low_52_week": {
+                    "high": 75.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 7.2,
+                "volume": "18,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Oil prices fell 4% to $87 on US-Iran de-escalation hopes/Trump talks, easing jet fuel costs (30-40% of expenses). Econ: Lowers input costs, boosts margins amid capacity cuts. Psych: Relief rally after oil shock fears. Historical: 2022 oil drop lifted airlines 20%+. Analogies: 1) Like retailers on falling cotton prices. 2) Shipping firms on lower bunker fuel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Airline stocks surging on oil pullback per web/X; UAL rebounding from recent lows, CEO comments highlight sensitivity but positive if sustained."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% upside to $85 if oil <80.",
+                "short_position": "Short on renewed tensions, -10% to $65.",
+                "key_risks": "Geopolitical reversal spiking oil, demand weakness."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong oil correlation, but volatile geopolitics tempers high confidence."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 162.6,
+                "market_cap": "$695B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 164.0,
+                    "low": 102.0
+                },
+                "pe_ratio": 14.1,
+                "volume": "22,000,000",
+                "recent_dividend": "$0.95"
+            },
+            "impact_theory": "Oil drop on Middle East truce hopes hits XOM, world's largest by cap. Econ: Lower crude compresses refining/upstream margins. Psych: Profit-taking after YTD 37% rally. Historical: 2014 oil crash -30% for majors. Analogies: 1) Miners on falling copper. 2) Farmers on cheap grain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "XLE -0.7%, XOM -0.85%; web notes valuation tops NVDA but oil eases; X mixed, positive on assets but de-escalation pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for 10% rebound if oil stabilizes $90+.",
+                "short_position": "Short for 8% drop to $150 on peace.",
+                "key_risks": "Supply disruptions reversing oil downtrend."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear oil link, but Guyana/Permian growth supports."
+        },
+        {
+            "details": {
+                "ticker": "CRM",
+                "full_name": "Salesforce, Inc.",
+                "current_price": 284.0,
+                "market_cap": "$275B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 325.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 34.5,
+                "volume": "8,500,000",
+                "recent_dividend": "$0.40"
+            },
+            "impact_theory": "CRM down 6% as Dow loser amid rotation from tech; debt-funded $25B buyback raises deceleration fears despite AI Agentforce growth. Econ: Signals undervaluation but questions organic growth. Psych: AI disruption worries. Historical: 2022 tech selloff. Analogies: 1) Like IBM in cloud shift. 2) Oracle pre-ERP pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-7%",
+                "reasoning": "Noted as major Dow loser; X/web highlight AI risks/buyback optics despite strong FCF."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for re-rating to $320 on AI proof.",
+                "short_position": "Short momentum fade, -10% to $255.",
+                "key_risks": "MSFT/HUBS competition, growth slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals: buyback bullish long-term, but near-term sentiment weak."
+        },
+        {
+            "details": {
+                "ticker": "SATS",
+                "full_name": "EchoStar Corporation",
+                "current_price": 122.1,
+                "market_cap": "$32B",
+                "sector_industry": "Communication Services/Satellite",
+                "high_low_52_week": {
+                    "high": 122.5,
+                    "low": 15.0
+                },
+                "pe_ratio": -52.9,
+                "volume": "3,200,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SATS top S&P performer +11%, short squeeze on 21.5% short interest post-S&P inclusion, SpaceX IPO speculation. Econ: Passive buying vs shorts. Psych: Momentum chase. Historical: GME squeeze. Analogies: 1) Like AMC shorts trapped. 2) Beyond Meat hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Top S&P gainer; X buzz on squeeze/SpaceX, web confirms rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long squeeze to $140, 15%+.",
+                "short_position": "Fade post-squeeze, -20% crash.",
+                "key_risks": "Fundamentals weak (neg EPS), insider selling."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum-driven, high short interest volatile."
+        }
+    ]
+}
