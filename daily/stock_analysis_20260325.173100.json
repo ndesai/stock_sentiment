@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 140.5,
+                "market_cap": "$145B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 162.8,
+                    "low": 88.5
+                },
+                "pe_ratio": 92.3,
+                "volume": "45,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Arm announced its first in-house AGI CPU chip, with CEO projecting $15-25B revenue by 2031, marking a pivot from licensing to full-chip manufacturing like Nvidia. Economic implications: Diversifies revenue, boosts AI chip market share. Market psychology: Excitement over Nvidia-like growth chapter, FOMO buying despite dilution risks. Historical parallels: Nvidia's 2023 AI boom (+200%). Analogies: 1. Like Apple entering chip design with M1, vertical integration. 2. Ford launching EVs amid auto shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Premarket +13%, continued surge on AI hype; X sentiment mixed short-term caution but long-term positive; web news highlights game-changer status."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains to $170-180 on AI adoption; hold through volatility.",
+                "short_position": "Short risks blowup if revenue beats; potential -10% if dilution fears grow.",
+                "key_risks": "Supply constraints, customer shift to in-house chips, valuation compression."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst, strong premarket move, aligns with AI megatrend."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 163.8,
+                "market_cap": "$720B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 145.2
+                },
+                "pe_ratio": 14.2,
+                "volume": "18,500,000",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "US sends 15-point Iran peace plan, oil falls 4-5% to $94 Brent on de-escalation hopes, hurting energy profits. Implications: Lower input costs for consumers boost economy, but squeezes margins. Psychology: Risk-off from war premium unwind. Parallels: 2019 US-Iran tensions oil spike/reversal. Analogies: 1. Deflating balloon after hype. 2. Summer storm passing, easing flood fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Oil tumble drags sector; X posts note retreat post-rally; broad market up but energy lags."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if peace fails, +10% rebound on oil spike.",
+                "short_position": "Short for 5-8% to $155; peace continuation.",
+                "key_risks": "Iran rejection escalates war, oil surges; geopolitical wildcard."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to oil, but talks uncertain per Iran denials."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 373.2,
+                "market_cap": "$2.77T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 510.5,
+                    "low": 370.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "25,800,000",
+                "recent_dividend": "$0.83 quarterly"
+            },
+            "impact_theory": "Oversold at weekly/monthly MAs, BofA reinstates Buy $500 PT on AI/cloud. Implications: Stabilizes tech amid rotation. Psychology: Value buy after 25% drop. Parallels: META 2022 recovery. Analogies: 1. Bouncing ball at bottom. 2. Phoenix from valuation ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Analyst upgrades, technical oversold; X bullish divergence talk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $425, 15% gain.",
+                "short_position": "Avoid, momentum shift.",
+                "key_risks": "Broader tech weakness, AI FUD."
+            },
+            "confidence_rating": "B",
+            "justification": "Technical setup strong, but macro headwinds."
+        },
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 685.0,
+                "market_cap": "$295B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 810.0,
+                    "low": 550.0
+                },
+                "pe_ratio": 48.1,
+                "volume": "4,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sentiment shift on beaten-down stock post-6mo weakness; upgrades to Buy. Implications: Streaming recovery. Psychology: Bottom fishing. Parallels: 2022 ad-tier turnaround. Analogies: 1. Clearing storm clouds. 2. Underdog comeback.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Zacks/Yahoo note sentiment change; aligns with market rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% to $750.",
+                "short_position": "Limited upside if sub growth slows.",
+                "key_risks": "Competition, churn."
+            },
+            "confidence_rating": "C",
+            "justification": "Vague catalyst, broader sentiment."
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 148.5,
+                "market_cap": "$415B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "7,100,000",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Beaten down 6mo, sentiment shift per analysts; cloud growth. Implications: Enterprise AI tailwinds. Psychology: Re-rating. Parallels: Post-Q3 buy reiterations. Analogies: 1. Sleeper waking. 2. Engine revving.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Yahoo/Zacks highlight; Guggenheim $400 PT."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $165, 12% gain.",
+                "short_position": "Risky amid tech rebound.",
+                "key_risks": "Software sector FUD."
+            },
+            "confidence_rating": "C",
+            "justification": "Positive but less specific news."
+        }
+    ]
+}
