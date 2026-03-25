@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GME",
+                "full_name": "GameStop Corp.",
+                "current_price": 32.5,
+                "market_cap": "$14.2B",
+                "sector_industry": "Consumer Cyclical / Retail - Specialty",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 20.1
+                },
+                "pe_ratio": 0.0,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "GameStop reported its most profitable year ever with $418M turnaround, alongside a major 13F filing showing Creek Drive Management's $20M long position (900k shares + calls). This counters dilution fears, boosts retail sentiment reminiscent of 2021 squeeze. Economic implications: Signals retail investor revival amid market volatility. Market psychology: FOMO drives apes back. Historical parallels: 2021 MOASS hype. Analogies: Like Bitcoin halving sparking rallies; phoenix rising from ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X posts show explosive positive sentiment (high likes/reposts on profitability/13F), web news on earnings beat. Peace in Middle East reduces risk-off, favoring meme stocks. High volume suggests momentum continuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% gains in 1-2 weeks on squeeze potential; target $40.",
+                "short_position": "Avoid or cover; short risks gamma ramp.",
+                "key_risks": "Dilution announcements, broader market crash, fading hype."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, confirmed news, historical precedent for rapid moves."
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 135.2,
+                "market_cap": "$141B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.8,
+                    "low": 90.5
+                },
+                "pe_ratio": 102.5,
+                "volume": "18.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Arm unveiled new AI CPU amid massive demand signals; up 11.5% noted. Economic: Accelerates AI chip race, boosts semi sector. Psychology: Reinforces AI narrative dominance. Parallels: NVDA post-ChatGPT surge. Analogies: Fuel to AI rocket engine; like Intel in PC boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Web mentions as top mover, X posts highlight AI strength despite memory dips. Geopolitical de-escalation supports tech risk-on."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $150 (10%+), ride AI wave.",
+                "short_position": "Short if overbought, potential 5% pullback.",
+                "key_risks": "Broader semi correction, competition from AMD/INTC."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear product news, but dependent on AI sector momentum."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 522.3,
+                "market_cap": "$1.33T",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 555.4,
+                    "low": 398.7
+                },
+                "pe_ratio": 28.4,
+                "volume": "22.1M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "META launches aggressive stock options for execs (needs $9T mcap), Zuckerberg on Trump's AI panel with NVDA/ORCL founders. Implications: Aligns mgmt with growth, policy tailwinds. Psychology: Validates META's AI pivot. Parallels: FAANG rallies on policy. Analogies: Carrot for racehorse; VIP pass to AI policy table.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X sentiment positive on advisory/payouts, ties into Trump peace rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% upside to $560.",
+                "short_position": "Minimal, dilution risk low.",
+                "key_risks": "Regulatory scrutiny, ad revenue slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Policy news strong but speculative."
+        },
+        {
+            "details": {
+                "ticker": "MRK",
+                "full_name": "Merck & Co., Inc.",
+                "current_price": 132.1,
+                "market_cap": "335B",
+                "sector_industry": "Healthcare / Drug Manufacturers",
+                "high_low_52_week": {
+                    "high": 141.2,
+                    "low": 110.3
+                },
+                "pe_ratio": 18.2,
+                "volume": "13.4M",
+                "recent_dividend": "$0.77 quarterly"
+            },
+            "impact_theory": "Merck to acquire Terns Pharmaceuticals, expanding pipeline. Implications: Bolsters pharma M&A in defensive sector. Psychology: Safe haven amid volatility. Parallels: PFE COVID deals. Analogies: Acquiring treasure map; armor upgrade in battle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Bloomberg podcast highlights as mover; steady pharma demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 5% gain on deal close.",
+                "short_position": "Avoid; stable.",
+                "key_risks": "Deal failure, patent cliffs."
+            },
+            "confidence_rating": "B",
+            "justification": "Deal-specific, moderate sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 107.8,
+                "market_cap": "432B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 130.5,
+                    "low": 100.2
+                },
+                "pe_ratio": 12.8,
+                "volume": "19.8M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil falls on Trump's Iran peace push/ceasefire hopes, hurting energy. Implications: Lower input costs but profit squeeze for majors. Psychology: Risk-off unwind hits commodities. Parallels: 2022 Ukraine de-escalation dips. Analogies: Deflating balloon; rug pull from war premium.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "Bloomberg markets wrap notes oil drop, energy lags rally; X implies rotation out."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if peace fails, rebound 5%.",
+                "short_position": "Short for 7% downside to $100.",
+                "key_risks": "Escalation reverses trend, OPEC cuts."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to headline risk resolution."
+        }
+    ]
+}
