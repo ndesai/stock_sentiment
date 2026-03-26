@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 155.2,
+                "market_cap": "$250B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.5,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "52M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Google's AI breakthrough and reports of possible chip price hikes amid supply constraints from geopolitical tensions. Economic implications: Higher prices boost margins in semiconductor sector despite broader market weakness. Market psychology: Renewed AI optimism counters Iran war fears. Historical parallels: Similar to 2023 AI rally post-ChatGPT. Analogies: Like airlines hiking fares during fuel crises; or coffee prices surging on weather events.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Positive news on AI and price hikes shifts sentiment bullish; X posts show trader interest in chips despite market dip; web news confirms stock rise."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% gains on AI momentum continuation.",
+                "short_position": "Short if broader tech selloff intensifies on recession fears.",
+                "key_risks": "Iran escalation hurting global demand; competition from NVDA."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong specific news but volatile market due to geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 34.5,
+                "market_cap": "$150B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 55.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "45M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Rising on possible price hikes amid chip demand from AI; Iran conflict indirectly supports via supply disruptions. Economic: Improved pricing power. Psych: Underdog rebound narrative. Parallels: Intel's recovery in 2021 chip shortage. Analogies: Like steel prices during trade wars; book prices amid paper shortages.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "News highlights stock rise on price hikes; positive analyst sentiment despite market down."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 40, potential 8% upside.",
+                "short_position": "Avoid or short on missed earnings.",
+                "key_risks": "Execution risks in turnaround; AI lag."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price hike news but company-specific turnaround uncertainties."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 132.8,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "18M",
+                "recent_dividend": "3.8% yield, $0.95 quarterly"
+            },
+            "impact_theory": "Iran conflict rejection of ceasefire spikes oil to $92+, boosting revenues. Economic: Higher crude prices lift earnings/FCF. Psych: Safe haven shift to energy. Parallels: 2022 Ukraine invasion oil surge. Analogies: Like wheat prices in Ukraine war; natural gas in Europe crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Oil ripping higher on Iran news; X mentions XOM soaring; direct beneficiary."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7-12% on sustained oil >$90.",
+                "short_position": "Short on sudden de-escalation.",
+                "key_risks": "Ceasefire talks success; global recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to oil prices with clear geo trigger."
+        },
+        {
+            "details": {
+                "ticker": "NEM",
+                "full_name": "Newmont Corporation",
+                "current_price": 52.3,
+                "market_cap": "$60B",
+                "sector_industry": "Materials / Gold Mining",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 22.3,
+                "volume": "12M",
+                "recent_dividend": "2.1% yield"
+            },
+            "impact_theory": "Gold prices climbing on safe-haven demand amid Iran war fears. Economic: Higher gold boosts miner margins. Psych: Flight to safety. Parallels: Gold rally in 2008 crisis. Analogies: Like bonds in equity crashes; Swiss franc in Euro crises.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Gold rebound noted in news; conflict supports haven assets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 5-8% on gold >$2500.",
+                "short_position": "Short if risk-on returns.",
+                "key_risks": "Interest rate hikes hurting gold; production costs."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong safe-haven theme but sensitive to broader risk sentiment."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 510.0,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 20.8,
+                "volume": "1.2M",
+                "recent_dividend": "2.5% yield"
+            },
+            "impact_theory": "Geopolitical escalation in Iran boosts defense spending/demand. Economic: Higher contracts. Psych: War premium. Parallels: Post-9/11 defense boom. Analogies: Like arms makers in WWII; pharma in pandemics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "X mentions defense stocks; ongoing conflict supports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 6-10% on prolonged conflict.",
+                "short_position": "Short on peace deal.",
+                "key_risks": "Budget cuts; deal delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Logical beneficiary but indirect exposure."
+        }
+    ]
+}
