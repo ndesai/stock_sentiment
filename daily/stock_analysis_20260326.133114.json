@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 205.37,
+                "market_cap": "$330B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 240.25,
+                    "low": 100.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "65M",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "Rumor of AMD and sector-wide price hikes amid AI chip demand surge. Economic implications: Higher pricing power boosts margins in oligopolistic semi market, countering inflation pressures. Market psychology: Renewed FOMO on AI leaders after recent pullback, shifting sentiment from caution to optimism. Historical parallels: 2021 chip shortage where AMD gained 50%+ on supply constraints. Analogies: 1) Oil producers hiking prices during 2022 energy crisis; 2) Airline ticket surges post-COVID demand boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Web news highlights AMD gaining on price hike rumors (Fool +7.24% mention); X posts show positive movers including AMD. Sentiment shift positive amid broader tech recovery and AI hype. Oil pullback aids risk-on mood."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% gains in 1-2 weeks on confirmed hikes; target $215-220.",
+                "short_position": "Avoid short; high short squeeze risk in semis.",
+                "key_risks": "Geopolitical tensions (Iran), broader market selloff on yields, competition from NVDA."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news flow and X buzz, but rumors unconfirmed; high volatility in semis."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 46.74,
+                "market_cap": "$200B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 55.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45M",
+                "recent_dividend": "$0.125 quarterly (ex-date Mar 1, 2026)"
+            },
+            "impact_theory": "Intel rising alongside AMD on potential price increases for chips. Economic: Foundry investments pay off with pricing leverage; reduces US-China supply risks. Psychology: Validation of turnaround under new CEO, retail piling in. Historical: 2018 price war recovery led to 30% rally. Analogies: 1) Auto makers raising prices post-chip shortage; 2) Steel tariffs boosting US producers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Yahoo video on AMD/Intel rise; sector tailwinds from AI/memory demand. X mentions in movers. Positive shift from recent lows."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 4-8% upside to $49-50; dividend support.",
+                "short_position": "Short if breaks $45; target $43.",
+                "key_risks": "Execution delays in foundry, dividend cut fears, NVDA dominance."
+            },
+            "confidence_rating": "B",
+            "justification": "Synergy with AMD news, but Intel's weaker AI position tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 382.09,
+                "market_cap": "$420B",
+                "sector_industry": "Technology / Semiconductors (Memory)",
+                "high_low_52_week": {
+                    "high": 395.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "25M",
+                "recent_dividend": "N/A (Suspended)"
+            },
+            "impact_theory": "Memory stocks falling; MU slips on Google's new AI memory algorithm reducing demand needs. Economic: Threatens HBM/AI memory pricing, hits revenue visibility despite sold-out 2026. Psychology: Profit-taking after 81% YTD run, fear of tech disruption. Historical: 2018 memory glut crashed prices 40%. Analogies: 1) Flash storage commoditization by NAND oversupply; 2) Solar panel prices collapsing on China flood.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "News of falling despite earnings beat; X flash news on Google algo eyebrows. Sentiment reversal from hype to caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dip if AI demand overrides; +10% rebound potential.",
+                "short_position": "Short for 5-10% to $350; momentum down.",
+                "key_risks": "AI memory shortage persists, short covering."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalyst with X confirmation; clear sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 388.91,
+                "market_cap": "$1.2T",
+                "sector_industry": "Consumer Cyclical / Auto",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 95.3,
+                "volume": "80M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Mixed movers on X; broader market recovery but yields pressure growth stocks. Economic: EV demand steady, robotaxi hype. Psychology: Elon news (TSA offer rejected) adds noise. Historical: Post-earnings volatility in 2023. Analogies: 1) Amazon post-prime day swings; 2) Netflix subscriber surprises.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "X movers positive; market green close shifts sentiment up despite macro."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long breakout to $400; 5% gain.",
+                "short_position": "Short on yields spike; -3-5%.",
+                "key_risks": "Regulatory (shutdown), competition."
+            },
+            "confidence_rating": "C",
+            "justification": "No major specific news; general market sentiment."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 163.26,
+                "market_cap": "$650B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "15M",
+                "recent_dividend": "$0.95 quarterly (ex-date Feb 12, 2026)"
+            },
+            "impact_theory": "Oil prices drop on Trump-Iran negotiation claims. Economic: Lower input costs but margin squeeze for integrateds. Psychology: De-escalation relief sells energy. Historical: 2019 US-Iran tensions eased oil 10%. Analogies: 1) Russia-Ukraine peace rumors tanking oil; 2) OPEC+ surprise cuts reversal.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "CBS news on oil react to Iran talks; market up on risk-off unwind."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on geopolitics flare; +3%.",
+                "short_position": "Short to $158; 4% loss potential.",
+                "key_risks": "Talks fail, supply disruptions."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro event, but energy resilient to rumors."
+        }
+    ]
+}
