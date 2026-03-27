@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 178.5,
+                "market_cap": "$44B",
+                "sector_industry": "Financials / Cryptocurrency Exchange",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Premarket drop amid risk-off sentiment from escalating US-Iran conflict, oil prices surging over $100, Nasdaq correction, and low consumer sentiment. Economic implications: Higher energy costs fuel inflation fears, prompting Fed rate hike expectations. Market psychology: Flight to safety, crypto as high-beta asset sells off first. Historical parallels: 2022 Russia-Ukraine invasion saw BTC/COIN drop 20%+ initially. Analogies: 1. Like a casino during a storm - high-risk bets abandoned. 2. Domino effect where geopolitical shock topples speculative assets.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -8%",
+                "reasoning": "X posts and web news show risk-off tone dominating, crypto leading declines. Premarket -3%, broader market down on Iran news. Oil spike hurts risk appetite."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited upside; wait for dip below $170 for 3-5% rebound if de-escalation.",
+                "short_position": "Short for 5-10% gains targeting $160 if conflict worsens; high volume supports.",
+                "key_risks": "Sudden crypto rally on weekend news, regulatory positive leak."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation with risk sentiment confirmed by searches, but crypto volatile."
+        },
+        {
+            "details": {
+                "ticker": "U",
+                "full_name": "Unity Software Inc.",
+                "current_price": 17.8,
+                "market_cap": "$7.2B",
+                "sector_industry": "Technology / Software - Gaming",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 15.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Premarket surge +12% amid broader tech weakness. Economic implications: Possible company-specific news like upgrade or results offsetting macro. Market psychology: Selective buying in beaten-down names during risk-off. Historical parallels: Tech movers buck trend in 2022 bear market. Analogies: 1. Oasis in desert - pocket of strength. 2. Contrarian bet amid panic.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15%",
+                "reasoning": "Top premarket gainer per Benzinga/FB, sentiment shift from beaten down status."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-20% if holds gains, targeting $22.",
+                "short_position": "Avoid or small short if fades to $15 on macro.",
+                "key_risks": "Macro risk-off overwhelms specific catalyst."
+            },
+            "confidence_rating": "C",
+            "justification": "No clear news catalyst found, could be technical or rumor-driven."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.3,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly, yield 3.0%"
+            },
+            "impact_theory": "Event: Oil surges to $108+ on Iran Strait of Hormuz fears. Economic implications: Supply shock boosts energy profits, inflation. Market psychology: Shift to commodities safety. Historical parallels: 2022 Ukraine oil rally +50%. Analogies: 1. Filling station during shortage. 2. Rising tide lifts oil ships.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +10%",
+                "reasoning": "Geopolitical news directly benefits majors; X sentiment risk-off favors energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7-12% to $135 on prolonged conflict.",
+                "short_position": "Risky; only if quick de-escalation.",
+                "key_risks": "Diplomatic resolution caps oil."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to oil prices, historical precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "$2.9T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly, negligible yield"
+            },
+            "impact_theory": "Event: Nasdaq correction >10% from high on Iran war, inflation warnings. Economic implications: Higher rates hurt growth stocks. Market psychology: AI hype fades amid macro fears. Historical parallels: 2022 tech rout. Analogies: 1. High flyer grounded by storm. 2. Ferrari in traffic jam.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6 to -12%",
+                "reasoning": "Tech-heavy indices down sharply; X posts note big tech selling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at $110 for 10% rebound.",
+                "short_position": "Short to $100, 15% potential.",
+                "key_risks": "AI demand persists despite macro."
+            },
+            "confidence_rating": "B",
+            "justification": "Broad tech exposure, but NVDA resilient historically."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 585.2,
+                "market_cap": "$140B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "1.2M",
+                "recent_dividend": "$3.15 quarterly, yield 2.2%"
+            },
+            "impact_theory": "Event: US war in Iran escalates. Economic implications: Increased defense spending. Market psychology: Safe haven in geopolitics. Historical parallels: Post-9/11 defense boom. Analogies: 1. Blacksmith during war. 2. Umbrella seller in rain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +8%",
+                "reasoning": "Geopolitical tensions boost sector; consumer sentiment irrelevant here."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% gains to $620.",
+                "short_position": "Minimal unless peace.",
+                "key_risks": "Budget cuts if prolonged."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear historical pattern with conflicts."
+        }
+    ]
+}
