@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 166.4,
+                "market_cap": "$730B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "28M",
+                "recent_dividend": "Annual $3.88, yield 2.3%"
+            },
+            "impact_theory": "Trump's extension of pause on Iran energy attacks eases immediate selloff but Iran closing Strait of Hormuz drives oil to $97+, boosting majors like XOM. Economic: Higher energy costs inflationary but benefits US producers. Psychology: Risk-off broad market, flight to energy havens. Historical: Like 2019 Iran tensions, oil +20% in week. Analogies: Betting on hurricane season for insurers; tailwind from supply disruption like 2022 Ukraine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil surge amid Hormuz fears, X posts bullish on $XOM, web news ties to Iran war premium. Energy sector leading gains as Nasdaq corrects."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 5-10% gains on sustained oil >$100",
+                "short_position": "Avoid short, high risk if escalation",
+                "key_risks": "De-escalation talks succeed, oil dumps; recession curbs demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news tie to oil prices, consistent X/web sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 203.34,
+                "market_cap": "$420B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 155.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "15M",
+                "recent_dividend": "Annual $6.52, yield 3.2%"
+            },
+            "impact_theory": "Similar to XOM, Chevron benefits from geopolitical oil premium as US producer. Implications: Widens US energy trade surplus. Psych: Investors rotate to defensives. Parallels: Gulf War 1990 oil spike +30%. Analogies: Gold rush for miners; weather boost for utilities.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "X mentions with XOM, oil news direct impact, energy outperforming amid war uncertainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX targeting 8% upside on $110 oil",
+                "short_position": "Short only post-deal news",
+                "key_risks": "Iran concessions reopen strait, demand destruction from high prices"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear sector rotation, high volume sentiment."
+        },
+        {
+            "details": {
+                "ticker": "VLO",
+                "full_name": "Valero Energy Corporation",
+                "current_price": 155.0,
+                "market_cap": "$52B",
+                "sector_industry": "Energy / Oil Refining",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 8.2,
+                "volume": "8M",
+                "recent_dividend": "Quarterly $1.07, yield 2.8%"
+            },
+            "impact_theory": "Refiner gains from high crude via crack spreads amid supply fears. Econ: Higher margins if diesel/gas demand holds. Psych: Volatility play. Parallels: 2022 Russia sanctions. Analogies: Bakery in wheat shortage; toll road in traffic jam.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Mentioned leading energy gains in selloff, X/oil tie."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% on margin expansion",
+                "short_position": "N/A",
+                "key_risks": "Crude volatility crushes spreads; recession"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector leader but more volatile than integrateds."
+        },
+        {
+            "details": {
+                "ticker": "COP",
+                "full_name": "ConocoPhillips",
+                "current_price": 115.0,
+                "market_cap": "$135B",
+                "sector_industry": "Energy / Exploration & Production",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 11.0,
+                "volume": "12M",
+                "recent_dividend": "Quarterly $0.78, yield 2.7%"
+            },
+            "impact_theory": "Pure upstream play surges on oil price. Implications: Boosts cash flow for buybacks. Psych: Momentum chase. Parallels: 2014 ISIS oil shock. Analogies: Miners in commodity boom; surfers on big wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Leading gains per posts, direct Iran/oil link."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long COP 7% potential",
+                "short_position": "High risk",
+                "key_risks": "Quick de-escalation, oversupply"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but less mentioned than XOM/CVX."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 850.0,
+                "market_cap": "$2.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 700.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "450M",
+                "recent_dividend": "Annual $0.16, yield 0.02%"
+            },
+            "impact_theory": "Tech selloff in risk-off from Iran uncertainty, Nasdaq correction. Econ: Higher rates/inflation hurts growth stocks. Psych: Fear dominates AI hype. Parallels: 2022 rate hikes. Analogies: Party pooper at rave; balloon in pin factory.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Nasdaq down 2.4%, X mentions downside, broad tech bleed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy",
+                "short_position": "Short for 5% on escalation",
+                "key_risks": "Quick resolution rallies risk assets; AI demand resilient"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector wide, but NVDA volatile."
+        }
+    ]
+}
