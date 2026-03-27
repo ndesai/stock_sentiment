@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "RCKT",
+                "full_name": "Rocket Pharmaceuticals, Inc.",
+                "current_price": 4.5,
+                "market_cap": "$400M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 8.5,
+                    "low": 3.0
+                },
+                "pe_ratio": -12.3,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA accelerated approval of KRESLADI for pediatric LAD-I, first gene therapy. Economic: Validates pipeline, potential $1B+ peak sales. Psychology: Biotech momentum ignites FOMO buying. Parallels: Similar to BioMarin's approval surges. Analogies: Like winning lottery ticket in volatile casino; rocket launch after years on pad.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Top trending news, premarket +11%, X sentiment positive on approval despite volatility. Web/X confirm catalyst strength, PDUFA alignment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-40% gains on momentum squeeze, target $6.",
+                "short_position": "Short if fades below $4, 10-15% downside.",
+                "key_risks": "Biotech volatility, accelerated approval risks, dilution from shelf."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct FDA news, high engagement, historical biotech pops."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 165.9,
+                "market_cap": "$700B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly, 3.8% yield"
+            },
+            "impact_theory": "Ongoing U.S.-Iran war pushes oil >$100/bbl via Strait threats. Economic: Higher energy costs boost revenues. Psychology: Safe haven in commodities amid risk-off. Parallels: 2022 Ukraine oil surge. Analogies: Filling gas tank in traffic jam; rising tide lifts all oil boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Multiple articles link war to XOM gains, X posts bullish on dividends amid chaos. Oil majors hitting highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% upside to $175, dividend capture.",
+                "short_position": "Avoid or short on de-escalation, -5%.",
+                "key_risks": "Peace talks, recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Geopolitical persistence, consistent web/X linkage."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 172.0,
+                "market_cap": "$4.2T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 62.5,
+                "volume": "350M",
+                "recent_dividend": "Minimal $0.01"
+            },
+            "impact_theory": "4.2% drop amid risk-off from Iran war, inflation fears. Economic: Tech sensitive to rates/geopolitics. Psychology: Profit-taking after run-up. Parallels: 2022 bear market tech slide. Analogies: Balloon deflating in storm; herd exiting burning theater.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Articles note slide shaking markets, X risk-off sentiment, correction territory."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound to $180, 5%.",
+                "short_position": "Short to $160, 7-10% gains.",
+                "key_risks": "AI hype rebound, war de-escalation."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sentiment shift, but mega-cap resilience."
+        },
+        {
+            "details": {
+                "ticker": "CAR",
+                "full_name": "Avis Budget Group, Inc.",
+                "current_price": 139.58,
+                "market_cap": "$5B",
+                "sector_industry": "Industrials / Rental & Leasing",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 62.0
+                },
+                "pe_ratio": 12.1,
+                "volume": "4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Airport delays/shutdown boost rental demand. Economic: Travel chaos = opportunity. Psychology: Short squeeze on positive surprise. Parallels: Post-COVID travel boom. Analogies: Cabs in subway strike; lifeguard in rip current.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Zoomed 13%, marketing + chaos cited, top gainer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $150, 8%.",
+                "short_position": "Fade rally to $130.",
+                "key_risks": "Shutdown resolution, competition Hertz."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong daily move, but event-specific."
+        },
+        {
+            "details": {
+                "ticker": "HAL",
+                "full_name": "Halliburton Company",
+                "current_price": 39.0,
+                "market_cap": "$35B",
+                "sector_industry": "Energy / Oilfield Services",
+                "high_low_52_week": {
+                    "high": 39.5,
+                    "low": 18.7
+                },
+                "pe_ratio": 11.8,
+                "volume": "8M",
+                "recent_dividend": "$0.17 quarterly"
+            },
+            "impact_theory": "Oil surge from Iran war lifts services. Economic: Drilling ramps. Psychology: New highs attract. Parallels: Post-Ukraine activity. Analogies: Mechanic in car boom; wave surfer on swell.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "New 52w high, premarket up, oil tie-in."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $42, 8%.",
+                "short_position": "On oil pullback -5%.",
+                "key_risks": "Oil price reversal, capex cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwind strong, but secondary to majors."
+        }
+    ]
+}
