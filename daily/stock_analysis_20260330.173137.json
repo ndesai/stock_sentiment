@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AGX",
+                "full_name": "Argan, Inc.",
+                "current_price": 523.55,
+                "market_cap": "7.301B",
+                "sector_industry": "Industrials / Engineering & Construction",
+                "high_low_52_week": {
+                    "high": 588.0,
+                    "low": 111.16
+                },
+                "pe_ratio": 53.7,
+                "volume": "477,601",
+                "recent_dividend": "2.00 (0.35%)"
+            },
+            "impact_theory": "Argan reported stellar Q4 FY2026 earnings with EPS of $3.47 beating estimates by 74%, revenue slightly miss but record $2.9B backlog (+114% YoY) driven by natural gas power plants for AI data centers. Economic implications: Surge in AI infrastructure demand boosts construction for energy needs. Market psychology: Shift from broad market fear (war/oil) to AI/power play enthusiasm. Historical parallels: Similar to 2021 infrastructure boom post-COVID stimulus. Analogies: 1. Pick-and-shovel gold rush (power for AI gold). 2. Like building railroads for internet boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Earnings beat and massive backlog signal strong growth; X sentiment highly positive on AI tie-in; web news highlights surge despite market volatility. Potential retest of 52w high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-15% gains on AI hype continuation and analyst upgrades (JPM $550).",
+                "short_position": "Short risky post-earnings run-up; potential -5% on profit-taking.",
+                "key_risks": "Execution on large backlog, insider selling, high valuation (58x P/E), market sell-off."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete earnings catalyst with AI relevance amid positive X buzz and multiple upgrades."
+        },
+        {
+            "details": {
+                "ticker": "SYY",
+                "full_name": "Sysco Corporation",
+                "current_price": 69.71,
+                "market_cap": "33.384B",
+                "sector_industry": "Consumer Defensive / Food Distribution",
+                "high_low_52_week": {
+                    "high": 91.85,
+                    "low": 67.12
+                },
+                "pe_ratio": 18.79,
+                "volume": "13,660,943",
+                "recent_dividend": "2.16 (2.64%)"
+            },
+            "impact_theory": "$29.1B acquisition of Jetro Restaurant Depot announced, expanding cash-and-carry but raising debt load and dilution fears. Economic: Consolidation in food wholesale amid inflation. Psychology: Initial euphoria turned panic sell-off. Parallels: AOL-Time Warner debt overload. Analogies: 1. Overpaying for growth like WeWork. 2. Leverage bomb in rising rates era.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "Massive deal sparks debt concerns (high volume confirms); no X data but web highlights plunge while market up. Near 52w low."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long risky; wait for stabilization +5% rebound.",
+                "short_position": "Short for additional -5-8% on integration fears.",
+                "key_risks": "Deal synergies materialize faster, defensive staple resilience."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but acquisition outcomes uncertain; high volume supports sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 384.3,
+                "market_cap": "97.464B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 566.9,
+                    "low": 298.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "2,395,784",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Wolfe Research upgrade to Outperform with $450 PT amid cybersecurity demand. Implications: Steady enterprise spend despite macro fears. Psychology: Relief in tech correction. Parallels: Post-2022 cyber boom. Analogies: 1. Vaccine stocks in pandemic. 2. Cloud upgrades in 2020.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Upgrade counters tech weakness; recent Q4 ARR growth strong. Positive analyst sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $450 PT for +17% upside.",
+                "short_position": "Avoid; momentum favors bulls.",
+                "key_risks": "Broader tech sell-off, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst upgrade solid but in volatile tech sector."
+        },
+        {
+            "details": {
+                "ticker": "AA",
+                "full_name": "Alcoa Corporation",
+                "current_price": 63.44,
+                "market_cap": "16.745B",
+                "sector_industry": "Basic Materials / Aluminum",
+                "high_low_52_week": {
+                    "high": 68.4,
+                    "low": 21.53
+                },
+                "pe_ratio": 14.52,
+                "volume": "8,828,024",
+                "recent_dividend": "0.40 (0.68%)"
+            },
+            "impact_theory": "Iran strikes disrupt Gulf aluminum smelters, boosting prices/supply fears. Implications: Commodity rally on geopolitics. Psychology: Flight to materials amid war. Parallels: 2022 Ukraine aluminum spikes. Analogies: 1. Oil on OPEC cuts. 2. Wheat on Black Sea blockade.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Geopolitical supply shock; news headlines confirm rally with peers like CENX."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% to 52w high on sustained tensions.",
+                "short_position": "Short on de-escalation news.",
+                "key_risks": "Quick resolution to conflict, demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news flow but geo events volatile."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 172.53,
+                "market_cap": "719.183B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 176.4,
+                    "low": 97.8
+                },
+                "pe_ratio": 25.76,
+                "volume": "17,261,518",
+                "recent_dividend": "4.12 (2.41%)"
+            },
+            "impact_theory": "Oil surges on Iran war escalation, Trump hints at talks but tensions persist. Implications: Higher energy prices boost majors. Psychology: Rotation to energy safety. Parallels: 2014-15 oil boom. Analogies: 1. Defense stocks in wars. 2. Gold in uncertainty.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Oil price tailwind; headlines link to helium/oil gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +5% near-term on crude rally.",
+                "short_position": "Short on peace talks.",
+                "key_risks": "Demand destruction from recession, oversupply."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear macro driver with strong fundamentals/dividend."
+        }
+    ]
+}
