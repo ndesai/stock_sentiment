@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.2,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 98.75
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cooling AI hype and Nasdaq selloff amid broader market correction; economic implications include reduced capex on AI infrastructure; market psychology shifting from FOMO to fear of overvaluation; historical parallels to 2022 tech correction; analogies: like a balloon deflating after overinflation, or overhyped party ending.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "Web searches show concerns over AI investment disruption and Nasdaq pullback; X posts mention NVDA in movers but with selloff context; sentiment shift negative amid rotation out of tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid long; short for 5-10% gains on continued correction.",
+                "short_position": "Short position opportunity with potential 7% downside; cover if support at 52w low holds.",
+                "key_risks": "Unexpected AI breakthrough news, Fed rate cut boosting tech, high short interest squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong evidence from market summaries and X movers, but volatile sector."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.2,
+                    "low": 102.3
+                },
+                "pe_ratio": 13.8,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices surging due to geopolitical tensions; boosts energy profits, inflation hedge; psychology of rotation to value/energy; parallels to 2022 energy rally; analogies: rising tide lifting oil ships, or safe harbor in market storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Weekly review mentions oil surge; X top movers include XOM; energy sector outperforming in rotation from tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6% upside on sustained oil >$90; target $135.",
+                "short_position": "Avoid short; risks sharp rally.",
+                "key_risks": "Oil price reversal on de-escalation, recession curbing demand, regulatory pressures."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear news on oil surge and consistent mentions in movers."
+        },
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 892.4,
+                "market_cap": "$850B",
+                "sector_industry": "Healthcare/Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 120.5,
+                "volume": "3.2M",
+                "recent_dividend": "$1.30 quarterly"
+            },
+            "impact_theory": "Strong growth in weight loss drugs; resilient to market correction; psych of defensive growth; parallels to COVID vaccine boom; analogies: golden goose laying obesity eggs, lifeboat in market sea.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Barrons movers, high-growth dividend lists; positive sentiment amid pharma strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 4% gain potential; hold for pipeline news.",
+                "short_position": "Not recommended; high valuation but momentum strong.",
+                "key_risks": "Competition in GLP-1, trial failures, pricing regulations."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent mentions but high PE tempers enthusiasm."
+        },
+        {
+            "details": {
+                "ticker": "AA",
+                "full_name": "Alcoa Corporation",
+                "current_price": 42.8,
+                "market_cap": "$7.6B",
+                "sector_industry": "Basic Materials/Aluminum",
+                "high_low_52_week": {
+                    "high": 48.2,
+                    "low": 22.5
+                },
+                "pe_ratio": 12.1,
+                "volume": "12M",
+                "recent_dividend": "$0.10 quarterly"
+            },
+            "impact_theory": "Industrial metal up on energy/commodity rotation; implications for manufacturing rebound; psych of value play; parallels to post-2020 commodity supercycle; analogies: picking up pennies in momentum shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Top movers in X and Barrons; ties to oil/energy strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% gains; target 52w high.",
+                "short_position": "Short if industrials fade.",
+                "key_risks": "China supply glut, economic slowdown, aluminum price drop."
+            },
+            "confidence_rating": "C",
+            "justification": "Prominent in movers but cyclical nature adds uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 345.6,
+                "market_cap": "$110B",
+                "sector_industry": "Technology/Cybersecurity",
+                "high_low_52_week": {
+                    "high": 380.0,
+                    "low": 240.0
+                },
+                "pe_ratio": 48.7,
+                "volume": "4.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cyber threats rising, platform consolidation; resilient tech subsector; psych of essential spend; parallels to post-SolarWinds boom; analogies: digital fortress in cyber wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Repeated in top movers lists on X; cybersecurity decoupled from broader tech weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 5% upside; earnings catalyst ahead.",
+                "short_position": "Avoid amid sector tailwinds.",
+                "key_risks": "Earnings miss, competition, macro IT spend cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong mentions in sentiment tools, defensive tech appeal."
+        }
+    ]
+}
