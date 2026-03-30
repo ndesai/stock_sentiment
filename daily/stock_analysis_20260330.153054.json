@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BFRG",
+                "full_name": "BullFrog AI Holdings, Inc.",
+                "current_price": 1.42,
+                "market_cap": "$18M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 5.2,
+                    "low": 0.45
+                },
+                "pe_ratio": -12.3,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "BullFrog AI announced a commercial agreement on March 30, 2026, with a top-5 global pharmaceutical company to apply its bfLEAP platform for drug discovery. This validates the technology, potentially accelerating revenue. Economically, it signals partnerships in AI-biotech boom amid market correction. Psychologically, triggers FOMO buying and short squeeze as volume surges. Historical parallel: Similar AI-biotech deals like Recursion Pharmaceuticals in 2023 led to 100%+ pops. Analogies: Like a match lighting a fuse in a powder keg (sudden explosion); or a dam breaking after pressure build-up.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30-50%",
+                "reasoning": "X sentiment highly positive with mentions of doubling today; web news confirms deal. High engagement on X, pre-market momentum into close. Overall market down but small caps resilient on catalysts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 30-50% gains on continued momentum, target $2.0+",
+                "short_position": "Short on fade after hype, potential 20% drop to $1.1",
+                "key_risks": "High volatility, dilution risk in biotechs, profit-taking post-spike."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalyst, massive volume shift, positive X buzz, but small cap nature adds risk."
+        },
+        {
+            "details": {
+                "ticker": "ITRM",
+                "full_name": "Iterum Therapeutics plc",
+                "current_price": 0.35,
+                "market_cap": "$5M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 2.1,
+                    "low": 0.03
+                },
+                "pe_ratio": -1.2,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Despite recent wind-up filing on March 27 due to cash crunch, ITRM surged +105% on March 30 amid pre-market activity and possible short squeeze or rumor of funding. Economic implication: Desperation plays in distressed biotechs can rebound on speculation. Market psychology: Gamblers pile in on low float. Historical: Like many penny biotechs squeezing post-bad news. Analogies: Dead cat bounce; lottery ticket frenzy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish (short-term)",
+                "estimated_price_impact_pct": "+20-40%",
+                "reasoning": "X posts highlight as top gainer, high volume despite negative fundamentals. Sentiment shift from despair to hope."
+            },
+            "potential_profit_risks": {
+                "long_position": "Quick 20-40% on squeeze continuation",
+                "short_position": "Strong short below $0.3 on bankruptcy risk",
+                "key_risks": "Imminent delisting or liquidation, extreme volatility."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum strong but fundamentals poor, speculative."
+        },
+        {
+            "details": {
+                "ticker": "ELAB",
+                "full_name": "PMGC Holdings Inc.",
+                "current_price": 3.98,
+                "market_cap": "$25M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 6.5,
+                    "low": 1.2
+                },
+                "pe_ratio": -8.5,
+                "volume": "80M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "ELAB (PMGC) saw +161% surge on March 30, driven by biotech momentum and high pre-market volume. No specific news, likely low-float squeeze. Implications: Sector rotation into biotechs amid broader market weakness. Psychology: Herd mentality in penny stocks. Parallels: 2021 meme biotech runs. Analogies: Wildfire spreading fast; snowball rolling downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-45%",
+                "reasoning": "Top gainer on X, active HTB locates indicate shorts piling in then squeezed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum to $5.5, 40%+",
+                "short_position": "Fade to $2.5 on exhaustion",
+                "key_risks": "Pump-dump scheme risk, low liquidity."
+            },
+            "confidence_rating": "B",
+            "justification": "Volume confirms sentiment shift, but no catalyst lowers certainty."
+        },
+        {
+            "details": {
+                "ticker": "EEIQ",
+                "full_name": "EpicQuest Education Group International Limited",
+                "current_price": 2.45,
+                "market_cap": "$12M",
+                "sector_industry": "Consumer Cyclical / Education",
+                "high_low_52_week": {
+                    "high": 4.0,
+                    "low": 0.8
+                },
+                "pe_ratio": -15.0,
+                "volume": "35M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "EEIQ +57% on China/education sympathy, no major news but momentum play. Economic: Bets on China reopening or edtech rebound. Psychology: FOMO on gainers list. Historical: China stocks pop on policy hints. Analogies: Tidal wave in shallow waters; domino effect.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-30%",
+                "reasoning": "Listed in top gainers on X, trader watchlists."
+            },
+            "potential_profit_risks": {
+                "long_position": "15-30% to $3.2",
+                "short_position": "Quick reversal to $1.8",
+                "key_risks": "Geopolitical China risks, thin volume."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum without news, moderate confidence."
+        },
+        {
+            "details": {
+                "ticker": "QNCX",
+                "full_name": "Quince Therapeutics, Inc.",
+                "current_price": 0.12,
+                "market_cap": "$7M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 1.5,
+                    "low": 0.05
+                },
+                "pe_ratio": -2.1,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "QNCX +37% after settling $16.4M debt on March 30, reducing overhang. Implications: Cleaner balance sheet aids survival. Psychology: Relief rally. Parallels: Debt restructurings sparking bounces. Analogies: Shedding heavy backpack to run faster; storm clouds parting.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-35%",
+                "reasoning": "Fresh news on debt settlement, sympathy in biotech gainers."
+            },
+            "potential_profit_risks": {
+                "long_position": "20-35% upside to $0.16",
+                "short_position": "If no follow-through, back to $0.08",
+                "key_risks": "Ongoing cash burn, trial risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Concrete news, volume support."
+        }
+    ]
+}
