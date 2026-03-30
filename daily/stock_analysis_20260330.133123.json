@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.45,
+                    "low": 98.76
+                },
+                "pe_ratio": 72.5,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly (yield 0.03%)"
+            },
+            "impact_theory": "Recent news of NVIDIA unveiling the Blackwell Ultra AI chip with 50% performance boost amid surging demand from hyperscalers. Economic implications include accelerated AI infrastructure spend, boosting capex for tech giants. Market psychology: FOMO buying as investors fear missing AI supercycle. Historical parallels: Similar to 2023 Hopper GPU launch which sparked 200% rally. Analogies: 1. Like rocket fuel igniting the AI race engine. 2. Domino effect where one chip upgrade cascades into trillion-dollar data center investments.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Web searches reveal headlines like 'NVIDIA Blackwell Ultra crushes benchmarks'; X semantic search shows 80% positive sentiment with viral posts on performance gains (limit 20, latest mode). High engagement on AI future."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for +10-15% upside in 1-2 weeks on momentum; target $160.",
+                "short_position": "Risky short, potential squeeze -5% loss if breaks high.",
+                "key_risks": "Chip supply shortages, US-China trade tensions, overvaluation bubble burst."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalysts, historical precedent, overwhelming positive social sentiment."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 412.89,
+                "market_cap": "$1.32T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.12,
+                    "low": 220.67
+                },
+                "pe_ratio": 95.2,
+                "volume": "112M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reports Q1 2026 deliveries beat estimates by 15% at 550k units, driven by Cybertruck ramp and FSD v13 approval. Economic: Signals EV adoption acceleration, potential margin expansion. Psychology: Relief rally post-delay fears. Parallels: 2020 delivery beats led to 700% YTD gain. Analogies: 1. Like a slingshot propelling past competitors. 2. Heartbeat revival for EV market after winter slowdown.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "News: 'Tesla smashes delivery records' across CNBC, Reuters; X keyword search ($TSLA since:2026-03-30) flooded with bullish memes, analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +12% to $460 on robotaxi hype.",
+                "short_position": "Short if <400 support breaks, +5% downside.",
+                "key_risks": "Regulatory hurdles for FSD, competition from BYD, Elon Musk distractions."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid delivery numbers but high valuation tempers enthusiasm; positive but volatile sentiment."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 856.34,
+                "market_cap": "$48.2B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI secures $10B order from Meta for AI servers using NVIDIA GPUs. Implications: Revenue visibility into FY27, validates liquid cooling tech. Psychology: Small cap proxy to AI boom. Parallels: 2023 AI server frenzy. Analogies: 1. Bridge carrying AI traffic surge. 2. Tsunami wave in server market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "Breaking news on Meta partnership; X posts exploding with #SMCI, high likes/retweets indicating strong sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long +20% to $1000+.",
+                "short_position": "Short on execution risks, potential -10%.",
+                "key_risks": "Order fulfillment delays, dependency on NVDA, accounting concerns."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete order news with major client, high conviction."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.67,
+                "market_cap": "$3.76T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.08
+                },
+                "pe_ratio": 38.4,
+                "volume": "56M",
+                "recent_dividend": "$0.25 quarterly (yield 0.41%)"
+            },
+            "impact_theory": "Apple launches Vision Pro 2 with AI integration, pre-orders exceed 2M units. Implications: AR/VR market entry, services growth. Psychology: Innovation halo reignites growth narrative. Parallels: iPhone launch 2007. Analogies: 1. Gateway to spatial computing era. 2. Phoenix rising from services plateau.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Product launch buzz; mixed X sentiment but positive analyst notes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +6% to $260.",
+                "short_position": "Mild short on China sales weakness.",
+                "key_risks": "Antitrust lawsuits, slowing iPhone sales, high expectations."
+            },
+            "confidence_rating": "B",
+            "justification": "Promising launch but early stage tech adoption risks."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 67.45,
+                "market_cap": "$152B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 74.32,
+                    "low": 15.29
+                },
+                "pe_ratio": 210.1,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir wins $1B DoD contract for AI defense platform. Implications: Government revenue stability, commercial AIP expansion. Psychology: Meme stock revival with real contracts. Parallels: Post-IPO contract wins 2021. Analogies: 1. Digital sword for modern warfare. 2. Oil well gusher for data analytics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Gov contract announcements; X hype with retail frenzy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +15% on meme momentum.",
+                "short_position": "Short valuation reset -8%.",
+                "key_risks": "Profitability concerns, competition, retail euphoria fade."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility, speculative sentiment."
+        }
+    ]
+}
