@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.72,
+                "market_cap": "$795B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 138.8
+                },
+                "pe_ratio": 62.5,
+                "volume": "98.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla announced Robotaxi unveiling on April 1, boosting autonomy hype. Economic implications: accelerates EV adoption, revenue from software. Market psychology: FOMO buying post Elon X post. Historical parallels: 2020 S&P inclusion surge. Analogies: like iPhone launch for Apple; rocket fuel for EV sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment highly positive (80% bullish posts), web news from CNBC, Reuters confirm event. Volume spike indicates momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on event hype, target $280.",
+                "short_position": "Short if delay announced, 5% downside.",
+                "key_risks": "Regulatory hurdles, competition from Waymo, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz and confirmed news sources align with historical Tesla event pops."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.45,
+                "market_cap": "$2.95T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 39.2
+                },
+                "pe_ratio": 55.2,
+                "volume": "45.2M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "Nvidia reports supply chain easing for Blackwell chips amid AI boom. Implications: lower costs, higher margins. Psychology: relieves shortage fears. Parallels: 2023 AI rally. Analogies: oil supply increase for energy stocks; bandwidth upgrade for internet firms.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Positive analyst upgrades, X threads on production ramp, sentiment score 0.75."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $130, 10% upside.",
+                "short_position": "Avoid short, momentum strong.",
+                "key_risks": "China export bans, AI hype fade, competition from AMD."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news but supply chains volatile historically."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 223.15,
+                "market_cap": "$3.42T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.8,
+                "volume": "58.7M",
+                "recent_dividend": "$0.24 (quarterly)"
+            },
+            "impact_theory": "Apple Vision Pro sales disappoint, China tariffs rumor. Implications: slowed growth in wearables. Psychology: profit-taking. Parallels: 2019 AirPods peak. Analogies: like Betamax flop for VCRs; tariff wars on soybeans.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Mixed X sentiment (55% bearish), Bloomberg report on sales miss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for $240 recovery.",
+                "short_position": "Short for 7% to $210.",
+                "key_risks": "Upcoming iPhone launch rebound, services growth."
+            },
+            "confidence_rating": "B",
+            "justification": "Rumors strong but Apple resilient."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 424.78,
+                "market_cap": "$3.15T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 468.0,
+                    "low": 344.2
+                },
+                "pe_ratio": 36.1,
+                "volume": "21.4M",
+                "recent_dividend": "$0.75 (quarterly)"
+            },
+            "impact_theory": "Microsoft Azure AI revenue beats estimates in preview. Implications: cloud dominance. Psychology: confidence in capex. Parallels: 2022 cloud shift. Analogies: AWS 2017 boom; gold rush in AI infrastructure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Seeking Alpha, X analysts positive, high engagement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $460, 8% gain.",
+                "short_position": "Minimal downside.",
+                "key_risks": "Antitrust scrutiny, recession impact on enterprise spend."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent earnings strength."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 26.89,
+                "market_cap": "$62B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 33.2,
+                    "low": 15.3
+                },
+                "pe_ratio": 215.0,
+                "volume": "42.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir wins $1B DoD contract for AI platforms. Implications: govt revenue stable. Psychology: meme stock revival. Parallels: 2021 SPAC hype. Analogies: defense contractor windfalls post-9/11; viral TikTok trends.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X exploding with $PLTR calls, Yahoo Finance confirmation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% to $32.",
+                "short_position": "Short on overbought RSI.",
+                "key_risks": "High valuation, contract delays, retail fade."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility due to meme status."
+        }
+    ]
+}
