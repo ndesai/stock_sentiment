@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "APLS",
+                "full_name": "Apellis Pharmaceuticals, Inc.",
+                "current_price": 40.33,
+                "market_cap": "$4.8B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 15.1
+                },
+                "pe_ratio": -12.4,
+                "volume": "45.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Biogen announced acquisition of Apellis to enhance immunology portfolio, sparking massive rally. Economic boost from deal premium (~150% implied), market psychology FOMO on biotech M&A wave. Historical parallel: similar surges in Allergan (2019). Analogies: lottery winner euphoria; snowball effect in momentum trading.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Acquisition news confirmed via investor site, X sentiment positive on biotech deals (semantic search shows excitement), web news highlights growth outlook. Expect continuation on regulatory approval."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-25% gains on deal close, target $50.",
+                "short_position": "Avoid or short if deal breaks (-20% risk).",
+                "key_risks": "Deal failure, antitrust issues, market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear acquisition catalyst, massive volume, strong news confirmation."
+        },
+        {
+            "details": {
+                "ticker": "CNTA",
+                "full_name": "Centessa Pharmaceuticals plc",
+                "current_price": 39.94,
+                "market_cap": "$1.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 8.5
+                },
+                "pe_ratio": -8.2,
+                "volume": "28.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Eli Lilly acquiring Centessa for sleep-wake disorder pipeline. Premium valuation drives surge. Implications: Lilly diversification, psych market growth. Parallels: previous pharma buys like Seagen. Analogies: cherry on sundae for LLY; rising tide lifts biotech boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Press release on Lilly deal, positive X chatter on orexin agonists, news supports pipeline value."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% upside to $48.",
+                "short_position": "Minimal, high risk.",
+                "key_risks": "Integration delays, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct acquisition news, aligns with biotech M&A trend."
+        },
+        {
+            "details": {
+                "ticker": "SYY",
+                "full_name": "Sysco Corporation",
+                "current_price": 72.5,
+                "market_cap": "$36B",
+                "sector_industry": "Consumer Staples / Food Distribution",
+                "high_low_52_week": {
+                    "high": 82.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "15.8M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "$29B Jetro acquisition expands cash & carry, but debt load concerns trigger selloff. Psych: dilution fears. Parallels: Kraft-Heinz debt issues. Analogies: overeating at buffet (indigestion); buying big truck you can't afford.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Citi downgrade on debt, X neutral-negative, web highlights risks despite synergies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-panic for synergies (+10%).",
+                "short_position": "Short for 8-12% drop to $65.",
+                "key_risks": "Deal accretive sooner, market rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news but mixed analyst views."
+        },
+        {
+            "details": {
+                "ticker": "UTHR",
+                "full_name": "United Therapeutics Corporation",
+                "current_price": 588.36,
+                "market_cap": "$26B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 590.0,
+                    "low": 290.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "1.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive Phase 3 TETON-1 trial for Tyvaso in IPF, new 52w high. Expands PAH market. Psych: validation rally. Parallels: similar biotech trial pops. Analogies: home run in extra innings; key unlocking new revenue door.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Trial success news, analyst upgrades (BofA), X positive biotech sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to $650.",
+                "short_position": "Short on profit-taking (-5%).",
+                "key_risks": "FDA delays, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid trial data, but no M&A like others."
+        },
+        {
+            "details": {
+                "ticker": "CEG",
+                "full_name": "Constellation Energy Corporation",
+                "current_price": 274.54,
+                "market_cap": "$85B",
+                "sector_industry": "Utilities / Renewable Energy",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "8.5M",
+                "recent_dividend": "$0.377 quarterly"
+            },
+            "impact_theory": "2026 guidance $11-12 EPS misses consensus $11.73, despite capex/buyback. Psych: disappointment in growth stock. Parallels: utility guidance cuts. Analogies: promise of feast, served appetizer; high expectations crash.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "Guidance below expectations per news, X market rebound but stock-specific negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for recovery (+15%).",
+                "short_position": "Short for 5-10% to $250.",
+                "key_risks": "AI energy demand surge, rate cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss, but sector strength."
+        }
+    ]
+}
