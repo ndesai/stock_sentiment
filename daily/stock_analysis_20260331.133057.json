@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology Inc.",
+                "current_price": 88.5,
+                "market_cap": "$81B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.2,
+                    "low": 55.3
+                },
+                "pe_ratio": 45.2,
+                "volume": "45M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Nvidia's $2B investment in Marvell for NVLink Fusion amid AI ecosystem expansion counters broader tech selloff from Iran war oil spike. Economic: Boosts AI infra spending. Psychology: Renews AI hype. Parallels: Similar to ARM deals. Analogies: Like fueling a rocket in a storm; plugging a leak in sinking ship.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "NVDA stake drives interoperability in AI, X sentiment positive, up 11% premarket despite market drop. Web news confirms partnership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% upside on AI momentum, target $102.",
+                "short_position": "Avoid short, momentum strong.",
+                "key_risks": "Broader tech correction from oil/inflation, dilution from investment."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct investment news from major player NVDA, high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 166.12,
+                "market_cap": "$4.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 120.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "195M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Down YTD 11% on Iran war inflation fears crushing tech, but $2B MRVL invest reignites AI. Economic: Higher rates hurt growth stocks. Psychology: Fear of peak AI. Parallels: 2022 tech bear. Analogies: Storm cloud over sunny field; speed bump on highway.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bullish short-term",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "MRVL deal positive, X buzz on Jensen, but Nasdaq down 10% on war/oil. Down 19% recent dip buy talk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for 10% rebound to $182.",
+                "short_position": "Short if breaks 164, target $150 (-10%).",
+                "key_risks": "Escalating war delays AI capex, rate hikes."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news offset by macro headwinds."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.5,
+                "market_cap": "$495B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "28M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iran war/tanker attacks spike oil to $103+, bullish energy. Economic: Supply disruption premiums. Psychology: Safe haven flight. Parallels: 2022 Ukraine. Analogies: Filling gas tank in shortage; betting on fire in drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Oil surge from Hormuz tensions, X watchlists, up with OXY/CVX."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12% to $140.",
+                "short_position": "Short on de-escalation news.",
+                "key_risks": "Trump ends war quickly, oil drops."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear geopolitical catalyst driving oil."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.0,
+                "market_cap": "$290B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 168.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "12M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Same as XOM: War disrupts Hormuz, oil rallies hurt consumers but boost producers. Economic: Inflation via energy. Psychology: Fear trade. Parallels: Gulf wars. Analogies: Windfall in chaos; umbrella in rain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X mentions with XOM, sentiment breakdown but rotating back on oil high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% gain to $178.",
+                "short_position": "Minimal, strong uptrend.",
+                "key_risks": "Peace talks crash oil."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to oil price action."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 66.12,
+                "market_cap": "$58B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 71.0,
+                    "low": 48.0
+                },
+                "pe_ratio": 20.1,
+                "volume": "35M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Oil at $103 crushes tech, lifts OXY up 58% YTD. Economic: Buffett stake amplifies. Psychology: Value rotation. Parallels: Energy boom 2022. Analogies: Rising tide lifts boats; phoenix from ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Oil rally, Buffett buying, top mover in energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $75 (13%).",
+                "short_position": "Short on oil pullback.",
+                "key_risks": "Overbought if war ends."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong performance amid clear news driver."
+        }
+    ]
+}
