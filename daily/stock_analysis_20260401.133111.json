@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CYCN",
+                "full_name": "Cyclerion Therapeutics Inc.",
+                "current_price": 4.31,
+                "market_cap": "$10.5M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 5.2,
+                    "low": 0.85
+                },
+                "pe_ratio": -2.5,
+                "volume": "45,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Announcement of definitive all-stock merger with Korsana Biosciences backed by $380M private financing, positioning CYCN for Phase 2 trials in TRD therapy. Economic implications include boosted R&D funding amid biotech funding crunch. Market psychology: merger hype drives speculative buying in low-float biotech. Historical parallels: similar small-cap biotech mergers like CYCN's past surges on trial news. Analogies: like a rocket booster igniting a stalled spacecraft; or yeast fermenting dough into rising bread.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+150%",
+                "reasoning": "Merger news sparked 178% premarket surge per X sentiment (high positive posts on momentum), web news confirms financing; strong buy volume indicates sustained rally into April 2."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +30-50% gains on continued momentum, target $6-7.",
+                "short_position": "Short above $5.50 if fade, potential -20% retrace.",
+                "key_risks": "Merger dilution, biotech volatility, low float squeeze unwind."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with massive % move and positive X/web sentiment."
+        },
+        {
+            "details": {
+                "ticker": "TH",
+                "full_name": "Target Hospitality Corp.",
+                "current_price": 12.38,
+                "market_cap": "$1.2B",
+                "sector_industry": "Industrials/Hospitality",
+                "high_low_52_week": {
+                    "high": 15.2,
+                    "low": 7.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "8,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$550M+ multi-year contract with top hyperscaler for 4,000-person data center hub in Texas, first occupancy Q3 2026. Implications: revenue boost to $360-370M in 2026 from data center boom. Psychology: AI infrastructure demand FOMO. Parallels: hospitality firms surging on govt contracts post-COVID. Analogies: plugging into a power grid during blackout; or building a bridge to a gold mine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+35%",
+                "reasoning": "Contract news directly lifts 2026 guidance; X and web highlight hyperscaler tie-up, sentiment shift from neutral to euphoric."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $16-18 (+30%), hold through buildout.",
+                "short_position": "Avoid or short post-hype at $13.50, -15% risk.",
+                "key_risks": "Execution delays, capex overruns, hyperscaler dependency."
+            },
+            "confidence_rating": "A",
+            "justification": "Tangible revenue contract with raised guidance."
+        },
+        {
+            "details": {
+                "ticker": "NCNO",
+                "full_name": "nCino, Inc.",
+                "current_price": 18.45,
+                "market_cap": "$2.1B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 22.1,
+                    "low": 12.3
+                },
+                "pe_ratio": 45.6,
+                "volume": "5,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 FY2026 earnings beat: exceeded guidance, ACV $602M +17% YoY, 112% retention; $100M share repurchase. Implications: SaaS growth in banking amid digital shift. Psychology: beat + buyback signals confidence. Parallels: fintech beats like SQ post-earnings. Analogies: refueling a jet mid-flight; upgrading engine for supersonic speed.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25%",
+                "reasoning": "Earnings crush per web, strong forward metrics; X chatter positive on growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $24 (+30%) on SaaS momentum.",
+                "short_position": "Short if misses next guide, -10-15%.",
+                "key_risks": "Banking slowdown, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but fintech sector volatility."
+        },
+        {
+            "details": {
+                "ticker": "BCG",
+                "full_name": "Binah Capital Group Inc.",
+                "current_price": 3.14,
+                "market_cap": "$45M",
+                "sector_industry": "Financials/Wealth Management",
+                "high_low_52_week": {
+                    "high": 4.2,
+                    "low": 1.8
+                },
+                "pe_ratio": 12.8,
+                "volume": "12,000,000",
+                "recent_dividend": "$0.05"
+            },
+            "impact_theory": "Q4/FY2025 results: revenue +11% to $187M, swung to profit $2.3M. Implications: growth in assets under mgmt amid market rally. Psychology: profitability turnaround excites. Parallels: small finance firms post-earnings pops. Analogies: turning ship from sinking to sailing; planting seeds in fertile soil.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+55%",
+                "reasoning": "Earnings surprise drove 59% after-hours surge; positive web/X coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $5 (+60%).",
+                "short_position": "Short above $4, -25% pullback.",
+                "key_risks": "Market downturn, small cap illiquidity."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong results but small cap risks."
+        },
+        {
+            "details": {
+                "ticker": "DEFT",
+                "full_name": "DeFi Technologies Inc.",
+                "current_price": 0.78,
+                "market_cap": "$120M",
+                "sector_industry": "Financials/Crypto",
+                "high_low_52_week": {
+                    "high": 1.5,
+                    "low": 0.45
+                },
+                "pe_ratio": -5.2,
+                "volume": "15,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Record prelim 2025 revenue $99.1M, new CRO for Valour subsidiary. Implications: crypto ETP growth amid bull market. Psychology: revenue record FOMO. Parallels: crypto firms like COIN on inflows. Analogies: striking oil in backyard; wave riding tsunami.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+40%",
+                "reasoning": "Revenue beat and leadership add; X momentum posts bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $1.20 (+50%).",
+                "short_position": "Short on crypto dip, -30%.",
+                "key_risks": "Crypto volatility, regulatory."
+            },
+            "confidence_rating": "C",
+            "justification": "Positive but crypto sector unpredictable."
+        }
+    ]
+}
