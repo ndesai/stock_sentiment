@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "APLS",
+                "full_name": "Apellis Pharmaceuticals, Inc.",
+                "current_price": 40.23,
+                "market_cap": "$4.8B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 15.5
+                },
+                "pe_ratio": -12.5,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Biogen announced acquisition of Apellis for $5.6B at ~$41/share plus CVR. This provides immediate premium to shareholders, boosts sector M&A sentiment amid biotech rally. Economic implications: Consolidates complement inhibitors market. Market psychology: Acquisition pop typical, historical parallels to 2023 biotech deals like Seagen. Analogies: Like winning lottery ticket for holders; fuel injection for stagnant biotech engine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+135%",
+                "reasoning": "Deal premium drives massive one-day surge; X sentiment highly positive on biotech M&A wave; web news confirms Biogen deal as catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20-30% gains to deal close if no regulatory hiccups.",
+                "short_position": "Avoid short, arbitrage play limited upside.",
+                "key_risks": "Deal break (anti-trust), CVR failure."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear acquisition news with verified sources and massive volume surge."
+        },
+        {
+            "details": {
+                "ticker": "CNTA",
+                "full_name": "Centessa Pharmaceuticals plc",
+                "current_price": 39.72,
+                "market_cap": "$1.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 8.0
+                },
+                "pe_ratio": -8.2,
+                "volume": "18M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Eli Lilly acquiring Centessa for $38/share cash + CVR for sleep drug pipeline. Validates orexin agonist tech in narcolepsy. Implications: Big Pharma bulking up neuro portfolios. Psychology: M&A frenzy post-APLS. Parallels: Previous Lilly deals like POINT Biopharma. Analogies: Golden ticket to Big Pharma stability; biotech firework launch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+44%",
+                "reasoning": "Acquisition news sparks surge; positive X chatter on Lilly's appetite; aligns with biotech sector strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% to deal price.",
+                "short_position": "Minimal, deal likely.",
+                "key_risks": "Regulatory delays, pipeline doubts."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong acquisition confirmation from multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 62.5,
+                "market_cap": "$95B",
+                "sector_industry": "Consumer Cyclical / Footwear",
+                "high_low_52_week": {
+                    "high": 81.72,
+                    "low": 62.0
+                },
+                "pe_ratio": 29.0,
+                "volume": "35M",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Q3 earnings beat but guidance slashed: China -20%, tariffs crush 300bps margins, layoffs. Implications: Consumer weakness, trade war escalation. Psychology: Fear of structural damage. Parallels: 2019 tariff hits. Analogies: Punch to gut from supply chain storm; snowballing China demand freeze.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12%",
+                "reasoning": "Earnings reaction selloff despite beat; X posts highlight tariff/margin pain, downgrades; web confirms China/tariff woes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip if oversold, potential rebound to $70 (+12%).",
+                "short_position": "Short to $55 (-12%) on continued weakness.",
+                "key_risks": "Consumer rebound, tariff relief."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit earnings details and analyst downgrades."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 75.2,
+                "market_cap": "$65B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 46.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "22M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Nvidia $2B investment in Marvell for silicon photonics/AI infra. Boosts optics demand. Implications: AI capex acceleration. Psychology: Nvidia halo effect. Parallels: 2023 NVDA partners surges. Analogies: Rocket booster from AI king; golden endorsement in chip wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Investment news amid AI hype; positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% on AI momentum.",
+                "short_position": "Short if AI cools.",
+                "key_risks": "Investment dilution, market rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Investment confirmed but less detail than acquisitions."
+        },
+        {
+            "details": {
+                "ticker": "GNRC",
+                "full_name": "Generac Holdings Inc.",
+                "current_price": 204.6,
+                "market_cap": "$12B",
+                "sector_industry": "Industrials / Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Premarket surge on de-escalation bets in Iran war, boosting energy resilience plays. Implications: Power outage fears ease but generators benefit from volatility. Psychology: Risk-on shift. Parallels: 2022 Ukraine power surges. Analogies: Safe harbor in storm; backup plan premium.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Geopolitical relief lifts; premarket leader."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% if war fears linger.",
+                "short_position": "Short on peace deal.",
+                "key_risks": "Rapid de-escalation, demand drop."
+            },
+            "confidence_rating": "C",
+            "justification": "Premarket move tied to macro, less company-specific."
+        }
+    ]
+}
