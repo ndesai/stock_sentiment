@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NCNO",
+                "full_name": "nCino, Inc.",
+                "current_price": 38.5,
+                "market_cap": "$4.2B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 42.1,
+                    "low": 22.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "15M",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "nCino reported strong Q4 FY2026 results exceeding expectations with robust revenue growth from banking software demand. Economic implications include accelerated SaaS adoption in fintech amid digital transformation. Market psychology: Relief rally post-earnings beat boosts confidence in growth stock. Historical parallels: Similar to SNOW's post-earnings surge in 2021. Analogies: Like a rocket igniting after fuel load (earnings beat), or a dam breaking releasing pent-up buying pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Q4 beat drove +26% surge; X posts neutral but news positive (web:91-99); sentiment shift from hold to buy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% gains on continued fintech boom; target $46.",
+                "short_position": "Short if guidance misses, potential 10% drop.",
+                "key_risks": "Market rotation from growth stocks, competition in banking SaaS."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat with high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 920.0,
+                "market_cap": "$850B",
+                "sector_industry": "Healthcare / Drug Manufacturers - General",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "8M",
+                "recent_dividend": "$1.30 quarterly, yield 0.6%"
+            },
+            "impact_theory": "Eli Lilly's obesity pill received US approval, expanding GLP-1 market. Implications: Massive revenue potential from oral alternative to injections, reducing competition from NVO. Psychology: FOMO buying as obesity drug leader. Parallels: Mounjaro launch in 2022. Analogies: Like unlocking a new level in a game (convenience wins), or iPhone vs flip phones.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Approval news (web:100-106, initial SpaceX/LLY video); X mentions positive vs NVO (post:78); strong sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% upside on sales ramp; target $1000.",
+                "short_position": "Short on side effects or NVO dominance, 8% loss.",
+                "key_risks": "Regulatory hurdles, competition from Novo oral pill."
+            },
+            "confidence_rating": "B",
+            "justification": "Approval solid but pill competition emerging."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 72.5,
+                "market_cap": "$110B",
+                "sector_industry": "Consumer Cyclical / Footwear & Accessories",
+                "high_low_52_week": {
+                    "high": 95.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "45M",
+                "recent_dividend": "$0.40 quarterly, yield 2.2%"
+            },
+            "impact_theory": "Nike cut Q4 sales outlook with 20% decline in China, citing weak demand. Implications: Consumer spending slowdown in key markets. Psychology: Panic selling on growth fears. Parallels: 2022 China COVID lockdowns. Analogies: Like a star athlete stumbling (China exposure), or leaking boat in a storm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Earnings beat but weak guidance caused -12% drop (web:107-116); X negative (posts:79,83,86,87); high engagement bearish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if stabilizes, 15% rebound.",
+                "short_position": "Short for 20% downside; target $58.",
+                "key_risks": "Brand strength turnaround, China recovery."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear guidance miss with volume spike confirms bear shift."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 48.2,
+                "market_cap": "$205B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.0,
+                    "low": 28.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "120M",
+                "recent_dividend": "$0.125 quarterly, yield 1.0%"
+            },
+            "impact_theory": "Intel repurchased Ireland chip fab for $14.2B, signaling fab expansion and turnaround. Implications: Boosts manufacturing capacity amid AI/chip demand. Psychology: Vote of confidence lifts undervalued stock. Parallels: TSMC expansions. Analogies: Reclaiming home turf in a battle, or refueling a comeback fighter jet.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Fab buyback news drove +9% (web:127); X alerts positive (posts:81,85); chip sector rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 15% on AI recovery; target $55.",
+                "short_position": "Short if earnings disappoint, 10% pullback.",
+                "key_risks": "Execution delays, competition from TSM/AMD."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive move but broader chip volatility."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 152.0,
+                "market_cap": "$170B",
+                "sector_industry": "Technology / Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 12.3,
+                "volume": "25M",
+                "recent_dividend": "N/A (Suspended)"
+            },
+            "impact_theory": "Micron benefits from chip rally, HBM sold out for 2026 on AI demand. Implications: Memory shortage drives pricing power. Psychology: AI hype sustains momentum. Parallels: 2021 memory cycle. Analogies: Gold rush for AI memory, or oil boom in shortage.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Part of midday movers +2% (post:33); strong demand news (web:117-126); X positive (post:88)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% on AI tailwinds; target $180.",
+                "short_position": "Short cycle top, 15% correction.",
+                "key_risks": "Supply glut post-2026, China trade tensions."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds strong but cyclical risks."
+        }
+    ]
+}
