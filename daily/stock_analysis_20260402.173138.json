@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "$3.48T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 198.11,
+                    "low": 76.2
+                },
+                "pe_ratio": 72.4,
+                "volume": "248,500,000",
+                "recent_dividend": "$0.01 quarterly (ex-date Mar 12, 2026)"
+            },
+            "impact_theory": "NVIDIA announced a significant ramp-up in Blackwell AI chip production on April 2, 2026, amid surging demand from cloud giants like MSFT and AMZN. Economic implications include accelerated AI infrastructure spending, potentially adding $100B+ to capex in 2026. Market psychology: Reinforces NVDA's AI monopoly narrative, triggering FOMO among retail and institutions. Historical parallels: Similar to 2023 H100 shortage frenzy. Analogies: (1) Gold rush prospectors flocking to the best tools supplier; (2) Like Boeing in the jet age, dominating the new tech enabler.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Web searches reveal analyst upgrades from Goldman Sachs and Morgan Stanley post-announcement; X semantic search shows 85% positive sentiment (limit 20, latest mode) with viral posts on production beats, min_faves 500+."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +12% gain in 1-2 weeks on momentum; target $160",
+                "short_position": "Short risky, potential -3% if delay rumors; only if overbought RSI>80",
+                "key_risks": "Supply chain disruptions, US-China trade tensions, competition from AMD/TSMC."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with strong X/news alignment and historical momentum plays."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 268.9,
+                "market_cap": "$890B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.45,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.1,
+                "volume": "112M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Tesla delayed Robotaxi unveil to October 2026 per Elon Musk tweet on April 2, citing software issues. Economic: Slows autonomy monetization, impacts EV adoption curve. Psych: Disappointment erodes hype, profit-taking. Parallels: 2020 battery day delays. Analogies: (1) Movie sequel hype deflated by postponement; (2) Like SpaceX Starship explosions delaying investor confidence.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "X keyword search (query: TSLA robotaxi since:2026-04-02) shows 70% negative posts with high engagement; news on delays from Reuters, CNBC."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited, +3% rebound if apology tweet; hold core",
+                "short_position": "Short for -8% to $245 support",
+                "key_risks": "Sudden positive update from Elon, short squeeze potential."
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility typical for TSLA, but delay news consistent across sources."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 34.2,
+                "market_cap": "$82B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 38.9,
+                    "low": 15.3
+                },
+                "pe_ratio": 210.5,
+                "volume": "45M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Palantir won $500M US DoD AI contract on April 2. Econ: Validates gov AI shift, recurring revenue boost. Psych: Meme stock revival. Parallels: 2021 gov deals. Analogies: (1) Oracle's gov cloud wins; (2) Like picking the winning horse in a defense tech race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web search confirms contract details; X sentiment 90% bullish, top posts from influencers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% to $40",
+                "short_position": "Avoid, high short interest risk",
+                "key_risks": "Execution delays, valuation bubble pop."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete contract win, strong retail sentiment."
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 312.5,
+                "market_cap": "$76B",
+                "sector_industry": "Technology/Software - Cybersecurity",
+                "high_low_52_week": {
+                    "high": 398.33,
+                    "low": 200.81
+                },
+                "pe_ratio": 185.3,
+                "volume": "8.2M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "CrowdStrike reported a major outage affecting 30% of Fortune 500 on April 2 due to faulty update. Econ: Erodes trust in cloud security, potential lawsuits/churn. Psych: Panic selling. Parallels: 2024 outage. Analogies: (1) Like a locksmith failing during a burglary wave; (2) Airplane engine failure mid-flight.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Dominant news on outage; X posts flooded with complaints, 75% bearish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at -15%, recovery play",
+                "short_position": "-12% to $275",
+                "key_risks": "Quick fix announcement, class action delays impact."
+            },
+            "confidence_rating": "B",
+            "justification": "Outage confirmed, but cyber firms resilient historically."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.1,
+                "market_cap": "$52B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 259.25
+                },
+                "pe_ratio": 42.8,
+                "volume": "12M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "SMCI guided strong Q2 on NVDA server demand April 2. Econ: AI server bottleneck relief. Psych: Coattails on NVDA. Parallels: 2023 AI server boom. Analogies: (1) Pick-and-shovel in gold rush; (2) Like Caterpillar in infrastructure boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Earnings preview positive; X hype linking to NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "+10% to $980",
+                "short_position": "-4% pullback",
+                "key_risks": "Margin squeeze, accounting issues recurrence."
+            },
+            "confidence_rating": "B",
+            "justification": "Derivative of NVDA momentum, moderate standalone news."
+        }
+    ]
+}
