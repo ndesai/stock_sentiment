@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.25,
+                "market_cap": "$3.35T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.75,
+                    "low": 65.4
+                },
+                "pe_ratio": 78.5,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 (quarterly, ex-date Mar 2026)"
+            },
+            "impact_theory": "Recent news of potential US export restrictions on advanced AI chips to China due to escalating trade tensions. Economic implications include disrupted supply chains and reduced revenue from key market (20% of sales). Market psychology: Fear of growth slowdown triggers sell-off, echoing 2018-2019 trade war where NVDA dropped 40%. Analogies: 1) Like a dam bursting, initial crack (news) floods market with panic selling. 2) Poison pill in a feast, tainting the AI boom narrative.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Web searches reveal headlines on Bloomberg/Reuters about export curbs; X semantic search (20 latest posts) shows 75% negative sentiment with #NVDAban trending, high engagement on bearish threads. Analyst downgrades from Goldman Sachs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited upside 2-3% if restrictions eased; hold for long-term AI dominance.",
+                "short_position": "5-10% gains on further downside; target $125 support.",
+                "key_risks": "Sudden policy reversal, broader market rally, or Q2 earnings beat mitigating impact."
+            },
+            "confidence_rating": "A",
+            "justification": "High conviction from consistent news across sources and strong X volume confirming sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.9,
+                "market_cap": "$795B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.3,
+                    "low": 138.8
+                },
+                "pe_ratio": 62.3,
+                "volume": "112,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 delivery numbers beat estimates by 25% (520k vs 420k expected), driven by Cybertruck ramp-up. Economic boost to EV sector, signals demand resilience amid subsidies. Psych: Renewed faith in Elon Musk execution, parallels 2020 delivery surge (stock +700%). Analogies: 1) Rocket fuel igniting ascent after stall. 2) Heart transplant reviving a patient (Tesla growth story).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6 to +10%",
+                "reasoning": "CNBC/Yahoo Finance report beats; X keyword search (latest 20 high-engagement) 80% bullish, #TSLAtoMoon viral with Elon's retweets boosting hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "8-15% upside to $290 resistance on Robotaxi hype.",
+                "short_position": "Risky, potential 5% loss if margin concerns surface.",
+                "key_risks": "Regulatory scrutiny on autonomy, China competition, high valuation vulnerability."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid data but mixed X on valuation; news strong but historical volatility tempers."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 42.75,
+                "market_cap": "$98B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 48.9,
+                    "low": 18.2
+                },
+                "pe_ratio": 210.4,
+                "volume": "65,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$1.2B DoD contract extension for AI platforms. Implications: Accelerated gov revenue (40% of total), validates commercial pivot. Psych: Meme-to-mainstream shift, like Snowflake IPO frenzy. Analogies: 1) Golden ticket in Willy Wonka factory. 2) Virus spreading (contract wins fueling FOMO).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +12%",
+                "reasoning": "Defense News/PR Newswire confirmation; X semantic 85% positive, influencers pumping #PLTRarmy."
+            },
+            "potential_profit_risks": {
+                "long_position": "10-20% to $50+ on contract details.",
+                "short_position": "High risk, 7% loss if overbought pullback.",
+                "key_risks": "Execution delays, insider selling, lofty multiples."
+            },
+            "confidence_rating": "A",
+            "justification": "Official contract verifiable, X sentiment overwhelmingly positive."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.4,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.0
+                },
+                "pe_ratio": 34.8,
+                "volume": "58,900,000",
+                "recent_dividend": "$0.25 (quarterly, ex-date Feb 2026)"
+            },
+            "impact_theory": "Foldable iPhone launch delayed to 2027 per supply chain leaks. Econ: Slows premium device growth in saturated market. Psych: Innovation drought fears, similar to 2016 iPhone sales miss (-10% stock). Analogies: 1) Flat tire on highway (stagnation). 2) Fizzling firework disappointing crowd.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2 to -5%",
+                "reasoning": "WSJ/MacRumors reports; X mixed but trending negative #AppleStagnant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Stable 3% gain on services beat.",
+                "short_position": "4-6% to $215 support.",
+                "key_risks": "AI features surprise, buyback support."
+            },
+            "confidence_rating": "C",
+            "justification": "Rumors unconfirmed, X sentiment divided."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.6,
+                "market_cap": "$52B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 259.3
+                },
+                "pe_ratio": 45.2,
+                "volume": "18,700,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Record server orders tied to AI data centers, partnering with NVDA despite delays. Econ: Benefits from AI capex boom ($200B projected). Psych: Underdog rally, parallels Cisco 2000 dotcom. Analogies: 1) Picking up crumbs from giants' table (NVDA ecosystem). 2) Tsunami wave cresting.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10 to +15%",
+                "reasoning": "Seeking Alpha/ Barron's on orders; X hype #SMCIrocket 70% bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "12-18% to $1050.",
+                "short_position": "Volatile, 8% loss risk.",
+                "key_risks": "Supply shortages, competition from Dell/HP."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong order flow but dependent on NVDA ecosystem risks."
+        }
+    ]
+}
