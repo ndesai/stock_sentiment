@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.45,
+                    "low": 75.2
+                },
+                "pe_ratio": 58.4,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 quarterly (yield 0.03%)"
+            },
+            "impact_theory": "Reports of supply chain delays for next-gen Blackwell AI chips due to geopolitical tensions in Taiwan. Economic implications include slowed AI infrastructure buildout, raising costs for hyperscalers. Market psychology: Fear of missing out turns to FUD (fear, uncertainty, doubt). Historical parallel: 2021 chip shortage crushed semis temporarily. Analogies: 1) Like a Ferrari delayed by tire shortage - performance promise but delivery lag hurts hype. 2) Oil rig breakdown halting refinery - upstream disruption cascades downstream.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "X sentiment shows 65% negative posts on delays (from x_semantic_search), news from Reuters confirms TSMC issues. Volume spike 2x avg, premarket down 3%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; hold if owned for recovery in 3-6 months",
+                "short_position": "Potential 5-8% gain on pullback to $135 support",
+                "key_risks": "Sudden resolution via alt suppliers, broader market rally, or AI demand override."
+            },
+            "confidence_rating": "A",
+            "justification": "High conviction from multiple sources confirming supply issues, historical precedents align."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.5,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 300.2,
+                    "low": 138.8
+                },
+                "pe_ratio": 72.1,
+                "volume": "112,450,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 deliveries beat estimates by 15% at 520k units, driven by Cybertruck ramp and China recovery. Economic boost to EV adoption, psychology of momentum trading. Parallels: 2020 delivery beats sparked 700% rally. Analogies: 1) Rocket fuel ignition after buildup. 2) Dam breaking, flood of positive momentum.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +10%",
+                "reasoning": "Web news (CNBC, Bloomberg) hails beat; X posts 80% bullish with #TSLAto300 trending (x_keyword_search latest)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% upside to $280",
+                "short_position": "High risk, potential squeeze +20%",
+                "key_risks": "Macro recession hitting auto sales, competition from BYD."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong data but volatile Elon factor tempers to B."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.8,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 238.0,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.5,
+                "volume": "67,890,000",
+                "recent_dividend": "$0.25 quarterly (yield 0.44%)"
+            },
+            "impact_theory": "EU court rules against App Store monopoly, forcing sideloading. Implications: Lower revenue from 30% cut but opens ecosystem. Psychology: Initial fear then adaptation. Parallels: 2019 Epic vs Apple partial win. Analogies: 1) Fence lowered but guards still patrol. 2) Toll booth bypassed on highway.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2% to -4%",
+                "reasoning": "Mixed X sentiment 55% negative (semantic search), WSJ reports $10B annual hit."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold, dip buy for rebound",
+                "short_position": "3-5% gain short-term",
+                "key_risks": "AAPL appeals successfully, services growth offsets."
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory path uncertain but initial reaction bearish."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 98.4,
+                "market_cap": "$240B",
+                "sector_industry": "Consumer Cyclical/Internet Retail",
+                "high_low_52_week": {
+                    "high": 105.2,
+                    "low": 70.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "24,560,000",
+                "recent_dividend": "$1.05 annual (yield 1.1%)"
+            },
+            "impact_theory": "China announces $500B stimulus package targeting tech and consumption. Boosts Alibaba's cloud/ecomm. Psychology: Risk-on China trade revival. Parallels: 2020 post-COVID bounce. Analogies: 1) Rain after drought for farmers market. 2) Steroids for underweight athlete.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +12%",
+                "reasoning": "Bloomberg confirms stimulus; X hype with 70% positive China stocks (keyword search)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy for 15% to $115",
+                "short_position": "Avoid amid momentum",
+                "key_risks": "Geopolitical escalation, stimulus fizzle."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary, undervalued P/E supports."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 42.15,
+                "market_cap": "$95B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 45.8,
+                    "low": 15.3
+                },
+                "pe_ratio": 210.5,
+                "volume": "89,120,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$2B DoD contract extension for AI defense platforms. Implications: Recurring revenue stability. Psychology: Gov contract premium. Parallels: 2021 commercial pivot. Analogies: 1) Lifeline to loyal customer. 2) VIP club membership renewal.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "PR newswire release; X exploding with memes, 75% bullish (semantic)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum play +10% to $46",
+                "short_position": "Valuation stretch risks -10%",
+                "key_risks": "High P/E vulnerability to rates, contract delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news but frothy valuation."
+        }
+    ]
+}
