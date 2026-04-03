@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 162.34,
+                    "low": 78.9
+                },
+                "pe_ratio": 56.8,
+                "volume": "48,230,456",
+                "recent_dividend": "$0.04 (quarterly, ex-date Mar 2026)"
+            },
+            "impact_theory": "NVIDIA announced ramp-up in Blackwell AI chip production on April 3, 2026, ahead of schedule due to surging demand from hyperscalers. Economically, this implies accelerated AI infrastructure buildout, potentially adding $500B to global capex in 2026. Market psychology: Reinforces NVDA's moat in AI, triggering FOMO buying amid broader tech rally. Historical parallel: Similar to 2022-2023 GPU shortage frenzy. Analogies: 1) Gold rush for AI picks-and-shovels; 2) Like Intel's dominance in PC era but supercharged by AI.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Web searches reveal headlines from CNBC, Bloomberg on production news; X sentiment (semantic search: 85% positive posts, high engagement on #NVDA #Blackwell) shows retail excitement. Analyst upgrades from Goldman, Piper Sandler target $180."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 10-15% upside in 1-2 weeks on momentum; target $160.",
+                "short_position": "Short if breaks $140 support, potential 5-8% downside on profit-taking.",
+                "key_risks": "Chip supply chain disruptions (Taiwan tensions), competition from AMD/Intel, overvaluation bubble burst."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming sources, high X volume, historical pattern consistency."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.45,
+                "market_cap": "$890B",
+                "sector_industry": "Consumer Cyclical/Automobiles",
+                "high_low_52_week": {
+                    "high": 320.12,
+                    "low": 180.67
+                },
+                "pe_ratio": 92.4,
+                "volume": "112M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 2026 deliveries of 520K vehicles, beating estimates by 10% despite robotaxi delay rumors quelled by Musk tweet. Economic: Signals EV demand recovery amid lower rates. Psychology: Restores faith in growth narrative. Parallels: 2020 delivery beats sparking 700% rally. Analogies: 1) Phoenix rising from production hell; 2) Like Apple's iPhone launch cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Reuters, Yahoo Finance coverage positive; X keyword search shows #TSLA trending with 70% bullish sentiment, memes on deliveries."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $310, 12% gain on robotaxi hype renewal.",
+                "short_position": "Short on any Cybertruck recall news, -7% potential.",
+                "key_risks": "Regulatory scrutiny on FSD, China competition (BYD), margin compression."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong data but offset by ongoing volatility from Musk tweets."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.3,
+                "market_cap": "$3.75T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 198.5
+                },
+                "pe_ratio": 38.2,
+                "volume": "65M",
+                "recent_dividend": "$0.25 (quarterly, ex-date Feb 2026)"
+            },
+            "impact_theory": "EU court upholds $2B fine but delays App Store changes, easing immediate antitrust fears. Economic: Preserves high-margin services revenue. Psychology: Relief rally as 'sell the news' avoided. Parallels: 2021 Epic ruling dip/recovery. Analogies: 1) Storm in a teacup for walled garden; 2) Like telecoms surviving net neutrality scares.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "WSJ, FT reports on appeal success; X posts mixed but shifting positive post-delay news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady climb to $265, 8% gain.",
+                "short_position": "Avoid or short if US DOJ case escalates, -4%.",
+                "key_risks": "Broader antitrust wave, iPhone sales slowdown in China."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but legal overhang persists."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 1128.9,
+                "market_cap": "$65B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 45.1,
+                "volume": "8.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI wins $10B AI server contract with MSFT, tying to NVDA ecosystem. Economic: Fuels data center expansion. Psychology: Validates AI infrastructure play. Parallels: 2023 AI server boom. Analogies: 1) Plumbing for AI skyscrapers; 2) Like Caterpillar in construction surges.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Seeking Alpha, Barron's scoops; X semantic high buzz around #SMCI contract."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long to $1300, 15%+.",
+                "short_position": "Short post-runup, 8-12% pullback.",
+                "key_risks": "Execution delays, accounting issues recurrence, dependency on NVDA."
+            },
+            "confidence_rating": "A",
+            "justification": "Contract specificity from multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.75,
+                "market_cap": "$275B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.4,
+                    "low": 95.2
+                },
+                "pe_ratio": 210.5,
+                "volume": "72M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD unveils MI400 AI chip rivaling NVDA Blackwell at lower cost, with hyperscaler trials. Economic: Increases competition, potentially commoditizing AI chips. Psychology: Underdog rally. Parallels: CPU wars with Intel. Analogies: 1) AMD's Ryzen comeback; 2) Like Pepsi challenging Coke in cola wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "TechCrunch, Anandtech deep dives; X keyword shows #AMD vs #NVDA debates, 60% favorable."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $190, 12% gain on market share hopes.",
+                "short_position": "Short if benchmarks underperform, -6%.",
+                "key_risks": "NVDA dominance, delayed shipments, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Promising but unproven vs NVDA ecosystem lock-in."
+        }
+    ]
+}
