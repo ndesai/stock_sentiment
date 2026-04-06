@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SLNO",
+                "full_name": "Soleno Therapeutics, Inc.",
+                "current_price": 51.55,
+                "market_cap": "$2.7B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 90.32,
+                    "low": 29.43
+                },
+                "pe_ratio": 101.26,
+                "volume": "3,575,161",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Neurocrine Biosciences announced a $2.9B all-cash buyout of Soleno at $53/share, a 34% premium. Economic implications: Accelerates development of obesity drug pipeline amid sector M&A wave. Market psychology: Triggers buyout arbitrage and FOMO buying. Historical parallels: Similar to Amgen/Horizonte (2023). Analogies: 1. Ship sold at premium during boom. 2. Inheritance windfall.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30%",
+                "reasoning": "Buyout news drove 30%+ surge; X sentiment highly positive with deal buzz; web news confirms $53 target."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 3-10% gain to $53-56 close; arb play.",
+                "short_position": "Avoid or small for deal break (-10-15%).",
+                "key_risks": "Deal failure on antitrust/shareholder suit, market sell-off."
+            },
+            "confidence_rating": "A",
+            "justification": "Definitive buyout announcement with premium; high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "FUBO",
+                "full_name": "FuboTV Inc.",
+                "current_price": 12.24,
+                "market_cap": "$1.2B",
+                "sector_industry": "Communication Services/Streaming",
+                "high_low_52_week": {
+                    "high": 15.0,
+                    "low": 1.1
+                },
+                "pe_ratio": -4.5,
+                "volume": "26,813,150",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Fubo released FY26 Adjusted EBITDA outlook $80-100M, targeting $300M by 2028, cash flow positive FY27. Implications: Path to profitability in competitive streaming. Psychology: Relief rally on guidance beat expectations. Parallels: ROKU 2021 turnaround. Analogies: 1. Company turning corner like prodigal son. 2. Diet success after tough years.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25%",
+                "reasoning": "Guidance surprise sparked 25% jump; positive X chatter on profitability."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-20% on momentum.",
+                "short_position": "Short if misses next quarter (-15%).",
+                "key_risks": "Subscriber churn, competition from Disney/Hulu."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong guidance but execution risks in sector."
+        },
+        {
+            "details": {
+                "ticker": "MSTR",
+                "full_name": "Strategy (MicroStrategy Inc.)",
+                "current_price": 250.0,
+                "market_cap": "$45B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 300.0,
+                    "low": 100.0
+                },
+                "pe_ratio": -10.2,
+                "volume": "15,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MSTR bought $330M BTC (4,871 coins), holdings near 767k BTC amid BTC rebound. Implications: Leveraged BTC play amplifies crypto sentiment. Psychology: Validates HODL strategy. Parallels: 2021 BTC buys. Analogies: 1. Doubling down on winning horse. 2. Adding chips to poker pot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "BTC correlation + buy news; X hype on Saylor."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with BTC (+20-50%).",
+                "short_position": "Short on BTC drop (-30%).",
+                "key_risks": "BTC volatility, dilution from funding."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to volatile crypto, but clear catalyst."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 385.08,
+                "market_cap": "$430B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "20,000,000",
+                "recent_dividend": "$0.115"
+            },
+            "impact_theory": "Analyst (KeyBanc) reiterates $600 PT (64% upside), AI memory demand. Implications: HBM chips critical for AI. Psychology: Validates growth narrative. Parallels: NVDA AI run 2023. Analogies: 1. Fuel for AI rocket. 2. Gold rush pickaxes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Analyst note + AI tailwinds; positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $400-450 (+10-20%).",
+                "short_position": "If AI hype fades (-10%).",
+                "key_risks": "Chip cycle downturn, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid AI story but analyst-driven."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 177.2,
+                "market_cap": "$45B",
+                "sector_industry": "Financials/Crypto Exchange",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 55.8,
+                "volume": "10,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Conditional approval for trust bank charter + BTC bounce. Implications: Expands services, regulatory greenlight. Psychology: De-risks business. Parallels: 2024 ETF approvals. Analogies: 1. License to print money. 2. Key to new kingdom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Regulatory win + crypto rebound; bullish X posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with BTC rally (+15%).",
+                "short_position": "On reg setback (-20%).",
+                "key_risks": "Crypto winter, SEC issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but crypto dependent."
+        }
+    ]
+}
