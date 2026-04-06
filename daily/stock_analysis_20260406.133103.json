@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 177.39,
+                "market_cap": "$4.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 193.66,
+                    "low": 171.37
+                },
+                "pe_ratio": 65.2,
+                "volume": "142717600",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "Ceasefire hopes reduce geopolitical risk, boosting risk-on sentiment for tech. NVDA benefits from AI inference economics, lowest cost per token. Market psychology shifts to growth stocks. Historical parallel: 2022 Ukraine de-escalation rallies tech. Analogies: Like a dam breaking after tension build-up; rocket igniting post-countdown.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X sentiment positive on AI demand; web news highlights undervaluation and data center rally. Oil dip aids tech rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% gains on risk-on rally",
+                "short_position": "Avoid short, momentum strong",
+                "key_risks": "Geopolitical escalation, earnings miss"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, consistent AI narrative, technical bounce."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 381.26,
+                "market_cap": "$1.2T",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 396.23,
+                    "low": 373.09
+                },
+                "pe_ratio": 95.4,
+                "volume": "85000000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Korea sales surge 330%, robotaxi fleet growth. Risk-on from ceasefire aids EV stocks. Psychology: FOMO on autonomy. Parallel: 2020 post-COVID EV boom. Analogies: Snowball rolling downhill; viral video exploding views.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "X posts highlight Korea dominance, robotaxi progress; market rally supports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 8% upside",
+                "short_position": "Short risky amid buzz",
+                "key_risks": "Delivery numbers, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "High engagement on X, but volatile."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 153.15,
+                "market_cap": "$650B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 156.05,
+                    "low": 150.72
+                },
+                "pe_ratio": 12.8,
+                "volume": "18000000",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Oil prices dip on Iran ceasefire talks, hurting energy profits. Psychology: Fear of prolonged low oil. Parallel: 2014 oil crash. Analogies: Balloon deflating; wave receding from shore.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "News on ceasefire pushes oil down; X not much buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy",
+                "short_position": "Short for 3-5% gains",
+                "key_risks": "Escalation spikes oil"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct tie to oil volatility."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 190.33,
+                "market_cap": "$350B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 191.44,
+                    "low": 182.9
+                },
+                "pe_ratio": 14.1,
+                "volume": "8900000",
+                "recent_dividend": "$1.71 (quarterly)"
+            },
+            "impact_theory": "Similar to XOM, ceasefire de-risks but lowers oil prices. Implications: Margin squeeze. Psychology: Profit-taking. Parallel: 2020 demand drop. Analogies: Fireworks fizzling; tide going out.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Oil volatility news; institutional sales."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend play long-term",
+                "short_position": "Short near-term",
+                "key_risks": "Oil rebound"
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 217.19,
+                "market_cap": "$350B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 203.79,
+                    "low": 191.25
+                },
+                "pe_ratio": 185.3,
+                "volume": "65000000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Data center upgrade, AI tailwind. Risk-on favors semis. Psychology: Catch-up to NVDA. Parallel: 2023 AI surge. Analogies: Second horse in race accelerating; echo of thunder.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-3%",
+                "reasoning": "Analyst upgrades; premarket active."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on breakout",
+                "short_position": "Avoid",
+                "key_risks": "NVDA dominance"
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to NVDA but less buzz."
+        }
+    ]
+}
