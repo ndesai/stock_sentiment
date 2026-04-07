@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 582.5,
+                "market_cap": "$540B",
+                "sector_industry": "Healthcare / Managed Health Care",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "12.5M",
+                "recent_dividend": "$2.10 quarterly"
+            },
+            "impact_theory": "CMS announced higher Medicare payment rates for 2027, alleviating fears of flat rates amid rising costs. This boosts profitability outlook. Market psychology shifts from fear of margin squeeze to relief rally. Historical parallel: Similar rate hikes in 2023 led to 10%+ surges. Analogies: Like a dam breaking for pent-up demand; or insulin shot reviving a patient.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Positive Medicare update directly improves earnings visibility; X sentiment positive, web news confirms surge. Analyst upgrades add fuel."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-15% gains on continued rally; target $650.",
+                "short_position": "Avoid short; momentum too strong.",
+                "key_risks": "Broader market selloff from geopolitics; regulatory reversals."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with strong historical precedent and broad coverage."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 135.2,
+                "market_cap": "$480B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "25M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Trump's Hormuz deadline and US strikes on Iran oil facilities spike oil to $116/bbl, supply fears rise. Economic: Higher energy costs inflationary. Psychology: Risk-off boosts safe-haven energy. Parallels: 2019 Iran tensions +20% oil. Analogies: Lighting a fuse under oil prices; whale surfacing in calm waters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Oil surge directly benefits; X buzz on geopolitics, news confirms $110+ oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +7-10% on sustained tensions; target $145.",
+                "short_position": "Short if de-escalation; potential -5%.",
+                "key_risks": "Quick resolution lowers oil; recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong geo catalyst but volatile oil market."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.75,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 300.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 65.8,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cathie Wood's ARK buys 39k shares ($14M) signals dip-buying by bull. Amid dip, restores confidence. Economic: EV demand steady. Psychology: Smart money inflow. Parallels: ARK buys in 2023 dips led rebounds. Analogies: Celebrity endorsement at fire sale; lifeguard spotting swimmer.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "High X engagement on buy; counters recent downtrend sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +5-10% bounce; target $270.",
+                "short_position": "Short persistent weakness; -5-8%.",
+                "key_risks": "Macro slowdown hits EVs; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Influential but single fund buy; market volatile."
+        },
+        {
+            "details": {
+                "ticker": "LEVI",
+                "full_name": "Levi Strauss & Co.",
+                "current_price": 24.8,
+                "market_cap": "$10B",
+                "sector_industry": "Consumer Cyclical / Apparel Manufacturing",
+                "high_low_52_week": {
+                    "high": 28.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "8M",
+                "recent_dividend": "$0.13 quarterly"
+            },
+            "impact_theory": "Q1 earnings post-close April 7; expectations $0.37 EPS, revenue growth. Consumer spending key. Psychology: Beat/consensus lift. Parallels: Past beats +5-10%. Analogies: Report card day for teen; halftime score in game.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7% if beat",
+                "reasoning": "Pre-earnings anticipation; web previews positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long straddle for volatility; +8% on beat.",
+                "short_position": "Short if miss; -6%.",
+                "key_risks": "Weak guidance on consumer; market distraction."
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings binary outcome."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 512.3,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 540.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 19.8,
+                "volume": "1.8M",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Iran tensions, Hormuz deadline boost defense spending fears. Economic: Geo risk premium. Psychology: Flight to safety/defense. Parallels: Ukraine war +15% defense. Analogies: Storm clouds filling arsenal; insurance policy payout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Indirect from oil/geo news; X market fear aids."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +6-9%; target $540.",
+                "short_position": "Minimal.",
+                "key_risks": "De-escalation; budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwind strong but not direct news."
+        }
+    ]
+}
