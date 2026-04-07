@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SLNO",
+                "full_name": "Soleno Therapeutics, Inc.",
+                "current_price": 52.26,
+                "market_cap": "2.807B",
+                "sector_industry": "Biotechnology / Healthcare",
+                "high_low_52_week": {
+                    "high": 90.32,
+                    "low": 29.43
+                },
+                "pe_ratio": 134.0,
+                "volume": "14,951,404",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Neurocrine Biosciences announced acquisition of Soleno Therapeutics for approximately $2.5B, around $50/share, triggering a massive surge. Economic implications include consolidation in biotech sector, boosting M&A activity amid favorable financing. Market psychology: FOMO buying on takeover premium, fear of missing out on deal closure. Historical parallels: Similar biotech buyouts like Seagen by Pfizer in 2023 led to 50%+ pops. Analogies: 1. Wedding proposal - sudden commitment sends shares soaring like a bride-to-be's joy. 2. Lottery win - unexpected windfall creates euphoria.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Acquisition news drove +32% surge on high volume; X sentiment overwhelmingly positive on deal; regulatory approval likely, potential for higher bid."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for +15-25% gains to deal close; target $65.",
+                "short_position": "Avoid or short if deal breaks (-20% risk), but low prob.",
+                "key_risks": "Deal failure due to antitrust, financing issues; biotech sector volatility."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear M&A catalyst with multiple confirming news sources, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "CAR",
+                "full_name": "Avis Budget Group, Inc.",
+                "current_price": 242.38,
+                "market_cap": "8.54B",
+                "sector_industry": "Industrials / Rental & Leasing Services",
+                "high_low_52_week": {
+                    "high": 252.95,
+                    "low": 62.17
+                },
+                "pe_ratio": 0.0,
+                "volume": "4,281,969",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Stock surged on short squeeze chatter, TSA delays boosting rental demand, heavy call buying. Economic: Rising travel post-disruptions supports leisure sector recovery. Psychology: Short covering panic amid positive catalysts. Historical: Hertz short squeeze 2020-21 led to 1000%+ runs. Analogies: 1. Rubber band snap - shorts stretched too far recoil violently. 2. Domino effect - one delay triggers chain of travel bookings.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "News of surges on call buying/short squeeze; Yahoo headlines confirm momentum; travel demand strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% to 52w high; momentum play.",
+                "short_position": "Short on squeeze exhaustion (-5-10% pullback).",
+                "key_risks": "Travel disruptions reverse, high short interest volatility, economic slowdown hits leisure."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but squeeze dynamics can reverse quickly; supported by news."
+        },
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 43.73,
+                "market_cap": "2.43B",
+                "sector_industry": "Semiconductor Equipment & Materials / Technology",
+                "high_low_52_week": {
+                    "high": 71.49,
+                    "low": 1.13
+                },
+                "pe_ratio": 0.0,
+                "volume": "11,374,700",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Plummeted 17-20% on market volatility, sector rotation out of semis, gap down post-high. Economic: Chip sector cooling amid overcapacity fears. Psychology: Profit-taking after rally, fear of recession hits tech. Historical: Semi stocks like in 2022 bear market dropped 50%+. Analogies: 1. Balloon pop - hype deflates rapidly. 2. Rollercoaster drop - thrilling up, scary down.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-25%",
+                "reasoning": "News of plummets amid volatility, gap down; high volume on downside confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound to $55 (+25%).",
+                "short_position": "Short for -20% to support; target $35.",
+                "key_risks": "Semis rebound on AI demand, oversold bounce."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear downside momentum but semis volatile; news supports bearish."
+        },
+        {
+            "details": {
+                "ticker": "FUBO",
+                "full_name": "fuboTV Inc.",
+                "current_price": 12.2,
+                "market_cap": "358.204M",
+                "sector_industry": "Communication Services / Broadcasting",
+                "high_low_52_week": {
+                    "high": 56.64,
+                    "low": 8.31
+                },
+                "pe_ratio": 3.17,
+                "volume": "4,441,192",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Shares skyrocketing amid adjusted EBITDA outlook, long-term targets; monthly top performer. Economic: Streaming sector stabilization. Psychology: Turnaround hope post-70% YTD drop. Historical: Streaming pops like ROKU 2020. Analogies: 1. Phoenix rising - from ashes of crash. 2. Spring bounce - compressed low springs up.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Headlines of skyrocketing, soaring shares; positive financial outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $15 (+25%).",
+                "short_position": "Short if fails resistance (-10%).",
+                "key_risks": "Competition in streaming, subscriber churn."
+            },
+            "confidence_rating": "C",
+            "justification": "Positive news but small cap, volatile sector."
+        },
+        {
+            "details": {
+                "ticker": "ENVX",
+                "full_name": "Enovix Corporation",
+                "current_price": 5.44,
+                "market_cap": "1.181B",
+                "sector_industry": "Industrials / Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 16.49,
+                    "low": 4.61
+                },
+                "pe_ratio": 0.0,
+                "volume": "4,120,189",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Highlighted as growth stock with high insider ownership, 41% revenue growth proj. Economic: Battery tech demand for EV/AI. Psychology: Insider buying signals confidence. Historical: Battery plays like QS surged on hype. Analogies: 1. Insider whisper - buying hints at treasure. 2. Seedling growth - early stage promise.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Growth stock mention, insider ownership; monthly performer."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for growth to $8 (+45%).",
+                "short_position": "Short dilution risks (-15%).",
+                "key_risks": "Execution delays in batteries, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Promising but speculative growth story, moderate sentiment."
+        }
+    ]
+}
