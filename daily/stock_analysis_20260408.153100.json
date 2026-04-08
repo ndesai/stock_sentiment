@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CCL",
+                "full_name": "Carnival Corporation & plc",
+                "current_price": 18.5,
+                "market_cap": "$23.4B",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 22.3,
+                    "low": 12.1
+                },
+                "pe_ratio": 14.2,
+                "volume": "45M",
+                "recent_dividend": "None recent, reinstated planned"
+            },
+            "impact_theory": "Iran ceasefire news reduces geopolitical risk, boosting risk-on sentiment from extreme fear. Lower oil prices benefit cruise operators by cutting fuel costs. Market psychology shifts to optimism for travel recovery. Historical parallel: Post-Ukraine invasion oil spike hurt airlines/cruises, reversal now helps. Analogies: Like deflating a balloon (risk premium easing), or switching from storm clouds to sunshine for vacation bookings.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X posts show +11.6% move on solid cruise demand amid ceasefire. Web news on strong bookings despite fuel worries earlier. Sentiment shift positive with market rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued risk-on, target $20-21.",
+                "short_position": "Avoid or short if oil rebounds, potential 5% loss.",
+                "key_risks": "Renewed Middle East tensions spiking oil, weak consumer spending."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong X mentions and premarket momentum, but volatile geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "DOW",
+                "full_name": "Dow Inc.",
+                "current_price": 45.2,
+                "market_cap": "$31.8B",
+                "sector_industry": "Basic Materials / Chemicals",
+                "high_low_52_week": {
+                    "high": 58.0,
+                    "low": 42.5
+                },
+                "pe_ratio": 18.5,
+                "volume": "12M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "Ceasefire drops oil prices, hurting chemical margins reliant on petrochem feedstocks. Rally losing steam after year run-up. Psychology: Fear of lower input costs not translating to profits. Parallel: 2020 oil crash crushed chemicals. Analogies: Like a car running out of gas mid-race, or tide going out exposing rocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "X post -10.9% as chemical rally fades post-ceasefire. News on oil-driven margins but now reversing."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, potential 5% dip buy if stabilizes.",
+                "short_position": "Short for 10% gains to $40.",
+                "key_risks": "Oil stabilization or demand surge boosting chemicals."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear link to oil drop, high volume move."
+        },
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 51.8,
+                "market_cap": "$2.1B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 22.0
+                },
+                "pe_ratio": -25.3,
+                "volume": "5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Earnings anticipation in AI/semicon boom, sentiment shift on sector rotation. Psychology: FOMO on AI supply chain. Parallel: 2023 semi rally. Analogies: Rocket fuel ignition, or snowball rolling downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "X +19% ahead of earnings, web on Q1 release April 30 but momentum now. AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-25% to $60+ post-earnings.",
+                "short_position": "High risk, potential squeeze.",
+                "key_risks": "Earnings miss, broader semi selloff."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst strong, but small cap volatility."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 21.5,
+                "market_cap": "$9.2B",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 15.2
+                },
+                "pe_ratio": -12.4,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Similar to CCL, ceasefire risk-off relief boosts cruises. Lower fuel aids. Psychology: Travel rebound. Parallel: COVID recovery rally. Analogies: Clearing skies for sail, weight lifted off anchors.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Premarket +8.44%, sector rotation to cyclicals on positive geo news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% to $23-24.",
+                "short_position": "Minimal.",
+                "key_risks": "Fuel cost rebound, booking slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector momentum, consistent with peers."
+        },
+        {
+            "details": {
+                "ticker": "RCL",
+                "full_name": "Royal Caribbean Cruises Ltd.",
+                "current_price": 165.0,
+                "market_cap": "$44.8B",
+                "sector_industry": "Consumer Cyclical / Leisure",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 78.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "8M",
+                "recent_dividend": "$1.50 quarterly"
+            },
+            "impact_theory": "Cruise leader benefits most from risk-on, record bookings. Oil drop positive. Psychology: Leader effect. Parallel: Post-9/11 travel recovery. Analogies: Captain steering into favorable winds, fleet gaining speed.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Premarket +7.84%, strong fundamentals amid sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8-12% to $180.",
+                "short_position": "Not recommended.",
+                "key_risks": "Macro slowdown in discretionary."
+            },
+            "confidence_rating": "A",
+            "justification": "Largest cap, dividend hike, consistent outperformer."
+        }
+    ]
+}
