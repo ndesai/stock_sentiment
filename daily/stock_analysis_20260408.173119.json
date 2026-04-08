@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.2,
+                "market_cap": "$3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.5,
+                    "low": 75.4
+                },
+                "pe_ratio": 65.2,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly (ex-date Mar 2026)"
+            },
+            "impact_theory": "UBS HOLT valuation model pegs NVDA at $22T, far above current $3.3T, driven by AI demand surge. Economic implications: accelerates AI capex across tech, boosting GDP via productivity gains. Market psychology: FOMO buying as analysts validate growth narrative. Historical parallels: Cisco in dotcom era, but NVDA has real earnings moat. Analogies: 1) Oil during industrial revolution fueling engines; 2) Internet routers in 90s enabling web boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X posts highlight UBS $22T call, strong sentiment with high engagement. Web news shows AI strength in premarket. Sentiment shift from recent dips to explosive upside potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls or shares targeting 10-15% gains in 1-2 weeks on valuation momentum.",
+                "short_position": "Avoid; high short squeeze risk.",
+                "key_risks": "Overvaluation bubble burst, AI hype fade, regulatory scrutiny on chips."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong analyst upgrade, viral X buzz, historical AI leadership."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 348.5,
+                "market_cap": "$1.1T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 380.2,
+                    "low": 210.0
+                },
+                "pe_ratio": 95.4,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "60+ Cybercabs spotted at Giga Texas, signaling robotaxi progress amid production ramp. Economic: Disrupts $10T mobility market, cuts transport costs 50%. Psychology: Bulls excited on FSD autonomy breakthrough. Parallels: iPhone unveil shifting mobile paradigm. Analogies: 1) Model T mass production revolutionizing autos; 2) Streaming killing cable TV.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Multiple X posts on Cybercab sightings (Sawyer Merritt 2K likes), options trading bullish. Contrasts global rally exclusion, positioning for catch-up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long shares or Apr calls for 7% upside on robotaxi hype.",
+                "short_position": "Short puts for premium if holds support at 325.",
+                "key_risks": "Regulatory delays on autonomy, production scaling issues, Elon distractions."
+            },
+            "confidence_rating": "B",
+            "justification": "Visual proof of progress, high engagement, but execution risks remain."
+        },
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 54.62,
+                "market_cap": "$600M",
+                "sector_industry": "Technology / Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 22.0
+                },
+                "pe_ratio": 45.1,
+                "volume": "5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top premarket gainer +20% on Yahoo Finance, likely earnings or supply chain news in semis. Implications: Benefits AI/5G indium phosphide demand. Psychology: Small cap momentum chase. Parallels: 2021 semi shortage runners. Analogies: 1) Rare earth miners in EV boom; 2) Chip testers post-shortage.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Web lists as top gainer April 8, volume spike indicates sentiment shift to momentum play."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing long for 20% gains riding small cap wave.",
+                "short_position": "Fade post-pump for -10% retrace.",
+                "key_risks": "Pump-dump volatility, no clear catalyst sustain."
+            },
+            "confidence_rating": "C",
+            "justification": "Gainer list but limited X buzz, speculative."
+        },
+        {
+            "details": {
+                "ticker": "HUT",
+                "full_name": "Hut 8 Corp.",
+                "current_price": 15.2,
+                "market_cap": "$1.5B",
+                "sector_industry": "Technology / Software - Infrastructure (Bitcoin mining)",
+                "high_low_52_week": {
+                    "high": 18.5,
+                    "low": 8.0
+                },
+                "pe_ratio": -12.3,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top gainer on Yahoo, crypto rebound lifts miners. Implications: BTC halving afterglow, energy deals. Psychology: Risk-on for alts. Parallels: 2021 BTC miners rally. Analogies: 1) Gold miners in bull market; 2) Solar stocks on green energy push.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Yahoo top gainers, ties to broader crypto sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on BTC correlation for 15% move.",
+                "short_position": "Short if BTC dumps.",
+                "key_risks": "Crypto volatility, energy costs spike."
+            },
+            "confidence_rating": "C",
+            "justification": "Gainer status but macro dependent."
+        },
+        {
+            "details": {
+                "ticker": "AMC",
+                "full_name": "AMC Entertainment Holdings, Inc.",
+                "current_price": 4.8,
+                "market_cap": "$1.4B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 3.2
+                },
+                "pe_ratio": -8.5,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "X post notes higher low + gap support, meme revival. Implications: Retail squeeze potential. Psychology: Apes return on chart setup. Parallels: 2021 squeeze. Analogies: 1) Lottery ticket frenzy; 2) Cult stock rallies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "X trader calls buy on technicals, paired with GME mentions, sentiment shift up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for squeeze play, 25% potential.",
+                "short_position": "High risk shorts burn.",
+                "key_risks": "Dilution, fading interest."
+            },
+            "confidence_rating": "B",
+            "justification": "Meme momentum building on X."
+        }
+    ]
+}
