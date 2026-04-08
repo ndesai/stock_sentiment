@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LPCN",
+                "full_name": "Lipocine Inc.",
+                "current_price": 2.05,
+                "market_cap": "$15M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 10.5,
+                    "low": 1.8
+                },
+                "pe_ratio": -4.2,
+                "volume": "12,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Lipocine announced topline results from Phase 3 trial of LPCN 1154 for postpartum depression on April 2, failing primary endpoint but showing safety and post-hoc efficacy in psychiatric subset. Economic implications: delays approval, increases cash burn risk for small biotech. Market psychology: panic selling on headline miss, 78% drop. Historical parallels: similar to Sage Therapeutics PPD misses leading to 50-80% drops. Analogies: like betting on a horse that stumbles at the finish line but has strong stamina; or a promising recipe ruined by one bad ingredient.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-20%",
+                "reasoning": "X sentiment mixed but mostly bearish on dilution fears despite cash backing; web news highlights trial failure overshadowing positives. Continued pressure from short interest 42%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip near cash value $3.4/share for rebound on insider buys, potential 50-100% gains if pipeline advances.",
+                "short_position": "Short rallies above $3, target $1.5, 20-30% downside on further funding needs.",
+                "key_risks": "Regulatory pivot success, dilution from capital raise, biotech volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalyst with X posts showing recovery talk but dominant bearish reaction."
+        },
+        {
+            "details": {
+                "ticker": "INO",
+                "full_name": "Inovio Pharmaceuticals, Inc.",
+                "current_price": 1.05,
+                "market_cap": "$140M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 0.9
+                },
+                "pe_ratio": -2.1,
+                "volume": "8,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "$17.5M public offering priced at $1.40/share announced, causing dilution fears amid class action lawsuits. Economic: Funds R&D but erodes EPS. Psychology: Penny stock dilution typical 20-50% drop. Parallels: INO past offerings led to multi-month lows. Analogies: Diluting shareholders like adding water to soup; or inviting more guests than seats at dinner.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15%",
+                "reasoning": "Web searches show offering pricing and lawsuits; X sentiment bearish on dilution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if holds $1 support for DNA med pipeline, 30% upside.",
+                "short_position": "Short to $0.80, 25% gains on overhang.",
+                "key_risks": "Lawsuit outcomes, offering completion, sector sentiment."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear dilution event with historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 148.5,
+                "market_cap": "$450B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 176.41,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "45,000,000",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "US-Iran ceasefire caused oil plunge 14-18% to $95, unwinding war premium; XOM Q1 production down 6% from conflict but higher prices boosted upstream. Implications: Lower oil caps earnings. Psychology: Risk-off unwind hits energy. Parallels: 2014-15 oil crash -20% sector drop. Analogies: Like deflating a balloon after hype; or tide going out after storm surge.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "X posts highlight production hits and ceasefire selling; web confirms energy plunge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long pullback to $140 for dividend yield, 10% upside if oil stabilizes.",
+                "short_position": "Short to $135 if oil <90, 8-10% gains.",
+                "key_risks": "Ceasefire breaks, oil rebound, Q1 earnings beat."
+            },
+            "confidence_rating": "A",
+            "justification": "Macro event with high volume reaction."
+        },
+        {
+            "details": {
+                "ticker": "LEVI",
+                "full_name": "Levi Strauss & Co.",
+                "current_price": 22.5,
+                "market_cap": "$9B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 25.0,
+                    "low": 12.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "15,000,000",
+                "recent_dividend": "$0.13 quarterly"
+            },
+            "impact_theory": "Q1 earnings beat: revenue +14% to $1.7B, DTC >50% sales, raised FY outlook despite tariffs. Implications: Strong consumer demand. Psychology: Relief rally in cyclicals amid market surge. Parallels: Post-COVID apparel rebounds. Analogies: Tailored fit in loose market; vintage jeans appreciating.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings beat, shares +12%; positive web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long breakout to $26, 15% gains on momentum.",
+                "short_position": "Avoid or small short on pullback, limited downside.",
+                "key_risks": "Tariff escalation, consumer slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings-driven, clean beat."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 245.0,
+                "market_cap": "$780B",
+                "sector_industry": "Consumer Cyclical/Auto",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 138.0
+                },
+                "pe_ratio": 65.4,
+                "volume": "120,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "JPMorgan bearish note: PT $120 (60% down) on demand weakness; amid market rally but EV sector lags. Implications: Valuation reset. Psychology: Analyst fear amid production pauses. Parallels: 2022 analyst cuts led to 50% drops. Analogies: Speeding car hitting speed bump; hype EV deflating.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "X dip buying fatigue; web JPM note prominent."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dips for robotaxi hype, 20% rebound.",
+                "short_position": "Short to $220, 10% gains on downgrades.",
+                "key_risks": "Elon announcements, delivery beats."
+            },
+            "confidence_rating": "C",
+            "justification": "Analyst note vs strong market."
+        }
+    ]
+}
