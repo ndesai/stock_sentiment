@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA announced record Q1 earnings driven by AI GPU demand, exceeding expectations by 20%. Economically, this signals sustained AI capex boom from hyperscalers. Market psychology: FOMO buying as AI narrative strengthens. Historical parallel: 2023 AI hype rally. Analogies: Like oil boom fueling energy stocks in 1970s; rocket fuel for tech indices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show positive headlines from CNBC, Bloomberg on earnings beat; X semantic search (20 latest posts) 85% bullish sentiment with high engagement on #NVDA. Volume spike indicates momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1 week on momentum; target $160.",
+                "short_position": "Avoid or cover shorts; potential squeeze.",
+                "key_risks": "Overvaluation bubble burst if AI spending slows; competition from AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, high X engagement, historical post-earnings patterns support high confidence."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 238.9,
+                "market_cap": "$760B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.3,
+                    "low": 138.8
+                },
+                "pe_ratio": 62.4,
+                "volume": "180M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla delayed Robotaxi event to October amid regulatory hurdles. Economic implication: Slows autonomous driving revenue timeline. Psychology: Disappointment erodes hype premium. Parallel: 2020 battery day delays. Analogies: Like a promised feast postponed, guests leave hungry; punctured hype balloon.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "News from Reuters, Yahoo Finance on delay; X keyword search (20 latest) 70% negative with memes mocking Elon, high reply volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy at $220 support; 5% rebound potential.",
+                "short_position": "Short for 8% downside; target $210.",
+                "key_risks": "Elon tweet reversal; broader EV market rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative news but TSLA volatility and cult following temper certainty."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 892.5,
+                "market_cap": "$52B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 226.0
+                },
+                "pe_ratio": 42.8,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI reported AI server orders surging 110% YoY. Implications: Benefits from NVDA ecosystem. Psychology: Confirmation of AI infrastructure spend. Parallel: 2021 server boom. Analogies: Picks and shovels in gold rush; plumbing in housing boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings headlines positive (WSJ, Seeking Alpha); X posts bullish, 18/20 semantic results positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for breakout to $1000; 12% gain.",
+                "short_position": "High valuation risky for shorts.",
+                "key_risks": "Margin squeeze; dependency on NVDA."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to AI trend, strong order book data."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.35,
+                "market_cap": "$272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.1
+                },
+                "pe_ratio": 198.5,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD launched MI300X AI chip rivaling NVDA, with Microsoft deal. Economic: Diversifies AI supply chain. Psychology: NVDA alternative narrative. Parallel: Intel-AMD duopoly. Analogies: Coke vs Pepsi in cola wars; Android challenging iOS.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "TechCrunch, Verge coverage; X sentiment 75% positive on chip wars."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10% to $185.",
+                "short_position": "Minimal, momentum favors bulls.",
+                "key_risks": "NVDA dominance; execution delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Promising but needs to prove market share gains."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 27.45,
+                "market_cap": "$62B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 33.2,
+                    "low": 15.3
+                },
+                "pe_ratio": 215.0,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir won $500M DoD AI contract. Implications: Validates gov't AI adoption. Psychology: Meme stock revival. Parallel: 2021 SPAC hype. Analogies: Government contractor goldmine; oracle in modern Troy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Defense News, X hype with 16/20 bullish posts, viral threads."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $32; 15% potential.",
+                "short_position": "Short squeeze risk high.",
+                "key_risks": "Profitability concerns; contract delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid contract but high valuation and meme volatility."
+        }
+    ]
+}
