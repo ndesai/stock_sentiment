@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 78.5,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly, yield 0.04%"
+            },
+            "impact_theory": "NVIDIA announced blowout Q1 earnings with 262% YoY revenue growth driven by AI data center demand. Economic implications include accelerated AI infrastructure spend boosting tech capex. Market psychology: FOMO buying amid AI hype. Historical parallel: Dot-com boom chip leaders like Cisco. Analogies: Like oil during shale revolution (supply can't keep up); rocket fuel for AI economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat expectations (EPS $6.12 vs $5.59 est), raised FY guidance. X sentiment highly positive (80% bullish posts), web news from CNBC/Bloomberg confirm AI dominance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1 week on momentum; target $160.",
+                "short_position": "Avoid or short above $165 if overbought RSI>80.",
+                "key_risks": "Valuation bubble burst, competition from AMD/Intel, supply chain disruptions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, uniform positive sentiment across news/X, historical post-earnings moves average +10%."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.45,
+                "market_cap": "$890B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.15,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "120M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Tesla delayed Robotaxi unveil to October, citing engineering hurdles; Q1 deliveries missed est. Implications: Slowed EV adoption narrative, capex strain. Psychology: Profit-taking after rally. Parallel: 2022 production hell. Analogies: Like Boeing 737 MAX delays eroding confidence; race car with engine trouble.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Delivery miss (387k vs 410k est), X mixed-negative (55% bearish), news highlights competition from BYD."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at $260 for rebound if China improves.",
+                "short_position": "Short for 7-10% downside; target $250.",
+                "key_risks": "Elon Musk tweet reversal, surprise FSD approval."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative catalyst but history of volatility tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.3,
+                "market_cap": "$3.75T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.08
+                },
+                "pe_ratio": 38.4,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly, yield 0.41%"
+            },
+            "impact_theory": "Apple reports services revenue +14% YoY offsetting iPhone weakness in China. Implications: Diversification reduces hardware risk. Psychology: Relief rally. Parallel: Post-2019 services pivot. Analogies: Like a tech farm diversifying crops; battleship with multiple turrets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Services beat drives growth narrative, positive analyst notes on Apple Intelligence, X sentiment improving."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5% grind up; target $260.",
+                "short_position": "Minimal, unless China tariffs escalate.",
+                "key_risks": "Regulatory antitrust fines, AI delay backlash."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but not explosive beat; sentiment shift moderate."
+        },
+        {
+            "details": {
+                "ticker": "GME",
+                "full_name": "GameStop Corp.",
+                "current_price": 28.75,
+                "market_cap": "$12.5B",
+                "sector_industry": "Consumer Cyclical / Specialty Retail",
+                "high_low_52_week": {
+                    "high": 64.83,
+                    "low": 9.95
+                },
+                "pe_ratio": -15.2,
+                "volume": "85M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Roaring Kitty (Keith Gill) posts cryptic video, sparking meme frenzy; short interest ~20%. Implications: Gamma squeeze potential. Psychology: Retail euphoria. Parallel: May 2024 squeeze. Analogies: Like a powder keg at a fireworks show; viral cat video crashing servers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-50%",
+                "reasoning": "X posts exploding (95% bullish), volume spike, historical precedent of 100%+ moves."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-risk long for 30%+ squeeze; quick exit.",
+                "short_position": "Dangerous due to squeeze risk.",
+                "key_risks": "Fade after hype, dilution, fundamentals poor."
+            },
+            "confidence_rating": "C",
+            "justification": "Meme-driven, unpredictable duration/intensity."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 42.1,
+                "market_cap": "$95B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 15.28
+                },
+                "pe_ratio": 210.5,
+                "volume": "55M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Palantir wins $1B DoD AI contract extension. Implications: Validates gov't AI platform. Psychology: Contract pipeline optimism. Parallel: 2021 commercial pivot. Analogies: Like landing a whale in fishing; moat widening in castle defense.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Major contract news, X hype on AI/gov't spending, analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 8-12% on contract momentum; target $47.",
+                "short_position": "Short if no follow-through.",
+                "key_risks": "High valuation, lumpy revenue, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete contract win with clear revenue visibility."
+        }
+    ]
+}
