@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 60.65,
+                "market_cap": "3.376B",
+                "sector_industry": "Technology/Semiconductor Equipment & Materials",
+                "high_low_52_week": {
+                    "high": 71.49,
+                    "low": 1.13
+                },
+                "pe_ratio": 0.0,
+                "volume": "8,625,065",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "US-Iran ceasefire announcement on April 8 led to broad market relief rally, boosting risk appetite for high-beta tech stocks. Semis like AXTI benefit from AI demand and lower inflation fears from falling oil. Market psychology: fear to greed shift. Historical parallel: 2022 post-Russia-Ukraine de-escalation rallies. Analogies: Releasing pressure from a pressure cooker; sunlight after storm clearing investor clouds.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "17% surge on earnings optimism ahead of Q1 report April 30, AI indium phosphide expansion, high volume, positive X mentions in rally context. Ceasefire amplifies momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains targeting 72 (52w high), high volume supports.",
+                "short_position": "Short risky, avoid; potential -5% pullback to 55.",
+                "key_risks": "Earnings miss, broader semi rotation, ceasefire breakdown spiking oil."
+            },
+            "confidence_rating": "A",
+            "justification": "High volume 2.7x avg, specific news + macro tailwind, strong X engagement."
+        },
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 158.9,
+                "market_cap": "44.616B",
+                "sector_industry": "Industrials/Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 180.9,
+                    "low": 15.15
+                },
+                "pe_ratio": 96.15,
+                "volume": "4,994,080",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ceasefire eases energy costs, boosts clean energy plays like fuel cells for AI data centers. Psychology: Shift to growth bets. Parallel: Post-2020 COVID vaccine rallies in renewables. Analogies: Wind filling sails of growth ship; fertilizer on growth crops.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "8%+ move on AI data center hype, Motley Fool buys, 1.6x volume, X lists in top movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +15% to 180 high.",
+                "short_position": "Short for -10% if rotation out.",
+                "key_risks": "High valuation, competition in fuel cells, macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent mentions in growth lists, volume surge, macro fit."
+        },
+        {
+            "details": {
+                "ticker": "AEHR",
+                "full_name": "Aehr Test Systems, Inc.",
+                "current_price": 67.64,
+                "market_cap": "2.102B",
+                "sector_industry": "Technology/Semiconductor Equipment & Materials",
+                "high_low_52_week": {
+                    "high": 70.26,
+                    "low": 6.58
+                },
+                "pe_ratio": 0.0,
+                "volume": "3,876,551",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rally lifts AI test equipment stocks, backlog surge despite weak quarter. Psychology: FOMO on AI theme. Parallel: 2023 AI boom post-ChatGPT. Analogies: Testing ground for rocket before launch; polishing diamond before sale.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "7%+ gain, all-time high on backlog, X photonics mention, 5x avg vol."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% to high.",
+                "short_position": "Avoid, momentum strong.",
+                "key_risks": "Earnings volatility, semi cycle peak."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news but higher vol stock."
+        },
+        {
+            "details": {
+                "ticker": "YSS",
+                "full_name": "York Space Systems, Inc.",
+                "current_price": 31.91,
+                "market_cap": "4.072B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 38.47,
+                    "low": 16.93
+                },
+                "pe_ratio": 0.0,
+                "volume": "1,296,448",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Risk-on favors space/defense on NASA contracts, PExT extension. Psychology: Adventure bets in bull. Parallel: SpaceX hype 2021. Analogies: Orbit boost from macro gravity; satellite launch window.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-14%",
+                "reasoning": "13%+ move, NASA backing, 2.9x vol, X in movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +20% to high.",
+                "short_position": "Short if gov cuts.",
+                "key_risks": "Geopolitical reversal, contract delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Contract news + rally synergy."
+        },
+        {
+            "details": {
+                "ticker": "HTZ",
+                "full_name": "Hertz Global Holdings, Inc.",
+                "current_price": 6.48,
+                "market_cap": "2.1B",
+                "sector_industry": "Industrials/Car Rental",
+                "high_low_52_week": {
+                    "high": 10.0,
+                    "low": 2.5
+                },
+                "pe_ratio": 0.0,
+                "volume": "6,605,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Lower oil from ceasefire boosts travel/rental demand. Psychology: Vacation mode on. Parallel: Post-COVID travel boom. Analogies: Cheaper gas filling rental cars; tailwind for road trip.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-10%",
+                "reasoning": "8% gain, 2.9x vol, X squeeze mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +15% squeeze potential.",
+                "short_position": "High short interest risk.",
+                "key_risks": "Debt load, EV fleet issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Volume high but company challenges."
+        }
+    ]
+}
