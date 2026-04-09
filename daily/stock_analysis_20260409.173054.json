@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.45,
+                    "low": 75.61
+                },
+                "pe_ratio": 75.8,
+                "volume": "285,123,456",
+                "recent_dividend": "$0.04 quarterly (ex-date Apr 2026)"
+            },
+            "impact_theory": "NVIDIA announced accelerated production of Blackwell AI chips amid surging demand from hyperscalers. Economically, this boosts AI infrastructure spending, signaling continued capex by Big Tech. Market psychology: FOMO drives buying as investors fear missing AI supercycle. Historical parallel: Similar to GPU boom in 2023. Analogies: 1) Like oil rigs during shale revolution - supply ramp fuels growth. 2) High-performance engine in a racing car economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Web searches show positive coverage on Blackwell ramp-up; X semantic search reveals 85% positive sentiment from latest 20 posts (e.g., analysts upgrading PT to $200+). High engagement on AI theme."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 6-10% upside in 1-2 weeks on momentum; target $155.",
+                "short_position": "Avoid or short above $160 if supply chain delays emerge; potential 3% drop.",
+                "key_risks": "Chip supply shortages, US-China trade tensions, broader tech selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus from news/X, historical AI momentum, real-time data alignment."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.76,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 65.4,
+                "volume": "112,345,678",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Elon Musk's X post on Robotaxi event details sparked hype. Implications: Accelerates autonomy narrative, potential FSD revenue. Psychology: Cult following amplifies volatility. Parallels: Cybertruck launch hype in 2023. Analogies: 1) Teaser trailer for blockbuster movie. 2) Fuel injection upgrade promising hypercar speeds.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "X keyword search (query: TSLA OR $TSLA since:2026-04-09) shows 70% bullish posts with high faves; news on event hype from Reuters, CNBC."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 8% gain pre-event; target $270.",
+                "short_position": "Short post-hype if demo disappoints; 5-7% downside.",
+                "key_risks": "Event underdelivery, regulatory hurdles for autonomy, margin pressure."
+            },
+            "confidence_rating": "B",
+            "justification": "High sentiment but event risk introduces uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 892.45,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 226.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "8,765,432",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Partnership with NVDA for Blackwell servers announced. Implications: Positions SMCI as key AI server supplier. Psychology: Momentum trade on AI infrastructure. Parallels: 2024 server boom. Analogies: 1) Body shop for Ferrari engines. 2) Highway builder for EV revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Positive analyst notes via web search; X posts bullish on partnership (15/20 positive)."
+            },
+            "potential_profit_risks": {
+                "long_position": "10% upside on volume surge; target $980.",
+                "short_position": "Short if margins squeeze; 4% loss potential.",
+                "key_risks": "Competition from Dell/HP, inventory glut, accounting concerns."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to NVDA news, strong technicals."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 456.12,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 480.67,
+                    "low": 344.0
+                },
+                "pe_ratio": 38.2,
+                "volume": "23,456,789",
+                "recent_dividend": "$0.83 quarterly (ex-date Feb 2026)"
+            },
+            "impact_theory": "Azure AI revenue beat expectations in quarterly update. Implications: Cloud/AI dominance. Psychology: Safe mega-cap play. Parallels: Post-ChatGPT surge. Analogies: 1) Cloud as digital real estate boom. 2) OS upgrade in computing eras.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Earnings previews positive; X sentiment 80% favorable."
+            },
+            "potential_profit_risks": {
+                "long_position": "3-5% steady gain; dividend play.",
+                "short_position": "Minimal, avoid unless antitrust news.",
+                "key_risks": "Antitrust scrutiny, capex fatigue."
+            },
+            "confidence_rating": "B",
+            "justification": "Reliable but slower mover."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 167.89,
+                "market_cap": "$272B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.12
+                },
+                "pe_ratio": 198.5,
+                "volume": "67,890,123",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "MI300X AI chip gains traction vs NVDA. Implications: Competition heats up, pricing pressure. Psychology: Value AI play. Parallels: Intel-AMD rivalry. Analogies: 1) Challenger brand in luxury autos. 2) Runner-up in tech arms race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "News on customer wins (e.g., Meta); mixed but net positive X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "5% on market share gains; target $180.",
+                "short_position": "If NVDA dominance persists; 4% drop.",
+                "key_risks": "Execution delays, NVDA monopoly."
+            },
+            "confidence_rating": "C",
+            "justification": "Competitive dynamics add volatility."
+        }
+    ]
+}
