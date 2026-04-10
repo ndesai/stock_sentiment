@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "EOSE",
+                "full_name": "Eos Energy Enterprises, Inc.",
+                "current_price": 5.95,
+                "market_cap": "$1.2B",
+                "sector_industry": "Industrials / Battery Energy Storage",
+                "high_low_52_week": {
+                    "high": 10.15,
+                    "low": 1.2
+                },
+                "pe_ratio": -4.8,
+                "volume": "71M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Preliminary Q1 2026 revenue guidance of $56-57M far exceeded expectations due to record shipments and manufacturing output expansion. Economically, this signals robust demand for zinc-based battery storage amid global renewable energy transition and grid stability needs. Market psychology: FOMO buying as retail piles in on growth narrative, amplified by X sentiment hype. Historical parallels: Similar to Enphase Energy's 2020 surge on solar boom. Analogies: 1. Like a dam bursting with pent-up energy demand. 2. Rocket booster igniting after long countdown.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Strong prelim revenue beat (433% YoY implied growth), X posts bullish on shipments, web news highlights capacity expansion; sentiment shift from skepticism to optimism (min_faves high on positive posts)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 20% gains in 1-2 weeks on momentum.",
+                "short_position": "Avoid; momentum too strong.",
+                "key_risks": "High losses historically ($970M net loss), production delays, dilution risk."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct company news with quantifiable revenue beat, confirmed across web/X, high volume supports."
+        },
+        {
+            "details": {
+                "ticker": "NIO",
+                "full_name": "NIO Inc.",
+                "current_price": 6.07,
+                "market_cap": "$13.5B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers - EV",
+                "high_low_52_week": {
+                    "high": 9.5,
+                    "low": 3.8
+                },
+                "pe_ratio": -2.1,
+                "volume": "41M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Launched new ES9 luxury SUV after $9.5B investment, but stock erased gains amid China macro concerns (economic ceasefire fragility) and profit-taking post-19% surge. Implications: Highlights EV price wars, delivery growth vs profitability woes. Psychology: Disappointment despite product hype. Parallels: Tesla post-Cybertruck reveal dips. Analogies: 1. Fireworks fizzle in rain (China economy). 2. High jumper clearing bar but stumbling on landing.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Post-launch selloff despite positive product buzz; X mixed with profit-taking notes, web cites market uptick but NIO down 4.86%; broader EV sentiment cautious."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for rebound if deliveries strong, +10%.",
+                "short_position": "Short for 8% downside on macro risks.",
+                "key_risks": "Unexpected delivery beats, China stimulus."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price action post-event, but macro noise reduces certainty."
+        },
+        {
+            "details": {
+                "ticker": "TSAT",
+                "full_name": "Telesat Corporation",
+                "current_price": 44.67,
+                "market_cap": "$600M",
+                "sector_industry": "Communication Services / Satellite Communications",
+                "high_low_52_week": {
+                    "high": 44.67,
+                    "low": 10.5
+                },
+                "pe_ratio": -1.2,
+                "volume": "2M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Hit new 52-week high but Portnoy Law Firm launched investigation (potential class action), signaling governance/execution issues. Implications: Satellite sector volatility amid LEO competition (Starlink). Psychology: Profit-taking at highs. Parallels: 2021 SPAC unwind phase. Analogies: 1. Satellite wobbling in orbit. 2. Climber reaching summit but rope fraying.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-15%",
+                "reasoning": "Investigation news overshadows new high; limited X buzz, web focuses on legal risks post-Q4 loss decline."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid near-term.",
+                "short_position": "Short for 12% drop on probe escalation.",
+                "key_risks": "Investigation dismissed, Lightspeed network ramp-up."
+            },
+            "confidence_rating": "B",
+            "justification": "Legal probe concrete but outcome uncertain."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 72.5,
+                "market_cap": "$63B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 46.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "15M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Premarket gainer +3.38% amid semis rotation; broader AI chip demand. Implications: Economic soft landing boosts capex. Psychology: Risk-on shift. Parallels: NVDA 2023 run-up. Analogies: 1. Wave rider catching semis tide. 2. Engine revving pre-race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Premarket leader in Benzinga scan; sector rotation from megacaps."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% upside.",
+                "short_position": "Minimal.",
+                "key_risks": "AI hype fade, tariff risks."
+            },
+            "confidence_rating": "C",
+            "justification": "Premarket only, less news depth."
+        },
+        {
+            "details": {
+                "ticker": "LI",
+                "full_name": "Li Auto Inc.",
+                "current_price": 28.2,
+                "market_cap": "$30B",
+                "sector_industry": "Consumer Cyclical / Auto - EV",
+                "high_low_52_week": {
+                    "high": 47.3,
+                    "low": 22.5
+                },
+                "pe_ratio": 15.8,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Premarket +3.23%, EV rotation despite China woes. Implications: Hybrid EV strength. Psychology: Value play vs pure EV. Parallels: BYD resilience. Analogies: 1. Hybrid bridge in EV winter. 2. Steady ship in stormy seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Premarket gainer, benefits from NIO weakness spillover avoidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +7%.",
+                "short_position": "Avoid.",
+                "key_risks": "China policy shifts."
+            },
+            "confidence_rating": "C",
+            "justification": "Premarket signal, moderate sentiment."
+        }
+    ]
+}
