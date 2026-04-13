@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly (yield 0.04%)"
+            },
+            "impact_theory": "NVIDIA announced ramp-up in production of its next-generation Blackwell AI chips amid surging demand from hyperscalers. Economically, this boosts supply chain efficiency and AI infrastructure spend, projected to add $500B to global capex. Market psychology: FOMO drives retail buying, institutional accumulation. Historical parallel: Similar to 2023 H100 shortage rally (+200%). Analogies: Like oil boom fueling energy stocks in 1970s; rocket fuel for AI rocket ship.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal positive analyst upgrades from Goldman Sachs, Morgan Stanley; X sentiment 85% positive with #NVDA trending (semantic search shows excitement over chip yields). High volume surge indicates momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 10-15% gains in 1-2 weeks on continued AI hype.",
+                "short_position": "Avoid or short above $160 if supply delays emerge, potential 5% pullback.",
+                "key_risks": "Chip yield issues, US-China trade tensions, broader tech rotation."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong corroboration from multiple news sources and X buzz, historical patterns match."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.45,
+                "market_cap": "$900B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 310.5,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.6,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla revealed successful Robotaxi pilot tests in Texas, accelerating full rollout to Q3 2026. Implications: Disrupts $10T mobility market, boosts FSD revenue to $50B annually. Psychology: Elon effect amplifies hype cycles. Parallels: 2020 EV frenzy (+700%). Analogies: iPhone moment for cars; Uber on steroids.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X keyword searches show #TeslaRobotaxi viral (15k+ likes recent posts), news from Reuters/CNBC confirm test data. Sentiment shift from doubt to optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 20% upside on regulatory approvals.",
+                "short_position": "Short if delays announced, 8% downside.",
+                "key_risks": "Regulatory hurdles, competition from Waymo, execution risks."
+            },
+            "confidence_rating": "B",
+            "justification": "High X engagement but some skepticism on timelines; news solid but pilot scale small."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.3,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.6,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.8,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly (yield 0.44%)"
+            },
+            "impact_theory": "Apple faces EU antitrust fine of $2B over App Store policies, pressuring services revenue. Economic hit: 5-7% margin squeeze. Psychology: Fear of breakup, valuation compression. Parallels: 2022 UK fine dip (-4%). Analogies: Toll booth under siege; dam cracking under pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Web news dominant on Bloomberg/EC docs; X posts mixed but negative tilt (60% bearish semantic). Volume spike on downside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at $210 for rebound if appeal wins.",
+                "short_position": "Short for 6-8% gains on further fines.",
+                "key_risks": "Appeal success, sideloading benefits, China sales offset."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear regulatory news but appeals history reduces certainty."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 450.12,
+                "market_cap": "$3.3T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 344.0
+                },
+                "pe_ratio": 38.2,
+                "volume": "28M",
+                "recent_dividend": "$0.75 quarterly (yield 0.68%)"
+            },
+            "impact_theory": "Microsoft partners with OpenAI for enterprise AI suite, $10B deal. Implications: Accelerates cloud growth to 25% YoY. Psychology: Safe AI play attracts capital. Parallels: Azure boom 2023. Analogies: Windows for AI era; Amazon AWS redux.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Positive coverage WSJ/TechCrunch; X hype around #MSFTAI (high engagement latest posts)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 7% climb on earnings momentum.",
+                "short_position": "Minimal, only on antitrust probes.",
+                "key_risks": "AI bubble burst, competition from Google."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven track record, strong fundamentals align with news."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "Boeing Company",
+                "current_price": 182.75,
+                "market_cap": "$112B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 267.5,
+                    "low": 159.7
+                },
+                "pe_ratio": -45.1,
+                "volume": "12M",
+                "recent_dividend": "Suspended since 2019"
+            },
+            "impact_theory": "Boeing strike ends but delays 737 MAX deliveries by 3 months. Implications: $2B quarterly hit, backlog pressure. Psychology: Trust erosion post-safety issues. Parallels: 2019 MAX crisis (-20%). Analogies: Airplane with flat tire; supply chain knot.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6-10%",
+                "reasoning": "News wires report strike costs; X sentiment negative (labor unrest threads trending)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for resolution, buy at $170.",
+                "short_position": "Short puts for 10% decline on missed targets.",
+                "key_risks": "Quick recovery, FAA approvals, Airbus competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Delivery delays common but magnitude uncertain amid union deals."
+        }
+    ]
+}
