@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 155.2,
+                "market_cap": "$430B",
+                "sector_industry": "Technology / Cloud Computing & Software",
+                "high_low_52_week": {
+                    "high": 170.5,
+                    "low": 110.2
+                },
+                "pe_ratio": 32.5,
+                "volume": "12.5M",
+                "recent_dividend": "$0.40 quarterly (yield 1.0%)"
+            },
+            "impact_theory": "Oracle announced new AI infrastructure capabilities on April 13, 2026, enhancing project review and audit trails amid surging demand for cloud AI services. Economically, this bolsters enterprise AI adoption, driving revenue growth in high-margin cloud segment. Market psychology: Renewed enthusiasm for AI plays lifts sentiment, FOMO among investors. Historical parallel: Similar to NVDA's 2023 rally on AI hype. Analogies: 1) Like adding nitro to a race car (AI boosts Oracle's cloud engine). 2) Wave of tech adoption akin to internet boom in 1990s for software giants.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X posts highlight +11% intraday move, AI infra surge with peers like CRWV, SNDK; web news confirms new capabilities announcement and AI enthusiasm driving rally. Sentiment shift strongly positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ORCL for 10-15% upside in 1-2 weeks on continued AI momentum; target $170.",
+                "short_position": "Avoid short, momentum too strong; potential 5% pullback if broader tech sells off.",
+                "key_risks": "Overvaluation in AI sector, competition from AWS/Azure, macroeconomic slowdown impacting IT spend."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple X confirmations of big move, specific news tie-in, aligns with sector trend."
+        },
+        {
+            "details": {
+                "ticker": "CDNS",
+                "full_name": "Cadence Design Systems, Inc.",
+                "current_price": 285.4,
+                "market_cap": "$78B",
+                "sector_industry": "Technology / Electronic Design Automation (EDA)",
+                "high_low_52_week": {
+                    "high": 325.0,
+                    "low": 245.0
+                },
+                "pe_ratio": 72.1,
+                "volume": "3.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cadence benefits from AI chip design boom, with X noting +8% move alongside semi tools peers. Economic implications: EDA essential for complex AI semiconductors, increasing demand. Psychology: Investors rotate into AI supply chain beyond hyperscalers. Historical: Synopsys (SNPS) rally post-ChatGPT. Analogies: 1) Picks and shovels in gold rush (EDA tools for AI chips). 2) Like compilers in software era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X sentiment groups CDNS with ORCL/SNDK in AI surge; broader chip design demand inferred from sector heat map."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gain targeting $310, riding AI tailwinds.",
+                "short_position": "Short if semi cycle peaks, potential 5% dip.",
+                "key_risks": "Chip demand slowdown, high PE vulnerability to rates rise, export restrictions."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation but less specific news on CDNS."
+        },
+        {
+            "details": {
+                "ticker": "FAST",
+                "full_name": "Fastenal Company",
+                "current_price": 64.5,
+                "market_cap": "$37B",
+                "sector_industry": "Industrials / Industrial Distribution",
+                "high_low_52_week": {
+                    "high": 82.0,
+                    "low": 59.0
+                },
+                "pe_ratio": 30.2,
+                "volume": "4.8M",
+                "recent_dividend": "$0.39 quarterly (yield 2.4%)"
+            },
+            "impact_theory": "Fastenal reported earnings with margin pressure despite in-line results, down 6% per X. Economic: Signals industrial slowdown, higher costs. Psychology: Risk-off in cyclicals. Historical: Similar to 2022 supply chain unwind. Analogies: 1) Cracks in economic foundation (margins reflect mfg weakness). 2) Like canary in coal mine for industrials.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "X posts cite earnings miss on margins, premarket weakness; drags industrials."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if oversold, +5% rebound.",
+                "short_position": "Short for 7-10% downside to $58, on econ worries.",
+                "key_risks": "Surprise mfg rebound, dividend support, broader market rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings reaction confirmed across X."
+        },
+        {
+            "details": {
+                "ticker": "PCG",
+                "full_name": "PG&E Corporation",
+                "current_price": 16.8,
+                "market_cap": "$52B",
+                "sector_industry": "Utilities / Electric Utilities",
+                "high_low_52_week": {
+                    "high": 19.2,
+                    "low": 14.5
+                },
+                "pe_ratio": 14.8,
+                "volume": "16M",
+                "recent_dividend": "$0.01 quarterly (yield 0.2%)"
+            },
+            "impact_theory": "PG&E down 6% amid utility sector weakness, possibly regulatory or wildfire risks. Economic: Higher rates hurt leveraged utilities. Psychology: Rotation out of defensives into growth. Historical: 2022 rate hike utility selloff. Analogies: 1) Heavy ship in choppy seas (debt sensitive to rates). 2) Bond proxy dumped for equities.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "X lists as top loser with EIX; sector heat map red."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for yield if rates peak, +6%.",
+                "short_position": "Short 5-8% to $15.50 on rate persistence.",
+                "key_risks": "Rate cuts, CA regulatory favor, defensive rotation back."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide move, less company-specific."
+        },
+        {
+            "details": {
+                "ticker": "GS",
+                "full_name": "The Goldman Sachs Group, Inc.",
+                "current_price": 475.0,
+                "market_cap": "$152B",
+                "sector_industry": "Financials / Investment Banking",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 390.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "2.7M",
+                "recent_dividend": "$2.75 quarterly (yield 2.3%)"
+            },
+            "impact_theory": "Goldman Sachs earnings beat but down 4.5% premarket on X, perhaps guidance or trading weakness. Economic: Signals dealmaking slowdown. Psychology: Banks underperform in low vol. Historical: 2023 Q4 bank earnings dip. Analogies: 1) Fee engine sputters in quiet markets. 2) Like oil rig idle in low demand.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-6%",
+                "reasoning": "X notes -4.5% on earnings, big cap negative mover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-earnings dip, +8% to $510.",
+                "short_position": "Short for 6% drop if recession fears.",
+                "key_risks": "M&A pickup, strong IB fees, buybacks."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings reaction clear but volatile."
+        }
+    ]
+}
