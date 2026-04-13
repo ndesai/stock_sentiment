@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 155.0,
+                "market_cap": "$670B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "16M",
+                "recent_dividend": "$1.03 quarterly ($4.12 annual)"
+            },
+            "impact_theory": "US President Trump orders naval blockade of Strait of Hormuz amid Iran tensions, causing oil prices to surge above $100/barrel. Economic implications: supply disruption risks deepening energy crisis, boosting US producers' revenues. Market psychology: fear of shortages drives energy buying frenzy despite broader market selloff. Historical parallels: 1979 oil crisis post-Iran revolution, 1990 Gulf War spikes. Analogies: like a dam bursting flooding downstream farms (oil glut reversal); squeezing a balloon where pressure shifts to US shale.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Oil futures up 7%+, X posts bullish on energy amid blockade news (e.g., premarket +2.7%), historical surges show majors gain 10%+ on supply shocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM, potential 10% gain in 1-2 weeks on sustained oil rally",
+                "short_position": "Avoid or short if de-escalation rumors emerge (-5%)",
+                "key_risks": "Quick ceasefire resolution, global recession curbing demand, OPEC+ flood response."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear causal event with immediate price reaction in oil/commodities, strong X sentiment, historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 190.0,
+                "market_cap": "$375B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 214.71,
+                    "low": 132.0
+                },
+                "pe_ratio": 15.0,
+                "volume": "11M",
+                "recent_dividend": "$1.71 quarterly"
+            },
+            "impact_theory": "Same Hormuz blockade event lifts oil prices sharply. Implications: higher refining margins, export boosts for US Gulf Coast ops. Psychology: safe-haven shift to supermajors. Parallels: 2019 drone attacks on Saudi Aramco. Analogies: tailwind for a sailing ship in storm; fertilizer boom for crops amid drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Premarket +2.3%, web news on oil surge, X mentions in movers lists."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX for 8% upside short-term",
+                "short_position": "Short on peak fear if oil pulls back (-4%)",
+                "key_risks": "Geopolitical de-escalation, higher costs from rerouting."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary of event, consistent with XOM."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla Inc.",
+                "current_price": 340.0,
+                "market_cap": "$1.1T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 95.0,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Dutch RDW approves Tesla FSD for all Netherlands roads, notifying EU for wider approval. Implications: accelerates Robotaxi/FSD adoption in Europe, revenue boost. Psychology: validation reduces regulatory fears. Parallels: 2020 China FSD progress rally. Analogies: green light for highway merger; unlocking a gated community.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "X buzz on FSD news (e.g., EU-wide push), test drive events, analyst targets up to $845."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long above $338 support, target $390 (15%)",
+                "short_position": "Short below $335 (-10% to $224)",
+                "key_risks": "Earnings miss, broader market selloff from oil shock."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive specific news amid volatile macro."
+        },
+        {
+            "details": {
+                "ticker": "AA",
+                "full_name": "Alcoa Corporation",
+                "current_price": 35.0,
+                "market_cap": "$6.5B",
+                "sector_industry": "Basic Materials / Aluminum",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 22.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "8M",
+                "recent_dividend": "$0.10 quarterly"
+            },
+            "impact_theory": "Zacks #1 strong buy addition, momentum from trendline bounce. Implications: industrial rebound. Psychology: rotation to value. Parallels: post-2020 COVID metal rallies. Analogies: coiled spring release; rising tide for boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "New strong buy list, momentum scans highlight."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to resistance",
+                "short_position": "Minimal, avoid",
+                "key_risks": "Commodity pullback, China demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum but less event-driven."
+        },
+        {
+            "details": {
+                "ticker": "FIVE",
+                "full_name": "Five Below Inc.",
+                "current_price": 140.0,
+                "market_cap": "$7.7B",
+                "sector_industry": "Consumer Cyclical / Specialty Retail",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Zacks #1 strong buy, best momentum stock lists. Implications: consumer resilience. Psychology: dip-buying frenzy. Parallels: retail rotations 2023. Analogies: trampoline bounce; snowball rolling downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Top momentum picks for April 13."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum play 8-12%",
+                "short_position": "Short on extension",
+                "key_risks": "Earnings reaction, consumer slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum-driven, moderate conviction."
+        }
+    ]
+}
