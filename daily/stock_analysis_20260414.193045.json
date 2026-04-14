@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 192.5,
+                "market_cap": "$4.2B",
+                "sector_industry": "Energy / Fuel Cells",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 8.0
+                },
+                "pe_ratio": -15.2,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bloom Energy announced an expanded partnership with Oracle to supply up to 2.8 GW of fuel-cell power for AI data centers, addressing critical power shortages for AI infrastructure amid surging demand. Economically, this validates solid oxide fuel cells as a reliable, scalable solution for on-site power, reducing grid dependency. Market psychology shifts to optimism on alt-energy plays in AI boom. Historical parallel: GE's power deals in 2010s. Analogies: Fueling AI like oil fueled industrial revolution; Bloom as 'batteries' for data centers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Deal catalyzes 14-20% surge; X sentiment positive on AI power theme; web news highlights Oracle's AI ramp-up needs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-30% gains on AI power momentum; target $230.",
+                "short_position": "Short if execution delays; potential 10% pullback.",
+                "key_risks": "Competition from solar/batteries, high capex, dilution."
+            },
+            "confidence_rating": "A",
+            "justification": "Major validated deal with hyperscaler, aligns with AI infrastructure megatrend."
+        },
+        {
+            "details": {
+                "ticker": "GSAT",
+                "full_name": "Globalstar, Inc.",
+                "current_price": 38.2,
+                "market_cap": "$7.5B",
+                "sector_industry": "Communication Services / Satellite",
+                "high_low_52_week": {
+                    "high": 40.0,
+                    "low": 1.2
+                },
+                "pe_ratio": 45.6,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Amazon agreed to acquire Globalstar for $11.6B to bolster Project Kuiper/Leo satellite network against Starlink. Implications: Accelerates Amazon's direct-to-device satcom, spectrum access. Psychology: Acquisition premium sparks M&A frenzy in space tech. Parallels: AT&T-Time Warner deal. Analogies: Amazon buying satellite 'highway' for cloud dominance; like Uber acquiring maps.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30-50%",
+                "reasoning": "Deal premium ~300%; X buzz on AMZN sat war; news confirms expansion."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to deal close ~$90/share, 100%+ upside.",
+                "short_position": "Avoid or short post-arbitrage.",
+                "key_risks": "Regulatory block, deal break."
+            },
+            "confidence_rating": "A",
+            "justification": "Definitive agreement announced, high certainty."
+        },
+        {
+            "details": {
+                "ticker": "TVTX",
+                "full_name": "Travere Therapeutics, Inc.",
+                "current_price": 42.0,
+                "market_cap": "$3.8B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 5.0
+                },
+                "pe_ratio": -12.8,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA granted full approval to Filspari (sparsentan) for FSGS, first-ever therapy for rare kidney disease. Implications: Orphan drug monopoly, peak sales $1B+. Psychology: Biotech rally on FDA win. Parallels: Spinraza approval. Analogies: Key to locked safe; lifeline for underserved patients.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+40-60%",
+                "reasoning": "43% surge; positive X/pharma news; removes accelerated approval risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 50%+ on sales ramp; target $65.",
+                "short_position": "Short on trial failures.",
+                "key_risks": "Safety issues, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "FDA approval solid, but commercial execution key."
+        },
+        {
+            "details": {
+                "ticker": "CRDO",
+                "full_name": "Credo Technology Group Holding Ltd",
+                "current_price": 160.0,
+                "market_cap": "$25B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 30.0
+                },
+                "pe_ratio": 85.4,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Credo to acquire DustPhotonics for $750M+ to enter silicon photonics for next-gen optical connectivity in AI. Implications: Faster, cheaper data transfer for DCs. Psychology: Optics M&A heats up. Parallels: Broadcom-VMware. Analogies: Photonics as 'fiber optic highways' for AI data.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "19% jump AH; X/tech news on AI optics demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 25% upside on integration; target $200.",
+                "short_position": "Short integration risks.",
+                "key_risks": "Overpay, tech integration."
+            },
+            "confidence_rating": "B",
+            "justification": "Strategic fit strong, but acquisition risks."
+        },
+        {
+            "details": {
+                "ticker": "AAL",
+                "full_name": "American Airlines Group, Inc.",
+                "current_price": 18.5,
+                "market_cap": "$12B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 10.0
+                },
+                "pe_ratio": 8.2,
+                "volume": "30M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "United CEO pitched merger with American to Trump admins, sparking consolidation talk amid overcapacity. Implications: Cost synergies, higher fares. Psychology: M&A premium hopes. Parallels: Delta-Northwest. Analogies: Airlines merging like telecom giants for scale.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "7% rise; X/airline buzz; regulatory shift under Trump."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for merger arb 15-25%; target $22.",
+                "short_position": "Short if antitrust block.",
+                "key_risks": "DOJ rejection, fuel costs."
+            },
+            "confidence_rating": "C",
+            "justification": "Speculative talks, no formal offer."
+        }
+    ]
+}
