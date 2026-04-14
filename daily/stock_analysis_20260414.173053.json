@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 193.19,
+                "market_cap": "$4.75T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.19,
+                    "low": 95.04
+                },
+                "pe_ratio": 75.2,
+                "volume": "54.5M",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Ongoing AI demand surge pushes NVDA past $190 amid tame PPI data and US-Iran de-escalation hopes easing oil fears. Economically, strengthens semis supply chain; psychologically, FOMO drives buying. Parallels 2023 ChatGPT boom. Analogies: like pouring gasoline on AI fire; a rising tide lifting all tech boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Positive news on AI, X sentiment high, web searches show rising for 10th day, market rally supportive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued AI hype.",
+                "short_position": "Short risky, potential 5% loss if breaks higher.",
+                "key_risks": "Overvaluation, competition from AMD, macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong momentum, consistent news flow, high volume."
+        },
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 25.8,
+                "market_cap": "$5.8B",
+                "sector_industry": "Industrials/Alternative Energy",
+                "high_low_52_week": {
+                    "high": 29.5,
+                    "low": 8.23
+                },
+                "pe_ratio": -45.1,
+                "volume": "12.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Oracle expands deal to 2.8GW fuel cells for AI data centers, up from 1.2GW deploying. Addresses power crunch for AI; psych: validates fuel cell tech. Parallels: GE-Oracle past deals. Analogies: power plug for AI explosion; bridge over energy shortage.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Major partnership announcement, stock +14%, positive X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% upside on AI power theme.",
+                "short_position": "Avoid, momentum strong.",
+                "key_risks": "Execution delays, competition, high valuation post-surge."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete deal news, ties to hot AI infra."
+        },
+        {
+            "details": {
+                "ticker": "REPL",
+                "full_name": "Replimune Group, Inc.",
+                "current_price": 1.52,
+                "market_cap": "$120M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.45,
+                    "low": 1.45
+                },
+                "pe_ratio": -1.8,
+                "volume": "28.7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Second FDA rejection (CRL) for RP1 melanoma drug due to insufficient data, sinks stock 57-64%. Erodes pipeline value; psych: loss of confidence. Parallels: other biotech FDA flops like Geron. Analogies: rug pull on investors; brick wall for approval hopes.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-50-60%",
+                "reasoning": "FDA setback news dominant, legal scrutiny, heavy selling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid, speculative rebound <5%.",
+                "short_position": "Short for further 20-30% downside.",
+                "key_risks": "Short squeeze, pipeline pivot success."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative catalyst, but biotech volatility."
+        },
+        {
+            "details": {
+                "ticker": "GSAT",
+                "full_name": "Globalstar, Inc.",
+                "current_price": 14.2,
+                "market_cap": "$2.7B",
+                "sector_industry": "Communication Services/Satellite",
+                "high_low_52_week": {
+                    "high": 16.8,
+                    "low": 9.1
+                },
+                "pe_ratio": -28.4,
+                "volume": "8.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Reports of Amazon acquiring/buying SpaceX rival Globalstar boosts satellite comm play. Enhances IoT/direct-to-cell; psych: M&A premium. Parallels: ASTS surges. Analogies: chess move in space race; golden ticket for satellite stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Acquisition rumors, ties to Amazon/SpaceX rivalry."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-25% on deal confirmation.",
+                "short_position": "Risky if rumor true.",
+                "key_risks": "Deal falls through, regulatory hurdles."
+            },
+            "confidence_rating": "B",
+            "justification": "Rumor-based, needs confirmation."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 218.5,
+                "market_cap": "$620B",
+                "sector_industry": "Financials/Banks",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 180.45
+                },
+                "pe_ratio": 12.8,
+                "volume": "9.2M",
+                "recent_dividend": "$1.25 quarterly"
+            },
+            "impact_theory": "Q1 earnings release amid bank earnings season, market up on PPI. Shows resilience; psych: sector rotation. Parallels: post-2023 SVB strength. Analogies: anchor in stormy seas; bellwether for finance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Earnings beat expectations, positive market backdrop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% steady gains.",
+                "short_position": "Limited downside.",
+                "key_risks": "Rising rates hurt NIM, recession fears."
+            },
+            "confidence_rating": "A",
+            "justification": "Major bank, reliable earnings reaction."
+        }
+    ]
+}
