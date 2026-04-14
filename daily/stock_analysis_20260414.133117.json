@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 25.5,
+                "market_cap": "5.7B",
+                "sector_industry": "Industrials / Fuel Cell Technology",
+                "high_low_52_week": {
+                    "high": 30.2,
+                    "low": 15.1
+                },
+                "pe_ratio": -18.5,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Expanded partnership with Oracle to deploy up to 2.8GW of fuel cells for AI data centers, with 1.2GW already contracted. Economic implications: Addresses exploding AI power needs amid grid constraints, positioning BE as key supplier in data center buildout. Market psychology: Reinforces belief in AI infrastructure bottleneck, sparking FOMO among investors. Historical parallels: Similar to GE's turbine deals in natural gas boom of 2000s. Analogies: 1) Selling picks and shovels in the AI gold rush; 2) Fueling the rocket ship of hyperscale AI expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Stock surged 14-15% on announcement per multiple sources (Barrons, CNBC, Investors.com). X sentiment highly positive with mentions in watchlists alongside ORCL. Validates BE's tech for reliable, on-site power, critical for AI amid energy shortages."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 20-30% upside on further AI deals; target $32+ in weeks.",
+                "short_position": "Avoid; momentum strong.",
+                "key_risks": "Deal execution delays, competition from batteries/solar, high valuation on losses."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete deal news with major partner (Oracle), direct tie to AI megatrend, immediate price reaction confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "AAL",
+                "full_name": "American Airlines Group Inc.",
+                "current_price": 15.2,
+                "market_cap": "10.1B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 20.5,
+                    "low": 10.8
+                },
+                "pe_ratio": 8.2,
+                "volume": "45M",
+                "recent_dividend": "0.13 (Q1 2026)"
+            },
+            "impact_theory": "United CEO Scott Kirby pitched mega-merger with AAL to Trump officials, sparking speculation. Economic: Consolidation could cut capacity, boost pricing power amid fuel volatility. Psych: Optimism on deregulation under Trump admin. Parallels: Delta-Northwest merger 2008 post-fuel spike. Analogies: 1) Two puzzle pieces fitting for efficiency; 2) Airlines merging like telecoms in 90s to combat commoditization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Shares up 5-7% premarket (Reuters, Barrons). X posts highlight rise on merger talks. Reduces competition, potential synergies despite regulatory hurdles."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% gains if talks advance; target $18.",
+                "short_position": "Short if DOJ blocks; 10% downside.",
+                "key_risks": "Antitrust rejection, rising fuel from geopolitics, weak demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Rumor-driven but credible source (CEO to officials), airline sector sensitive to M&A news."
+        },
+        {
+            "details": {
+                "ticker": "GS",
+                "full_name": "The Goldman Sachs Group, Inc.",
+                "current_price": 495.2,
+                "market_cap": "160B",
+                "sector_industry": "Financials / Investment Banking",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "2.8M",
+                "recent_dividend": "2.75 (Mar 2026)"
+            },
+            "impact_theory": "Q1 earnings beat: EPS $17.55 vs $15.92 exp, rev $17.23B up 14% on record equities trading. Economic: Strong IB/dealmaking signals recovery. Psych: Eases recession fears. Parallels: 2021 trading boom. Analogies: 1) Bank as market's heartbeat; 2) Trading desk as casino winning big.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Beat estimates (CNBC, WSJ), profit +19%. Mixed stock reaction but positive overall; X mentions in movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/buy dips for 10% to highs.",
+                "short_position": "Minimal; strong fundamentals.",
+                "key_risks": "Macro slowdown hits IB fees, regulatory scrutiny."
+            },
+            "confidence_rating": "A",
+            "justification": "Hard numbers beat, start of earnings season sets positive tone."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 218.5,
+                "market_cap": "620B",
+                "sector_industry": "Financials / Diversified Banks",
+                "high_low_52_week": {
+                    "high": 240.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "8.5M",
+                "recent_dividend": "1.40 (Q1 2026)"
+            },
+            "impact_theory": "Q1 record trading rev $11.6B from Iran volatility, profit $16.5B. Economic: Banks thriving on volatility. Psych: Confidence in resilience. Parallels: Post-2008 trading surges. Analogies: 1) Safe harbor in stormy markets; 2) Volatility as bank's windfall.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Record results (X posts KobeissiLetter 1.3k likes), up 2.5% premarket. Ties to recent geo-events."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12% upside; sector leader.",
+                "short_position": "Avoid.",
+                "key_risks": "Rate cuts squeeze NII, credit losses rise."
+            },
+            "confidence_rating": "A",
+            "justification": "Blowout earnings with viral X buzz."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 158.3,
+                "market_cap": "630B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 176.0,
+                    "low": 101.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "18M",
+                "recent_dividend": "0.99 (Feb 2026)"
+            },
+            "impact_theory": "Oil prices pull back on US-Iran ceasefire hopes, energy stocks consolidate. Economic: Lower input costs aid consumers but hurt producers. Psych: Risk-off from geo de-escalation. Parallels: 2019 Iran tensions fade. Analogies: 1) Oil as geopolitical barometer deflating; 2) Energy sector post-storm calm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Global rebound but energy down (STL.News, Yahoo). Ceasefire reduces supply fears; X quiet on XOM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip if oil stabilizes; 10% rebound.",
+                "short_position": "Short for 8% to $145.",
+                "key_risks": "Unexpected escalation spikes oil, demand surge."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide move tied to macro news, but oil volatile."
+        }
+    ]
+}
