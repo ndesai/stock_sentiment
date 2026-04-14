@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 125.3,
+                "market_cap": "$28.5B",
+                "sector_industry": "Energy / Fuel Cell Technology",
+                "high_low_52_week": {
+                    "high": 140.5,
+                    "low": 65.2
+                },
+                "pe_ratio": 52.4,
+                "volume": "15.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Expanded partnership with Oracle for up to 2.8GW fuel cell power for AI data centers addresses critical power constraints in AI infrastructure buildout. Economically, it signals surging demand for reliable, on-site energy amid grid limitations, boosting revenue visibility for Bloom. Market psychology: Fuels hype around AI enablers beyond chips. Historical parallel: Similar to natural gas turbine deals during cloud boom. Analogies: Like charging stations for EVs or solar farms for renewables boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Deal expansion validates Bloom's tech for hyperscale AI needs; X sentiment overwhelmingly positive with upgrades (RBC PT $143, Evercore $179); web news highlights 14-30% intraday surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could yield 20-30% gains on continued AI power narrative; target $150+.",
+                "short_position": "Shorts risky amid momentum; potential 5-10% losses if hype sustains.",
+                "key_risks": "Execution delays, competition from other power solutions, Oracle warrant dilution."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalyst, analyst upgrades, high X engagement, clear AI tailwind."
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 168.75,
+                "market_cap": "$465B",
+                "sector_industry": "Technology / Software & Cloud",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 110.5
+                },
+                "pe_ratio": 38.2,
+                "volume": "12.8M",
+                "recent_dividend": "$0.40 quarterly (yield 0.95%)"
+            },
+            "impact_theory": "Oracle's commitment to 2.8GW from Bloom secures power for AI data centers, accelerating $50B infra spend. Implications: Positions Oracle as AI cloud leader; eases energy bottleneck. Psychology: Validates aggressive capex. Parallels: AWS early cloud expansions. Analogies: Fueling a rocket (AI growth) with premium gas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Deal underscores AI momentum; stock +7-25% reaction; positive X buzz on partnership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% upside to $185 on AI strength.",
+                "short_position": "Avoid; momentum favors bulls.",
+                "key_risks": "Broader tech pullback, capex scrutiny if growth slows."
+            },
+            "confidence_rating": "A",
+            "justification": "Tied to mega-trend AI infrastructure; consistent positive coverage."
+        },
+        {
+            "details": {
+                "ticker": "RVMD",
+                "full_name": "Revolution Medicines, Inc.",
+                "current_price": 136.3,
+                "market_cap": "$8.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 45.0
+                },
+                "pe_ratio": -45.6,
+                "volume": "8.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Phase 3 trial success for daraxonrasib: 13.2mo survival vs 6.7mo chemo in pancreatic cancer, cutting death risk 60%. Economic: Blockbuster potential in hard-to-treat cancer. Psych: Biotech breakout rally. Parallels: Keytruda approvals. Analogies: Home run in oncology desert.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30-50%",
+                "reasoning": "Unprecedented data drives +41% surge; analysts hike PTs (Evercore $200); strong X hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 40%+ gains; FDA filing soon.",
+                "short_position": "High short risk post-data.",
+                "key_risks": "Regulatory delays, trial follow-up data."
+            },
+            "confidence_rating": "A",
+            "justification": "Phase 3 win rare in pancreatic cancer; massive sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "GS",
+                "full_name": "The Goldman Sachs Group, Inc.",
+                "current_price": 512.4,
+                "market_cap": "$165B",
+                "sector_industry": "Financials / Investment Banking",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 15.8,
+                "volume": "3.2M",
+                "recent_dividend": "$2.75 quarterly (yield 2.1%)"
+            },
+            "impact_theory": "Q1 earnings beat: $17.55 EPS vs $16.49 exp, rev $17.23B on record trading/banking. But stock tumbles on fwd guidance concerns amid volatility. Econ: Strong markets div. Psych: Sell-the-news. Parallels: 2022 volatility beats. Analogies: Feast then famine in trading.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Beat but post-earnings drop; mixed X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 5% rebound.",
+                "short_position": "Short for 5-8% downside if banks weaken.",
+                "key_risks": "Geopolitical escalation hurts trading."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat offset by reaction; watch JPM."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 215.6,
+                "market_cap": "$620B",
+                "sector_industry": "Financials / Diversified Banks",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 12.9,
+                "volume": "9.1M",
+                "recent_dividend": "$1.25 quarterly (yield 2.3%)"
+            },
+            "impact_theory": "Q1 net income $16.5B, EPS $5.94 vs $5.50 exp on trading surge. Implications: Resilient consumer/banking in volatile env. Psych: Banks lead earnings. Parallels: Post-2020 recovery. Analogies: Anchor in stormy markets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Strong beat; positive bank sector momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% on earnings season.",
+                "short_position": "Limited downside.",
+                "key_risks": "Credit risks from geopolitics."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid results; sector context key."
+        }
+    ]
+}
