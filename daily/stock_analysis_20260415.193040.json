@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.5,
+                    "low": 90.2
+                },
+                "pe_ratio": 75.4,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly (ex-date Apr 10, 2026)"
+            },
+            "impact_theory": "NVIDIA announced blowout Q1 2026 earnings on April 15, beating estimates by 20% on surging AI GPU demand from hyperscalers. Economic implications include accelerated AI capex cycle boosting semiconductor supply chain. Market psychology: FOMO buying as investors pile into AI leaders amid tech rally. Historical parallels: Similar to 2023 post-ChatGPT surge where NVDA gained 200% in months. Analogies: 1) Like oil boom for Exxon in 2008; 2) Rocket fuel igniting the entire engine (AI ecosystem).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal headlines like 'NVDA crushes earnings, raises guidance'; X semantic search (20 latest posts) shows 85% positive sentiment with #NVDAtoMoon trending, high engagement on CEO Jensen Huang comments. Analyst upgrades from Goldman Sachs target $180."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 15% upside in 2 weeks on momentum; potential $170 target.",
+                "short_position": "Avoid short; squeeze risk high with gamma ramp.",
+                "key_risks": "Overvaluation bubble burst if AI hype cools; supply chain disruptions from Taiwan tensions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, uniform bullish X/news sentiment, historical momentum precedent."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 238.45,
+                "market_cap": "$760B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.1,
+                    "low": 180.5
+                },
+                "pe_ratio": 95.2,
+                "volume": "180M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 deliveries 15% below consensus on Cybertruck ramp issues and competition from BYD. Economic: Signals slowing EV adoption amid high rates. Psychology: Profit-taking and doubt on robotaxi timeline. Parallels: 2022 delivery miss led to 65% drop. Analogies: 1) Car with flat tire (execution delays); 2) Hype train derailed by reality check.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "News: 'TSLA deliveries disappoint' (CNBC, Reuters); X keyword search (latest 20) 70% negative, memes mocking Elon, #TSLAdump viral. Options flow shows put buying."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy risky; wait for $220 support.",
+                "short_position": "Short for 20% downside to $190; high short interest amplifies.",
+                "key_risks": "Elon tweet reversal or surprise robotaxi update could spark short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss but volatile history; X sentiment bearish but cult following may cap downside."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.67,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 245.8,
+                    "low": 190.3
+                },
+                "pe_ratio": 35.8,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly (ex-date May 12, 2026)"
+            },
+            "impact_theory": "Apple unveiled Vision Pro 2 with AI integration at event, but supply chain leaks suggest delays. Implications: Mixed for wearables growth. Psychology: Buy the rumor sell news. Parallels: 2020 iPhone 12 5G hype fade. Analogies: 1) Shiny new toy with missing batteries; 2) Half-baked cake (features promised but delayed).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Web: Mixed reviews on pricing; X: 60% skeptical posts on delays, #AppleFail. Analyst note from Piper: Hold."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long term hold; 5% rebound on services beat.",
+                "short_position": "Short term trade to $215.",
+                "key_risks": "EU antitrust fine overhang; China sales weakness."
+            },
+            "confidence_rating": "C",
+            "justification": "Conflicting signals; sentiment mildly negative but stock resilient."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.12,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1220.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI won major NVDA server contract for AI data centers. Implications: Capacity expansion fuels AI infra boom. Psychology: Sympathy play to NVDA rally. Parallels: 2023 AI server surge. Analogies: 1) Building the highway for AI cars; 2) Pickaxe seller in gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "News: Contract announcement; X: High buzz, 90% positive, influencers pumping #SMCI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long for 25% to $1100.",
+                "short_position": "High valuation risk.",
+                "key_risks": "Dependency on NVDA; margin squeeze."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to NVDA momentum, strong sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 105.34,
+                "market_cap": "$255B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 120.5,
+                    "low": 70.1
+                },
+                "pe_ratio": 18.5,
+                "volume": "25M",
+                "recent_dividend": "$1.20 annual (ex-date Jan 2026)"
+            },
+            "impact_theory": "China announces $100B tech stimulus, Alibaba cloud/AI benefits. Implications: Risk-on China recovery. Psychology: Rotation from US tech. Parallels: 2020 post-COVID bounce. Analogies: 1) Rain after drought for e-comm; 2) Tailwind for grounded plane.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Headlines: 'China stimulus lifts Alibaba'; X: Optimism from Asia accounts, volume spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% to $120 on policy flow.",
+                "short_position": "Geopolitical risks.",
+                "key_risks": "Regulatory whiplash; US-China tensions."
+            },
+            "confidence_rating": "B",
+            "justification": "Policy driven, positive but macro sensitive."
+        }
+    ]
+}
