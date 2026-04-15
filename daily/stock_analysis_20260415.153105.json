@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "EOSE",
+                "full_name": "Eos Energy Enterprises, Inc.",
+                "current_price": 7.3,
+                "market_cap": "$1.5B",
+                "sector_industry": "Industrials / Battery Storage",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 3.5
+                },
+                "pe_ratio": -5.2,
+                "volume": "50M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Eos Energy surged 15% on news of a partnership with TURBINE-X Energy for AI data center power systems, highlighting growing demand for long-duration zinc battery storage amid AI's energy-intensive growth. Economically, this supports grid stability and renewable integration, reducing reliance on fossil fuels. Market psychology shifts bullish as it validates EOSE's tech in booming AI sector. Historical parallel: Similar to Enphase's surge post-solar boom partnerships in 2020. Analogies: Like supplying oil to EVs (essential enabler), or building highways for autonomous cars (infrastructure for AI power needs).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Strong partnership news amid AI energy hype; X sentiment positive on growth potential; web searches confirm surge on prelim revenue beats and backlog growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% gains on AI tailwinds; target $8.50.",
+                "short_position": "Short risky; potential 5-10% pullback if execution falters.",
+                "key_risks": "High burn rate, dilution history, competition from Tesla Megapack."
+            },
+            "confidence_rating": "B",
+            "justification": "High volume surge and timely AI news, but company history of volatility tempers to high confidence."
+        },
+        {
+            "details": {
+                "ticker": "SNAP",
+                "full_name": "Snap Inc.",
+                "current_price": 12.5,
+                "market_cap": "$21B",
+                "sector_industry": "Communication Services / Social Media",
+                "high_low_52_week": {
+                    "high": 18.0,
+                    "low": 8.0
+                },
+                "pe_ratio": -32.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Snap announced layoffs of 16% (~1000 jobs) to streamline ops amid AI advancements, boosting stock 8%. Econ impl: Cost cuts improve margins in ad market recovery. Psych: Investors reward efficiency in tech layoffs era. Parallels: Meta's 2022 layoffs sparked 50% rally. Analogies: Trimming fat from a bloated ship (efficiency), or upgrading engine while shedding weight (AI pivot).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Layoff news typical short-term boost; X posts highlight activist pressure relief; web confirms premarket gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% pop post-layoffs; target $14.",
+                "short_position": "Short if ad growth disappoints, -10%.",
+                "key_risks": "Weak ad revenue, competition from TikTok/Instagram."
+            },
+            "confidence_rating": "B",
+            "justification": "Pattern of layoff pops reliable, but SNAP's growth challenges limit to high."
+        },
+        {
+            "details": {
+                "ticker": "MS",
+                "full_name": "Morgan Stanley",
+                "current_price": 105.0,
+                "market_cap": "$170B",
+                "sector_industry": "Financials / Capital Markets",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "18M",
+                "recent_dividend": "$0.92 annualized"
+            },
+            "impact_theory": "MS Q1 earnings beat: EPS $3.43 vs $3.02 est, rev $20.6B vs $19.8B, driven by equities trading. Econ: Resilient markets despite geopolitics. Psych: Confirms bank strength. Parallels: 2021 earnings beats amid recovery. Analogies: Like a lighthouse in storm (stability), fueling rocket (trading boom).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Beat expectations significantly; X buzz positive; aligns with sector rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +5-7% on earnings momentum; target $112.",
+                "short_position": "Avoid; minimal downside.",
+                "key_risks": "Geopolitical escalation hits trading."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat with strong metrics; highest confidence."
+        },
+        {
+            "details": {
+                "ticker": "ASML",
+                "full_name": "ASML Holding N.V.",
+                "current_price": 950.0,
+                "market_cap": "$375B",
+                "sector_industry": "Technology / Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 800.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "6M",
+                "recent_dividend": "€6.40 annualized"
+            },
+            "impact_theory": "ASML Q1 beat: rev €8.8B vs est, raised FY guidance €36-40B, but Q2 soft. Econ: AI chip demand strong despite curbs. Psych: Guidance raise offsets caution. Parallels: 2023 post-China ban dip/recovery. Analogies: Bottleneck in AI highway (EUV monopoly), dam holding flood (supply constraints).",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Q1 beat but Q2 guidance miss; shares drop; X mixed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip for +10%; target $1050.",
+                "short_position": "Short +5% near-term; risks rebound.",
+                "key_risks": "Export restrictions, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat overshadowed by guidance; moderate confidence."
+        },
+        {
+            "details": {
+                "ticker": "BAC",
+                "full_name": "Bank of America Corporation",
+                "current_price": 42.5,
+                "market_cap": "$330B",
+                "sector_industry": "Financials / Banks",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "65M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "BAC Q1 profit beat, resilient economy per BofA. Econ: Consumer strength. Psych: Eases recession fears. Parallels: Post-2020 beats. Analogies: Anchor in volatility (diversified), engine of recovery (lending).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "Earnings beat; positive X; web confirms modest gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +4-6%; target $45.",
+                "short_position": "Limited; -3% if macro worsens.",
+                "key_risks": "Rates, loan losses."
+            },
+            "confidence_rating": "A",
+            "justification": "Solid beat aligns with sector; high confidence."
+        }
+    ]
+}
