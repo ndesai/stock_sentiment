@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 85.5
+                },
+                "pe_ratio": 72.5,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly, yield 0.03%"
+            },
+            "impact_theory": "NVIDIA announced the Rubin R100 GPU at their 2026 developer conference, promising 5x performance over Blackwell for AI training. Economically, this accelerates AI adoption across enterprises, increasing demand for data centers. Market psychology: FOMO drives retail and institutional buying, fearing missing the AI boom. Historical parallel: Similar to the A100 launch in 2020 which propelled NVDA up 800% in 2 years. Analogies: 1) Like upgrading from horse carriages to automobiles in compute power. 2) A new oil refinery for the data-hungry AI industry.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment overwhelmingly positive with #NVDA trending, web news from CNBC/Reuters highlight analyst upgrades to PT $200. High volume suggests sustained rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% gains in 1 week on momentum.",
+                "short_position": "Avoid or cover shorts quickly, potential squeeze.",
+                "key_risks": "Overvaluation bubble burst if AI hype cools; supply chain delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus from multiple sources, historical patterns repeat."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.4,
+                "market_cap": "$950B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 180.2
+                },
+                "pe_ratio": 95.2,
+                "volume": "180M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 2026 deliveries of 550k vehicles, beating estimates by 10% amid Robotaxi regulatory approval in California. Economic implications: Validates FSD tech, boosting EV market share to 25%. Psychology: Elon Musk tweets amplify hype, retail frenzy. Historical: 2020 battery day parallels. Analogies: 1) Self-driving as iPhone moment for cars. 2) Like Uber but owned by drivers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X posts bullish with memes, Bloomberg confirms approvals; sentiment shift from doubt to excitement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 12% upside on Robotaxi event.",
+                "short_position": "High risk, gamma squeeze likely.",
+                "key_risks": "Regulatory reversals; competition from BYD."
+            },
+            "confidence_rating": "B",
+            "justification": "Delivery beat solid but regulatory risks linger."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 228.9,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 245.0,
+                    "low": 195.3
+                },
+                "pe_ratio": 38.4,
+                "volume": "85M",
+                "recent_dividend": "$0.25 quarterly, yield 0.44%"
+            },
+            "impact_theory": "Apple's Vision Pro 2 sales disappoint at 200k units vs 500k expected, due to high price. Economic: Slows AR/VR growth projections. Psychology: Investors question innovation post-iPhone era. Historical: Like AirPower cancellation in 2018 causing dips. Analogies: 1) Luxury watch in smartwatch market. 2) Betamax in VHS era.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "WSJ reports weak demand, X sentiment negative with #AAPLdown."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy at $220.",
+                "short_position": "Short for 5-8% downside.",
+                "key_risks": "Surprise AI features in WWDC rebound."
+            },
+            "confidence_rating": "B",
+            "justification": "Sales data reliable but Apple history of comebacks."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 465.2,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 480.5,
+                    "low": 380.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "32M",
+                "recent_dividend": "$0.83 quarterly, yield 0.7%"
+            },
+            "impact_theory": "Microsoft Azure AI revenue up 60% YoY in Q2 preview, Copilot adoption surges. Economic: Enterprise AI spend boom. Psychology: Safe haven in Magnificent 7. Historical: Cloud pivot 2014. Analogies: 1) Windows for AI era. 2) Railroad for digital economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Analyst notes from Yahoo Finance, positive X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for steady 7% gain.",
+                "short_position": "Not recommended.",
+                "key_risks": "Antitrust probes intensify."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent growth metrics."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 1120.5,
+                "market_cap": "$65B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1300.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 55.8,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI partners with NVDA for Rubin servers, backlog $25B. Economic: Fuels AI infrastructure buildout. Psychology: Small cap riding AI wave. Historical: Like 2023 NVDA tie-up. Analogies: 1) Pickaxe sellers in gold rush. 2) Caterpillar in construction boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Press release, X hype from traders."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum trade 15% up.",
+                "short_position": "Volatile, high short interest.",
+                "key_risks": "Earnings miss, dependency on NVDA."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility, speculative."
+        }
+    ]
+}
