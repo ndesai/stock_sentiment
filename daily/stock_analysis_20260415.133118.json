@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TVTX",
+                "full_name": "Travere Therapeutics, Inc.",
+                "current_price": 42.13,
+                "market_cap": "$3.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 60.5,
+                    "low": 25.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA granted full approval to FILSPARI for FSGS, removing accelerated approval risks and expanding addressable market for rare kidney disease treatment. Economic: accelerates commercialization, boosts revenue projections. Psychology: relief rally post-regulatory hurdle. Historical: similar to Vertex's cystic fibrosis approvals (+40% spikes). Analogies: like a locked door finally opening to a treasure room; or a racehorse cleared from vet hold bursting ahead.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "FDA approval news drove 37% surge; X sentiment highly positive on breakthrough; web news confirms expanded label, partnerships like Ligand up too."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains on commercialization momentum",
+                "short_position": "Avoid short amid biotech euphoria",
+                "key_risks": "Competition, reimbursement delays, clinical data scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with strong volume and historical parallels; high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "KMX",
+                "full_name": "CarMax, Inc.",
+                "current_price": 41.66,
+                "market_cap": "$6.5B",
+                "sector_industry": "Consumer Cyclical / Auto Retail",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 22.3,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q4 earnings beat EPS ($0.34 vs $0.18) but revenue down 1% to $5.9B, margins sacrificed for volume via pricing cuts and subprime lending; paused buybacks. Economic: signals weak used car demand amid high rates. Psychology: disappointment on guidance. Historical: similar to 2022 auto retail slumps. Analogies: like slashing prices in a fire sale; captain dumping cargo to stay afloat.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Earnings reaction despite beat due to margin pressure; X mixed-negative on subprime risks; web highlights financing losses."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization +5%",
+                "short_position": "Short for +12% on macro weakness",
+                "key_risks": "Rate cuts boost demand, inventory normalization"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong beat but forward outlook cloudy; solid data."
+        },
+        {
+            "details": {
+                "ticker": "CRDO",
+                "full_name": "Credo Technology Group Holding Ltd",
+                "current_price": 159.52,
+                "market_cap": "$28B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 213.8,
+                    "low": 33.0
+                },
+                "pe_ratio": 85.4,
+                "volume": "16.9M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Analyst initiations/upgrades (Jefferies Buy $175, Needham $220) highlight AI connectivity demand disconnect. Economic: high growth in data center semis. Psychology: re-rating post-pullback. Historical: Nvidia peers in AI boom. Analogies: undervalued engine in a speeding AI train; overlooked gear shifting into high.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "18% surge on analyst love; X bullish on AI growth; web notes revenue doubling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +18% to targets",
+                "short_position": "High valuation risk",
+                "key_risks": "AI hype fade, competition from Broadcom"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple analyst positives, volume spike."
+        },
+        {
+            "details": {
+                "ticker": "JBLU",
+                "full_name": "JetBlue Airways Corporation",
+                "current_price": 7.85,
+                "market_cap": "$2.6B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 4.5
+                },
+                "pe_ratio": -3.2,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Oil plunge 8% on Mideast peace/US-Iran talks lowers fuel costs (30-40% expenses). Economic: margin expansion. Psychology: risk-off unwind. Historical: 2014-15 oil crash rallied airlines +50%. Analogies: lighter backpack for marathon runner; cheaper gas for road trip.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Sector tailwind from oil drop; X ties to energy sentiment; web confirms airline gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% on sustained low oil",
+                "short_position": "Geopolitical reversal",
+                "key_risks": "Fuel hedge unwind, demand weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro event, but volatile geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "FSLY",
+                "full_name": "Fastly, Inc.",
+                "current_price": 20.95,
+                "market_cap": "$2.8B",
+                "sector_industry": "Technology / Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 10.0
+                },
+                "pe_ratio": -15.8,
+                "volume": "7.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Profit-taking after YTD runup amid analyst valuation splits post-earnings; convertible notes maturity concerns. Economic: growth slowing to 7%. Psychology: overbought unwind. Historical: CDN peers post-hype. Analogies: balloon deflating after inflation; post-party hangover.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "14% drop on analyst caution; X neutral-mixed; web notes high valuation vs peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy +10% if support holds",
+                "short_position": "Short +8% on deceleration",
+                "key_risks": "Earnings beat, AI edge adoption"
+            },
+            "confidence_rating": "C",
+            "justification": "No clear catalyst, technical reaction."
+        }
+    ]
+}
