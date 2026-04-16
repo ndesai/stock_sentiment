@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 198.5,
+                "market_cap": "$4.8T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 75.2,
+                "volume": "450,000,000",
+                "recent_dividend": "$0.04"
+            },
+            "impact_theory": "NVIDIA continues its dominance in AI chips amid surging demand, highlighted by an 11-day winning streak and 21% April gains. MSFT's early data center launch with NVDA GB200s signals massive capex. Economic implications include accelerated AI infrastructure buildout boosting GDP via tech investment. Market psychology: FOMO drives buying as AI narrative strengthens. Historical parallels: Cisco during dot-com boom. Analogies: Like the gold rush fueling mining stocks; NVDA as the pickaxe seller.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Chip rally reinforced by TSM earnings beat on AI demand (web_search); X sentiment positive on streaks and MSFT news (x_semantic_search). Sentiment shift upward amid records."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains targeting $215 short-term on momentum.",
+                "short_position": "Short below $190 for 5% downside if rotation to value.",
+                "key_risks": "Valuation bubble burst, supply chain disruptions from geopolitics, competition from AMD/Intel."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI tailwinds, strong technicals, ecosystem lock-in."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 389.2,
+                "market_cap": "$1.2T",
+                "sector_industry": "Consumer Cyclical/Automobiles",
+                "high_low_52_week": {
+                    "high": 498.0,
+                    "low": 222.0
+                },
+                "pe_ratio": -45.0,
+                "volume": "32,400,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "UBS upgrade to Neutral from Sell, calling TSLA 'leader in physical AI' amid robotaxi hype. Shifts sentiment from EV slowdown to autonomy/AI play. Economic: Accelerates shift to AV economy, potential trillion$ TAM. Psychology: Elon Musk halo effect reignites bulls. Parallels: 2020 post-split rally. Analogies: Like Amazon's AWS pivot from retail; Tesla from cars to robots.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Upgrade news (web_search, X posts); bulls eyeing $400+ (x_keyword_search). Positive shift despite volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $420 (8% upside) on AI narrative.",
+                "short_position": "Short on delivery misses for 10% drop.",
+                "key_risks": "Regulatory hurdles for FSD, China competition, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Upgrade credible but execution risks remain."
+        },
+        {
+            "details": {
+                "ticker": "BIRD",
+                "full_name": "Allbirds, Inc.",
+                "current_price": 13.3,
+                "market_cap": "$400M",
+                "sector_industry": "Technology/AI (pivoting from Apparel)",
+                "high_low_52_week": {
+                    "high": 17.0,
+                    "low": 0.5
+                },
+                "pe_ratio": -2.5,
+                "volume": "50,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Dramatic pivot from shoes to AI infra with $50M financing for GPUs; stock +582% then -22%. Econ: Desperate diversification into hot AI GPUaaS. Psych: Meme frenzy then reality check on dilution/no expertise. Parallels: SPAC pivots like Lordstown. Analogies: Like a lemonade stand buying Bitcoin miners; high-risk hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-20%",
+                "reasoning": "Post-rally drop on skepticism (Cramer blast, web_search); X mixed but vol high. Sentiment shift from euphoria to doubt."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or scalp rebounds for 20% swings.",
+                "short_position": "Short for 25% downside to $10.",
+                "key_risks": "Further dilution, execution failure, regulatory scrutiny."
+            },
+            "confidence_rating": "C",
+            "justification": "Extreme volatility, unproven pivot."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 200.0,
+                "market_cap": "$1.0T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "15,000,000",
+                "recent_dividend": "$1.50"
+            },
+            "impact_theory": "Q1 earnings beat with 50% profit jump, raised guidance on AI insatiable demand, more capex. Validates supply chain strength. Econ: Foundry monopoly fuels AI boom. Psych: Confirms NVDA/others demand. Parallels: 2023 AI surge start. Analogies: Like Aramco in oil era; essential pipe for chips.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Earnings crush (web_search); X buzz on AI read-through. Major positive shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to $220 post-earnings.",
+                "short_position": "Minimal, only on Taiwan risks.",
+                "key_risks": "Geopolitics (China), capex overruns."
+            },
+            "confidence_rating": "A",
+            "justification": "Beat expectations, AI moat."
+        },
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 26.0,
+                "market_cap": "$6B",
+                "sector_industry": "Healthcare/Telemedicine",
+                "high_low_52_week": {
+                    "high": 30.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "8,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA reviewing peptides lifts restrictions, tailwind for weight loss/GLP offerings. Econ: Telehealth growth in wellness. Psych: Regulatory greenlight sparks optimism. Parallels: Ozempic boom for telemed. Analogies: Like Uber deregulation boost; unlocks product expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "FDA news drives gains (web_search); positive X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% to $28.5 on subscriber growth.",
+                "short_position": "Short if guidance weak.",
+                "key_risks": "FDA reversal, competition from Lilly."
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory positive but early."
+        }
+    ]
+}
