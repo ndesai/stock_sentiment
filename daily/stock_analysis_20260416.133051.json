@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 185.5,
+                "market_cap": "$950B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 205.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 32.5,
+                "volume": "18.2M",
+                "recent_dividend": "$0.54 (Q1 2026)"
+            },
+            "impact_theory": "TSMC reported Q1 2026 earnings with 58% profit surge and lifted Q2 revenue forecast due to insatiable AI chip demand. Economic implications include sustained AI boom despite Middle East tensions; market psychology shifts to optimism on tech resilience. Historical parallels: Similar to 2023 AI rally post-earnings. Analogies: Like a dam bursting with pent-up AI demand; rocket fuel for semis sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat expectations, confirmed AI demand strength amid global tensions easing; X sentiment positive on AI continuation, web news highlights revenue upgrade."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% gains in 1-2 weeks on AI momentum",
+                "short_position": "Avoid or short above $200 with -5% risk if guidance misses",
+                "key_risks": "Geopolitical tensions in Taiwan Strait, supply chain disruptions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, consistent AI demand narrative, high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 25.2,
+                "market_cap": "$5.6B",
+                "sector_industry": "Healthcare/Telehealth",
+                "high_low_52_week": {
+                    "high": 28.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "HIMS ripping higher on retail trader momentum and potential FDA reevaluation of peptides. Implications: Boost to telehealth growth; psychology of breakout fueling FOMO. Parallels: 2021 meme stock surges. Analogies: Wildfire spreading among retail; snowball rolling downhill.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "X posts highlight ripping action, retail sentiment strong; limited web news but volume spike indicates shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% on continued breakout",
+                "short_position": "Short on fade with -8% potential",
+                "key_risks": "Regulatory changes, overbought technicals."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong X sentiment but less concrete news."
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 90.5,
+                "market_cap": "$82B",
+                "sector_industry": "Financial Services/Capital Markets",
+                "high_low_52_week": {
+                    "high": 95.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "25.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SEC scraps PDT rule for day traders, shares surge 25%; implications: Increased retail trading volume; psychology of accessibility boost. Parallels: 2021 retail boom. Analogies: Removing chains from a caged tiger; floodgates opening for volume.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Major regulatory win confirmed in news, X breakout mentions; crypto rally adds tailwind."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $110 (+20%)",
+                "short_position": "Minimal, strong support at $85",
+                "key_risks": "Market reversal, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear regulatory catalyst, high conviction."
+        },
+        {
+            "details": {
+                "ticker": "BIRD",
+                "full_name": "Allbirds, Inc.",
+                "current_price": 17.2,
+                "market_cap": "$1.2B",
+                "sector_industry": "Consumer Cyclical/AI Infrastructure (pivoting)",
+                "high_low_52_week": {
+                    "high": 18.0,
+                    "low": 0.5
+                },
+                "pe_ratio": -10.5,
+                "volume": "150M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Allbirds surges 500%+ on pivot to AI compute infra, $50M financing, selling footwear assets. Implications: Meme-like rebrand frenzy; psychology of desperation pivot to hot sector. Parallels: 2021 SPAC pivots. Analogies: Caterpillar turning into butterfly overnight; phoenix from ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish (short-term)",
+                "estimated_price_impact_pct": "+20-30% or -50% volatility",
+                "reasoning": "Explosive news on AI pivot, web coverage heavy; X not specific but fits movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long +50% intraday swings",
+                "short_position": "Fade the hype for -40%",
+                "key_risks": "Execution risk on pivot, dilution."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility, speculative pivot."
+        },
+        {
+            "details": {
+                "ticker": "IONQ",
+                "full_name": "IonQ, Inc.",
+                "current_price": 43.8,
+                "market_cap": "$9.5B",
+                "sector_industry": "Technology/Quantum Computing",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 25.0
+                },
+                "pe_ratio": -25.0,
+                "volume": "22.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "IONQ up 20% on DARPA contract, quantum news amid NVIDIA/FDA buzz. Implications: Validation of quantum tech; psych shift to future tech bet. Parallels: Early AI stock surges. Analogies: Spark igniting quantum fire; tip of iceberg.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "News on defense contract, stock market coverage; X quantum mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +25% on sector rotation",
+                "short_position": "Short overbought -10%",
+                "key_risks": "Tech bubble burst, profitability delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive news but nascent sector."
+        }
+    ]
+}
