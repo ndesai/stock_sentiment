@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BIRD",
+                "full_name": "Allbirds, Inc.",
+                "current_price": 17.2,
+                "market_cap": "$280M",
+                "sector_industry": "Technology/AI Infrastructure (pivot from Apparel)",
+                "high_low_52_week": {
+                    "high": 18.5,
+                    "low": 2.8
+                },
+                "pe_ratio": -12.5,
+                "volume": "65.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Allbirds announced a radical pivot from sustainable footwear to AI infrastructure via rebranding to NewBird AI, selling shoe IP for $39M cash and raising $50M for GPU-as-a-Service. Economic implications: shifts from declining consumer discretionary to high-growth AI compute demand amid data center boom. Market psychology: triggers FOMO and meme stock frenzy, similar to GameStop 2021 or Bed Bath & Beyond pivots. Historical parallels: WeWork's failed tech pivot but positive like Zoom's video to enterprise. Analogies: Trading wool socks for silicon chips—like a blacksmith forging smartphones; or a milkman delivering EVs.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "X sentiment overwhelmingly positive with viral posts on the absurd pivot fueling retail frenzy (e.g., 500%+ surge already); web news highlights AI hype sustainability despite skepticism from Cramer. Short-term momentum strong, potential to double further on volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 30-50% gains on continued hype, target $25+; swing trade on volume.",
+                "short_position": "Short above $20 for -20% pullback on dilution fears, but high risk of squeeze.",
+                "key_risks": "Regulatory scrutiny on pivot legitimacy, massive dilution from fundraising, failure to execute AI ops leading to crash."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sentiment shift confirmed by X/web, but high volatility and unproven pivot warrant moderate confidence."
+        },
+        {
+            "details": {
+                "ticker": "HIMS",
+                "full_name": "Hims & Hers Health, Inc.",
+                "current_price": 28.45,
+                "market_cap": "$6.2B",
+                "sector_industry": "Healthcare/Telehealth",
+                "high_low_52_week": {
+                    "high": 29.8,
+                    "low": 12.2
+                },
+                "pe_ratio": 52.3,
+                "volume": "18.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA signaled easing restrictions on certain peptides (reversing 2023 ban), boosting telehealth compounding ops. Economic: expands access to weight-loss/peptide therapies amid GLP-1 demand. Psych: Relief rally after prior FDA crackdowns. Parallels: Teladoc surges post-COVID policy wins. Analogies: Unlocking a dammed river—like giving wings to a grounded bird; or thawing permafrost for mining.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Positive X chatter and web reports on 11-13% intraday gains; aligns with healthcare tailwinds, sustained by earnings potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $32-35 for 15-20% upside on policy follow-through.",
+                "short_position": "Avoid or short post-rally fade for -5-8%.",
+                "key_risks": "FDA policy reversal, competition from Eli Lilly/Novo, regulatory fines."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with historical precedent, strong volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 392.1,
+                "market_cap": "$1.25T",
+                "sector_industry": "Consumer Cyclical/Auto & AI",
+                "high_low_52_week": {
+                    "high": 410.5,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.6,
+                "volume": "112.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Elon Musk announced AI5 chip tape-out (design complete), 40x faster than prior, for FSD/Optimus; production late 2026. Economic: Accelerates autonomy/robotics revenue. Psych: Validates Tesla as AI leader vs. autos. Parallels: AI4 launch boosted 2024. Analogies: Upgrading from bicycle to jetpack; sowing seeds for AI harvest.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web coverage positive despite 'wavering' note; X hype on Musk, prior day +7.62%; builds on S&P record momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $420-450 on AI narrative, 10-15% gains.",
+                "short_position": "Short on delays for -10%, high gamma risk.",
+                "key_risks": "Production delays, China competition, valuation stretch."
+            },
+            "confidence_rating": "B",
+            "justification": "Proven Musk catalyst but mixed intraday reaction lowers to high."
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 24.6,
+                "market_cap": "$21.8B",
+                "sector_industry": "Financial Services/Capital Markets",
+                "high_low_52_week": {
+                    "high": 25.4,
+                    "low": 7.9
+                },
+                "pe_ratio": 45.2,
+                "volume": "22.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SEC approved changes to pattern day trading rule (easing $25k min?), boosting retail access. Economic: Increases trading volume/fees. Psych: Empowers degens. Parallels: 2021 meme era policy boosts. Analogies: Lowering bar for gym entry; unlocking candy store gates.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "X premkt +7%, aligns with market broadening; retail sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $28-30, 15%+ on volume surge.",
+                "short_position": "Short overbought for mean reversion.",
+                "key_risks": "SEC reversal, crypto volatility, margin calls."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear policy win, but regulatory whimsy tempers."
+        },
+        {
+            "details": {
+                "ticker": "NOW",
+                "full_name": "ServiceNow, Inc.",
+                "current_price": 945.3,
+                "market_cap": "$195B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 980.0,
+                    "low": 550.0
+                },
+                "pe_ratio": 78.9,
+                "volume": "2.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top S&P gainer +7.29%; likely strong Q1 preview or AI workflow news amid Nasdaq record. Economic: Enterprise AI adoption. Psych: Tech rotation confidence. Parallels: Post-2023 AI surge. Analogies: Oil for enterprise engine; fertilizer for cloud crops.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Market mover lists confirm shift; X mentions in big caps."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $1000+, 8-12% on earnings beat.",
+                "short_position": "Minimal, momentum play.",
+                "key_risks": "Earnings miss, macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent performer, but less specific news."
+        }
+    ]
+}
