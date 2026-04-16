@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AEHR",
+                "full_name": "Aehr Test Systems, Inc.",
+                "current_price": 20.5,
+                "market_cap": "$580M",
+                "sector_industry": "Technology / Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 30.5,
+                    "low": 10.2
+                },
+                "pe_ratio": -45.2,
+                "volume": "5.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Record $41 million production order from a leading hyperscale AI customer for burn-in testing of custom AI ASICs used in data centers. This exceeds prior guidance, pushing 2H bookings over $92M. Economic implications: Validates demand for AI chip testing amid scaling data centers. Market psychology: Triggers FOMO buying in AI supply chain plays. Historical parallels: Similar surges in test equipment stocks during GPU booms like 2020-2021. Analogies: 1) Picks and shovels in a gold rush - AEHR profits from AI chip production without competing directly. 2) Fuel supplier during rocket launch frenzy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong positive news with record order; X posts highly bullish (high engagement, calls for $100 target); web news confirms surge on AI demand. Sentiment shift from neutral to euphoric."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15-20% gains on continued AI momentum; enter post-pullback.",
+                "short_position": "Avoid short; high short squeeze risk given volume spike.",
+                "key_risks": "Order delays, broader semi slowdown, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with multiple confirmations from news and X; strong volume and % move."
+        },
+        {
+            "details": {
+                "ticker": "XNDU",
+                "full_name": "Xanadu Quantum Technologies Limited",
+                "current_price": 14.83,
+                "market_cap": "$642M",
+                "sector_industry": "Technology / Quantum Computing",
+                "high_low_52_week": {
+                    "high": 25.6,
+                    "low": 6.97
+                },
+                "pe_ratio": 0.0,
+                "volume": "8.97M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Stock jumps 34% as Nvidia comments lift quantum sector; trading briefly halted on surge. Economic: Growing investor interest in quantum amid AI advancements. Psychology: Speculative frenzy on quantum hype. Historical: Parallels quantum stock pops like IONQ in 2023. Analogies: 1) Early internet stocks in dotcom era. 2) Biotech breakthroughs sparking rallies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Nvidia-driven sector lift; high volume indicates sentiment shift to positive speculation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum +20%; quantum hype cycle.",
+                "short_position": "Short on fade after halt; potential -10%.",
+                "key_risks": "Hype fade, no fundamentals, volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum strong but speculative; less specific company news."
+        },
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT, Inc.",
+                "current_price": 53.18,
+                "market_cap": "$2.79B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 71.49,
+                    "low": 10.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "9.27M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "20% surge on positive momentum and AI substrate demand speculation. Economic: Indium phosphide demand for AI/lasers. Psychology: Breakout trading. Historical: Semi supply chain rallies. Analogies: 1) Rare earth suppliers in EV boom. 2) Wafer plays in chip cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Momentum trade with high volume; upcoming earnings add catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% on breakout.",
+                "short_position": "Short if fails 50; -8%.",
+                "key_risks": "Earnings miss, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum-driven, less concrete news."
+        },
+        {
+            "details": {
+                "ticker": "RUM",
+                "full_name": "Rumble Inc.",
+                "current_price": 5.58,
+                "market_cap": "$1.34B",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 4.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "6.45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "19% gain amid broader market relief rally post-ceasefire news; ESOP shelf adds float but valuation check positive. Economic: Alt-tech platform growth. Psychology: Risk-on sentiment. Historical: Social media pops on policy news. Analogies: 1) Truth Social surges. 2) Meme stock rotations.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Market tailwind; X sentiment positive on growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% on rally continuation.",
+                "short_position": "Short dilution risk -5%.",
+                "key_risks": "Dilution from ESOP, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific catalyst."
+        },
+        {
+            "details": {
+                "ticker": "SEDG",
+                "full_name": "SolarEdge Technologies, Inc.",
+                "current_price": 37.83,
+                "market_cap": "$1.1B",
+                "sector_industry": "Technology / Solar",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 35.0
+                },
+                "pe_ratio": -5.2,
+                "volume": "4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Significant drop amid analyst downgrades, weak guidance concerns. Economic: Solar sector headwinds, inventory glut. Psychology: Panic selling. Historical: 2023 solar crash. Analogies: 1) Oil drillers in glut. 2) EV overcapacity.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Ongoing challenges, stock drop confirms negative sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy risky.",
+                "short_position": "Short for -10% on continued weakness.",
+                "key_risks": "Policy support rebound, short cover."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear loser status, sector issues."
+        }
+    ]
+}
