@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 620.5,
+                "market_cap": "$270B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 740.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 48.2,
+                "volume": "15M",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Netflix issued cautious guidance post-earnings, citing slower subscriber growth amid competition. This implies reduced revenue forecasts, pressuring margins in a high-content-cost environment. Market psychology shifts to fear of saturation in streaming. Historical parallel: 2022 subscriber miss led to 35% drop. Analogies: Like a movie theater losing audience to Netflix itself; or a buffet overfilling plates leading to indigestion.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Pre-market plunge of 10%, X sentiment negative on guidance, broader market rally not helping. Web news confirms cautious outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for bottom; potential rebound if market overreaction, +5% if support holds.",
+                "short_position": "Short with target 580, potential 10% gain; cover on oversold bounce.",
+                "key_risks": "Earnings overreaction reversal on dip-buying; broader tech rally spillover."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings miss and guidance, high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "RKLB",
+                "full_name": "Rocket Lab USA, Inc.",
+                "current_price": 5.8,
+                "market_cap": "$2.9B",
+                "sector_industry": "Industrials / Aerospace",
+                "high_low_52_week": {
+                    "high": 7.2,
+                    "low": 3.2
+                },
+                "pe_ratio": -25.4,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Bullish analyst upgrades and commentary on space sector growth. Economic boost from contracts, risk-on sentiment. Psychology: FOMO in space theme. Parallel: 2021 SPCE hype. Analogies: Rocket fuel igniting; small engine revving to supersonic.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "12.7% pre-market gain, positive X mentions, aligns with market rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6.5 target, 12% gain potential.",
+                "short_position": "Avoid, momentum strong.",
+                "key_risks": "Volatility in small-cap space stocks; dilution risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst driven, but speculative sector."
+        },
+        {
+            "details": {
+                "ticker": "ABT",
+                "full_name": "Abbott Laboratories",
+                "current_price": 102.3,
+                "market_cap": "$185B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 121.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 34.5,
+                "volume": "8M",
+                "recent_dividend": "$0.55 quarterly, ex-date 2026-04-15"
+            },
+            "impact_theory": "Lowered full-year guidance due to cost pressures, supply issues. Implies weaker earnings, defensive health sector hit. Psychology: Loss of safe-haven appeal. Parallel: 2020 COVID guidance cuts. Analogies: Medicine tasting bitter; shield cracking in battle.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "6% drop on guidance cut, high pre-market volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dividend yield support, +3% recovery.",
+                "short_position": "Short to 98, 4% gain.",
+                "key_risks": "Defensive rebound in risk-off; dividend support."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct guidance cut, consistent news."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 178.2,
+                "market_cap": "$570B",
+                "sector_industry": "Consumer Cyclical / Auto",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 138.0
+                },
+                "pe_ratio": 95.6,
+                "volume": "120M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strong volume reversal from lows, bullish charts on X. EV demand steady amid market rally. Psychology: Reversal FOMO. Parallel: 2023 recovery runs. Analogies: Tesla accelerating out of pit stop; battery fully charged.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7% to +10%",
+                "reasoning": "Positive X sentiment, low volume dip reversed, market tailwind."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to 195, 10% upside.",
+                "short_position": "Risky, momentum against.",
+                "key_risks": "Earnings volatility; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Sentiment strong but technical."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 235.4,
+                "market_cap": "$3.6T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 164.0
+                },
+                "pe_ratio": 39.8,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "China iPhone shipments up 20% vs market down, analyst upgrade. Boosts China revenue fears easing. Psychology: Relief rally. Parallel: Post-2022 China recovery. Analogies: iPhone phoenix rising; apple falling into fortune.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +6%",
+                "reasoning": "3% gain, upgrade to $300 PT, X positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to 250, 6% gain.",
+                "short_position": "Avoid.",
+                "key_risks": "China tensions; high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Specific positive data and upgrade."
+        }
+    ]
+}
