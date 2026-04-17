@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 645.2,
+                "market_cap": "$280B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 750.0,
+                    "low": 550.0
+                },
+                "pe_ratio": 35.2,
+                "volume": "18.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Netflix reported earnings that beat on revenue but issued cautious FY2026 guidance citing subscriber growth slowdown amid competition and content costs. Economic implications include reduced consumer discretionary spending in a high-interest environment. Market psychology: disappointment leads to profit-taking after recent highs. Historical parallels: Similar to 2022 post-password sharing crackdown selloff. Analogies: 1. Like a blockbuster movie flop after hype - expectations unmet. 2. Overextended runner hitting a wall in a marathon.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "X sentiment shows panic selling (high mentions of 'miss', 'guidance cut'), web news highlights weak outlook vs. market rally. Overall market up but NFLX decoupled negatively."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited rebound opportunity +3-5% if market drags up; avoid new longs.",
+                "short_position": "Strong short bias, potential 10-15% downside to $580 support; target $600.",
+                "key_risks": "Broader tech rally spillover, short squeeze if volume spikes."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with consistent bearish sentiment across sources."
+        },
+        {
+            "details": {
+                "ticker": "ABT",
+                "full_name": "Abbott Laboratories",
+                "current_price": 102.5,
+                "market_cap": "$185B",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 118.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "9.2M",
+                "recent_dividend": "$0.55 quarterly"
+            },
+            "impact_theory": "Abbott lowered full-year guidance due to supply chain issues and softer demand in diagnostics post-COVID. Implications: Highlights healthcare sector vulnerability to economic slowdowns. Psychology: Defensive stock selloff erodes safe-haven status. Parallels: 2020 guidance cuts during pandemic. Analogies: 1. Ship delayed in storm - supply woes. 2. Diet fad ending - demand normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -7%",
+                "reasoning": "High premarket volume drop, X posts on downgrade, news confirms guidance slash amid strong market."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for dividend yield ~2.1%, +4% to $107.",
+                "short_position": "Short to $98 support, 5-8% gain.",
+                "key_risks": "FDA approvals or M&A rumors could reverse."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news but healthcare resilience tempers severity."
+        },
+        {
+            "details": {
+                "ticker": "RKLB",
+                "full_name": "Rocket Lab USA, Inc.",
+                "current_price": 11.8,
+                "market_cap": "$6B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 15.5,
+                    "low": 4.2
+                },
+                "pe_ratio": -45.0,
+                "volume": "22.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bullish analyst upgrades citing Neutron rocket progress and NASA contracts amid space race hype. Implications: Boosts small-cap growth in defense/tech. Psychology: FOMO buying in speculative sector. Parallels: 2021 SPAC boom for space stocks. Analogies: 1. Rocket fuel ignition - momentum surge. 2. Underdog winning big game.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "Premarket +12.7%, positive X buzz, aligns with market risk-on."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for breakout to $14, 15-20% upside.",
+                "short_position": "Avoid or small short if fails $12.",
+                "key_risks": "Launch delays, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst driven, high vol but volatile sector."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 114.3,
+                "market_cap": "$500B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 132.0,
+                    "low": 98.0
+                },
+                "pe_ratio": 13.4,
+                "volume": "28.4M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices sank below $97 on Iran opening Strait of Hormuz, easing supply fears from tensions. Implications: Lower energy costs boost economy but hurt producers' margins. Psychology: Relief rally in stocks, rotation out of energy. Parallels: 2020 oil crash on demand fears. Analogies: 1. Storm passing, winds calm. 2. Gas prices drop, road trip boom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -6%",
+                "reasoning": "Geopolitical unwind, oil down, X/market sentiment shift to risk-on."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if oil rebounds, +3%.",
+                "short_position": "Short to $110, 5-7% gain.",
+                "key_risks": "New tensions or OPEC cuts."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to major news event."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.75,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.0,
+                    "low": 78.0
+                },
+                "pe_ratio": 72.5,
+                "volume": "320M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Broad market rally on de-escalation, AI hype continues; NVDA leads Nasdaq surge. Implications: Tech rotation benefits AI leaders. Psychology: Greed index high, momentum chasing. Parallels: 2023 AI boom. Analogies: 1. Jet engine in tailwind. 2. King leading the charge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +6%",
+                "reasoning": "Market greed, Nasdaq +5%, positive sentiment divergence noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long continuation to $150, 8-10% .",
+                "short_position": "High risk, potential squeeze.",
+                "key_risks": "Valuation bubble pop, rate hikes."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum strong but elevated sentiment."
+        }
+    ]
+}
