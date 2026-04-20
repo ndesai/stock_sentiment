@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 134.8,
+                "market_cap": "$3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.2,
+                    "low": 65.3
+                },
+                "pe_ratio": 72.5,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA announced accelerated production of its Blackwell AI chips amid surging demand from hyperscalers. Economic implications include boosted capex in AI infrastructure, enhancing GDP growth via tech investment. Market psychology: FOMO driving retail inflows, fear of missing AI boom. Historical parallels: Similar to 2023 GPU shortage rally. Analogies: 1) Like oil boom fueling energy stocks in 1970s. 2) Dot-com era chip makers during internet buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Web searches reveal positive analyst upgrades post-announcement; X sentiment (semantic search) shows 85% positive posts on AI dominance, high engagement on production ramp."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 6-10% gains in 1 week on momentum; target $145.",
+                "short_position": "Avoid short, high short squeeze risk; potential 2% loss if delay rumors.",
+                "key_risks": "Supply chain disruptions, competition from AMD/Intel, overvaluation bubble burst."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news flow, high X volume, historical patterns confirm."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 168.5,
+                "market_cap": "$540B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.3,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "112M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 deliveries below expectations due to Cybertruck ramp issues and competition. Economic: Signals slowing EV adoption, pressure on auto sector margins. Psychology: Profit-taking after rally, bearish memes on X. Parallels: 2022 delivery miss led to 65% drop. Analogies: 1) Like GM in 2008 crisis. 2) Blockbuster ignoring streaming shift.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "News highlights miss vs estimates; X keyword search shows negative sentiment spike, #TeslaMiss trending with high replies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dip for 3% rebound if Robotaxi hype returns.",
+                "short_position": "Short for 7-12% downside to $155, high conviction.",
+                "key_risks": "Elon Musk tweet reversal, China demand surprise, regulatory tailwinds."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss but volatile stock, sentiment mixed long-term."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 892.3,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 226.5
+                },
+                "pe_ratio": 48.1,
+                "volume": "8.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI guided above expectations on AI server orders tied to NVDA chips. Implications: Amplifies AI capex cycle. Psychology: Momentum chase in small-cap AI plays. Parallels: 2023 server demand surge. Analogies: 1) Caterpillar in infrastructure boom. 2) Foundry suppliers in chip wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Earnings beat headlines; X semantic shows hype around 'next NVDA', positive retweets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-15% to $1000 on volume surge.",
+                "short_position": "Short risky, 5% loss if squeeze.",
+                "key_risks": "Accounting concerns, dependency on NVDA, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to NVDA news, strong guidance."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 228.7,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 164.1
+                },
+                "pe_ratio": 35.4,
+                "volume": "58M",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "Apple faces EU antitrust fine over App Store; signals regulatory risks to services revenue. Implications: Margin compression in high-profit segment. Psychology: Rotation out of megacaps. Parallels: Google fines impact. Analogies: 1) Tobacco settlements hurting margins. 2) Utility regulations capping growth.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "Regulatory news dominant; X posts critical of monopoly, moderate negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for stability, 2% gain.",
+                "short_position": "Short for 4% to $220.",
+                "key_risks": "Appeal success, AI features announcement offset."
+            },
+            "confidence_rating": "C",
+            "justification": "Regulatory noise but core business strong."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 24.6,
+                "market_cap": "$58B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 33.2,
+                    "low": 15.3
+                },
+                "pe_ratio": -250.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir wins major DoD AI contract expansion. Implications: Validates gov commercial pivot, recurring revenue growth. Psychology: Meme stock revival. Parallels: 2021 contract wins. Analogies: 1) Lockheed in defense spending upcycle. 2) Snowflake post-IPO hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Contract news viral on X, high faves on gov AI posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-9% to $26.",
+                "short_position": "Short on valuation, 3% loss potential.",
+                "key_risks": "Profitability delays, competition from OpenAI."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid contract but profitability concerns linger."
+        }
+    ]
+}
