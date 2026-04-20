@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "STLD",
+                "full_name": "Steel Dynamics, Inc.",
+                "current_price": 209.91,
+                "market_cap": "30.382B",
+                "sector_industry": "Basic Materials / Steel",
+                "high_low_52_week": {
+                    "high": 211.75,
+                    "low": 112.72
+                },
+                "pe_ratio": 26.25,
+                "volume": "1,467,131",
+                "recent_dividend": "Yield 1.01%, Ex-Dividend Mar 31, 2026"
+            },
+            "impact_theory": "Steel Dynamics released Q1 2026 earnings guidance earlier, but anticipation built ahead of full results after market close on April 20. Positive steel demand and upbeat commentary drove sentiment. Economically, strong industrial activity signals resilience amid inflation. Market psychology: pre-earnings euphoria with options implying 5% move. Historical parallels: Similar pre-earnings runs in 2021 led to post-earnings pops. Analogies: Like a coiled spring before release (tension builds value); rocket fuel igniting on solid guidance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Stock up ~5% to new 52w high on earnings anticipation and positive analyst revisions. X sentiment positive with mentions in 52w highs lists. Broader market highs support materials sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +5-8% gains post-earnings if beats $2.79 EPS est.",
+                "short_position": "Short if misses, potential -5% drop like prior misses.",
+                "key_risks": "Earnings miss due to steel price volatility, China demand slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong pre-earnings momentum, high volume, aligned with sector strength."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 148.6,
+                "market_cap": "130.041B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 149.58,
+                    "low": 48.09
+                },
+                "pe_ratio": 48.45,
+                "volume": "32,406,853",
+                "recent_dividend": "Yield 0.17%"
+            },
+            "impact_theory": "Marvell hit new highs amid AI chip demand surge, talks with Google for custom AI chips. Implications: Boosts data center revenue growth. Psychology: FOMO in semis rally. Parallels: 2023 AI boom parallels. Analogies: Like surfing a mega-wave (AI hype); snowball effect in chip ecosystem.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Up 5%+ midday, multiple X posts calling top pick, new 52w high. Positive AI news counters any market pullback."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $160, +8% potential on AI momentum.",
+                "short_position": "Short at resistance $150 for -4% retrace.",
+                "key_risks": "Semis rotation, overbought after rally."
+            },
+            "confidence_rating": "A",
+            "justification": "High engagement on X, volume surge, sector leadership."
+        },
+        {
+            "details": {
+                "ticker": "AAL",
+                "full_name": "American Airlines Group Inc.",
+                "current_price": 12.27,
+                "market_cap": "8.092B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 16.5,
+                    "low": 8.96
+                },
+                "pe_ratio": 72.09,
+                "volume": "51,998,597",
+                "recent_dividend": "No recent dividend"
+            },
+            "impact_theory": "Midday mover down on merger concerns with United (UAL), higher oil prices from Iran tensions squeezing margins. Implications: Cost pressures in travel. Psychology: Fear of consolidation leading to fares up. Parallels: 2015 merger waves caused volatility. Analogies: Headwinds like flying into storm; domino effect from oil spike.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "High volume on negative X buzz about merger leading to higher prices, oil rise hurts airlines."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy to $13.5, +10%.",
+                "short_position": "Short for -5% to $11.5 on oil/merger fears.",
+                "key_risks": "Oil de-escalation, positive travel demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst from news/X, but airlines volatile."
+        },
+        {
+            "details": {
+                "ticker": "SWK",
+                "full_name": "Stanley Black & Decker, Inc.",
+                "current_price": 75.0,
+                "market_cap": "11.646B",
+                "sector_industry": "Industrials / Tools & Accessories",
+                "high_low_52_week": {
+                    "high": 93.37,
+                    "low": 55.38
+                },
+                "pe_ratio": 28.3,
+                "volume": "2,456,129",
+                "recent_dividend": "Yield 3.32%, Ex-Div Mar 10, 2026"
+            },
+            "impact_theory": "Biggest midday mover, likely on Q1 guidance or consumer spending data. Implications: Housing/industrial recovery. Psychology: Relief rally. Parallels: Post-2022 recovery. Analogies: Phoenix rising from turnaround; toolbelt tightening for growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "CNBC highlights as top mover, industrials strength amid market highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $80, +6%.",
+                "short_position": "Minimal, avoid.",
+                "key_risks": "Consumer slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Mover status but less specific news."
+        },
+        {
+            "details": {
+                "ticker": "DOW",
+                "full_name": "Dow Inc.",
+                "current_price": 36.79,
+                "market_cap": "26.478B",
+                "sector_industry": "Basic Materials / Chemicals",
+                "high_low_52_week": {
+                    "high": 42.74,
+                    "low": 20.4
+                },
+                "pe_ratio": 0.0,
+                "volume": "9,253,227",
+                "recent_dividend": "Yield 3.93%, Ex-Div May 29, 2026"
+            },
+            "impact_theory": "Midday mover amid oil rise (Iran), benefiting petrochemicals. Implications: Higher input costs but pricing power. Psychology: Sector rotation to materials. Parallels: 2022 energy crisis boost. Analogies: Riding oil wave; chemical alchemy turning crude to profits.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Oil climb supports chemicals, CNBC mover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $40, +9%.",
+                "short_position": "Short if oil falls, -3%.",
+                "key_risks": "Geopolitical de-escalation."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to oil news, moderate sentiment shift."
+        }
+    ]
+}
