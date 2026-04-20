@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$493B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.2,
+                    "low": 95.8
+                },
+                "pe_ratio": 12.8,
+                "volume": "25.4M",
+                "recent_dividend": "Annualized $3.80 (yield 3.0%)"
+            },
+            "impact_theory": "Oil prices surged over 7% on April 20 due to renewed US-Iran tensions and fears of Strait of Hormuz disruption, directly benefiting major integrated oil producers like XOM. Economic implications include higher energy costs pressuring inflation but boosting revenues for supermajors. Market psychology: fear of supply shock drives risk-on for energy amid broad market dip. Historical parallels: 2019 Iran tanker attacks caused 5-10% oil spikes and energy stock gains. Analogies: like betting on storm clouds filling oil reservoirs; or firefighters thriving in wildfires.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web searches confirm oil spike to $87+, energy stocks gapping up 4-6%; X sentiment positive on oil majors amid geopolitical risks (e.g., posts on Hormuz closure)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 5-8% gains in 1-2 days if tensions persist; target $135.",
+                "short_position": "Avoid or short if ceasefire announced, potential 3% drop.",
+                "key_risks": "De-escalation of tensions, OPEC+ increase supply; broader market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation between oil price moves and XOM (beta ~1.5 to oil); multiple news sources confirm event."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.3,
+                "market_cap": "$295B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "12.1M",
+                "recent_dividend": "Annualized $6.52 (yield 4.0%)"
+            },
+            "impact_theory": "Similar to XOM, CVX benefits from oil surge on Hormuz chaos; higher crude lifts upstream earnings. Implications: widens energy sector rotation from tech. Psychology: safe-haven shift to commodities. Parallels: 2022 Ukraine war oil rally +20% for majors. Analogies: rising tide lifting oil tankers; drought boosting water utility stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-5%",
+                "reasoning": "Explicit mentions in market briefings of CVX gapping higher; positive energy sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 4-7% upside to $170.",
+                "short_position": "Short on peace deal, risk 2-4% loss.",
+                "key_risks": "Rapid oil pullback as seen post-spike; regulatory pressures."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news linkage and historical oil-stock correlation."
+        },
+        {
+            "details": {
+                "ticker": "AAL",
+                "full_name": "American Airlines Group, Inc.",
+                "current_price": 14.2,
+                "market_cap": "$9.3B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 19.5,
+                    "low": 10.8
+                },
+                "pe_ratio": -45.2,
+                "volume": "45.6M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Airlines hammered by surging oil/jet fuel costs from geopolitical event; higher input costs squeeze margins. Implications: delays recovery in travel sector. Psychology: risk-off hits cyclicals. Parallels: 2022 oil rally dropped airlines 15-20%. Analogies: speedboats in headwinds; picnickers in sudden rain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Midday movers include AAL down; X posts link to oil rise hurting airlines."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy if oil stabilizes.",
+                "short_position": "Short for 5% downside to $13.50.",
+                "key_risks": "Strong demand overrides fuel costs; short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear inverse oil-airline link, but earnings variability."
+        },
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 685.4,
+                "market_cap": "$295B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 720.0,
+                    "low": 480.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "8.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat with EPS $1.23 vs exp $1.22, rev $12.25B beat; subscriber growth strong. Implications: validates streaming resilience. Psychology: earnings momentum in bull market. Parallels: prior beats led to 10%+ pops. Analogies: box office hit boosting studio; viral video exploding views.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Yahoo finance highlights beat; positive analyst reactions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5% to $720.",
+                "short_position": "Short if subscriber miss post-earnings.",
+                "key_risks": "Competition from Disney+; ad-tier slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings data from reliable source."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 247.8,
+                "market_cap": "$2.6T",
+                "sector_industry": "Consumer Discretionary / Internet Retail",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 175.0
+                },
+                "pe_ratio": 48.3,
+                "volume": "32.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Double upgrade from BofA/KeyBanc to $325 PT pre-earnings; AWS/cloud strength. Implications: tech rotation resilient to geo risks. Psychology: upgrade chase. Parallels: pre-earnings upgrades sparked 5-10% runs. Analogies: tailwinds filling sails; upgrade like rocket fuel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "247wallst reports upgrades; broad positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ahead of earnings for 4-6% gains.",
+                "short_position": "Short post-earnings if miss.",
+                "key_risks": "Earnings disappointment; antitrust issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst upgrades reliable but pre-earnings volatile."
+        }
+    ]
+}
