@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 582.45,
+                "market_cap": "$540B",
+                "sector_industry": "Healthcare / Managed Health Care",
+                "high_low_52_week": {
+                    "high": 650.2,
+                    "low": 495.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "8.2M shares",
+                "recent_dividend": "$2.10 quarterly"
+            },
+            "impact_theory": "UnitedHealth reported Q1 2026 earnings beating expectations with strong revenue growth and raised full-year guidance amid healthcare demand. Economic implications include resilient consumer spending on health services despite inflation. Market psychology: Relief rally post-earnings, boosting confidence in healthcare sector stability. Historical parallels: Similar to 2023 post-earnings surges in UNH during economic uncertainty. Analogies: Like a sturdy oak weathering a storm (resilient fundamentals), or a phoenix rising from earnings fears.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat drove +7% premarket; X sentiment positive on outlook beat; web news highlights strong guidance reducing recession fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% gains over next week on momentum; target $640",
+                "short_position": "Avoid or short if guidance revision risks",
+                "key_risks": "Regulatory scrutiny on Medicare, broader market selloff from geopolitics."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, high volume confirmation, positive analyst upgrades."
+        },
+        {
+            "details": {
+                "ticker": "BYND",
+                "full_name": "Beyond Meat, Inc.",
+                "current_price": 12.8,
+                "market_cap": "$830M",
+                "sector_industry": "Consumer Defensive / Packaged Foods",
+                "high_low_52_week": {
+                    "high": 20.5,
+                    "low": 4.8
+                },
+                "pe_ratio": -15.2,
+                "volume": "52M shares",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Beyond Meat surged 41% on news of new plant-based product partnerships and sales rebound amid health trends revival. Economic: Shift to sustainable foods amid inflation. Psychology: Meme-like rally revival. Parallels: 2019 IPO hype. Analogies: Dead cat bounce turning into rocket, or weed breaking concrete.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "X posts highlight +41% move, plant-based rally; web premarket gainers list it top."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for short-term squeeze +25%; target $16",
+                "short_position": "Short after spike for -15% fade",
+                "key_risks": "High short interest squeeze unwind, competition from traditional meats."
+            },
+            "confidence_rating": "B",
+            "justification": "Volatile stock, high volume but speculative sentiment."
+        },
+        {
+            "details": {
+                "ticker": "CAR",
+                "full_name": "Avis Budget Group, Inc.",
+                "current_price": 608.8,
+                "market_cap": "$4.2B",
+                "sector_industry": "Industrials / Rental & Leasing Services",
+                "high_low_52_week": {
+                    "high": 720.0,
+                    "low": 300.5
+                },
+                "pe_ratio": 14.8,
+                "volume": "2.1M shares",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Avis Budget jumped 23% on better-than-expected Q1 results and travel demand surge post-Iran tensions stabilizing. Economic: Leisure travel boom. Psychology: Cyclical recovery play. Parallels: Post-COVID travel stocks. Analogies: Rubber band snapping back, or wave cresting.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Premarket +23%, X top mover; earnings expectations exceeded."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +20% to $730",
+                "short_position": "Minimal, momentum strong",
+                "key_risks": "Fuel costs rise from oil, economic slowdown hitting travel."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings driven, but cyclical exposure to macro."
+        },
+        {
+            "details": {
+                "ticker": "TM",
+                "full_name": "Toyota Motor Corporation",
+                "current_price": 207.28,
+                "market_cap": "$285B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 255.0,
+                    "low": 175.2
+                },
+                "pe_ratio": 9.8,
+                "volume": "1.4M shares",
+                "recent_dividend": "¥30 quarterly"
+            },
+            "impact_theory": "Toyota down 3.86% premarket on weak Japan sales data and EV transition concerns amid US tariffs talk. Economic: Auto demand softening. Psychology: Risk-off on Japan exporters. Parallels: 2022 chip shortage impacts. Analogies: Car stalled in traffic, or sinking ship.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Premarket loser, X mentions pullback; sales miss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if support holds",
+                "short_position": "Short for -10% to $185",
+                "key_risks": "Currency yen strength reversal, positive trade news."
+            },
+            "confidence_rating": "B",
+            "justification": "Premarket move, tied to regional news."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 65.7,
+                "market_cap": "$278B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 72.5,
+                    "low": 28.0
+                },
+                "pe_ratio": -5.2,
+                "volume": "58M shares",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Intel dipped 4% amid broader semi pullback despite AI demand, on foundry loss reports and competition. Economic: Capex caution. Psychology: Profit-taking after rally. Parallels: 2024 delays. Analogies: Giant stumbling in race, or overextended climber slipping.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "X and web list as loser; sector rotation from semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long long-term AI recovery",
+                "short_position": "Short momentum -8% to $60",
+                "key_risks": "Positive foundry updates, Nvidia peers lift."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals, high volume but uncertain catalysts."
+        }
+    ]
+}
