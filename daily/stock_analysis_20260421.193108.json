@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CAR",
+                "full_name": "Avis Budget Group, Inc.",
+                "current_price": 734.19,
+                "market_cap": "$26.06B",
+                "sector_industry": "Consumer Cyclical / Rental & Leasing Services",
+                "high_low_52_week": {
+                    "high": 750.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "1.73M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Intense short squeeze driven by 62% short interest amid geopolitical tensions boosting travel disruptions and rental demand. Economic implications include improved liquidity for shorts covering, market psychology fueled by FOMO and squeeze momentum similar to 2021 meme stocks like GME. Historical parallels: GameStop 2021 squeeze. Analogies: 1. Domino effect where one short cover triggers cascade. 2. Balloon inflating under pressure until burst.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Short squeeze with high volume and 20%+ daily gain; web news confirms surge on short covering and rental boom from airport chaos/oil tensions. Positive sentiment from gainers lists."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum continuation, potential +20% in days if squeeze persists.",
+                "short_position": "Avoid short until squeeze exhausts, risk of further +30% squeeze losses.",
+                "key_risks": "Sudden reversal post-squeeze, high volatility, negative earnings surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but short squeezes are unpredictable; backed by web data."
+        },
+        {
+            "details": {
+                "ticker": "HAL",
+                "full_name": "Halliburton Company",
+                "current_price": 38.19,
+                "market_cap": "$31.98B",
+                "sector_industry": "Energy / Oil & Gas Equipment & Services",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 30.0
+                },
+                "pe_ratio": 25.46,
+                "volume": "15.22M",
+                "recent_dividend": "$0.17 quarterly"
+            },
+            "impact_theory": "Q1 earnings beat expectations with flat sales but recovery signs; amplified by oil price spike from US seizure of Iranian ship escalating Hormuz tensions. Implications: Higher drilling activity, psychology of risk premium on oil. Parallels: 2022 Ukraine invasion oil rally. Analogies: 1. Fuse lit under oil services. 2. Rising tide lifting service boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Earnings beat + oil surge news; multiple sources confirm +4% move on tensions and results."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on oil rally continuation, +8-12% potential.",
+                "short_position": "Short if peace talks resume, -5% risk.",
+                "key_risks": "Geopolitical de-escalation, weak NA demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to earnings and macro oil event with high volume."
+        },
+        {
+            "details": {
+                "ticker": "VFS",
+                "full_name": "VinFast Auto Ltd.",
+                "current_price": 4.85,
+                "market_cap": "$11.34B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 10.0,
+                    "low": 2.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "0.56M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "March EV deliveries in Vietnam surged 127% YoY, boosting growth narrative amid EV sector volatility. Implications: Strong regional demand, psychology of undervalued growth play. Parallels: Early Tesla delivery beats. Analogies: 1. Rocket launch from pad. 2. Underdog sprinting ahead.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Delivery surge news driving +11% gain, listed in top gainers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for EV momentum, +15% upside.",
+                "short_position": "Short on dilution risks, -10%.",
+                "key_risks": "Competition, cash burn."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive delivery data but volatile small cap EV."
+        },
+        {
+            "details": {
+                "ticker": "MMM",
+                "full_name": "3M Company",
+                "current_price": 148.13,
+                "market_cap": "$78.02B",
+                "sector_industry": "Industrials / Conglomerates",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 24.69,
+                "volume": "3.96M",
+                "recent_dividend": "$1.52 quarterly"
+            },
+            "impact_theory": "Q1 EPS beat but organic sales -1.4%, full-year guidance maintained; broader market risk-off from Iran tensions. Implications: Margin pressure, psychology of steady but uninspiring. Parallels: Post-earnings fades in industrials. Analogies: 1. Car with flat tire. 2. Steady rain not storm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3%",
+                "reasoning": "Sales miss concerns and market drop; listed as Dow loser."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy at support, +5%.",
+                "short_position": "Short on weak growth, -7%.",
+                "key_risks": "PFAS litigation overhang."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings mixed, market context bearish."
+        },
+        {
+            "details": {
+                "ticker": "GE",
+                "full_name": "GE Aerospace",
+                "current_price": 289.32,
+                "market_cap": "$305.23B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 35.95,
+                "volume": "5.77M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "Strong Q1 earnings but stock down on guidance caution or profit-taking amid fading peace hopes increasing defense demand but market selloff. Implications: Aviation backlog solid, psychology sell-the-news. Parallels: Post-spin earnings reactions. Analogies: 1. Plane climbing but turbulence. 2. High flyer hitting ceiling.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "-5.9% despite earnings, premarket/market drop noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long quality dip, +10%.",
+                "short_position": "Short momentum fade, -8%.",
+                "key_risks": "Supply chain issues, macro slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Strong fundamentals but sharp drop unexplained fully."
+        }
+    ]
+}
