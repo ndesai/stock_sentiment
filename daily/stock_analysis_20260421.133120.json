@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CAR",
+                "full_name": "Avis Budget Group, Inc.",
+                "current_price": 608.8,
+                "market_cap": "$4.2B",
+                "sector_industry": "Industrials/Rental & Leasing Services",
+                "high_low_52_week": {
+                    "high": 612.58,
+                    "low": 78.71
+                },
+                "pe_ratio": 12.5,
+                "volume": "178,257",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Avis Budget reported strong Q1 earnings beating expectations due to surge in travel demand post-economic recovery signals. Economic implications include robust consumer spending; market psychology shows FOMO buying in travel stocks. Historical parallel: Post-COVID travel boom in 2021 lifted CAR +300%. Analogies: Like a rocket fueled by vacation fever; or a rental car line wrapping around the block during summer rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Web searches show CAR as top gainer +23% pre-market on earnings; X sentiment positive with high engagement on travel recovery. Limit 20 latest posts confirm hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 20% upside on continued travel boom.",
+                "short_position": "Avoid or short if recession fears rise, potential -10%.",
+                "key_risks": "Economic slowdown reducing travel, fuel price spikes, competition from Turo."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong mover data from searches, but small cap volatility lowers to B."
+        },
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 562.0,
+                "market_cap": "$520B",
+                "sector_industry": "Healthcare/Healthcare Plans",
+                "high_low_52_week": {
+                    "high": 608.0,
+                    "low": 436.0
+                },
+                "pe_ratio": 12.2,
+                "volume": "15M",
+                "recent_dividend": "$2.10 quarterly"
+            },
+            "impact_theory": "CEO abrupt resignation amid investigation into executive murder scandal erodes investor confidence. Economic implications: Regulatory scrutiny on healthcare giants; psychology: Fear of leadership vacuum. Historical: Wells Fargo CEO exit 2016 dropped 10%. Analogies: Captain abandoning ship mid-storm; or a hospital losing its top surgeon suddenly.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Recent news highlights CEO change as top story, stock down big recently; X posts show negative sentiment with calls to short."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy at support, +8% recovery.",
+                "short_position": "Short for 12% downside on ongoing probe.",
+                "key_risks": "Quick new CEO stabilizes, Medicare changes favorable."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear negative catalyst with high visibility in searches."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 39.0
+                },
+                "pe_ratio": 60.5,
+                "volume": "300M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Announcement of next-gen Blackwell AI chips with supply chain improvements amid AI hype. Implications: Accelerates AI adoption boosting data center spend; psychology: Continued AI euphoria. Parallel: Hopper launch 2022 +200% run. Analogies: Fueling the AI fire; like gasoline on tech rally bonfire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Frequent mentions in movers, positive X buzz on AI future."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 15% gains on AI tailwinds.",
+                "short_position": "Short on valuation bubble burst, -20%.",
+                "key_risks": "Chip delays, competition from AMD, export restrictions."
+            },
+            "confidence_rating": "A",
+            "justification": "NVDA dominant in AI narrative across news."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 273.05,
+                "market_cap": "$4.0T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 164.0
+                },
+                "pe_ratio": 34.2,
+                "volume": "50M",
+                "recent_dividend": "$0.25 quarterly"
+            },
+            "impact_theory": "Rumors of AI-integrated iPhone 18 features spark upgrade cycle. Implications: Boosts services revenue; psychology: Apple loyalists upgrade frenzy. Parallel: Vision Pro hype 2023. Analogies: New iPhone like Christmas for tech fans; siren call of innovation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Listed in movers, positive analyst notes; X sentiment upbeat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on product cycle, 10% upside.",
+                "short_position": "Short if China sales weak, -7%.",
+                "key_risks": "Regulatory antitrust, slowing iPhone sales."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent performer but less explosive news."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 185.0,
+                "market_cap": "$1.9T",
+                "sector_industry": "Consumer Cyclical/Internet Retail",
+                "high_low_52_week": {
+                    "high": 201.0,
+                    "low": 118.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "40M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AWS cloud growth accelerates with AI workloads; e-commerce steady. Implications: Margin expansion; psychology: Trust in Bezos-era dominance. Parallel: 2020 cloud surge. Analogies: AWS as the cloud kingpin; endless money printer for retail.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Mentions in movers, X posts highlight AWS strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AWS growth, 12% potential.",
+                "short_position": "Short consumer slowdown, -10%.",
+                "key_risks": "Tariffs on imports, recession hitting retail."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but not top mover."
+        }
+    ]
+}
