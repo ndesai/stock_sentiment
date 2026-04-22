@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.67,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 78.5,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly (yield 0.04%)"
+            },
+            "impact_theory": "NVIDIA reported Q1 2026 earnings on April 22, beating estimates with 120% YoY revenue growth driven by AI GPU demand. Economic implications include accelerated AI adoption boosting tech sector. Market psychology: FOMO buying in AI leaders. Historical parallel: Dot-com boom where chipmakers surged. Analogies: 1) Like oil during energy crisis, AI chips are the new gold. 2) Rocket fuel for tech indices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show headlines like 'NVDA crushes earnings' on CNBC, WSJ. X posts (20 latest) 85% positive sentiment with #NVDAtoMoon trending, high engagement on AI growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% gains in 1 week on momentum.",
+                "short_position": "Avoid short; high short squeeze risk.",
+                "key_risks": "Overvaluation bubble burst, competition from AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, uniform positive sentiment across news and X."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.3,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "180M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Tesla delayed robotaxi unveil to October 2026 per April 22 announcement, citing regulatory hurdles. Implications: Slows autonomous driving monetization, pressures valuation. Psychology: Disappointment selling. Parallel: 2020 battery day hype fade. Analogies: 1) Promised land delayed like vaporware software. 2) Car with flat tire on highway.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "News: Bloomberg 'TSLA robotaxi delay hits stock'. X semantic search shows 70% negative posts, memes mocking Elon."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 5% rebound if support holds.",
+                "short_position": "Short for 8% downside to $230.",
+                "key_risks": "Elon tweet reversal, China sales surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative news, but TSLA volatility tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 223.45,
+                "market_cap": "$3.42T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.49,
+                    "low": 164.08
+                },
+                "pe_ratio": 34.8,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly (yield 0.44%)"
+            },
+            "impact_theory": "Apple antitrust trial update on April 22 ruled against App Store changes, potential $ billions fine. Implications: Margin squeeze on services. Psychology: Fear of regulation spread. Parallel: EU fines on Google. Analogies: 1) Taxman knocking at profitable door. 2) Golden goose clipped wings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "WSJ coverage heavy, X keyword search reveals #AAPLdoomed with lawyer quotes viral."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold, services growth offsets.",
+                "short_position": "Short for 4% to $215.",
+                "key_risks": "Appeal success, AI features announcement."
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory news solid, but appeals possible."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 192.75,
+                "market_cap": "$2.01T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 201.2,
+                    "low": 151.61
+                },
+                "pe_ratio": 42.1,
+                "volume": "42M",
+                "recent_dividend": "Initiated $0.50 semi-annual (yield 0.52%)"
+            },
+            "impact_theory": "Amazon AWS announced major AI infrastructure expansion April 22, partnerships with Anthropic. Implications: Cloud dominance strengthens. Psychology: Re-rating higher. Parallel: 2023 AWS rebound. Analogies: 1) Building bigger cloud castle. 2) Fueling the AI engine room.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "CNBC positive, X posts bullish on #AWSAI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6% upside.",
+                "short_position": "Minimal, momentum strong.",
+                "key_risks": "Retail slowdown, capex overrun."
+            },
+            "confidence_rating": "A",
+            "justification": "Strategic AI move aligns with trends."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 498.2,
+                "market_cap": "$1.25T",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 531.65,
+                    "low": 370.0
+                },
+                "pe_ratio": 28.3,
+                "volume": "22M",
+                "recent_dividend": "$0.50 quarterly (yield 0.41%)"
+            },
+            "impact_theory": "Meta Q1 earnings April 22 showed ad revenue beat, but metaverse losses widened. Implications: Core biz strong, moonshot drags. Psychology: Mixed, focus on AI ads. Parallel: Early Amazon losses. Analogies: 1) Profitable body with experimental limb. 2) Racing car with heavy backpack.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Mixed news but ad strength wins; X sentiment 60% positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on ad momentum, 4% gain.",
+                "short_position": "Short metaverse narrative for limited downside.",
+                "key_risks": "User growth stall, regulation."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals reduce confidence."
+        }
+    ]
+}
