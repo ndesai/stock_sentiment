@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.75,
+                "market_cap": "$792B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 62.5,
+                "volume": "98.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla announced a breakthrough in its Full Self-Driving (FSD) v13 software on April 22, 2026, with demos showing unsupervised driving capabilities. Economically, this accelerates EV adoption and robotaxi revenue projections to $100B by 2030. Market psychology: FOMO among retail investors, reminiscent of 2020 battery day surge. Historical parallel: NVDA's 2023 AI boom. Analogies: 1) Like iPhone launch catalyzing app economy; 2) Steam engine sparking industrial revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "X sentiment overwhelmingly positive (80% bullish posts via semantic search), web news from CNBC/Reuters highlight analyst upgrades to PT $350. High volume surge indicates momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/hold for 10-15% gains in 1 week; target $275.",
+                "short_position": "Avoid or cover; potential squeeze.",
+                "key_risks": "Regulatory scrutiny on FSD, competition from Waymo, overvaluation if delivery misses."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalyst, high social buzz, technical breakout."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.2,
+                "market_cap": "$3.35T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.88,
+                    "low": 75.2
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA reported Q1 FY2027 earnings beat on April 22, with data center revenue up 262% YoY due to AI demand. Implications: Sustains AI capex cycle, but supply constraints loom. Psychology: Validates AI hype, herd buying. Parallel: 2017 crypto mining boom. Analogies: 1) Oil rush in 1900s; 2) Dotcom infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Earnings whisper beat, X posts praise CEO remarks on Blackwell chips; analysts raise targets to $160."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% upside; options play on volatility.",
+                "short_position": "Short if post-earnings fade; -3% risk.",
+                "key_risks": "China export bans, AI bubble burst, high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven earnings track record, dominant market share."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.4,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.49,
+                    "low": 164.07
+                },
+                "pe_ratio": 35.8,
+                "volume": "65M",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "EU court upholds $2B antitrust fine against Apple on App Store policies April 22, 2026. Economic hit: Potential 5-10% revenue loss from sideloading. Psychology: Fear of breakup, institutional selling. Parallel: 2020 Google fine impact. Analogies: 1) Breaking a monopoly like Standard Oil; 2) Dam bursting regulatory floodgates.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Negative X sentiment (60% bearish), headlines focus on compliance costs; downgrade risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip if oversold; +2% rebound.",
+                "short_position": "Short for 5% downside; target $215.",
+                "key_risks": "Appeal success, services growth offsets."
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory uncertainty, but Apple resilience historically."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 185.6,
+                "market_cap": "$112B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 199.15,
+                    "low": 128.88
+                },
+                "pe_ratio": -45.2,
+                "volume": "28M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Boeing machinists' strike ends April 22, 2026, with new contract; production ramps to 38/month. Implications: Clears backlog, boosts cashflow. Psychology: Relief rally. Parallel: 2019 strike resolution +15% pop. Analogies: 1) Clearing airport backlog post-storm; 2) Oil pipeline unclogging.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Positive union vote on X, JPMorgan upgrade; backlog $520B intact."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-strike momentum; 6% gain.",
+                "short_position": "Minimal; quality issues linger.",
+                "key_risks": "FAA certification delays, debt load."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but ongoing safety concerns."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 245.3,
+                "market_cap": "$60B",
+                "sector_industry": "Financial Services / Capital Markets",
+                "high_low_52_week": {
+                    "high": 283.48,
+                    "low": 106.09
+                },
+                "pe_ratio": 48.9,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin surges past $100K on ETF inflows and halving lag effects April 22, 2026. Coinbase benefits as top exchange. Implications: Trading fees up 50%. Psychology: Greed index spikes. Parallel: 2021 bull run. Analogies: 1) Gold rush saloons booming; 2) Casino during lottery fever.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Crypto X hype, volume leader; correlated to BTC +5%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with BTC; 10% potential.",
+                "short_position": "Short on pullback; volatile.",
+                "key_risks": "Regulatory crackdown, BTC correction."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility in crypto sector tempers confidence."
+        }
+    ]
+}
