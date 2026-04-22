@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GEV",
+                "full_name": "GE Vernova Inc.",
+                "current_price": 172.5,
+                "market_cap": "$48.2B",
+                "sector_industry": "Industrials / Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 205.0,
+                    "low": 98.5
+                },
+                "pe_ratio": 28.4,
+                "volume": "6.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "GE Vernova reported blowout Q1 earnings with EPS $17.44 vs $2 est, revenue $9.34B vs $9.26B est, raised FY guidance, massive $20B backlog from AI data center power demand. Economic implications: accelerates energy transition, boosts infrastructure spend. Market psychology: FOMO on AI/power play, historical parallel to 2021 semis boom. Analogies: like Cisco in dotcom for networking, or NVDA now for power.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings crush, guidance raise amid AI energy surge; X sentiment exploding positive (posts on beats, orders); web news highlights backlog, up 8% premarket."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% gains on continued AI tailwinds",
+                "short_position": "Avoid or short if macro slowdown",
+                "key_risks": "Overheating valuation, supply chain for turbines, competition from Siemens."
+            },
+            "confidence_rating": "A",
+            "justification": "Massive beat, structural demand from AI data centers, strong X/web sentiment."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 185.2,
+                "market_cap": "$112.5B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 145.0
+                },
+                "pe_ratio": -15.2,
+                "volume": "12.1M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Q1 smaller loss than expected, revenue $22.22B beat, production ramps. With Iran ceasefire, lower fuel costs aid airlines/orders. Implications: stabilizes cash flow, backlog intact. Psychology: relief rally after woes. Parallels: post-737 crisis recovery. Analogies: like airline post-9/11 rebound, or Airbus rival gains.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Beat expectations amid ceasefire positivity for aviation; positive premarket +4%; X mentions up on results."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% upside on delivery ramps",
+                "short_position": "Short if FAA issues persist",
+                "key_risks": "Regulatory delays, labor strikes, defense cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but ongoing challenges; ceasefire helps."
+        },
+        {
+            "details": {
+                "ticker": "VRT",
+                "full_name": "Vertiv Holdings Co",
+                "current_price": 98.75,
+                "market_cap": "$37.1B",
+                "sector_industry": "Industrials / Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 45.6,
+                "volume": "8.5M",
+                "recent_dividend": "$0.03 quarterly"
+            },
+            "impact_theory": "Q1 EPS beat but Q2 guidance disappointed despite AI data center demand. Implications: growth intact but margins pressured. Psychology: sell news. Parallels: 2023 cooling stocks post boom. Analogies: like Super Micro post earnings dips.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Guidance miss despite beat; down 4% premarket; X mixed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 20% recovery",
+                "short_position": "Short for 10% downside",
+                "key_risks": "AI demand slowdown, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but guidance risk."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 520.4,
+                "market_cap": "$232B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "4.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "$25B buyback signals confidence amid AI competition fears. Implications: supports EPS growth, offsets dilution. Psychology: value unlock. Parallels: MSFT buybacks. Analogies: Apple trillion buyback era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Massive buyback announced; up 3% premarket; positive news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8-12% on AI tools",
+                "short_position": "Short if AI rivals erode",
+                "key_risks": "Competition from open AI, subscription churn."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear capital return, strong cash flow."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla Inc.",
+                "current_price": 248.3,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 65.3,
+                "volume": "95M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 earnings anticipation high post deliveries miss; Robotaxi/Optimus updates expected. Ceasefire eases energy costs. Implications: EV demand pivot to AI. Psychology: high volatility. Parallels: 2020 delivery beats. Analogies: like Amazon AWS pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+/-10%",
+                "reasoning": "Earnings eve hype; X buzz on autonomy; ceasefire positive for margins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 20% pop on guidance",
+                "short_position": "Short post miss",
+                "key_risks": "Demand weakness, China comp, regulatory."
+            },
+            "confidence_rating": "C",
+            "justification": "High uncertainty pre-earnings."
+        }
+    ]
+}
