@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SAVE",
+                "full_name": "Spirit Airlines, Inc.",
+                "current_price": 1.25,
+                "market_cap": "$165M",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 5.5,
+                    "low": 0.25
+                },
+                "pe_ratio": -1.2,
+                "volume": "450M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Trump administration nearing $500M rescue package including loan and warrants for up to 90% stake post-bankruptcy. Economically, prevents job losses (14k) and airline capacity reduction amid high fuel costs from Iran tensions. Psychologically, boosts confidence in govt support for strategic sectors, FOMO buying. Historical parallel: 2020 CARES Act airline bailouts spurred +200% rallies. Analogies: Like a lifeline to a sinking ship turning it into a yacht; govt backstop as 'put option' on distressed assets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+150%",
+                "reasoning": "Rescue news caused intraday surge; X sentiment positive on survival odds despite criticism of bailouts. Web news confirms advanced talks, high volume indicates momentum continuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +50-100% gains if deal closes; target $2.50.",
+                "short_position": "Short post-pump if deal fails; potential -30%.",
+                "key_risks": "Deal collapse, dilution from warrants, ongoing bankruptcy."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete news from WSJ/CNBC, massive volume shift, historical precedents strong."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 238.75,
+                "market_cap": "$760B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 62.5,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings post-close: Exp EPS $0.33-0.37, Rev $22B; focus on FSD/Robotaxi/Optimus amid EV slowdown. Econ: Signals AI pivot viability. Psych: High anticipation, Elon updates drive volatility. Historical: Post-earnings swings avg 10%, 2024 robotaxi delay -12%. Analogies: Earnings as 'black box' reveal - treasure or bomb; narrative shift like iPhone launch eclipsing hardware misses.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X buzz on AI metrics; analysts bullish on autonomy. Consensus beat likely, energy storage record."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 15%+ if AI beats; target $280.",
+                "short_position": "Short if margin miss; -10% downside.",
+                "key_risks": "Delivery miss, capex fears, China competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings uncertainty high, but positive X sentiment and analyst PTs supportive."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 184.2,
+                "market_cap": "112B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 145.0
+                },
+                "pe_ratio": -15.0,
+                "volume": "22M",
+                "recent_dividend": "$0.02 quarterly"
+            },
+            "impact_theory": "Q1 rev $22.2B up on 143 deliveries (vs 130 prior). Econ: Recovery in production amid supply chain ease. Psych: Relief on execution post-crises. Historical: Delivery beats +5-10% moves. Analogies: Like a phoenix rising from safety scandals; steady deliveries as heartbeat stabilizing valuation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Solid results beat fears; X/news positive on ramp-up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% to $200.",
+                "short_position": "Avoid; limited downside.",
+                "key_risks": "Regulatory hurdles, labor issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Actual results positive, but ongoing challenges temper."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 44.8,
+                "market_cap": "14.8B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 34.0
+                },
+                "pe_ratio": 5.8,
+                "volume": "18M",
+                "recent_dividend": "$0.15 quarterly"
+            },
+            "impact_theory": "Slashed FY26 EPS to $7-11 from $12-14 on fuel surge from Iran war. Econ: Higher costs pressure margins across airlines. Psych: Fear contagion to sector. Historical: Fuel spikes 2022 -20% drops. Analogies: Fuel as rising tide sinking boats; outlook cut like storm warning grounding flights.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7%",
+                "reasoning": "Cut due to geopolitics; X sentiment negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if oversold; +5%.",
+                "short_position": "Short for -15%; target $38.",
+                "key_risks": "Ceasefire rally, demand strength."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit guidance cut, tied to macro fuel."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 145.6,
+                "market_cap": "235B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "82M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top S&P gainer +4.5% on tech rally, AI chip demand. Econ: Semis lead market amid ceasefire hopes. Psych: Momentum chasing. Historical: AI hype waves +10% days. Analogies: Riding AI tsunami; coattails of NVDA surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Market leader in movers; positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum +8%; target $155.",
+                "short_position": "Fade rally -5%.",
+                "key_risks": "Overbought, broader tech pullback."
+            },
+            "confidence_rating": "C",
+            "justification": "Momentum play, less specific news."
+        }
+    ]
+}
