@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WST",
+                "full_name": "West Pharmaceutical Services, Inc.",
+                "current_price": 311.98,
+                "market_cap": "$22.8B",
+                "sector_industry": "Healthcare / Medical Instruments & Supplies",
+                "high_low_52_week": {
+                    "high": 350.2,
+                    "low": 200.5
+                },
+                "pe_ratio": 48.7,
+                "volume": "1.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "West Pharmaceutical reported strong Q1 2026 earnings, surprising with beats on revenue and EPS amid robust demand for drug delivery systems. Economically, this signals resilience in pharma supply chains despite global tensions. Market psychology shifted bullish as investors pile into healthcare winners post-earnings. Historical parallel: Similar to 2021 post-COVID vaccine boom rallies in med device stocks. Analogies: Like a dam breaking after pressure buildup (earnings pent-up demand), or a slingshot pulled back releasing (guidance optimism).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings beat and stock soar +13-18% premarket/intraday per news and X posts. Positive sentiment on X with Wyckoff accumulation mentions. Web news confirms Q1 surprise, third triple play."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% gains on continued healthcare rotation; target $380.",
+                "short_position": "Avoid short; momentum strong.",
+                "key_risks": "Broader market pullback from oil tensions, overbought post-earnings."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, high volume, consistent news alignment."
+        },
+        {
+            "details": {
+                "ticker": "TXN",
+                "full_name": "Texas Instruments Incorporated",
+                "current_price": 260.5,
+                "market_cap": "$236B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 32.5,
+                "volume": "7.5M",
+                "recent_dividend": "$1.36 quarterly"
+            },
+            "impact_theory": "TXN Q1 earnings beat with 90% YoY data center revenue growth and strong guidance. Implications: Analog chip demand surges with AI/industrial recovery. Psychology: Relieves semi sector fears amid software weakness. Parallels: 2022 semi recovery post-shortage. Analogies: Engine revving in a rally car (data center acceleration), or tide turning after low (industrial resilience).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Stock up 9-16% on earnings/guidance per X and web. BofA upgrade to Buy $320 PT. X highlights sector lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% to $300; semis momentum.",
+                "short_position": "Short if capex concerns resurface, potential -5%.",
+                "key_risks": "Macro semi slowdown, China tensions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong fundamentals, analyst upgrade, high engagement on X."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 245.2,
+                "market_cap": "$780B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 310.5,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.3,
+                "volume": "115M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat but higher CapEx warning on robots/FSD, amid calmer Musk tone. Implications: Delays capex profitability. Psychology: Investors sell on guidance disappointment despite beat. Parallels: 2022 post-earnings dips. Analogies: Sugar high crash (beat then guidance), or balloon deflating (hype vs reality).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Stock falls post-earnings per Yahoo/CNBC. X mixed with promo spam but criticism on shorts/value drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for rebound +10% if robotaxi hype.",
+                "short_position": "Short for -10% on continued weakness.",
+                "key_risks": "Musk tweet reversal, EV demand surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but guidance concerns; high volatility."
+        },
+        {
+            "details": {
+                "ticker": "MOH",
+                "full_name": "Molina Healthcare, Inc.",
+                "current_price": 162.31,
+                "market_cap": "$18.9B",
+                "sector_industry": "Healthcare / Healthcare Plans",
+                "high_low_52_week": {
+                    "high": 430.0,
+                    "low": 299.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "1.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 sales in-line, but Michael Burry increases position signaling value. Implications: Medicaid stability amid policy shifts. Psychology: Smart money inflow boosts confidence. Parallels: Burry's past healthcare picks. Analogies: Whale spotting in calm waters (Burry buy), or undervalued gem unearthed.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Premarket +6%; Burry buying per X. Earnings in-line but positive tracker."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +12% on healthcare tailwinds.",
+                "short_position": "Minimal; value play.",
+                "key_risks": "Policy changes, EPS guidance cut."
+            },
+            "confidence_rating": "B",
+            "justification": "Burry catalyst strong but earnings muted."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 152.62,
+                "market_cap": "$340B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 21.0
+                },
+                "pe_ratio": 210.4,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ongoing AI hype with DoD funding rumors; S&P mover up 4.56%. Implications: Gov/commercial contracts expand. Psychology: Momentum from AI narrative persists. Parallels: 2023 AI boom. Analogies: Rocket fuel ignition (AI contracts), snowball rolling downhill (hype accumulation).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "X promo heavy, price targets mixed but positive flow. Web predictions optimistic despite some bearish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum +15% to $175.",
+                "short_position": "Short overvaluation -10%.",
+                "key_risks": "Earnings miss, valuation compression."
+            },
+            "confidence_rating": "C",
+            "justification": "Hype-driven, less concrete news vs others."
+        }
+    ]
+}
