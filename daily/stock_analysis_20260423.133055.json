@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 375.5,
+                "market_cap": "1.2T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 100.5,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 2026 earnings beating EPS estimates (0.41 vs 0.37) and revenue ($22.4B), with improving margins from services/FSD. However, high capex ($25B planned), inventory buildup, and cautious guidance led to post-earnings slip. Economic implications: EV demand softening amid high rates; market psychology: disappointment despite beat due to lofty valuations (PE 100+). Historical parallels: Similar post-earnings dips in 2024/2025 followed by recoveries within 60 days. Analogies: 1. High-jumper clearing bar but crowd expecting moonshot. 2. Fireworks fizzling after bright start.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -5%",
+                "reasoning": "X sentiment mixed/neutral post-earnings; initial 4% AH pop faded to -3% today. Web news highlights beats but capex/margin concerns; high expectations priced in perfection."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 10-15% recovery in 1-2 months on historical pattern.",
+                "short_position": "Short for 5-8% near-term on momentum fade.",
+                "key_risks": "Elon comments/Musk factor reversal; broader tech selloff or positive FSD/Optimus updates."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong historical recovery pattern but current macro (oil/geopolitics hurting growth stocks) adds uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 135.2,
+                "market_cap": "500B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 12.3,
+                "volume": "22M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Oil prices surged >$100/bbl on stalled US-Iran talks, Hormuz impasse/blockade fears disrupting 20% global supply. Implications: Higher energy costs boost integrated majors' refining margins; psychology: Risk-on for energy amid stagflation fears. Parallels: 2019 Iran tensions, 2022 Ukraine oil spike. Analogies: 1. Tailwind filling sails of oil tanker. 2. Drought benefiting well owners.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +6%",
+                "reasoning": "Web/X highlight oil rise despite ceasefire; energy outperforming S&P. Sentiment shift positive on supply risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% on sustained oil >$105.",
+                "short_position": "Avoid; limited downside unless quick de-escalation.",
+                "key_risks": "Sudden Hormuz reopening or ceasefire breakthrough crashing oil."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear supply disruption link to oil prices; historical geo-premiums reliable."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.8,
+                "market_cap": "300B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 13.1,
+                "volume": "10M",
+                "recent_dividend": "1.63 (quarterly)"
+            },
+            "impact_theory": "Similar to XOM; Chevron benefits from upstream production and downstream refining amid oil spike from Hormuz tensions. Implications: Windfall profits, dividend appeal in uncertain markets. Psychology: Flight to energy stability. Parallels: Gulf War oil shocks. Analogies: 1. Rainmaker in desert economy. 2. Anchor holding firm in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +5%",
+                "reasoning": "Tied to oil surge; X mentions energy trouncing market."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7-10% gains.",
+                "short_position": "Minimal opportunity.",
+                "key_risks": "Oil reversal on diplomacy."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to WTI/Brent prices."
+        },
+        {
+            "details": {
+                "ticker": "UAL",
+                "full_name": "United Airlines Holdings, Inc.",
+                "current_price": 48.75,
+                "market_cap": "15B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 40.0
+                },
+                "pe_ratio": 8.2,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rising oil/jet fuel from Hormuz squeezes airline margins (fuel ~30% costs). Implications: Higher fares, demand destruction risk. Psychology: Risk-off for transports. Parallels: 2022 oil spike hurting carriers. Analogies: 1. Headwind battering plane. 2. Fuel guzzler in gas crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -7%",
+                "reasoning": "S&P losers include airlines; oil up hurts sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; wait for oil peak.",
+                "short_position": "Short for 6-10% on continued tensions.",
+                "key_risks": "Fuel hedging protects; demand resilience."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong inverse oil-airline link, but hedges vary."
+        },
+        {
+            "details": {
+                "ticker": "SLB",
+                "full_name": "Schlumberger Limited",
+                "current_price": 46.9,
+                "market_cap": "65B",
+                "sector_industry": "Energy / Oil & Gas Equipment",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "12M",
+                "recent_dividend": "0.285 (quarterly)"
+            },
+            "impact_theory": "Oil services ramp activity on higher prices/investment. Hormuz boosts E&P spending. Implications: Backlog growth. Psychology: Levered energy play. Parallels: Post-2021 oil recovery. Analogies: 1. Toolbox for oil boom. 2. Pickaxe in gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +8%",
+                "reasoning": "Oil up drives services; sector outperforming."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10%+ levered gains.",
+                "short_position": "High risk.",
+                "key_risks": "Oil capex lag; recession curbs drilling."
+            },
+            "confidence_rating": "B",
+            "justification": "Lagged response to oil but strong fundamentals."
+        }
+    ]
+}
