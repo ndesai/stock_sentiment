@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 382.5,
+                "market_cap": "$1.42T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 95.2,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla reported Q1 2026 earnings beating EPS estimates at $0.41 vs $0.37 expected but revenue slightly missed. High capex guidance ($25B+) and negative FCF outlook raised concerns despite AI hardware acquisition for $2B. Market psychology shifted from initial euphoria to caution on spending; historical parallels to 2018 capex spikes leading to pullbacks. Analogies: Like a race car flooring the accelerator but burning too much fuel (capex), or investing in a promising startup with high burn rate.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "X posts show mixed sentiment with bears focusing on capex and FCF; initial 4% AH gain erased. Web news highlights slide post-earnings despite beat, amid broader market caution from oil tensions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for long-term AI/robotaxi growth, potential +15% in 3 months if sentiment rebounds.",
+                "short_position": "Short for -10% near-term on capex fears, cover before robotaxi updates.",
+                "key_risks": "Geopolitical oil spikes hurt EV demand; Elon Musk comments volatility; regulatory hurdles for FSD."
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of recent news/X posts, clear earnings catalyst with strong sentiment shift data."
+        },
+        {
+            "details": {
+                "ticker": "TXN",
+                "full_name": "Texas Instruments Incorporated",
+                "current_price": 195.0,
+                "market_cap": "$175B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12M",
+                "recent_dividend": "$1.36 quarterly"
+            },
+            "impact_theory": "TXN Q1 earnings crushed estimates: revenue $4.83B (beat), EPS $1.68 (beat). Strong analog/mixed-signal demand amid AI boom. Positive market psych from chip sector rotation; parallels to 2021 semi recovery. Analogies: Engine roaring back to life in a recovering auto (semis cycle), or steady dividend grower shining in volatile tech.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Premarket surge 12-18%; X buzz on options/call volume spike; news confirms beat and shareholder returns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% ride on semi strength, hold through Q2.",
+                "short_position": "Avoid or small short if overbought, potential -5% pullback.",
+                "key_risks": "Broader semi slowdown if AI hype fades; China trade tensions."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings data, premarket move confirmed, but dependent on sector rotation."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 128.5,
+                "market_cap": "$500B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices surged >$100 Brent on Hormuz tensions/Iran ship seizures despite ceasefire. XOM benefits as integrated major with refining hedge. Psych: Fear premium boosts energy; historical 2019 Hormuz drone attacks +10% oil. Analogies: Like insurance payout on global supply fears, or farmer profiting from drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Web/X highlight oil rally amid geopolitics; energy sector up 2-4%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +8% if tensions persist.",
+                "short_position": "Short if ceasefire holds, -5%.",
+                "key_risks": "De-escalation drops oil; recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geo catalyst, but resolution uncertain."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 650.0,
+                "market_cap": "$38B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI tumbled 10% on legal overhang (accounting probe?) clashing with AI server demand. Psych: Profit-taking post-rally; parallels to 2022 crypto winters. Analogies: High-flyer hitting turbulence, or sprinter pulling hamstring.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "News on legal issues overriding AI momentum; high volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for AI rebound +25%.",
+                "short_position": "Short to -15% if probe worsens.",
+                "key_risks": "Earnings May catalyst; competitor gains."
+            },
+            "confidence_rating": "C",
+            "justification": "Specific news but less X volume."
+        },
+        {
+            "details": {
+                "ticker": "IBM",
+                "full_name": "International Business Machines Corporation",
+                "current_price": 185.0,
+                "market_cap": "$170B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "8M",
+                "recent_dividend": "$1.67 quarterly"
+            },
+            "impact_theory": "IBM beat earnings but slipped on guidance concerns amid AI competition. Mixed tech sentiment. Parallels to legacy tech rotations. Analogies: Veteran boxer landing punches but tiring.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2%",
+                "reasoning": "Premarket slip despite beat; X mentions in movers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dividend stability +10%.",
+                "short_position": "Short rotation out -5%.",
+                "key_risks": "AI pivot success; macro slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Mentioned in movers, moderate sentiment shift."
+        }
+    ]
+}
