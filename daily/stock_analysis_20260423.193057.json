@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVTS",
+                "full_name": "Navitas Semiconductor Corporation",
+                "current_price": 18.47,
+                "market_cap": "$3.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 25.6,
+                    "low": 3.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Navitas announced a major supply deal with a leading EV manufacturer for GaN power chips, boosting revenue forecasts. Economic implications include accelerated adoption of efficient power tech in EVs and data centers, reducing energy costs. Market psychology: FOMO on AI/EV supply chain plays. Historical parallel: Similar to Nvidia's surge post-CUDA in 2017. Analogies: 1. Like rocket fuel for EV acceleration. 2. GaN chips as the new lithium for power efficiency.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Recent news of partnership and strong Q1 earnings beat, X sentiment highly positive with viral posts on GaN tech revolution (20+ high engagement posts), web searches confirm top gainer status."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 20% gain in 1 week on momentum.",
+                "short_position": "Avoid or short if overbought RSI>80, potential 10% pullback.",
+                "key_risks": "Competition from Infineon, supply chain disruptions, market rotation from tech."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalyst, high volume surge, consistent top gainer mentions."
+        },
+        {
+            "details": {
+                "ticker": "ADBE",
+                "full_name": "Adobe Inc.",
+                "current_price": 236.55,
+                "market_cap": "$110B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 638.0,
+                    "low": 230.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "8M",
+                "recent_dividend": "$0.00 (no dividend)"
+            },
+            "impact_theory": "Adobe missed earnings due to slowing AI tool subscriptions amid competition from open-source alternatives. Economic: Highlights saturation in creative software, pressure on SaaS pricing. Psych: Fear of growth slowdown in megacap tech. Parallel: Like Salesforce post-2022 slowdown. Analogies: 1. Crumbling castle under siege. 2. Balloon deflating after hype peak.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Earnings miss reported, X posts criticizing Firefly AI, top loser in S&P500."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy at $220, potential rebound 10%.",
+                "short_position": "Short for 12% downside to $210 support.",
+                "key_risks": "AI integration turnaround, analyst upgrades."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings catalyst, but history of quick recoveries."
+        },
+        {
+            "details": {
+                "ticker": "INTU",
+                "full_name": "Intuit Inc.",
+                "current_price": 374.9,
+                "market_cap": "$105B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 660.0,
+                    "low": 370.0
+                },
+                "pe_ratio": 35.1,
+                "volume": "5M",
+                "recent_dividend": "$1.84 annual"
+            },
+            "impact_theory": "Intuit guidance cut on tax software weakness post-recession fears. Implications: Consumer spending caution hits fintech. Psych: Risk-off in software. Parallel: 2008 financials drop. Analogies: 1. Tax season flu hitting revenue. 2. Iceberg warning for SaaS.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Guidance downgrade, negative X chatter on SMB slowdown."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if holds $370, 8% upside.",
+                "short_position": "Short targeting $340, 10% gain.",
+                "key_risks": "Tax deadline surge, macro recovery."
+            },
+            "confidence_rating": "B",
+            "justification": "Macro tied, volume confirms selling."
+        },
+        {
+            "details": {
+                "ticker": "LVS",
+                "full_name": "Las Vegas Sands Corp.",
+                "current_price": 51.14,
+                "market_cap": "$40B",
+                "sector_industry": "Consumer Cyclical / Casinos",
+                "high_low_52_week": {
+                    "high": 61.0,
+                    "low": 40.5
+                },
+                "pe_ratio": 22.3,
+                "volume": "12M",
+                "recent_dividend": "$0.00 (suspended)"
+            },
+            "impact_theory": "Macau gaming revenue miss due to China economic slowdown. Implications: Travel/leisure sector vulnerable to geopolitics. Psych: Risk aversion to cyclicals. Parallel: COVID casino crash 2020. Analogies: 1. Empty casino floor echo. 2. Dominoes falling in Asia recovery hopes.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-9-14%",
+                "reasoning": "China data weak, X sentiment bearish on gaming."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid until $45.",
+                "short_position": "Short for 15% to $43.",
+                "key_risks": "China stimulus, tourism rebound."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical sensitivity high."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.2,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 75.8,
+                "volume": "300M",
+                "recent_dividend": "$0.04 quarterly"
+            },
+            "impact_theory": "Nvidia partners with quantum computing firm, expanding beyond GPUs. Implications: Diversifies AI dominance. Psych: Continued AI euphoria. Parallel: Intel's microprocessor era start. Analogies: 1. GPU as oil for AI engine. 2. Bridge to quantum leap.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Quantum news viral on X, analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 8% gain.",
+                "short_position": "High valuation risk, 10% correction possible.",
+                "key_risks": "AI bubble burst, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Market leader, strong sentiment."
+        }
+    ]
+}
