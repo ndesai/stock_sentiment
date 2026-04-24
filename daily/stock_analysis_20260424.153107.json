@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 35.5,
+                "market_cap": "$150B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 50.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 25.5,
+                "volume": "150M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Intel reported impressive Q1 2026 earnings on April 24, beating estimates by 20% on revenue and providing upbeat guidance for AI chip demand. Economic implications include boosted US semiconductor self-sufficiency amid trade tensions. Market psychology: Relief rally after years of struggles, FOMO buying. Historical parallels: Similar to AMD's 2021 surge post-earnings. Analogies: 1. Like a phoenix rising from ashes after restructuring. 2. A dam breaking, releasing pent-up investor enthusiasm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Premarket +26% on earnings beat, X sentiment highly positive with high engagement on #INTC, web news highlights turnaround story. Continued momentum expected into April 25 open."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 15-25% gains in next week on momentum.",
+                "short_position": "Avoid or short above $45 if fades, potential 5-10% pullback.",
+                "key_risks": "Overbought, broader market selloff, competition from NVDA/AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from earnings, massive premarket move, strong X buzz."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 155.0,
+                "market_cap": "$250B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 180.0,
+                "volume": "80M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD up 10% premarket following Intel's beat, seen as sector tailwind and precursor to AMD's own strong results. Implications: Accelerating AI/data center growth. Psychology: Sector rotation into semis. Parallels: 2023 NVDA/AMD sympathy moves. Analogies: 1. Rising tide lifts all boats in chip sector. 2. Domino effect from Intel's surprise strength.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-12%",
+                "reasoning": "Sympathy play to INTC, Yahoo/SeekingAlpha articles note positive spillover, X posts bullish on AMD earnings next week."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-15% upside on sector momentum.",
+                "short_position": "Short if sector cools, 5% downside.",
+                "key_risks": "Own earnings miss, valuation stretch."
+            },
+            "confidence_rating": "B",
+            "justification": "Sympathy driven, high but dependent on sector."
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 115.0,
+                "market_cap": "$120B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 90.0,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "ARM +7.8% premarket on semi sector surge led by INTC/AMD, news of increased licensing deals for mobile/AI chips. Implications: Growth in edge AI. Psychology: Broad chip optimism. Parallels: ARM post-IPO runs. Analogies: 1. Fuel to the AI fire. 2. Coattails of big brother Intel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Sector momentum, Benzinga premarket list, positive X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 10% gain.",
+                "short_position": "Minimal, 3-5% dip.",
+                "key_risks": "China exposure, royalty volatility."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid sector play, but less direct news."
+        },
+        {
+            "details": {
+                "ticker": "MXL",
+                "full_name": "MaxLinear, Inc.",
+                "current_price": 25.0,
+                "market_cap": "$2.1B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 30.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MXL +73% on reports of acquisition interest or connectivity chip orders surge. Implications: M&A wave in semis. Psychology: Small cap breakout frenzy. Parallels: 2021 small semi pops. Analogies: 1. Lottery ticket winner in bull market. 2. Spark igniting bigger fire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-40%",
+                "reasoning": "Extreme gainer lists, Yahoo gainers, high volume X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long for 30%+, momentum trade.",
+                "short_position": "Short post-pump 20-30% fade likely.",
+                "key_risks": "Pump/dump, no confirmed news."
+            },
+            "confidence_rating": "C",
+            "justification": "Volatile small cap, rumor driven."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 920.0,
+                "market_cap": "$2.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1000.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 75.0,
+                "volume": "350M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "NVDA stable but up slightly on semi rally, ongoing AI dominance reaffirmed. Implications: Continued capex in AI. Psychology: Leader benefits from peers' gains. Parallels: NVDA's 2023-24 run. Analogies: 1. King of the hill unbothered. 2. Tide lifting the yacht.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Indirect beneficiary, mentions in INTC articles, steady X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5-10% grind higher.",
+                "short_position": "High risk, avoid.",
+                "key_risks": "Valuation bubble, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Market leader, consistent strength."
+        }
+    ]
+}
