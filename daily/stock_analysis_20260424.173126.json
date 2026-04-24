@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 83.25,
+                "market_cap": "$405B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.21,
+                    "low": 18.97
+                },
+                "pe_ratio": -815.38,
+                "volume": "97M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Intel reported Q1 earnings beat with robust server CPU demand driven by AI, upbeat Q2 guidance including pricing increases. Economic implications: Signals ongoing chip shortage, boosting semis sector. Market psychology: Reversal from years of doubt to FOMO buying. Historical parallels: Similar to 2020 semis boom post-COVID. Analogies: Like a dam breaking after prolonged drought (supply constraints), or phoenix rising from ashes of foundry struggles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Earnings surprise +25% surge already, X sentiment highly positive (viral posts, upgrades expected), web news confirms sector lift. Continued AI demand sustains momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% gains on continued semis rally, target $95.",
+                "short_position": "Avoid short, high short squeeze risk post-surge.",
+                "key_risks": "Profit taking after massive move, broader market pullback from low consumer sentiment."
+            },
+            "confidence_rating": "A",
+            "justification": "Overwhelming positive news and X buzz, earnings validated turnaround."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 338.5,
+                "market_cap": "$550B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 46.0,
+                "volume": "50M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sympathy rally from INTC earnings highlighting CPU demand cycle. Implications: Broader semi recovery. Psychology: Validates AI beyond GPUs. Parallels: 2023 AI hype spillover. Analogies: Rising tide lifting all boats in chip harbor; domino effect from Intel's win.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Up 10%+ premarket, X posts bullish on semis S-curve, news ties to INTC CPU boom."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10% to $370 on sector momentum.",
+                "short_position": "Short if fails $330, -5% risk.",
+                "key_risks": "Overreliance on INTC halo, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sympathy but no direct catalyst."
+        },
+        {
+            "details": {
+                "ticker": "PG",
+                "full_name": "Procter & Gamble Co.",
+                "current_price": 151.1,
+                "market_cap": "$350B",
+                "sector_industry": "Consumer Defensive / Household Products",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "10M",
+                "recent_dividend": "$1.01 quarterly"
+            },
+            "impact_theory": "Q3 earnings beat with 7% sales growth from tax refunds. Implications: Resilient consumer staples amid low sentiment. Psychology: Safe haven appeal. Parallels: Post-2008 defensives strength. Analogies: Rock in stormy economy; steady ship in volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Beat estimates, premarket +4%, positive X mentions, counters low consumer sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +5% stability play.",
+                "short_position": "Minimal, dividend yield attractive.",
+                "key_risks": "Rising rates hurt multiples."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but modest move."
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 140.0,
+                "market_cap": "$150B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 90.0,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Riding semis wave from INTC, AI chip design demand. Implications: Ecosystem growth. Psychology: Momentum trader favorite. Parallels: NVDA 2023. Analogies: Conductor in AI orchestra; spark igniting fire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Premarket +8%, sector sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8% to $150.",
+                "short_position": "N/A",
+                "key_risks": "High multiple vulnerable to rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwind strong."
+        },
+        {
+            "details": {
+                "ticker": "CHTR",
+                "full_name": "Charter Communications, Inc.",
+                "current_price": 280.0,
+                "market_cap": "$50B",
+                "sector_industry": "Communication Services / Cable",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 270.0
+                },
+                "pe_ratio": 12.0,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 subscriber losses amid competition. Implications: Cord-cutting acceleration. Psychology: Fear of structural decline. Parallels: 2010s cable woes. Analogies: Sinking ship in streaming sea; domino falling in telecom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Down 23% on news, negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid.",
+                "short_position": "Short -10% to $250.",
+                "key_risks": "Buyout rumors rebound."
+            },
+            "confidence_rating": "C",
+            "justification": "Clear negative catalyst."
+        }
+    ]
+}
