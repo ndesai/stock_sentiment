@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 35.2,
+                "market_cap": "$148B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 40.5,
+                    "low": 15.2
+                },
+                "pe_ratio": 28.5,
+                "volume": "512M",
+                "recent_dividend": "$0.125 quarterly (yield 1.4%)"
+            },
+            "impact_theory": "Intel reported Q1 2026 earnings beating estimates with $13.6B revenue (vs $12.4B exp) and adj EPS $0.29 (vs $0.01 exp), driven by AI data center growth up 22% YoY. Economic implications include boosted US semiconductor self-reliance amid CHIPS Act and gov stake gains ($28B unrealized). Market psychology: Short squeeze and FOMO as legacy chipmaker revives, historical parallel to NVDA's 2023 AI rally (+200% post-earnings). Analogies: 1) Caterpillar post-2009 recovery on infrastructure boom; 2) Ford EV pivot hype in 2021.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Earnings blowout and AI guidance sparked +24% surge; X sentiment highly positive (gov stake +315% gain hyped); web news confirms Wall St buys, Cramer bullish. Continued AI demand supports further upside into next week."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on AI momentum, target $40",
+                "short_position": "Short above $38 if foundry delays emerge, potential 5-10% pullback",
+                "key_risks": "Overbought RSI, competition from NVDA/AMD, geopolitical Taiwan tensions."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, gov backing, high X engagement confirm sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "OGN",
+                "full_name": "Organon & Co.",
+                "current_price": 11.8,
+                "market_cap": "$3.2B",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 12.5,
+                    "low": 6.5
+                },
+                "pe_ratio": 12.2,
+                "volume": "45M",
+                "recent_dividend": "$0.28 quarterly (yield 9.5%)"
+            },
+            "impact_theory": "Rumors of $13B buyout bid by Sun Pharma drove +30% surge. Economic: M&A wave in pharma amid patent cliffs; psych: Speculative frenzy on undervalued dividend play. Historical: Similar to Alexion's $39B AstraZeneca deal (stock +50%). Analogies: 1) Activision pre-MSFT acquisition pump; 2) Twitter hype before Musk buyout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Buyout speculation dominant in news; X mentions in oversold lists but positive volume; premarket +30% confirms shift if deal materializes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on takeover premium, 15-25% to $15",
+                "short_position": "Short if rumors debunked, 10-15% drop",
+                "key_risks": "Deal failure, regulatory hurdles, high yield trap."
+            },
+            "confidence_rating": "B",
+            "justification": "Rumor-driven but strong volume; needs confirmation."
+        },
+        {
+            "details": {
+                "ticker": "LPCN",
+                "full_name": "Lipocine Inc.",
+                "current_price": 0.45,
+                "market_cap": "$15M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 5.2,
+                    "low": 0.4
+                },
+                "pe_ratio": -2.1,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Phase 3 trial for LPCN 1154 (postpartum depression) failed primary endpoint, crashing -78%. Econ: Biotech funding drought hits microcaps; psych: Total capitulation. Historical: Like Cassava Sciences 2022 trial flop (-60%). Analogies: 1) Balloon deflating at party; 2) House of cards in wind.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-30%",
+                "reasoning": "Trial failure news universal; no X buzz, pure selloff; further dilution risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or bottom fish at $0.30 for 50% rebound",
+                "short_position": "Short to $0.20, 30-50% downside",
+                "key_risks": "Short squeeze in pennystock, pivot to new trials."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst failure, massive volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "ASNS",
+                "full_name": "Actelis Networks Inc.",
+                "current_price": 0.09,
+                "market_cap": "$4M",
+                "sector_industry": "Technology / Networking",
+                "high_low_52_week": {
+                    "high": 3.5,
+                    "low": 0.08
+                },
+                "pe_ratio": -1.5,
+                "volume": "80M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Nasdaq delisting to OTC after bid price failure, -73%. Econ: Liquidity crunch for microcaps; psych: Death spiral fear. Historical: Many delistings like BBIG 2023. Analogies: 1) Evicted from luxury apt to street; 2) Bounced check cascade.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-40-60%",
+                "reasoning": "Delisting confirmed, OTC transition; low X sentiment; compliance issues persist."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk reversal play at $0.05",
+                "short_position": "Short to sub-$0.05, delist further",
+                "key_risks": "OTC pumps common, reverse split."
+            },
+            "confidence_rating": "A",
+            "justification": "Regulatory event irreversible short-term."
+        },
+        {
+            "details": {
+                "ticker": "CRM",
+                "full_name": "Salesforce Inc.",
+                "current_price": 175.5,
+                "market_cap": "$170B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 163.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Enterprise software pressure from AI disruption, Dow loser amid tech rotation. Econ: Budget cuts in CRM spend; psych: Valuation reset. Historical: Like ADBE post-2022 slowdown. Analogies: 1) iPhone peak before Android rise; 2) Oil majors in EV shift.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Analyst cuts PT to $215; X neutral; broader tech caution amid Iran news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip to $160 for rebound",
+                "short_position": "Short to $160, 8-10% downside",
+                "key_risks": "AI integration surprise, buyback support."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed news, but sector rotation evident."
+        }
+    ]
+}
