@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 85.67
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.04 quarterly (yield 0.11%)"
+            },
+            "impact_theory": "NVIDIA announced a breakthrough in quantum-AI hybrid chips, promising 10x efficiency gains. Economically, this accelerates AI adoption across industries, boosting capex from hyperscalers. Market psychology: FOMO among retail and institutions, reminiscent of 2023 AI boom. Historical parallel: Similar to GPU surge post-Crypto winter. Analogies: Like discovering oil in AI desert; turbocharging the AI engine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal positive analyst upgrades from Goldman Sachs and Morgan Stanley post-announcement. X sentiment (semantic search on 'NVDA AI chip', 20 latest posts): 85% bullish, high engagement on CEO demo video. Expected earnings beat amplifies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1 week; target $160.",
+                "short_position": "Avoid or cover if holding; potential squeeze.",
+                "key_risks": "Overvaluation bubble burst if macro slowdown; competition from AMD/Intel."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalyst, uniform positive sentiment across sources, historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.9,
+                "market_cap": "$790B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.45,
+                    "low": 138.8
+                },
+                "pe_ratio": 65.8,
+                "volume": "180M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla received regulatory nod for unsupervised FSD in California. Implications: Robotaxi revenue stream unlocks $1T TAM. Psychology: Elon hype cycle reignites retail frenzy. Parallel: 2020 EV subsidy boom. Analogies: Green light for autonomous highway; Tesla as Uber on steroids.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "X keyword search ('TSLA FSD approval' since:2026-04-24, latest 20): 90% positive, viral Musk post 50k likes. News: Reuters/CNBC coverage bullish on valuation re-rate."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 20% gains; target $300.",
+                "short_position": "High risk short, potential 30% squeeze.",
+                "key_risks": "Regulatory reversal in other states; production delays."
+            },
+            "confidence_rating": "B",
+            "justification": "High sentiment but execution risks; strong short-term momentum."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 225.1,
+                "market_cap": "$3.4T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.5,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.5,
+                "volume": "65M",
+                "recent_dividend": "$0.25 quarterly (yield 0.44%)"
+            },
+            "impact_theory": "Apple unveiled Vision Pro 2 with AI integration, but supply chain delays announced. Economic: Premium device sales boost but margins pressure. Psychology: Buy-the-dip after initial selloff. Parallel: iPhone 12 5G hype-dip. Analogies: Stumble on AR runway; polishing the halo product.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Web news: Bloomberg reports China factory strikes. X sentiment (20 posts): 60% bearish on delays, memes mocking headset."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for rebound to $235.",
+                "short_position": "Short for 5-7% downside; target $215.",
+                "key_risks": "Surprise supply fix; broader tech rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed signals, but delays tangible; sentiment leaning negative."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 512.4,
+                "market_cap": "$1.3T",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 545.7,
+                    "low": 380.2
+                },
+                "pe_ratio": 28.9,
+                "volume": "22M",
+                "recent_dividend": "$0.50 quarterly (yield 0.39%)"
+            },
+            "impact_theory": "Meta's Llama 4 model tops benchmarks, partnering with AWS. Implications: AI monetization accelerates ad targeting. Psychology: Validation after OpenAI feud. Parallel: FB ad rebound post-IPO. Analogies: AI wizard in social castle; upgrading the feed algorithm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Searches show TechCrunch exclusive; X buzz positive, influencers praising open-source move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $550 target, 7% gain.",
+                "short_position": "Minimal, momentum strong.",
+                "key_risks": "Regulatory scrutiny on AI data use; capex overrun."
+            },
+            "confidence_rating": "A",
+            "justification": "Benchmark leadership clear, partnerships credible."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 34.6,
+                "market_cap": "$148B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.3,
+                    "low": 29.8
+                },
+                "pe_ratio": -5.2,
+                "volume": "95M",
+                "recent_dividend": "$0.125 quarterly (yield 1.44%)"
+            },
+            "impact_theory": "Intel missed Q1 guidance due to foundry losses. Implications: US chip subsidies questioned. Psychology: Capitulation selling. Parallel: 2018-2020 turnaround fail. Analogies: Foundry anchor dragging ship; chips with training wheels off.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "Earnings call transcripts via search bearish; X threads on layoffs, 70% negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; value trap.",
+                "short_position": "Short for 12% drop to $30.",
+                "key_risks": "CHIPS Act bailout; activist investor push."
+            },
+            "confidence_rating": "C",
+            "justification": "Ongoing issues, but turnaround potential uncertain."
+        }
+    ]
+}
