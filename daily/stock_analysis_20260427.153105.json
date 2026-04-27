@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "Qualcomm Incorporated",
+                "current_price": 250.5,
+                "market_cap": "$280B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 285.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 25.2,
+                "volume": "45M",
+                "recent_dividend": "0.85 quarterly, yield 1.4%"
+            },
+            "impact_theory": "Reports of Qualcomm partnering with OpenAI on a new AI-enabled smartphone chip sparked massive buying interest. This aligns with surging AI demand in mobile devices, boosting market psychology around chipmakers. Economic implications include accelerated AI integration in consumer tech, similar to NVDA's rally on AI hype. Historical parallel: Qualcomm's surge post-Apple settlement in 2019. Analogies: Like Tesla's stock jump on Full Self-Driving reveals; or like Apple during iPhone launches.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Premarket surge of 11-13% on partnership news; X sentiment positive on AI chips; web news highlights OpenAI tie-up driving momentum amid broader chip rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% gains on AI catalyst confirmation; target $280.",
+                "short_position": "Short if partnership denied, potential 5-10% pullback.",
+                "key_risks": "Deal rumors unconfirmed; broader market selloff from Iran tensions; competition from MediaTek."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong premarket move, multiple sources confirming rumor, aligns with AI mega-trend."
+        },
+        {
+            "details": {
+                "ticker": "DPZ",
+                "full_name": "Domino's Pizza, Inc.",
+                "current_price": 341.2,
+                "market_cap": "$12B",
+                "sector_industry": "Consumer Cyclical / Restaurants",
+                "high_low_52_week": {
+                    "high": 499.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "2.5M",
+                "recent_dividend": "1.99 quarterly, yield 2.3%"
+            },
+            "impact_theory": "Q1 earnings miss with EPS $4.13 vs $4.28 expected, revenue $1.15B miss; lowered FY US same-store sales guidance due to shaky consumer spending. Signals broader consumer weakness amid high oil/inflation. Market psychology: Fear of recession hitting discretionary. Historical: Similar to 2022 YUM! drop on comps miss. Analogies: Like MCD post-earnings if Big Mac prices bite; or Starbucks on cold consumer sentiment.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-20%",
+                "reasoning": "Stock down 10% post-earnings; X mentions collapse; news highlights sales flatten, guidance cut."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if stabilizes at $320 for rebound to $380.",
+                "short_position": "Short for 15% downside to $290 on consumer fears.",
+                "key_risks": "Surprise order growth; oil stabilization aids spending; short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings miss, but consumer sector volatile; high short interest possible."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 122.8,
+                "market_cap": "$490B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.1,
+                "volume": "18M",
+                "recent_dividend": "0.95 quarterly, yield 3.1%"
+            },
+            "impact_theory": "Iran peace talks stall, Hormuz tensions keep oil >$96/bbl (WTI up 2%). Boosts energy profits via higher realizations. Psychology: Risk-on for commodities amid geopolitics. Parallels: 2022 Ukraine invasion oil spike. Analogies: Like gold rush in crises; or defense stocks in wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Oil rally on Iran news; X posts highlight geopolitics/oil; web confirms energy up."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $135 on sustained oil >$100.",
+                "short_position": "Short if Hormuz reopens, 5% drop.",
+                "key_risks": "Quick de-escalation; recession curbs demand; OPEC+ increase."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct oil link strong, but geopolitics volatile."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.4,
+                "market_cap": "$290B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "9M",
+                "recent_dividend": "1.63 quarterly, yield 4.0%"
+            },
+            "impact_theory": "Similar to XOM, oil surge from stalled Iran talks benefits upstream earnings. Less Gulf exposure than XOM but still positive. Psychology: Safe haven in energy. Parallels: Gulf War 1990 oil boom. Analogies: Like utility stocks in volatility; or miners in inflation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-6%",
+                "reasoning": "Tied to oil rise; news on big oil during Iran war; positive X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $175 on oil persistence.",
+                "short_position": "Minimal, avoid unless peace deal.",
+                "key_risks": "Hedging impacts; lower production; regulatory on dividends."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector, but less upside than XOM."
+        },
+        {
+            "details": {
+                "ticker": "VZ",
+                "full_name": "Verizon Communications Inc.",
+                "current_price": 42.1,
+                "market_cap": "$177B",
+                "sector_industry": "Communication Services / Telecom",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 37.0
+                },
+                "pe_ratio": 9.5,
+                "volume": "22M",
+                "recent_dividend": "0.665 quarterly, yield 6.3%"
+            },
+            "impact_theory": "Q1 EPS beat $1.28 vs $1.21, but revenue flat amid competition. Kicks off earnings week. Implications: Defensive yield play in volatile market. Psychology: Stability amid Iran/oil noise. Parallels: 2023 beat but muted reaction. Analogies: Like PG in consumer slowdowns; bonds in equity drops.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-4%",
+                "reasoning": "EPS beat per reports; X neutral; sets tone for megacaps."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for dividend capture to $45.",
+                "short_position": "Short if guidance weak, to $39.",
+                "key_risks": "5G capex drag; subscriber loss; rate sensitivity."
+            },
+            "confidence_rating": "C",
+            "justification": "Beat but sector challenges; reaction pending full details."
+        }
+    ]
+}
