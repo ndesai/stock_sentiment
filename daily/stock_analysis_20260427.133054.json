@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 38.5,
+                "market_cap": "$163B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 25.1
+                },
+                "pe_ratio": 32.5,
+                "volume": "85M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Intel reported blowout Q1 2026 earnings with revenue beat and strong AI guidance, fueling semiconductor rally despite Middle East tensions. Economic implications include boosted AI infrastructure spending; market psychology shows FOMO in chips amid tech recovery. Historical parallel: NVDA 2023 AI surge. Analogies: Like a phoenix rising from turnaround ashes; rocket igniting semis sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Q1 beat expectations, PT hikes to $110 street high, X posts hype chip fire; web news confirms surge on AI boom."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued AI momentum pre-earnings season.",
+                "short_position": "Avoid short, high short squeeze risk in hot sector.",
+                "key_risks": "Competition from AMD/TSMC, margin pressures, geopolitical chip bans."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, analyst upgrades, sector leadership confirmed by multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 312.4,
+                "market_cap": "$3.9T",
+                "sector_industry": "Technology / Internet Services",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 240.0
+                },
+                "pe_ratio": 28.2,
+                "volume": "45M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "Positive earnings reaction with +11.5% move; AI investments in Anthropic, new TPUs. Implications: Dominates search/AI ad revenue; psych: relief after capex fears. Parallels: Post-2023 earnings rallies. Analogies: Like upgrading engine mid-flight; fortress in AI wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings momentum from prior week, X buzz on upcoming reports, web highlights AI deals boosting sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $350 on ad/cloud strength, 8-12% upside.",
+                "short_position": "Short if capex guidance disappoints.",
+                "key_risks": "Regulatory antitrust, AI search disruption, high capex drag."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid prior reaction but upcoming earnings add volatility."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 428.75,
+                "market_cap": "$3.2T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 460.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "32M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "+1.8% on earnings, historic rally; Azure AI growth. Econ: Cloud dominance amid AI spend. Psych: Confidence in mega-cap stability. Parallels: 2024 AI tailwinds. Analogies: Like a battleship in tech seas; snowball of subscriptions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Recent positive reaction, anticipation for April 29 report, X mentions in big week."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% on earnings beat.",
+                "short_position": "Short post-earnings if guidance weak.",
+                "key_risks": "Capex inflation, competition from AWS/GCP."
+            },
+            "confidence_rating": "B",
+            "justification": "Proven earnings strength but crowded trade."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 135.2,
+                "market_cap": "$150B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "28M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "15pt gap up premarket, chip stocks fire; HBM/AI memory demand. Implications: Memory supercycle. Psych: Breakout momentum. Parallels: 2021 chip shortage. Analogies: Fuel to AI engine; wave riding semis surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X trader hype on gap/breakout to 600, web on analysts hiking targets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls above 500, 15%+ potential.",
+                "short_position": "Short on cycle peak.",
+                "key_risks": "Memory pricing volatility, supply glut."
+            },
+            "confidence_rating": "A",
+            "justification": "Technical breakout + sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 172.3,
+                "market_cap": "$440B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil climbs on stalled Iran talks, Hormuz risks; energy sector benefits. Econ: Higher crude squeezes supply. Psych: Geopolitical fear premium. Parallels: 2022 Ukraine oil spike. Analogies: Like storm boosting windmill; fire under energy prices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Multiple headlines on oil rise, futures up; counters tech dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on sustained tensions, 5-8% upside.",
+                "short_position": "Short if peace deal.",
+                "key_risks": "Demand slowdown, quick de-escalation."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geo catalyst but short-term volatile."
+        }
+    ]
+}
