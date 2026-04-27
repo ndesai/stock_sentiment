@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "QUALCOMM Incorporated",
+                "current_price": 152.27,
+                "market_cap": "$170B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 205.95,
+                    "low": 121.99
+                },
+                "pe_ratio": 30.01,
+                "volume": "15M",
+                "recent_dividend": "$0.85 quarterly"
+            },
+            "impact_theory": "Reports emerged of Qualcomm partnering with OpenAI and MediaTek to develop AI-powered smartphone processors, igniting AI enthusiasm in mobile sector. Economic implications include boosted demand for edge AI chips amid smartphone refresh cycle. Market psychology: FOMO buying on AI narrative extension beyond PCs/data centers. Historical parallels: NVDA's 2023 rally on ChatGPT. Analogies: Like Intel's Pentium boost in 90s PCs; fuel to smartphone 'AI super cycle'.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Premarket surge 11-13% on CNBC/Reuters reports; X sentiment highly positive with calls on partnership; web news confirms rumor driving volume; chip sector optimism from INTC earnings spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% gains on confirmed partnership/AI hype; target $175.",
+                "short_position": "Short if rumor denied, potential 5% pullback; high risk.",
+                "key_risks": "Rumor unconfirmed, broader chip selloff, Q2 earnings Wed."
+            },
+            "confidence_rating": "A",
+            "justification": "High volume reaction to credible reports from multiple sources, strong X buzz, aligns with AI trend."
+        },
+        {
+            "details": {
+                "ticker": "DPZ",
+                "full_name": "Domino's Pizza, Inc.",
+                "current_price": 350.0,
+                "market_cap": "$12B",
+                "sector_industry": "Consumer Cyclical/Restaurants",
+                "high_low_52_week": {
+                    "high": 499.08,
+                    "low": 346.31
+                },
+                "pe_ratio": 20.0,
+                "volume": "2M",
+                "recent_dividend": "$1.99 quarterly"
+            },
+            "impact_theory": "Q1 earnings miss: EPS $4.13 vs exp $4.29, rev $1.15B miss, lowered US same-store sales guidance due to shaky consumer demand. Implications: Signals consumer spending slowdown in discretionary. Psych: Profit-taking after YTD gains. Parallels: 2022 QSR weakness on inflation. Analogies: Like McD's post-COVID demand fade; pizza as bellwether for casual dining.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Premarket drop 4-10%; lowered guidance key negative; X/web focus on sales miss despite buyback."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy for 10% rebound if consumer stabilizes.",
+                "short_position": "Short for 15% downside; target $300.",
+                "key_risks": "Buyback support, sector rotation to defensives."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings miss but $1B buyback mitigates some downside."
+        },
+        {
+            "details": {
+                "ticker": "VZ",
+                "full_name": "Verizon Communications Inc.",
+                "current_price": 42.5,
+                "market_cap": "$180B",
+                "sector_industry": "Communication Services/Telecom",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 37.0
+                },
+                "pe_ratio": 10.2,
+                "volume": "20M",
+                "recent_dividend": "$0.665 quarterly"
+            },
+            "impact_theory": "Q1 beat: EPS $1.28 > $1.21, EBITDA +6.7%, FY guidance 4.95-4.99. Implications: Steady wireless demand, dividend aristocrat appeal. Psych: Relief rally amid mega-cap earnings start. Parallels: 2024 telecom stability. Analogies: Utility-like in volatile market; backbone for AI data.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Beat and raised guidance; positive transcript highlights; modest X mentions but solid fundamentals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% yield+growth; safe haven.",
+                "short_position": "Avoid, dividend support.",
+                "key_risks": "Interest rates, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong beat but muted reaction in risk-off market."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 120.5,
+                "market_cap": "$480B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil +2.5% to $97 WTI on stalled Iran talks/Trump halt. Implications: Higher input costs/inflation risk, energy profit margins up. Psych: Geopolitical fear premium. Parallels: 2022 Ukraine oil spike. Analogies: Like wheat prices on war; oil as inflation hedge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "Oil surge direct tailwind; X posts bullish on crude; broad energy sector lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% on sustained $100 oil.",
+                "short_position": "Short if de-escalation.",
+                "key_risks": "Peace talks resume, recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to volatile geopolitics/oil."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 35.2,
+                "market_cap": "$150B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 40.0,
+                    "low": 25.0
+                },
+                "pe_ratio": -15.0,
+                "volume": "60M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Q1 blowout earnings spillover to chips; premarket +2.8%. Implications: AI/PC demand resilient. Psych: Sector rotation. Parallels: AMD/INTC 2023 recovery. Analogies: Like Boeing on airline recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Zacks news, premarket gain; X ties to QCOM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum 10%.",
+                "short_position": "Short turnaround fails.",
+                "key_risks": "Foundry losses, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Secondary to QCOM, less direct news."
+        }
+    ]
+}
