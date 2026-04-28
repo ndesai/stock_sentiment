@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 193.5,
+                "market_cap": "$4.75T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "350,000,000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "OpenAI reported missing key sales and user targets, raising doubts about AI hype sustainability. Economic implications include potential slowdown in GPU demand; market psychology shows fear of bubble burst, similar to dot-com era when tech leaders faltered on growth misses. Analogies: 1) Like Cisco in 2000, infrastructure king hit by demand reality. 2) Oil rig boom-bust cycles where capex surges then stalls.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "WSJ report on OpenAI shortfalls triggered 3.5%+ premarket drop; X sentiment negative with panic selling mentions. Web news confirms AI complex under pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 5-10% rebound if support holds at $190; historical pullbacks recover fast.",
+                "short_position": "Short for 10%+ downside targeting $175; high volume selling.",
+                "key_risks": "Unexpected AI demand surge or buyback announcement could reverse; broader market rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consensus across news and X on OpenAI impact; clear sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 84.5,
+                "market_cap": "$365B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 95.0,
+                "volume": "150,000,000",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Q1 earnings beat with EPS 29x expectations, data center +22% YoY; implies turnaround in AI/server chips. Psychology: Relief rally after turnaround narrative. Parallels: AMD's 2016 recovery. Analogies: 1) Like Ford post-2008 restructuring. 2) Caterpillar commodity rebound.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Earnings surge, Barclays PT raise; X posts highlight gap up and momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% upside to $100; momentum intact.",
+                "short_position": "Avoid or small short if RSI overbought fades.",
+                "key_risks": "Short interest piling back; execution risks in turnaround."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but high valuation and short data add caution."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 145.2,
+                "market_cap": "$235B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 185.0,
+                "volume": "120,000,000",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Collateral damage from OpenAI miss despite limited direct exposure; sector rotation out of AI hyperscalers. Implications: Profit-taking after 90% monthly run. Parallels: 2022 chip selloff. Analogies: 1) Boeing supply chain fears. 2) Tesla post-hype correction.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Down 6% on OpenAI news per X/web; panic in AI trade."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at $140 support for 8% bounce.",
+                "short_position": "Short targeting $130; overextended rally.",
+                "key_risks": "Differentiated from NVDA; strong underlying demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Sentiment tied to sector, but less direct hit than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 172.0,
+                "market_cap": "$475B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "80,000,000",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "$300B OpenAI cloud deal at risk from missed targets; CFO spending concerns. Implications: Capacity reallocation needed. Psychology: Fear of customer concentration. Parallels: MSFT Azure growth scares. Analogies: 1) AWS dependency on Amazon. 2) Pipeline burst in energy infrastructure.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Down 7% premarket; WSJ report highlights compute commitments."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy if demand shifts to others; 10% upside.",
+                "short_position": "Short for 12% drop; high exposure.",
+                "key_risks": "ORCL states interchangeable demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct exposure but CEO comments mitigate."
+        },
+        {
+            "details": {
+                "ticker": "GLW",
+                "full_name": "Corning Incorporated",
+                "current_price": 42.5,
+                "market_cap": "$37B",
+                "sector_industry": "Technology/Displays",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 32.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "15,000,000",
+                "recent_dividend": "$0.28 quarterly"
+            },
+            "impact_theory": "Q1 beat on rev/EPS, AI/solar demand; Q2 guide slightly light. Implications: Steady growth in optics for AI data centers. Psychology: Relief on beat amid tech selloff. Parallels: 2021 supply chain winners. Analogies: 1) Fiber optic boom like 5G. 2) Glass for EV batteries.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +4%",
+                "reasoning": "Beat estimates; X mixed but positive on numbers despite guide."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5-8% gains; undervalued.",
+                "short_position": "Minimal; avoid.",
+                "key_risks": "Macro slowdown in tech capex."
+            },
+            "confidence_rating": "C",
+            "justification": "Solid but guide miss tempers enthusiasm."
+        }
+    ]
+}
