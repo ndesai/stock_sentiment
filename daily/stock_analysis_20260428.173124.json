@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 162.5,
+                "market_cap": "$450B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 185.2,
+                    "low": 110.5
+                },
+                "pe_ratio": 38.2,
+                "volume": "12,450,000",
+                "recent_dividend": "$0.40 (quarterly)"
+            },
+            "impact_theory": "Oracle reported Q3 FY2026 earnings on April 28, missing revenue expectations due to slower cloud growth amid competition from AWS and Azure. Economic implications include reduced enterprise spending on AI infrastructure. Market psychology: disappointment in AI hype leading to sell-off. Historical parallels: similar to 2022 cloud slowdowns. Analogies: like a runner stumbling just before the finish line (earnings beat expected but missed); deflating a balloon after hype (AI cloud promises).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Earnings miss led to -8% after-hours drop; X sentiment shows frustration with growth (searches show negative posts on misses); web news highlights weak guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip buy at $140 for 10-15% rebound if market recovers.",
+                "short_position": "Short with potential 10% downside to $145 support; cover if Fed pivot.",
+                "key_risks": "Broader market rally, positive analyst upgrades, macroeconomic improvement."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings miss with high volume and consistent negative sentiment across news and premarket."
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 98.75,
+                "market_cap": "$105B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 75.2
+                },
+                "pe_ratio": 85.4,
+                "volume": "18,200,000",
+                "recent_dividend": "N/A (no recent)"
+            },
+            "impact_theory": "OpenAI-linked concerns and broader AI stock falter amid Nasdaq dip; rumors of delays in partnerships. Implications: reduced demand for chip designs in AI. Psychology: fear of AI bubble burst. Parallels: 2022 chip sell-off post-inflation. Analogies: house of cards shaking (AI ecosystem fragile); tide going out revealing weak swimmers (overvalued AI plays exposed).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7.5%",
+                "reasoning": "Premarket -7.93%; X posts highlight OpenAI issues impacting semis; news on Nasdaq sink due to AI falter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long only below $90 for 20% upside on recovery.",
+                "short_position": "Short targeting $85, potential 12% gain.",
+                "key_risks": "AI rebound news, short squeeze, positive China demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong premarket move but part of sector rotation; sentiment negative but volatile."
+        },
+        {
+            "details": {
+                "ticker": "GLW",
+                "full_name": "Corning Incorporated",
+                "current_price": 35.2,
+                "market_cap": "$30B",
+                "sector_industry": "Technology / Electronic Components",
+                "high_low_52_week": {
+                    "high": 42.5,
+                    "low": 28.1
+                },
+                "pe_ratio": 22.1,
+                "volume": "25,600,000",
+                "recent_dividend": "$0.28 (quarterly)"
+            },
+            "impact_theory": "Earnings miss on weak display glass demand for consumer electronics. Implications: cyclical slowdown in tech supply chain. Psychology: oversupply fears. Parallels: 2020 COVID supply disruptions. Analogies: dam breaking (demand flood recedes); wilting flower in summer heat (seasonal demand drop).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-11%",
+                "reasoning": "Premarket -11.32%; high trading volume indicates conviction sell-off; negative X chatter on earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Minimal, wait for $30 support.",
+                "short_position": "Short for 15% to $30.",
+                "key_risks": "Apple supplier rebound, dividend cut avoidance."
+            },
+            "confidence_rating": "A",
+            "justification": "Largest premarket loser with clear catalyst."
+        },
+        {
+            "details": {
+                "ticker": "OXY",
+                "full_name": "Occidental Petroleum Corporation",
+                "current_price": 62.8,
+                "market_cap": "$55B",
+                "sector_industry": "Energy / Oil & Gas E&P",
+                "high_low_52_week": {
+                    "high": 68.3,
+                    "low": 55.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "9,800,000",
+                "recent_dividend": "$0.22 (quarterly)"
+            },
+            "impact_theory": "Oil prices surge 1-2% on US-Iran tensions, boosting E&P stocks. Implications: higher energy costs, inflation risk. Psychology: flight to safety in commodities. Parallels: 2022 Ukraine invasion rally. Analogies: rocket fuel igniting (geopolitics sparking prices); rising tide lifting boats (oil majors benefit).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.5%",
+                "reasoning": "Premarket +2.45%; X bullish on oil; news confirms surge on tensions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-10% to $68 high.",
+                "short_position": "Avoid, risk de-escalation.",
+                "key_risks": "Geopolitical resolution, demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical driven, volatile but positive sentiment."
+        },
+        {
+            "details": {
+                "ticker": "GM",
+                "full_name": "General Motors Company",
+                "current_price": 46.9,
+                "market_cap": "$54B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 52.1,
+                    "low": 38.2
+                },
+                "pe_ratio": 5.8,
+                "volume": "14,500,000",
+                "recent_dividend": "$0.12 (quarterly)"
+            },
+            "impact_theory": "Strong premarket on positive auto sales data or EV transition news. Implications: resilient consumer spending. Psychology: value rotation from tech. Parallels: post-2023 UAW strike recovery. Analogies: engine revving up (sales momentum); phoenix rising (EV pivot success).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4.5%",
+                "reasoning": "Premarket +4.69%; positive X mentions; sector strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $50, 7% gain.",
+                "short_position": "Short if misses estimates, 5% loss.",
+                "key_risks": "Rising rates hurt autos, supply chain issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid gainer but dependent on broader cyclicals."
+        }
+    ]
+}
