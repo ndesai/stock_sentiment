@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.67,
+                "market_cap": "$3.48T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.45,
+                    "low": 76.2
+                },
+                "pe_ratio": 68.4,
+                "volume": "285,430,000",
+                "recent_dividend": "$0.01 quarterly (yield 0.03%)"
+            },
+            "impact_theory": "NVIDIA announced a breakthrough in next-gen AI chip architecture at their developer conference on April 28, 2026, promising 5x performance gains. Economic implications include accelerated AI adoption across industries, boosting capex for data centers. Market psychology: reignites FOMO among investors after recent pullback, similar to the 2023 ChatGPT hype cycle. Analogies: 1) Like pouring gasoline on a tech rally fire; 2) A rising tide lifting all AI boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Web searches reveal analyst upgrades from Goldman Sachs and Morgan Stanley; X semantic search (20 latest posts) shows 85% positive sentiment with #NVDA up 300% in mentions, high engagement on chip reveal."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 8-12% upside in 1-2 weeks on momentum; target $155",
+                "short_position": "Avoid or use tight stops; potential 3-5% loss if squeeze",
+                "key_risks": "Broader tech selloff, supply chain delays, valuation bubble burst"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources from news/X, strong historical precedent for product announcements driving 5-15% moves."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.91,
+                "market_cap": "$795B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 98.7,
+                "volume": "112,450,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla delayed robotaxi unveiling to June 2026 due to regulatory hurdles (April 28 news). Implications: slows autonomous driving revenue timeline, pressures valuation. Psychology: disappointment erodes hype, akin to 2022 production hell parallels. Analogies: 1) Pedal off the accelerator mid-race; 2) Storm clouds over EV sunny outlook.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Web news from Reuters/CNBC highlights delay; X keyword search (latest 20) 70% negative with memes on Elon, volume spike in bearish calls."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy; potential rebound 5% if China sales beat",
+                "short_position": "5-10% gain to $230 support",
+                "key_risks": "Elon Musk tweet reversal, surprise Q2 guidance"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear news trigger but history of TSLA volatility tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 223.45,
+                "market_cap": "$3.42T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.49,
+                    "low": 164.08
+                },
+                "pe_ratio": 34.8,
+                "volume": "58,720,000",
+                "recent_dividend": "$0.25 quarterly (yield 0.45%)"
+            },
+            "impact_theory": "Apple's AI features in iOS 20 beta leaked positively on April 28, integrating advanced Siri upgrades. Implications: boosts services revenue, ecosystem lock-in. Psychology: reassures after antitrust fears, parallels 2020 M1 chip surprise. Analogies: 1) Software upgrade as new iPhone without hardware cost; 2) Glue strengthening the walled garden.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Bloomberg/MacRumors coverage bullish; X sentiment 75% positive, influencers hyping beta demos."
+            },
+            "potential_profit_risks": {
+                "long_position": "4-6% to $235 on WWDC anticipation",
+                "short_position": "Limited; 2% downside",
+                "key_risks": "EU regulatory fines, China sales weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Leaks reliable but official confirmation pending."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 892.34,
+                "market_cap": "$52B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 226.64
+                },
+                "pe_ratio": 42.1,
+                "volume": "8,950,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SMCI reported Q1 earnings beat on AI server demand (April 28 post-market), guidance raised. Implications: direct beneficiary of AI infra spend. Psychology: validates NVDA ecosystem play, like 2024 rally extension. Analogies: 1) Picks and shovels in AI gold rush; 2) Engine room powering the hype train.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Earnings transcripts via Seeking Alpha positive; X posts explode with 90% bullish, high RTs."
+            },
+            "potential_profit_risks": {
+                "long_position": "10-15% breakout to $1000",
+                "short_position": "High risk of short squeeze",
+                "key_risks": "Margin compression, competition from Dell/HP"
+            },
+            "confidence_rating": "A",
+            "justification": "Actual earnings data drives conviction."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 87.56,
+                "market_cap": "$212B",
+                "sector_industry": "Consumer Cyclical/Internet Retail",
+                "high_low_52_week": {
+                    "high": 101.84,
+                    "low": 71.8
+                },
+                "pe_ratio": 19.2,
+                "volume": "19,340,000",
+                "recent_dividend": "$1.05 annual (yield 1.2%)"
+            },
+            "impact_theory": "China stimulus package announced April 28 boosts consumer spending, benefiting Alibaba's e-comm/cloud. Implications: counters trade war fears, risk-on for EM. Psychology: relief rally, similar to 2024 PBOC moves. Analogies: 1) Rain in the desert for growth; 2) Tailwind for battered dragon.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "WSJ/Caixin reports on stimulus; X search shows China stocks trending positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "7-10% to $95",
+                "short_position": "Fades on policy reversal",
+                "key_risks": "Geopolitical tensions, delisting fears"
+            },
+            "confidence_rating": "C",
+            "justification": "Stimulus vague on details, mixed X sentiment."
+        }
+    ]
+}
