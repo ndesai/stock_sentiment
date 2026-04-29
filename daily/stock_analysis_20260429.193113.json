@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NXPI",
+                "full_name": "NXP Semiconductors N.V.",
+                "current_price": 278.45,
+                "market_cap": "$71.2B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.2,
+                    "low": 198.7
+                },
+                "pe_ratio": 28.3,
+                "volume": "18.2M",
+                "recent_dividend": "$1.14 (quarterly)"
+            },
+            "impact_theory": "NXP reported Q1 2026 earnings beating estimates with $3.18B revenue (+12% YoY) and strong guidance for Q2 ($3.35-3.55B), driven by automotive, industrial, and IoT demand. Economic implications include sustained edge AI and electrification growth amid macro uncertainty. Market psychology: shifts sentiment from datacenter AI fatigue to diversified semi strength, boosting confidence. Historical parallels: Analog to 2021 semi recovery post-shortage. Analogies: Like a reliable Swiss watch in a smartwatch frenzy; the unsung hero engine powering EVs while headlines chase supercars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "Earnings beat and raised guidance triggered 26% intraday surge; X sentiment highly positive with analyst upgrades (e.g., Needham to $300, Wolfe to $320); web news confirms broad demand resilience."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15-20% gains on momentum into semis rally; target $320.",
+                "short_position": "Short risky amid upgrades; potential -5% if Fed hawkish.",
+                "key_risks": "Broader semi selloff on Mag7 earnings miss, geopolitical chip supply issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with strong X/web sentiment and analyst support."
+        },
+        {
+            "details": {
+                "ticker": "SBUX",
+                "full_name": "Starbucks Corporation",
+                "current_price": 98.75,
+                "market_cap": "$112.5B",
+                "sector_industry": "Consumer Cyclical/Restaurants",
+                "high_low_52_week": {
+                    "high": 110.4,
+                    "low": 75.1
+                },
+                "pe_ratio": 42.1,
+                "volume": "12.8M",
+                "recent_dividend": "$0.61 (quarterly)"
+            },
+            "impact_theory": "Q2 FY2026 earnings beat with $9.53B revenue (+9% YoY), EPS $0.50 vs $0.43 exp, global comp sales +6.2%; raised FY outlook under new CEO turnaround. Implications: Improved efficiency/labor investment boosts margins. Psych: Validates recovery from sales slump. Parallels: Similar to 2020 post-COVID rebound. Analogies: Barista brewing stronger coffee amid cafe competition; phoenix rising from overexpansion ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Double beat and guidance raise drove +8% gain; X posts highlight turnaround success, web confirms transaction growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10-15% on sustained recovery; target $110.",
+                "short_position": "Avoid; momentum strong.",
+                "key_risks": "Consumer spending slowdown, competition from cheaper alternatives."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven earnings beat with positive guidance and sentiment."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 101.89,
+                "market_cap": "$430B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 105.2,
+                    "low": 25.1
+                },
+                "pe_ratio": 95.2,
+                "volume": "95M",
+                "recent_dividend": "$0.125 (quarterly)"
+            },
+            "impact_theory": "Continued rally +8.73% amid AI CPU demand surge, post-Q1 beat; Trump stake narrative adds hype. Implications: Shift to CPU for AI workloads benefits legacy leader. Psych: FOMO on turnaround. Parallels: 1990s PC boom revival. Analogies: Old lion roaring back in AI jungle; phoenix from foundry ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Daily gains on AI momentum; X buzz on Trump portfolio win, web on record highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +12% to new highs; target $115.",
+                "short_position": "Short on valuation bubble; -8% risk.",
+                "key_risks": "Foundry losses persist, competition from AMD/TSMC."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but high valuation tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "TMUS",
+                "full_name": "T-Mobile US, Inc.",
+                "current_price": 186.72,
+                "market_cap": "$228B",
+                "sector_industry": "Communication Services/Wireless Telecom",
+                "high_low_52_week": {
+                    "high": 261.6,
+                    "low": 181.4
+                },
+                "pe_ratio": 24.8,
+                "volume": "10.6M",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Q1 2026 earnings beat with strong postpaid account/ARPA growth. Implications: 5G leadership drives subscriber gains. Psych: Reliability in telecom amid volatility. Parallels: Post-merger growth phase. Analogies: Speeding bullet train in slow economy; network web expanding virally.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings topped views; +5.92% gain noted in market close reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +8-10%; target $200.",
+                "short_position": "Limited downside.",
+                "key_risks": "Regulatory hurdles, competition from VZ/AT&T."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but less explosive sentiment vs semis/consumer."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 154.06,
+                "market_cap": "$685B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 165.3,
+                    "low": 110.2
+                },
+                "pe_ratio": 14.2,
+                "volume": "22.5M",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Oil prices surged on Trump rejecting Iran offer, UAE OPEC exit, Hormuz tensions; Fed steady rates add stability. Implications: Higher energy costs boost majors' profits. Psych: Geopolitical fear premium. Parallels: 2022 Ukraine rally. Analogies: Filling tank in storm; gusher amid desert drought.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Oil >$110; sector gains on news, X indirect via energy focus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10%; target $170 on sustained oil.",
+                "short_position": "Short if de-escalation; -5%.",
+                "key_risks": "Peace deal crashes oil, recession demand drop."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical driven, volatile but positive near-term."
+        }
+    ]
+}
