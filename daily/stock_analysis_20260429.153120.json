@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NXPI",
+                "full_name": "NXP Semiconductors N.V.",
+                "current_price": 287.5,
+                "market_cap": "$70B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 300.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 25.3,
+                "volume": "12.5M",
+                "recent_dividend": "$1.14 quarterly"
+            },
+            "impact_theory": "NXP reported Q1 2026 earnings beating expectations with $3.18B revenue (+12% YoY) and $3.05 EPS, driven by auto/industrial recovery and strong guidance. Economic implications include robust demand in semiconductors amid AI/auto electrification. Market psychology: Relief rally post-earnings beat in volatile tech sector. Historical parallels: Similar to 2021 chip shortage rallies. Analogies: Like a dam breaking after pressure buildup (pent-up demand), or rocket fuel igniting (AI tailwinds).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Earnings beat and raised guidance sparked +19% premarket surge; X sentiment positive on recovery; web news highlights strong margins/FCF. Fed caution secondary to earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +10-20% upside next week on momentum, target $320",
+                "short_position": "Short: Limited, only if Fed hawkish -3-5%",
+                "key_risks": "Broader tech selloff from Fed, supply chain issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat, high volume, strong analyst upgrades."
+        },
+        {
+            "details": {
+                "ticker": "STX",
+                "full_name": "Seagate Technology Holdings plc",
+                "current_price": 106.0,
+                "market_cap": "$22B",
+                "sector_industry": "Technology/Data Storage",
+                "high_low_52_week": {
+                    "high": 115.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 28.7,
+                "volume": "8.2M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "Seagate Q1 revenue beat on AI-driven storage demand, record margins 40%. Implications: Surging data center needs boost HDD. Psychology: AI hype rotation into storage. Parallels: 2010s cloud boom. Analogies: Filling a bottomless pit (AI data needs), or tailwind from hurricane (explosive demand).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-18%",
+                "reasoning": "+17% premarket on AI storage; X buzz on earnings; news emphasizes record gross margins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +15% to $122, AI momentum",
+                "short_position": "Avoid, strong fundamentals",
+                "key_risks": "Competition from SSD, NAND glut."
+            },
+            "confidence_rating": "A",
+            "justification": "AI theme strong, earnings crush."
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 22.0,
+                "market_cap": "$19B",
+                "sector_industry": "Financials/Capital Markets",
+                "high_low_52_week": {
+                    "high": 28.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robinhood Q1 revenue $1.07B +15% but EPS $0.38 miss vs $0.39, guidance weak. Implications: Slowing retail trading amid high rates. Psychology: Disappointment in growth stock. Parallels: 2022 bear market selloffs. Analogies: Party ending (retail frenzy cools), or flat tire on highway (growth stalls).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "-11% premarket on miss; X mixed/skeptical; news notes revenue growth but forecast miss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: Dip buy if Fed cuts, +5%",
+                "short_position": "Short: -15% to $18.5 on weak guide",
+                "key_risks": "Crypto rebound, retail surge."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings miss but revenue ok, high volatility."
+        },
+        {
+            "details": {
+                "ticker": "SOFI",
+                "full_name": "SoFi Technologies, Inc.",
+                "current_price": 9.6,
+                "market_cap": "$10B",
+                "sector_industry": "Financials/Credit Services",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 6.5
+                },
+                "pe_ratio": -120.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SoFi met Q1 rev $1.09B but slight guide miss, member growth strong. Implications: Fintech expansion but profitability pressure. Psychology: High expectations dashed. Parallels: Post-IPO volatility. Analogies: Marathon runner slowing (growth deceleration), or cloud with silver lining (member adds).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "-5% move; X shows dip buying but sentiment shift negative; news on meet but no beat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +20% long-term on growth",
+                "short_position": "Short: -10% near-term",
+                "key_risks": "Rate cuts boost lending, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Fundamentals solid but market reaction negative."
+        },
+        {
+            "details": {
+                "ticker": "GNRC",
+                "full_name": "Generac Holdings Inc.",
+                "current_price": 155.0,
+                "market_cap": "$9B",
+                "sector_industry": "Industrials/Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "3.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Generac Q1 earnings beat expectations amid power outage demand. Implications: Energy reliability needs rise. Psychology: Defensive play in uncertain world. Parallels: Post-hurricane surges. Analogies: Umbrella in storm (demand spikes), or vaccine in pandemic (essential).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "+11% premarket; Positive sentiment on turnaround."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +12% to $175",
+                "short_position": "Minimal",
+                "key_risks": "Milder weather, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings positive but less coverage."
+        }
+    ]
+}
