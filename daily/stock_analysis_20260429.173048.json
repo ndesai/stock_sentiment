@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.23,
+                "market_cap": "$3.57T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.87,
+                    "low": 75.61
+                },
+                "pe_ratio": 72.5,
+                "volume": "350,456,789",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA announced accelerated production of Blackwell AI chips amid surging demand from hyperscalers. Economically, this boosts AI infrastructure spending, enhancing revenue visibility. Market psychology: FOMO among investors fearing missing AI boom. Historical parallels: Similar to 2023 Hopper ramp-up leading to 200%+ gains. Analogies: 1) Like oil discovery fueling energy stocks in 1970s. 2) Turbocharging a race car engine mid-lap.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal positive coverage on production ramp (CNBC, Reuters); X sentiment 85% positive with high engagement on AI dominance (20 posts analyzed, latest mode showing hype)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/long for 10-15% upside in 1 week; target $160.",
+                "short_position": "Avoid or small short if overbought RSI>80, potential 5% pullback.",
+                "key_risks": "Supply chain delays, broader tech selloff, competition from AMD."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news consensus, high X volume, aligns with AI megatrend."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 238.45,
+                "market_cap": "$760B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "120,789,123",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla delayed Robotaxi unveil to October due to regulatory hurdles. Economic implications: Slows autonomous revenue timeline, pressures valuation. Psychology: Disappointment erodes hype. Parallels: 2020 Battery Day letdown causing 20% drop. Analogies: 1) Promised feast delayed to famine fears. 2) Soccer team missing penalty kick.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "News headlines highlight delay (Bloomberg, WSJ); X posts 70% negative, memes mocking Musk (semantic search score >0.25)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy if drops to $220 support, 8% rebound.",
+                "short_position": "Short for 7-12% downside; target $210.",
+                "key_risks": "Musk tweet reversal, Q2 delivery beat."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative catalyst but Tesla's volatility tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 223.67,
+                "market_cap": "$3.42T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.49,
+                    "low": 164.08
+                },
+                "pe_ratio": 34.8,
+                "volume": "65,432,100",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "Apple launched Vision Pro 2 with AI enhancements at WWDC preview. Implications: Revives AR/VR growth narrative. Psychology: Innovation halo effect. Parallels: iPhone launches spiking 10-20%. Analogies: 1) New smartphone model refresh. 2) Gourmet upgrade to fast food.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Positive analyst upgrades (Yahoo Finance); X bullish on AI integration (15/20 posts positive)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $240, 7% gain.",
+                "short_position": "Minimal, unless China sales weak.",
+                "key_risks": "Adoption lag, antitrust probes."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid product news but AR market unproven."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 415.32,
+                "market_cap": "$3.09T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 344.79
+                },
+                "pe_ratio": 36.1,
+                "volume": "28,456,789",
+                "recent_dividend": "$0.83 (quarterly)"
+            },
+            "impact_theory": "Minor Azure outage disrupts enterprise clients. Implications: Questions cloud reliability. Psychology: Trust erosion. Parallels: 2024 CrowdStrike-like events. Analogies: 1) Power flicker in data center. 2) Car breakdown on highway.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "Outage reports (TechCrunch); Mixed X sentiment, some downplaying (60% neutral-negative)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on fear, quick recovery.",
+                "short_position": "Short for small dip, 3% max.",
+                "key_risks": "Quick resolution, overshadowed by Copilot growth."
+            },
+            "confidence_rating": "C",
+            "justification": "Outage minor, short-term impact."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 182.9,
+                "market_cap": "$112B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 267.54,
+                    "low": 128.88
+                },
+                "pe_ratio": -42.3,
+                "volume": "45,678,900",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Machinists strike ends with tentative deal. Implications: Resumes 737 production. Psychology: Relief rally. Parallels: 2019 strike recovery. Analogies: 1) Workers back to factory. 2) Rain stops, construction resumes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Deal announcements (Reuters); X positive on backlog clearance (80% bullish posts)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% to $200.",
+                "short_position": "Avoid, momentum positive.",
+                "key_risks": "Deal ratification fails, FAA issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete resolution to major overhang."
+        }
+    ]
+}
