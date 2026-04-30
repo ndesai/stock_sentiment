@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "$3.48T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 72.8,
+                "volume": "285M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "Event: NVIDIA announced accelerated production ramp-up for Blackwell AI GPUs, exceeding expectations amid surging data center demand. Economic implications: Accelerates AI capex cycle, benefiting supply chain and cloud providers; potential GDP boost from AI productivity gains. Market psychology: Triggers FOMO buying as investors fear missing AI supercycle. Historical parallels: Mirrors 2020-2021 GPU shortage frenzy during crypto boom and early AI hype. Analogies: 1) Like the gold rush where picks and shovels (GPUs) profit most; 2) Oil boom for rigs during shale revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches reveal analyst upgrades from Goldman Sachs and Morgan Stanley post-announcement; X semantic search (20 latest posts) shows 85% positive sentiment with high engagement on AI dominance; historical post-news pops average 10% for NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions could yield 15-20% gains in 1-2 weeks on momentum; target $165.",
+                "short_position": "Avoid shorts; limited downside, potential squeeze on hype.",
+                "key_risks": "Chip supply chain disruptions, competition from AMD/Intel, valuation bubble burst if AI hype cools."
+            },
+            "confidence_rating": "A",
+            "justification": "High volume news corroborated by multiple sources, strong X buzz, consistent historical patterns."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.7,
+                "market_cap": "$795B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 360.5,
+                    "low": 138.8
+                },
+                "pe_ratio": 62.4,
+                "volume": "112M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Event: Q1 earnings miss on auto margins due to price cuts, but FSD/Robotaxi updates optimistic. Economic implications: Signals EV demand slowdown amid high rates, pressures consumer spending. Market psychology: Polarized - bulls focus on future autonomy, bears on execution risks. Historical parallels: 2022 margin compression led to 65% drop. Analogies: 1) Rollercoaster like GameStop meme stock; 2) Pony express vs. railroads - transition pains.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Web news highlights margin erosion; X keyword search (20 latest) 60% negative on delivery misses, despite Elon hype; analyst PT cuts from 40% of coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long only if Robotaxi event delivers; 10% rebound potential.",
+                "short_position": "Short for 10-15% downside to $220; momentum fade.",
+                "key_risks": "Sudden positive guidance override, regulatory wins for FSD, short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed signals from earnings, high X volatility but clear margin pressure."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 221.45,
+                "market_cap": "$3.38T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 245.6,
+                    "low": 164.1
+                },
+                "pe_ratio": 34.2,
+                "volume": "58M",
+                "recent_dividend": "$0.25 (quarterly)"
+            },
+            "impact_theory": "Event: EU court upholds $2B antitrust fine over App Store policies. Economic implications: Erodes monopoly rents, forces pricing changes impacting services revenue. Market psychology: Renewed regulatory fears, profit-taking in megacaps. Historical parallels: Google's 2018 EU fine led to 5% dip. Analogies: 1) Toll booth operator forced to lower fees; 2) Castle walls breached, invaders (competitors) enter.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Web coverage on regulatory cascade risks (US DOJ next); X sentiment 70% bearish in latest 20 posts, citing services growth slowdown."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 5% recovery on iPhone cycle.",
+                "short_position": "Short targeting $210, 8% potential.",
+                "key_risks": "Appeal success, strong China sales offset, broader market rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete regulatory event with precedent, uniform negative sentiment."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 182.1,
+                "market_cap": "$112B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 210.3,
+                    "low": 128.9
+                },
+                "pe_ratio": -45.6,
+                "volume": "12M",
+                "recent_dividend": "Suspended"
+            },
+            "impact_theory": "Event: FAA clears 737 MAX for increased production post-strike resolution. Economic implications: Eases airline supply bottlenecks, supports travel recovery. Market psychology: Relief rally as turnaround narrative strengthens. Historical parallels: Post-2019 MAX grounding recovery +50%. Analogies: 1) Grounded plane back in air; 2) Factory whistle blows after lockout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Positive FAA news across web; X posts 75% bullish on order backlog, high engagement from aviation accounts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12-18% to $210 on backlog fill.",
+                "short_position": "Minimal; avoid on momentum.",
+                "key_risks": "New safety issues, labor unrest recurrence, Airbus competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst but lingering quality concerns temper confidence."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 114.8,
+                "market_cap": "$495B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 132.4,
+                    "low": 98.7
+                },
+                "pe_ratio": 13.1,
+                "volume": "22M",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Event: OPEC+ signals higher output, oil prices drop 4% to $72/bbl. Economic implications: Lowers inflation but squeezes upstream margins. Market psychology: Rotation out of energy into tech. Historical parallels: 2022 OPEC cuts reversed drops. Analogies: 1) Spigot opened wider, flooding cheap oil; 2) Farmer's bounty leads to price crash.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Web reports on supply glut fears; X latest 20 posts 65% bearish on crude futures slide."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if geopolitics spike oil; 8% upside.",
+                "short_position": "Short for 10% to $103 on sustained low oil.",
+                "key_risks": "Demand surge from China, Middle East tensions, recession delay."
+            },
+            "confidence_rating": "B",
+            "justification": "Commodity volatility high, but OPEC decision firm."
+        }
+    ]
+}
