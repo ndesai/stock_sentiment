@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 185.2,
+                "market_cap": "$2.3T",
+                "sector_industry": "Technology/Interactive Media",
+                "high_low_52_week": {
+                    "high": 200.5,
+                    "low": 150.2
+                },
+                "pe_ratio": 32.4,
+                "volume": "32,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Alphabet reported strong Q1 earnings with cloud revenue up 63% YoY, driven by AI demand. Economic implications include accelerated cloud spending amid AI boom, boosting GDP via tech investment. Market psychology: Reinforces Big Tech dominance, triggering FOMO buying. Historical parallels: Similar to 2023 AI rally post-earnings. Analogies: Like pouring gasoline on a tech bonfire; a rising tide lifting all AI boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "X posts show excitement over earnings beat and cloud growth; web news highlights record highs ahead of busy week. Sentiment shift positive with high engagement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains on continued AI momentum",
+                "short_position": "Avoid short; limited downside",
+                "key_risks": "Regulatory scrutiny, competition from OpenAI."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, high X sentiment, historical post-earnings momentum."
+        },
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 912.5,
+                "market_cap": "$850B",
+                "sector_industry": "Healthcare/Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 700.0
+                },
+                "pe_ratio": 38.8,
+                "volume": "3,200,000",
+                "recent_dividend": "$1.30 quarterly"
+            },
+            "impact_theory": "Q1 earnings crushed expectations with EPS $8.55 vs $6.70, Rev $19.8B vs $17.8B, fueled by GLP-1 drugs. Economic: Supports healthcare spending, obesity treatment boom. Psychology: Validates premium valuation. Parallels: Novo Nordisk rally. Analogies: Weight-loss drugs as the new iPhone; pharma rocket amid health crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Massive beat reported in X and news; high likes/reposts indicate strong sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 15% upside on pipeline",
+                "short_position": "Short if supply issues emerge, -5%",
+                "key_risks": "Competition from Novo, manufacturing delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Huge earnings surprise, positive X buzz."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms Inc.",
+                "current_price": 605.0,
+                "market_cap": "$1.5T",
+                "sector_industry": "Technology/Social Media",
+                "high_low_52_week": {
+                    "high": 700.0,
+                    "low": 500.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15,800,000",
+                "recent_dividend": "$2.00 quarterly"
+            },
+            "impact_theory": "Earnings showed 33% revenue growth but not pristine quarter. Implications: Ad spend resilient despite macro. Psychology: Battleground stock, dip-buying. Parallels: Post-2022 recovery. Analogies: Bouncing ball in volatile arena; phoenix from ad slump ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X traders adding on dip; growth at scale praised despite concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for rebound to $650, +7%",
+                "short_position": "Short to $550, -9%",
+                "key_risks": "Ad market slowdown, regulatory fines."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed reaction but underlying growth solid."
+        },
+        {
+            "details": {
+                "ticker": "TER",
+                "full_name": "Teradyne Inc.",
+                "current_price": 142.3,
+                "market_cap": "$22B",
+                "sector_industry": "Technology/Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 35.2,
+                "volume": "2,100,000",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Post-earnings ~20% pullback, but JPM upgrade to OW PT$400 citing GPU test ramp, ASIC demand. Implications: AI infrastructure spend. Psychology: Buy the dip. Parallels: Semi test cycles. Analogies: Diamond in rough post-selloff; coiling spring for AI tailwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Upgrade news shifts sentiment from post-earnings fear to opportunity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +25% to PT",
+                "short_position": "Short if no recovery, -10%",
+                "key_risks": "Customer lumpiness, semi downturn."
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst upgrade post-dip provides catalyst."
+        },
+        {
+            "details": {
+                "ticker": "LKQ",
+                "full_name": "LKQ Corporation",
+                "current_price": 56.1,
+                "market_cap": "$15B",
+                "sector_industry": "Consumer Cyclical/Auto Parts",
+                "high_low_52_week": {
+                    "high": 60.5,
+                    "low": 45.0
+                },
+                "pe_ratio": 15.1,
+                "volume": "1,500,000",
+                "recent_dividend": "$0.30 quarterly"
+            },
+            "impact_theory": "Q1 results announced, dividend approved. Implications: Steady auto aftermarket. Psychology: Value play in mixed market. Parallels: Cyclical recoveries. Analogies: Reliable engine in choppy waters; steady eddy amid volatility.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Positive earnings release, dividend hike; limited X buzz but stable."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% gains",
+                "short_position": "Minimal",
+                "key_risks": "Auto sales slowdown."
+            },
+            "confidence_rating": "C",
+            "justification": "Routine earnings, moderate sentiment shift."
+        }
+    ]
+}
