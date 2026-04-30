@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 1250.5,
+                "market_cap": "$1.18T",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 1300.0,
+                    "low": 750.0
+                },
+                "pe_ratio": 65.4,
+                "volume": "4.8M",
+                "recent_dividend": "$1.30 quarterly (ex-date Apr 15, 2026)"
+            },
+            "impact_theory": "Eli Lilly reported stellar Q1 earnings with retatrutide, their new weight loss drug, showing surgical-level efficacy in trials, beating expectations. Economically, this boosts pharma innovation amid obesity epidemic, increasing revenue projections. Market psychology: FOMO on GLP-1 drugs like Ozempic rivals, historical parallel to semaglutide launch in 2022 which doubled LLY in 18 months. Analogies: 1) Like iPhone launch catalyzing Apple dominance; 2) Gold rush in biotech akin to mRNA vaccines post-COVID.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "X sentiment highly positive on weight loss results (multiple posts on surges), web news confirms 6% premarket jump turning Nasdaq around. Strong earnings beat, raised guidance fuel upward momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% gains in next week on trial hype; entry at $1250, target $1450.",
+                "short_position": "Short risky, potential 5-8% pullback if trial side effects emerge; avoid unless overbought.",
+                "key_risks": "Regulatory delays on retatrutide, competition from Novo Nordisk, broader market rotation from growth to value stocks."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming sources on earnings beat and drug success; high engagement on X, historical precedent strong."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 280.75,
+                "market_cap": "$3.45T",
+                "sector_industry": "Technology / Interactive Media & Services",
+                "high_low_52_week": {
+                    "high": 285.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 28.2,
+                "volume": "42.3M",
+                "recent_dividend": "$0.20 quarterly (ex-date Mar 10, 2026)"
+            },
+            "impact_theory": "Alphabet's Q1 earnings showcased 7% blowout cloud growth and ad resilience; Sergey Brin returning adds innovation buzz. Implications: Accelerates AI/cloud race, stabilizing tech amid rotation. Psychology: Relief rally post-earnings jitters. Parallels: 2023 cloud pivot similar to AWS boom for AMZN. Analogies: 1) Veteran quarterback returning like Brady to Pats; 2) Engine tune-up propelling a supercar.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Web searches highlight 7% jump on cloud; X posts on Brin adding trillions in value; positive sentiment shift from Nasdaq dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 10% upside to $310 on cloud momentum.",
+                "short_position": "Short if antitrust news resurfaces, potential 4% drop.",
+                "key_risks": "DOJ antitrust case escalation, slowing ad growth from recession fears."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but mixed tech sentiment; Brin story viral but speculative."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 255.2,
+                "market_cap": "$2.68T",
+                "sector_industry": "Consumer Discretionary / Internet Retail",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "51.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Amazon beats on AWS acceleration amid AI demand. Economic boost to e-comm/cloud infrastructure. Psychology: Validates capex spend. Parallels: Post-2022 AWS recovery. Analogies: 1) Fuel injection for growth engine; 2) Wind at sails for retail giant.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Earnings winners vs Meta/MSFT losers; X/web confirm 3% up on AWS."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% to $280.",
+                "short_position": "Minimal, 3% dip on retail weakness.",
+                "key_risks": "Consumer spending slowdown, high AI capex burn."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but part of broader tech earnings rotation."
+        },
+        {
+            "details": {
+                "ticker": "CAT",
+                "full_name": "Caterpillar Inc.",
+                "current_price": 420.1,
+                "market_cap": "$212B",
+                "sector_industry": "Industrials / Farm & Heavy Construction Machinery",
+                "high_low_52_week": {
+                    "high": 425.0,
+                    "low": 310.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "3.4M",
+                "recent_dividend": "$1.41 quarterly (ex-date Apr 20, 2026)"
+            },
+            "impact_theory": "Caterpillar earnings leap amid infrastructure spend. Implications: Cyclical recovery signal. Psychology: Rotation to industrials. Parallels: Post-2021 infra bill. Analogies: 1) Heavy machinery revving up economy; 2) Tractor pull win.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "News on Dow surge led by CAT; turns market around."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10% to $460 on infra tailwinds.",
+                "short_position": "5% if China slowdown.",
+                "key_risks": "Commodity price drop, trade tensions."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but cyclical, dependent on macro."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 320.8,
+                "market_cap": "$1.02T",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 92.3,
+                "volume": "118M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tesla robotaxi fleet hits 650 with 25 unsupervised FSD. Implications: Autonomy monetization nears. Psychology: Hype cycle reignites. Parallels: 2020 battery day. Analogies: 1) Self-driving train leaving station; 2) Robot army mobilization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "X posts on fleet expansion; tokenized TSLAon popular."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 20% to $385 on robotaxi event.",
+                "short_position": "10% crash on delay.",
+                "key_risks": "Regulatory hurdles for FSD, production ramps."
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility, Musk factor; promising but unproven scale."
+        }
+    ]
+}
