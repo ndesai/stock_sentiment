@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 178.5,
+                "market_cap": "$2.1T",
+                "sector_industry": "Technology / Interactive Media & Services",
+                "high_low_52_week": {
+                    "high": 185.2,
+                    "low": 120.2
+                },
+                "pe_ratio": 25.3,
+                "volume": "45M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "Alphabet reported strong Q1 2026 earnings with Cloud revenue up 63% YoY to $20B and Search up 19%. Economic implications include accelerated AI adoption boosting cloud demand. Market psychology: Relief that AI investments are paying off, reducing fears of over-spending. Historical parallels: Similar to 2020 post-COVID tech surge. Analogies: Like a rocket igniting after fuel load; engine roaring as cloud backlog doubles to $460B.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Earnings beat expectations, X posts bullish on cloud growth, web news highlights 7% premarket gain amid Big Tech rally despite oil tensions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% gains in next week on momentum.",
+                "short_position": "Avoid short, strong fundamentals.",
+                "key_risks": "Broader market selloff from Fed/inflation, competition in AI."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat, positive X sentiment, historical post-earnings runs."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 495.0,
+                "market_cap": "$1.2T",
+                "sector_industry": "Communication Services / Interactive Media & Services",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "32M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "META beat earnings but raised FY26 Capex to $125-145B for AI, causing selloff. Implications: Higher spending pressures margins short-term. Psychology: Fear of AI bubble. Parallels: 2022 meta-verse spend fears. Analogies: Filling gas tank before race, painful but necessary; planting seeds for harvest.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish long",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "X posts note drop despite beat due to capex hike, web confirms AI spend concerns amid $500B industry checks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 15% rebound.",
+                "short_position": "Short for 5-8% near-term.",
+                "key_risks": "AI payoff surprises positively, regulatory wins."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed sentiment, capex fear dominant but fundamentals solid."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.8,
+                "market_cap": "$500B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "28M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil surged to $126 on US-Iran blockade prolongation. Implications: Higher revenues, inflation risk. Psychology: Geopolitical fear boosts energy. Parallels: 2022 Ukraine war oil spike. Analogies: Filling sails with wind; dam bursting floods fields.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Web news on oil high, X buzz on Iran war, energy sector leading gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% on sustained oil >$120.",
+                "short_position": "Short if peace talks resume.",
+                "key_risks": "De-escalation drops oil, recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to oil price, historical precedents strong."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 425.0,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 440.0,
+                    "low": 350.0
+                },
+                "pe_ratio": 36.5,
+                "volume": "35M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "MSFT AI revenue strong, but sideways post-earnings. Implications: Enterprise AI spend up. Psychology: Steady growth. Parallels: Post-ChatGPT launch. Analogies: Building foundation steadily; marathon not sprint.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "X mentions AI ARR $37B, web on tech lift despite oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 5-10% on cloud momentum.",
+                "short_position": "Limited downside.",
+                "key_risks": "Capex fatigue, antitrust."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but not explosive reaction."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 195.2,
+                "market_cap": "$2.0T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "50M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMZN at ATH post-earnings, AWS strong. Implications: E-comm resilient. Psychology: Consumer spend ok despite oil. Parallels: 2021 recovery. Analogies: River flowing stronger; tree roots deep.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "X bullish adds, web on ATH open, Big Tech momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for breakout to $210.",
+                "short_position": "Avoid.",
+                "key_risks": "Oil inflation hits consumer, logistics costs."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but oil wildcard."
+        }
+    ]
+}
