@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 278.5,
+                "market_cap": "$4.25T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 305.2,
+                    "low": 215.8
+                },
+                "pe_ratio": 35.4,
+                "volume": "145M",
+                "recent_dividend": "$0.25 (ex-date: 2026-02-12)"
+            },
+            "impact_theory": "Apple's Q2 FY2026 earnings beat expectations with $111.2B revenue (+17% YoY) and $2.01 EPS (+22% YoY), driven by iPhone and Services strength. Economic implications: Signals robust consumer demand amid inflation concerns. Market psychology: Eases fears of China slowdown and AI lag. Historical parallels: 2024 Q1 beat led to 10% rally. Analogies: Like a phoenix rising from supply chain ashes; a dam breaking to flood bullish sentiment.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +6%",
+                "reasoning": "Strong earnings beat and upbeat Q3 guidance per web searches; X posts show trader buys and positive momentum; premarket +3.8% confirms sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions targeting $290 (4% gain) on continued rally; options like May 8 290C profitable.",
+                "short_position": "Short if drops below $275 support (-2% potential loss realization).",
+                "key_risks": "Supply shortages in memory chips, escalating Middle East tensions disrupting chains, overbought tech sector pullback."
+            },
+            "confidence_rating": "A",
+            "justification": "Unambiguous earnings beat, immediate positive stock reaction, high X engagement."
+        },
+        {
+            "details": {
+                "ticker": "RDDT",
+                "full_name": "Reddit Inc.",
+                "current_price": 192.3,
+                "market_cap": "$32.5B",
+                "sector_industry": "Communication Services / Internet Content",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 150.2,
+                "volume": "25M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Reddit Q1 2026 revenue $663M (+69% YoY), DAUq 126.8M (+17%). Economic: Validates AI/data licensing boom. Psychology: Proves post-IPO growth sustainability. Historical: Similar to SNAP 2018 surge. Analogies: Rocket fuel from user growth; snowball effect in social media virality.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "Massive revenue beat, X hype for new ATHs; web confirms 12-16% premarket surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $220 (14% gain) next week.",
+                "short_position": "Short below $185 (-8% downside).",
+                "key_risks": "User monetization challenges, competition from TikTok/X, high valuation vulnerability."
+            },
+            "confidence_rating": "A",
+            "justification": "Exceptional growth metrics, strong market reaction."
+        },
+        {
+            "details": {
+                "ticker": "RBLX",
+                "full_name": "Roblox Corporation",
+                "current_price": 38.4,
+                "market_cap": "$24B",
+                "sector_industry": "Communication Services / Gaming Software",
+                "high_low_52_week": {
+                    "high": 55.0,
+                    "low": 32.0
+                },
+                "pe_ratio": -45.6,
+                "volume": "35M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 DAU miss, lowered FY bookings guidance due to kid safety features. Economic: Highlights metaverse/gaming slowdown. Psychology: Erodes growth narrative. Historical: Unity 2023 post-revenue miss drop. Analogies: Car braking hard before crash; balloon deflating after hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20% to -25%",
+                "reasoning": "Missed estimates and guidance cut; web/X note 24% drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; long only on rebound above $42.",
+                "short_position": "Short targeting $32 (17% gain).",
+                "key_risks": "Oversold bounce, positive user engagement surprise."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss but gaming sector volatile."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 122.1,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Q1 earnings $4.2B (down YoY but beat), revenue $85.14B beat; impacted by Iran war shipping. Economic: Oil rally offsets. Psychology: Resilient amid geopolitics. Historical: 2022 war boosts. Analogies: Ship steady in storm; phoenix from oil fire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +4%",
+                "reasoning": "Beat estimates despite headwinds; X mentions flat but positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $130 (6% gain) on oil prices.",
+                "short_position": "Short if oil dips below $80.",
+                "key_risks": "Iran Strait closure escalation, demand drop."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat but YoY decline tempers enthusiasm."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 161.2,
+                "market_cap": "$295B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "12M",
+                "recent_dividend": "$1.71 (quarterly)"
+            },
+            "impact_theory": "Q1 adjusted EPS $1.41 beat, net $2.2B down YoY; upstream strength from oil surge. Economic: Geopolitical premium. Psychology: Confidence in dividends. Historical: Similar to 2022. Analogies: Anchor holding in turbulence; oil well gushing despite pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1% to +3%",
+                "reasoning": "EPS beat on high oil; web confirms positive analyst views."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $170 (5% gain).",
+                "short_position": "Minimal downside.",
+                "key_risks": "Prolonged war disrupting supply more than demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat, sector tailwinds."
+        }
+    ]
+}
