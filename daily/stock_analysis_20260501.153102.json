@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 482.35,
+                "market_cap": "$1.2T",
+                "sector_industry": "Communication Services / Interactive Media & Services",
+                "high_low_52_week": {
+                    "high": 531.45,
+                    "low": 380.22
+                },
+                "pe_ratio": 28.5,
+                "volume": "18.5M",
+                "recent_dividend": "N/A (no recent dividend)"
+            },
+            "impact_theory": "Recent earnings report on May 1 showed mixed results with strong ad revenue but higher capex for AI/metaverse, causing investor concern over profitability. Economic implications include rising AI spending amid slowing user growth. Market psychology: Fear of overvaluation in big tech. Historical parallel: Similar to 2022 META selloff post-earnings. Analogies: 1. Like a car accelerating but burning too much fuel (growth vs costs). 2. Betting on a horse with heavy jockey (AI investments weighing down).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Earnings beat expectations but guidance cautious due to AI costs; X sentiment negative with complaints on metaverse losses (from x_semantic_search showing 60% negative posts); web news highlights 'winners and losers' placing META as loser."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip buy at $450, potential +10% rebound if market stabilizes.",
+                "short_position": "Short with target $440, potential 8-10% gains on continued selloff.",
+                "key_risks": "Unexpected positive AI update or broad market rally could reverse; high short interest squeeze risk."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news coverage and X buzz confirm sentiment shift, but earnings not disastrous."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 172.89,
+                "market_cap": "$2.1T",
+                "sector_industry": "Communication Services / Interactive Media & Services",
+                "high_low_52_week": {
+                    "high": 191.75,
+                    "low": 140.5
+                },
+                "pe_ratio": 25.2,
+                "volume": "25.2M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "Earnings crushed expectations with YouTube and Cloud growth; AI integrations boosting search. Economic: Supports tech dominance. Psychology: Renewed confidence in GOOG as safe big tech. Parallel: Post-ChatGPT rally in 2023. Analogies: 1. Rocket fuel added (AI boost). 2. Underdog comeback like Rocky.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +9%",
+                "reasoning": "Yahoo finance notes as 'earnings winner'; X posts praising cloud numbers (70% positive from searches)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for +12% to $195, momentum trade.",
+                "short_position": "Avoid, low reward.",
+                "key_risks": "Regulatory antitrust news could cap upside; overbought technically."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat and positive media framing."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 415.2,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 350.45
+                },
+                "pe_ratio": 36.8,
+                "volume": "22.1M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "Cloud growth slowed slightly, AI investments high but ROI questioned. Implications: Margin pressure. Psychology: Disappointment from high expectations. Parallel: Azure slowdown scares like 2022. Analogies: 1. Marathon runner slowing pace. 2. Ship taking on water despite strong hull.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Placed as 'loser' in earnings comparison; X sentiment mixed-negative on Azure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or buy dip at $400, +8% recovery.",
+                "short_position": "Short to $395, 5% gain.",
+                "key_risks": "Copilot AI announcements could spark rally; dividend aristocrat stability."
+            },
+            "confidence_rating": "B",
+            "justification": "Sentiment shift evident but MSFT resilient historically."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 192.75,
+                "market_cap": "$2.0T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 145.2
+                },
+                "pe_ratio": 42.3,
+                "volume": "41.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AWS strong growth, e-comm steady; AI cloud demand. Implications: Profitability improving. Psychology: Relief rally. Parallel: Post-2023 turnaround. Analogies: 1. Engine roaring back. 2. Phoenix rising.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +8%",
+                "reasoning": "'Earnings winner'; Positive X chatter on AWS."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $210, 9% upside.",
+                "short_position": "Not recommended.",
+                "key_risks": "Consumer spending slowdown; high valuation."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with sector trends."
+        },
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "Qualcomm Incorporated",
+                "current_price": 175.4,
+                "market_cap": "$195B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 211.09,
+                    "low": 120.8
+                },
+                "pe_ratio": 22.1,
+                "volume": "12.8M",
+                "recent_dividend": "$0.85 quarterly"
+            },
+            "impact_theory": "Strong smartphone chip demand, auto/PC diversification. Implications: Supply chain stable. Psychology: Undervalued semi play. Parallel: 5G boom 2021. Analogies: 1. Sleeper hit movie. 2. Dark horse in race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Top 5 mover per Youtube/news; X hype on earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 15% to $200.",
+                "short_position": "Risky.",
+                "key_risks": "China exposure, trade wars."
+            },
+            "confidence_rating": "B",
+            "justification": "Good volume but smaller cap volatility."
+        }
+    ]
+}
