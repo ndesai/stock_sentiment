@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 120.5,
+                "market_cap": "$450B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 135.2,
+                    "low": 95.7
+                },
+                "pe_ratio": 12.5,
+                "volume": "25M",
+                "recent_dividend": "$0.95 quarterly, yield 3.2%"
+            },
+            "impact_theory": "ExxonMobil reported Q1 2026 earnings on May 1, beating EPS estimates at $1.16 vs $0.96 expected, though impacted by Middle East disruptions and timing effects reducing GAAP earnings. Economic implications include sustained oil demand amid geopolitical tensions boosting upstream profits; market psychology shifts bullish on production growth in Guyana/Permian offsetting headwinds. Historical parallel: Similar to 2022 post-Ukraine beats amid volatility. Analogies: Like a ship navigating storms but with strong engines (production ramps); boxer taking punches but landing counters (beats vs disruptions).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "EPS beat and shareholder returns ($9.2B) outweigh rev mix and disruptions; X posts show positive reaction to Guyana output; web news highlights beat despite headwinds; energy sector strength supports upside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-8% gains on oil rebound and buybacks; target $128.",
+                "short_position": "Short if oil < $70, potential 3-5% downside on recession fears.",
+                "key_risks": "Geopolitical escalation in Middle East, oil price drop, regulatory scrutiny."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, high X engagement, historical resilience in energy cycles."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 158.2,
+                "market_cap": "$290B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 130.1
+                },
+                "pe_ratio": 11.8,
+                "volume": "18M",
+                "recent_dividend": "$1.63 quarterly, yield 4.1%"
+            },
+            "impact_theory": "Chevron's Q1 earnings on May 1 showed adjusted EPS $1.41 beating $0.97 est but rev miss at $48.6B vs $51.4B; currency and legal charges weighed. Implications: Robust upstream amid volatility; psychology favors dividend safety. Parallels: 2023 earnings amid OPEC cuts. Analogies: Marathon runner pacing through headwinds; fortress holding amid siege (dividend vs costs).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Massive EPS beat drives sentiment; X highlights dividend appeal despite rev miss; energy tailwinds from ISM PMI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting 4-6% on FCF recovery.",
+                "short_position": "Short on prolonged rev weakness, 2-4% loss.",
+                "key_risks": "Production flatness, FX volatility, capex overrun."
+            },
+            "confidence_rating": "B",
+            "justification": "Beat overshadowed by rev, but sector momentum high."
+        },
+        {
+            "details": {
+                "ticker": "CL",
+                "full_name": "Colgate-Palmolive Company",
+                "current_price": 98.7,
+                "market_cap": "$80B",
+                "sector_industry": "Consumer Staples / Household Products",
+                "high_low_52_week": {
+                    "high": 105.3,
+                    "low": 75.4
+                },
+                "pe_ratio": 28.2,
+                "volume": "12M",
+                "recent_dividend": "$0.48 quarterly, yield 1.9%"
+            },
+            "impact_theory": "CL Q1 earnings: Adj EPS $0.97 beat, sales $5.32B beat, but gross margin down, NA profit -28%. Implications: Pricing power vs cost inflation; psych shift cautious on margins. Parallels: 2020 pandemic margin squeeze. Analogies: Tightrope walker balancing growth/costs; chef adjusting recipe amid ingredient hikes.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-1 to +1%",
+                "reasoning": "Beats but margin downgrade; X mixed on NA weakness; staples resilient but profitability concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for stability, 2-4% if margins stabilize.",
+                "short_position": "Short on restructuring costs, 3-5% downside.",
+                "key_risks": "Inflation, NA volume drop, restructuring overruns."
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed results with guidance cut on margins lowers conviction."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 279.5,
+                "market_cap": "$4.3T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 300.1,
+                    "low": 220.5
+                },
+                "pe_ratio": 35.4,
+                "volume": "85M",
+                "recent_dividend": "$0.25 quarterly, yield 0.4%"
+            },
+            "impact_theory": "Apple's recent earnings beat with strong forecast sparked +3% premarket; AI strategy payoff. Implications: Consumer spend resilient; psych bullish on buybacks/AI. Parallels: Post-2020 services growth. Analogies: iPhone ecosystem as moat; snowball of services accelerating.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X mentions strong reaction; web on AI/earnings; Mag7 momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% on AI catalysts.",
+                "short_position": "Short on China risks, 4% pullback.",
+                "key_risks": "AI delays, regulatory, China sales."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent beats, high sentiment."
+        },
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "QUALCOMM Incorporated",
+                "current_price": 179.6,
+                "market_cap": "$200B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.8,
+                    "low": 140.2
+                },
+                "pe_ratio": 22.1,
+                "volume": "35M",
+                "recent_dividend": "$0.85 quarterly, yield 1.9%"
+            },
+            "impact_theory": "QCOM monster move on data center/AI demand; recent earnings beat. Implications: Chip boom; psych shift to AI infra. Parallels: 2021 semis rally. Analogies: Fuel to AI engine; bridge from mobile to edge AI.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "X on huge moves; web on surges; AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10%+ on AI/data center.",
+                "short_position": "Short on trade wars, 5% drop.",
+                "key_risks": "Competition, smartphone slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but broader tech volatility."
+        }
+    ]
+}
