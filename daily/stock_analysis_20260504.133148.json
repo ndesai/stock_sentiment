@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "EBAY",
+                "full_name": "eBay Inc.",
+                "current_price": 58.2,
+                "market_cap": "$29.5B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 65.3,
+                    "low": 38.2
+                },
+                "pe_ratio": 15.2,
+                "volume": "45M",
+                "recent_dividend": "$0.00 (No recent dividend)"
+            },
+            "impact_theory": "GameStop's unsolicited $56B takeover bid at $125/share (premium cash/stock deal) confirmed rumors, sparking massive buying. Economic implications: Consolidation in e-commerce, potential synergies with GME's retail pivot. Market psychology: Meme stock frenzy returns, FOMO drives volume. Historical parallels: 2021 GME squeeze. Analogies: Like a phoenix rising from retail ashes buying a digital marketplace; or David slinging e-commerce stones at Goliath.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Takeover premium implies 100%+ upside if accepted; X sentiment positive with high engagement on bid; web news confirms bid details."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long EBAY for 20%+ gains if deal proceeds; target $70 short-term.",
+                "short_position": "Avoid short amid takeover speculation frenzy.",
+                "key_risks": "Deal rejection, regulatory blocks (antitrust), GME financing failure."
+            },
+            "confidence_rating": "A",
+            "justification": "Confirmed news from WSJ/Reuters, 14%+ premarket surge, high volume."
+        },
+        {
+            "details": {
+                "ticker": "GME",
+                "full_name": "GameStop Corp.",
+                "current_price": 28.5,
+                "market_cap": "$11.2B",
+                "sector_industry": "Consumer Cyclical / Specialty Retail",
+                "high_low_52_week": {
+                    "high": 64.8,
+                    "low": 9.5
+                },
+                "pe_ratio": -12.5,
+                "volume": "120M",
+                "recent_dividend": "$0.00 (No recent dividend)"
+            },
+            "impact_theory": "GME CEO Ryan Cohen's bold bid for EBAY signals aggressive expansion. Implications: Transforms GME from meme to serious player. Psychology: Roaring Kitty vibes return, retail hype. Parallels: AOL-Time Warner merger folly but upside. Analogies: Meme stock lottery ticket hitting eBay jackpot; pirate ship raiding Amazon's seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Bid news boosts credibility; sentiment on X explosive; potential for squeeze if apes pile in."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long GME for volatility plays, 30%+ if bid succeeds.",
+                "short_position": "Short post-hype if bid fails.",
+                "key_risks": "Financing gaps (GME market cap < EBAY), dilution, meme fade."
+            },
+            "confidence_rating": "B",
+            "justification": "High speculation, historical volatility, but bid feasibility questioned."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 125.4,
+                "market_cap": "$495B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 135.8,
+                    "low": 95.2
+                },
+                "pe_ratio": 13.8,
+                "volume": "22M",
+                "recent_dividend": "$0.95 (3.0% yield)"
+            },
+            "impact_theory": "UAE OPEC exit + Iran war escalation spikes oil prices (supply fears). Implications: Higher revenues/margins for majors. Psychology: Risk-on for energy amid geopolitics. Parallels: 2022 Ukraine invasion oil rally. Analogies: Filling gas tanks during a desert storm; OPEC family feud boosting independents.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil up 5%+; UAE exit weakens cartel control; X buzz on energy shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for sustained oil >$90, 10% upside.",
+                "short_position": "Short if de-escalation.",
+                "key_risks": "Quick peace talks, recession curbing demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear geopolitical drivers, historical precedents strong."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 520.1,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 545.0,
+                    "low": 415.0
+                },
+                "pe_ratio": 20.1,
+                "volume": "1.8M",
+                "recent_dividend": "$3.15 (2.4% yield)"
+            },
+            "impact_theory": "Iran-US tensions rise (ship attack claims), boosting defense spending. Implications: More contracts for missiles/F-35. Psychology: Safe haven in uncertainty. Parallels: Post-9/11 defense boom. Analogies: War drums beating sales for arms makers; shield sales spike in sword fights.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Futures dip but defense resilient; news on escalation; positive X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long LMT for 8% gains on budget hikes.",
+                "short_position": "Minimal, sector sticky.",
+                "key_risks": "De-escalation, budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitics supportive but defense stocks cooled recently."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 48.75,
+                "market_cap": "$31B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.2,
+                    "low": 34.8
+                },
+                "pe_ratio": 7.9,
+                "volume": "15M",
+                "recent_dividend": "$0.00 (Suspended)"
+            },
+            "impact_theory": "Rising oil from UAE/Iran news crushes margins. Implications: Higher fuel costs, fare hikes. Psychology: Risk-off for cyclicals. Parallels: 2022 oil spike hit airlines. Analogies: Jet fuel inflation grounding profits; birds flying into headwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Oil surge directly impacts; airline stocks down in premarket; negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dip if oil stabilizes.",
+                "short_position": "Short DAL for 10% downside.",
+                "key_risks": "Demand resilience, hedging covers."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear cost pressure but airlines volatile."
+        }
+    ]
+}
