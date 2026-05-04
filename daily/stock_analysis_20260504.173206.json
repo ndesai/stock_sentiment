@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 147.83,
+                "market_cap": "$330B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 170.5,
+                    "low": 50.2
+                },
+                "pe_ratio": 250.3,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir is set to report Q1 2026 earnings after market close on May 4, with expectations of 74% YoY revenue growth to $1.54B and EPS $0.28 (115% growth). Amid AI hype, AIP platform momentum in commercial sector (U.S. commercial +137% prior quarter) drives sentiment. Economic implications: Validates enterprise AI orchestration dominance. Market psychology: High anticipation vs. recent 20% YTD pullback creates FOMO rebound potential. Historical parallels: NVDA pre-split earnings rallies. Analogies: Like CRM in cloud shift (ontology lock-in), or CUDA monopoly in AI stack.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "X sentiment highly positive on earnings beat potential (implied move ±10%, below historical 13%), web news highlights Wedbush $230 PT. Oil tensions secondary boost for gov contracts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15-25% on beat/raise; target $170.",
+                "short_position": "Short if miss on commercial guidance; -10% downside.",
+                "key_risks": "High expectations lead to sell-the-news; Anthropic competition erodes moat."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong X buzz, analyst upgrades, historical earnings beats support high conviction."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 152.4,
+                "market_cap": "$680B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 160.2,
+                    "low": 115.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly, ex-date 2026-02-12"
+            },
+            "impact_theory": "Brent crude +7% to $120 on Iran Hormuz tensions (US ship reports, Trump escort plan), UAE OPEC exit weakens cartel control. Implications: Supply disruption risk boosts US producers. Psychology: Fear premium drives oil rally, benefits integrated majors. Parallels: 2019 Abqaiq attack +15% oil spike. Analogies: Like weather event squeezing supply (Hurricane Katrina 2005), or cartel fracture (1986 Saudi flood).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "X posts bullish on XOM amid oil surge; web confirms Hormuz risk-off for airlines, on for energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% if oil >$130; target $165.",
+                "short_position": "Short on de-escalation; -5%.",
+                "key_risks": "Diplomatic resolution deflates premium; recession curbs demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Geopolitical catalysts persistent, historical oil reactions reliable."
+        },
+        {
+            "details": {
+                "ticker": "NWL",
+                "full_name": "Newell Brands Inc.",
+                "current_price": 8.25,
+                "market_cap": "$3.3B",
+                "sector_industry": "Consumer Cyclical/Household Products",
+                "high_low_52_week": {
+                    "high": 11.8,
+                    "low": 6.1
+                },
+                "pe_ratio": -12.5,
+                "volume": "12M",
+                "recent_dividend": "$0.07 quarterly"
+            },
+            "impact_theory": "Q1 2026 loss $0.05/share vs. expected -$0.12, shares +11.5%. Implications: Cost controls amid consumer slowdown. Psychology: Relief rally post-restructuring. Parallels: 2020 COVID beats. Analogies: Like turning ship in storm, or diet success after indulgence.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Earnings surprise shifts sentiment positive; low visibility but volume spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum +15%; target $9.50.",
+                "short_position": "Short if macro weakens; -7%.",
+                "key_risks": "Consumer spending drop, debt load."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but cyclical sector vulnerable."
+        },
+        {
+            "details": {
+                "ticker": "IRMD",
+                "full_name": "iRadimed Corporation",
+                "current_price": 32.1,
+                "market_cap": "$820M",
+                "sector_industry": "Healthcare/Medical Devices",
+                "high_low_52_week": {
+                    "high": 42.5,
+                    "low": 22.3
+                },
+                "pe_ratio": 48.2,
+                "volume": "650k",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat, shares +4.5%. Implications: MRI tech demand in hospitals. Psychology: Niche growth story. Parallels: Post-pandemic medtech recovery. Analogies: Like EV charger in auto boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Positive earnings reaction; healthcare resilient."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +10%; target $35.",
+                "short_position": "Minimal downside.",
+                "key_risks": "Hospital budget cuts."
+            },
+            "confidence_rating": "B",
+            "justification": "Good beat, but small cap volatility."
+        },
+        {
+            "details": {
+                "ticker": "GBTG",
+                "full_name": "Global Business Travel Group Inc.",
+                "current_price": 9.35,
+                "market_cap": "$2.1B",
+                "sector_industry": "Industrials/Business Services",
+                "high_low_52_week": {
+                    "high": 10.2,
+                    "low": 4.8
+                },
+                "pe_ratio": -15.6,
+                "volume": "46M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Shares +57% to $9.35 on massive volume 46M (vs avg 1M), possible acquisition rumors or travel rebound amid Hormuz stability hopes. Implications: Corporate travel surge. Psychology: Short squeeze/momentum. Parallels: Post-COVID travel pops. Analogies: Like airline rally on vax news.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Extreme volume/mover; X chatter on travel."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long squeeze +30%; target $12.",
+                "short_position": "Fade rally -15%.",
+                "key_risks": "No catalyst confirmation, profit-taking."
+            },
+            "confidence_rating": "C",
+            "justification": "Unclear driver, speculative mover."
+        }
+    ]
+}
