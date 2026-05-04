@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 147.42,
+                "market_cap": "$330B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 230.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Palantir is reporting Q1 2026 earnings after market close on May 4, with expectations of strong AI-driven growth and government contracts amid heightened geopolitical tensions. The event implies accelerated commercial adoption and defense relevance, boosting market psychology similar to post-2024 AI boom. Historical parallels: NVDA earnings pops in AI era. Analogies: Like a rocket launch (high anticipation), or poker bluff reveal (earnings surprise).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Wall Street expects EPS $0.28 (+115% YoY), revenue $1.54B. X sentiment mixed but hype dominant (earnings watch, AI fraud detection by SBA). Recent premarket +2.3% signals positive shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: 10-15% upside on earnings beat, target $165.",
+                "short_position": "Short: Limited, only if miss, -5-10%.",
+                "key_risks": "High valuation, competition from OpenAI; geopolitical de-escalation reduces gov demand."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings momentum, AI tailwinds, confirmed event."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 155.0,
+                "market_cap": "$700B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "20M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iranian drone attack on UAE Fujairah oil zone causes fire, Brent surges >$119/bbl. Economic: Supply disruption fears amid Hormuz issues/UAE OPEC exit. Psychology: Risk premium spikes oil. Parallels: 2022 Ukraine oil shock. Analogies: Domino effect (one hit cascades supply fears), powder keg ignition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Oil futures +$3-5 immediate reaction. X posts bullish on energy. UAE exit long-term bearish supply, but short-term bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: 5-8% on sustained oil >$110.",
+                "short_position": "Short: If quick resolution, -3%.",
+                "key_risks": "De-escalation, recession curbs demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst, but geo-politics volatile."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 175.0,
+                "market_cap": "$320B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "12M",
+                "recent_dividend": "$1.71 quarterly"
+            },
+            "impact_theory": "Same UAE oil attack event. Implications: Higher refining margins short-term, but supply chain risks. Psychology: Fear drives buying. Parallels: Gulf War oil spikes. Analogies: Storm in oil barrel, ripple in pond.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.5%",
+                "reasoning": "Synergistic with XOM, X buzz on oil surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: 6% gain.",
+                "short_position": "Short: Post-spike fade.",
+                "key_risks": "OPEC+ response floods market."
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven, sector correlated."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 520.0,
+                "market_cap": "$125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "1.5M",
+                "recent_dividend": "$3.15 quarterly"
+            },
+            "impact_theory": "Iran-UAE escalation in US-Iran war boosts defense demand (missiles, F-35). Economic: Higher budgets. Psychology: Safe haven. Parallels: Post-9/11 rally. Analogies: Arms race accelerator, shield in storm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "War context, drone attacks heighten needs. Indirect sentiment lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: 4-7% on contracts.",
+                "short_position": "Short: Ceasefire.",
+                "key_risks": "Budget cuts if economy slows."
+            },
+            "confidence_rating": "B",
+            "justification": "Proven war premium, but less direct."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 45.0,
+                "market_cap": "$30B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 8.0,
+                "volume": "15M",
+                "recent_dividend": "$0.10 quarterly"
+            },
+            "impact_theory": "Oil spike from UAE attack erodes airline margins (fuel 30% costs). Economic: Higher fares/passenger drop. Psychology: Risk-off travel. Parallels: 2022 oil crush. Analogies: Jet fuel fire, headwind in flight.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3%",
+                "reasoning": "Oil sensitivity high, X/oil news negative for sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: Recovery if oil falls.",
+                "short_position": "Short: 5-10% downside.",
+                "key_risks": "Demand resilient despite fuel."
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect impact, demand factors vary."
+        }
+    ]
+}
