@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NWL",
+                "full_name": "Newell Brands Inc.",
+                "current_price": 4.55,
+                "market_cap": "$1.93B",
+                "sector_industry": "Consumer Staples / Housewares",
+                "high_low_52_week": {
+                    "high": 6.63,
+                    "low": 3.07
+                },
+                "pe_ratio": -6.68,
+                "volume": "High (post-earnings)",
+                "recent_dividend": "6.2% yield"
+            },
+            "impact_theory": "Q1 2026 earnings showed narrower loss than expected ($0.05 vs consensus), sparking positive sentiment. Economic implications: resilient consumer goods demand amid inflation. Market psychology: relief rally after cost cuts. Historical parallels: similar post-earnings bounces in 2023. Analogies: like a drowning man grabbing a life preserver (earnings beat), or phoenix rising from turnaround efforts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Earnings beat drove 11.5% surge; X sentiment mixed but positive company post; web news highlights surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15% gains on continued turnaround momentum",
+                "short_position": "Short if volume fades, potential -5% pullback",
+                "key_risks": "Weak consumer spending, debt load"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings reaction but negative PE signals ongoing losses."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 130.5,
+                "market_cap": "$520B",
+                "sector_industry": "Energy / Integrated Oil",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "Elevated",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices surged past $100/Brent $114 on Hormuz tensions, UAE OPEC exit weakening cartel. Implications: higher energy costs, inflation risk. Psychology: fear premium boosts oil stocks. Parallels: 2019 Hormuz drone attacks +10% oil spike. Analogies: like gasoline on a fire (geopolitics fueling prices), powder keg in supply chain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Oil jump on tensions; X posts highlight CEO comments on draws, positive for majors; web confirms surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10% on sustained oil rally",
+                "short_position": "Short on de-escalation, -4%",
+                "key_risks": "Diplomatic resolution, recession curbing demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear geopolitical catalyst with historical precedent."
+        },
+        {
+            "details": {
+                "ticker": "NCLH",
+                "full_name": "Norwegian Cruise Line Holdings Ltd.",
+                "current_price": 18.2,
+                "market_cap": "$7.8B",
+                "sector_industry": "Consumer Discretionary / Leisure",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 14.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "High",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Q1 EPS beat but slashed FY guidance due to higher fuel from ME tensions, soft Europe demand. Implications: rising costs squeeze margins. Psychology: disappointment overrides beat. Parallels: 2022 cruise cuts on inflation. Analogies: sailing into headwinds (fuel costs), iceberg ahead (guidance cut).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Guidance cut to $1.45-1.79 EPS; X notes hammering; peers RCL CCL pressured."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy +5% rebound",
+                "short_position": "Short for -15% on cost pressures",
+                "key_risks": "Summer booking surge, oil stabilization"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear guidance risk but seasonal recovery possible."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global Inc.",
+                "current_price": 245.0,
+                "market_cap": "$60B",
+                "sector_industry": "Financials / Crypto Exchange",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Regulatory progress amid crypto boost; market risk-on despite oil. Implications: easier listings, adoption. Psychology: hope rally. Parallels: 2024 ETF approvals. Analogies: green light at intersection (regs), dam breaking (institutional flow).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "News of reg progress; aligns with Nasdaq highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +20% on BTC rally",
+                "short_position": "Short on risk-off, -10%",
+                "key_risks": "Regulatory reversal, BTC dump"
+            },
+            "confidence_rating": "C",
+            "justification": "Vague reg news, speculative."
+        },
+        {
+            "details": {
+                "ticker": "AMGN",
+                "full_name": "Amgen Inc.",
+                "current_price": 285.0,
+                "market_cap": "$152B",
+                "sector_industry": "Healthcare / Biotech",
+                "high_low_52_week": {
+                    "high": 340.0,
+                    "low": 260.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "Elevated",
+                "recent_dividend": "$2.25 quarterly"
+            },
+            "impact_theory": "Dragged Dow; possible pipeline concerns or sector rotation from highs. Implications: biotech caution. Psychology: profit-taking. Parallels: 2023 AMGN dips. Analogies: heavy anchor (Dow weight), flat tire on rally.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-6%",
+                "reasoning": "Noted as Dow decliner; no specific news but rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long defensives +5%",
+                "short_position": "Short momentum fade -8%",
+                "key_risks": "Earnings surprise, sector rebound"
+            },
+            "confidence_rating": "C",
+            "justification": "Less specific catalyst."
+        }
+    ]
+}
