@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 337.5,
+                "market_cap": "$500B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 350.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Upcoming Q1 earnings after close amid AI boom hype. Economic implications: Capacity constraints and high expectations could pressure margins. Market psychology: Priced for perfection, any miss triggers sell-off like NVDA post-rally dips. Historical parallels: 2022 chip sell-offs after peaks. Analogies: Like a sprinter at peak speed facing a hurdle (earnings), or overinflated balloon awaiting pinprick.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -10%",
+                "reasoning": "X sentiment shows plunge to -5 score, HSBC downgrade to Hold citing stretched valuation and constraints. Web news highlights potential sell-off. High expectations for AI growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if beats high: 5-8% upside to $355.",
+                "short_position": "Short pre/post earnings: 8-12% downside on miss.",
+                "key_risks": "Beat expectations leading to squeeze higher; broader semi rally."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news flow on earnings, mixed X sentiment bearish shift."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 145.2,
+                "market_cap": "$350B",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 98.5,
+                "volume": "60M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat with strong growth but commercial sales disappointed, high valuation concerns. Implications: AI disruption fears despite fundamentals. Psychology: Profit-taking after run-up. Parallels: High-growth tech pullbacks like SNOW 2021. Analogies: Ferrari priced as Lambo but engine sputters on highway; castle built on sand amid tide.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -7%",
+                "reasoning": "Stock down 5% post-earnings on valuation (P/E ~100), weak commercial. X posts highlight bearish macro pressure, Truist unfavorable risk/reward."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip to $140: rebound to $155 on AI hype.",
+                "short_position": "Short resistance $148: down to $130.",
+                "key_risks": "Unexpected AI contract wins; sector rotation back to growth."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear sentiment shift post-earnings, multiple X confirmations."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 1250.0,
+                "market_cap": "$3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1400.0,
+                    "low": 700.0
+                },
+                "pe_ratio": 75.0,
+                "volume": "300M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Positive sentiment amid market rebound and AI leadership. Implications: Continued dominance in AI chips boosts sector. Psychology: FOMO buying. Parallels: 2023 rally continuation. Analogies: King on throne with challengers falling; snowball rolling downhill gaining size.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to 5%",
+                "reasoning": "X semantic shows sentiment surge +5 to 8.0 score. Tech leading Nasdaq highs despite tensions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum: 5-10% to new highs.",
+                "short_position": "Avoid; minimal downside.",
+                "key_risks": "Sector rotation out of semis; AMD miss spillover."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive X sentiment contrast to peers."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 850.0,
+                "market_cap": "$50B",
+                "sector_industry": "Technology / Servers",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 35.0,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Earnings after close tied to AI server demand. Implications: Growth from NVDA ecosystem. Psychology: Volatility expected. Parallels: Server boom 2023. Analogies: Rocket fuel for AI launch; tailwind surfer.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to 8%",
+                "reasoning": "Upcoming earnings with AI tailwinds, market rebound aids."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on beat: 10% upside.",
+                "short_position": "Short if miss: -10%.",
+                "key_risks": "Margin pressure; supply chain issues."
+            },
+            "confidence_rating": "C",
+            "justification": "Anticipatory, less specific sentiment."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 115.0,
+                "market_cap": "$450B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "15M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices slip on Mideast de-escalation. Implications: Lower input costs for consumers, pressure on energy profits. Psychology: Risk-off unwind. Parallels: 2022 Ukraine rally unwind. Analogies: Deflating balloon; wave receding from shore.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2 to -4%",
+                "reasoning": "Oil elevated but slipping as US downplays tensions, market rebound hurts energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if geopolitical flare-up.",
+                "short_position": "Short continued truce: 3-5% down.",
+                "key_risks": "Unexpected supply disruptions."
+            },
+            "confidence_rating": "B",
+            "justification": "Tied to broad market news on oil/Mideast."
+        }
+    ]
+}
