@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "STRL",
+                "full_name": "Sterling Infrastructure, Inc.",
+                "current_price": 780.32,
+                "market_cap": "$22B",
+                "sector_industry": "Industrials/Civil Engineering",
+                "high_low_52_week": {
+                    "high": 800.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "5,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sterling Infrastructure reported Q1 2026 revenues of $825.7M, up 91.59% YoY, driven by infrastructure demand from data centers and e-infrastructure. Economic implications include boosted growth from govt spending and AI buildout. Market psychology: Earnings beats spark FOMO buying. Historical parallel: Similar surges in infra stocks during 2021 stimulus. Analogies: Like a dam bursting with backlog orders; rocket fueled by earnings.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Strong earnings beat and growth continuation signal sustained momentum; X sentiment positive on infrastructure AI play; web news highlights revenue surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy/hold for +20% gains in next week on momentum.",
+                "short_position": "Avoid; high risk of squeeze.",
+                "key_risks": "Market rotation out of cyclicals, overbought RSI."
+            },
+            "confidence_rating": "A",
+            "justification": "Top gainer with clear earnings catalyst and high volume."
+        },
+        {
+            "details": {
+                "ticker": "DOCN",
+                "full_name": "DigitalOcean Holdings, Inc.",
+                "current_price": 145.4,
+                "market_cap": "$6.5B",
+                "sector_industry": "Technology/Cloud Computing",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 120.0,
+                "volume": "3,200,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 revenue $258M +22% YoY, AI ARR +221%; implications: AI cloud demand accelerates smaller players. Psychology: Underdog AI story excites retail. Parallel: SMCI in 2023 AI run. Analogies: Small fish swimming with AI sharks; turbocharged server for startups.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Earnings crush, AI guidance boost; positive X buzz on AI cloud."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +25% on AI hype extension.",
+                "short_position": "Short if guidance weak, potential -10%.",
+                "key_risks": "Competition from hyperscalers, dilution from offerings."
+            },
+            "confidence_rating": "A",
+            "justification": "Major gainer post-earnings, AI tailwind confirmed."
+        },
+        {
+            "details": {
+                "ticker": "EWTX",
+                "full_name": "Edgewise Therapeutics, Inc.",
+                "current_price": 31.45,
+                "market_cap": "$2.8B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "4,000,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sudden surge likely from positive trial hints or analyst note ahead of data; biotech volatility high. Implications: Cardiac drug success boosts pipeline value. Psychology: Short squeeze + hope. Parallel: Biotech pops pre-data like SRPT. Analogies: Heart pump priming the stock; lottery ticket hitting numbers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Volatility explained by positive catalysts; top gainer status."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing long for trial news +30%.",
+                "short_position": "High risk post-surge.",
+                "key_risks": "Clinical trial failure, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Unclear exact trigger but significant move."
+        },
+        {
+            "details": {
+                "ticker": "CYTK",
+                "full_name": "Cytokinetics, Incorporated",
+                "current_price": 58.0,
+                "market_cap": "$7B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 30.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "2,500,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Ahead of Q1 earnings and ACACIA-HCM topline on May 5; surging on anticipation. Implications: Positive HCM data could lead to approval. Psychology: Event-driven buying. Parallel: MYK-461 history. Analogies: Clinical finish line sprint; heart drug heartbeat for stock.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "Pre-earnings/data momentum; news positioning for beat."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long into earnings +20%.",
+                "short_position": "Post-event if miss.",
+                "key_risks": "Trial disappointment, regulatory hurdles."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to May 5 events."
+        },
+        {
+            "details": {
+                "ticker": "IPGP",
+                "full_name": "IPG Photonics Corporation",
+                "current_price": 95.59,
+                "market_cap": "$5.5B",
+                "sector_industry": "Technology/Laser Systems",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "1,800,000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings miss expectations, revenue down YoY; implications: Industrial laser weakness amid China slowdown. Psychology: Profit-taking, fear. Parallel: Laser peers in 2022 downturn. Analogies: Laser dimming in factory slowdown; rug pull on earnings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-20%",
+                "reasoning": "Earnings disappointment drives selloff; top loser."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy risky.",
+                "short_position": "Short for -15% further.",
+                "key_risks": "Oversold bounce, defense segment strength."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings reaction as top loser."
+        }
+    ]
+}
