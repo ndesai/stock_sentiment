@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "STRL",
+                "full_name": "Sterling Infrastructure, Inc.",
+                "current_price": 806.0,
+                "market_cap": "$22.5B",
+                "sector_industry": "Industrials / Construction & Engineering",
+                "high_low_52_week": {
+                    "high": 807.3,
+                    "low": 100.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "524302",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "Sterling Infrastructure surged over 50% amid reports of major infrastructure contracts tied to data center expansions for AI firms, boosting sector sentiment. Economic implications include accelerated capex in construction due to AI boom. Market psychology: FOMO buying as investors chase infrastructure plays. Historical parallels: Similar run-up in 2021 infra bill. Analogies: Like a gold rush where picks and shovels (infrastructure) profit most; rocket fuel for construction stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Web searches show STRL as top gainer with +52% move; X sentiment likely positive on volume. Continued AI infra demand supports further upside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long STRL for 15-25% gains in next week on momentum.",
+                "short_position": "Avoid short due to squeeze risk; potential 5% pullback.",
+                "key_risks": "Overbought, profit-taking, broader market correction."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear top gainer in multiple sources, strong momentum."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 150.0,
+                "market_cap": "$240B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 35.5,
+                "volume": "80M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AMD earnings upcoming with positive previews amid semi strength; Dan Ives notes AI revolution. Implications: Increased chip demand. Psychology: Optimism in semis vs software unwind. Parallels: 2023 AI rally. Analogies: Riding the AI wave like surfers on tech tsunami; engine in AI supercar.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "CNBC mentions AMD earnings on tap, semis strong; market records support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long pre-earnings for 8% gain.",
+                "short_position": "Short post-earnings if miss, 10% downside.",
+                "key_risks": "Earnings miss, competition from NVDA."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst clear, but binary outcome."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 35.0,
+                "market_cap": "$80B",
+                "sector_industry": "Technology / Software - AI",
+                "high_low_52_week": {
+                    "high": 40.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 200.0,
+                "volume": "50M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Dan Ives highlights Palantir validating AI demand with gov spending. Implications: Enterprise AI adoption accelerates revenue. Psychology: Validation rally. Parallels: Early Snowflake hype. Analogies: AI oracle in modern markets; fuel for data fire.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Positive CNBC coverage on AI results."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% on AI theme.",
+                "short_position": "Short on valuation, potential 15% drop.",
+                "key_risks": "High valuation, profitability concerns."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong analyst support, but speculative."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 120.0,
+                "market_cap": "$3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 60.0,
+                "volume": "400M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "CEO Jensen Huang comments on Anthropic dispute, reinforcing US AI lead. Implications: Policy support for chips. Psychology: Mag7 strength. Parallels: CHIPS act boost. Analogies: King of AI castle; GPU gold standard.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Record Nasdaq, CEO visibility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5% gains.",
+                "short_position": "High risk short, squeeze likely.",
+                "key_risks": "Geopolitics, valuation bubble."
+            },
+            "confidence_rating": "A",
+            "justification": "Market leader in bull market."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 115.0,
+                "market_cap": "$450B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "20M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices drop despite Hormuz stability, dragging energy. Implications: Lower input costs but margin pressure. Psychology: Risk-off in energy. Parallels: 2020 oil crash. Analogies: Leaky oil tanker; deflating balloon in energy sector.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "CNBC oil pullback reports amid market highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dividend yield if oversold.",
+                "short_position": "Short for 10% downside on continued drop.",
+                "key_risks": "Geopolitical rebound in oil."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector headwind from news."
+        }
+    ]
+}
