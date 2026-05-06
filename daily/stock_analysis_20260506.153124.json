@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 382.45,
+                "market_cap": "$612B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 405.2,
+                    "low": 125.5
+                },
+                "pe_ratio": 48.2,
+                "volume": "145M",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "AMD reported Q1 2026 earnings with $10.3B revenue beating estimates, driven by 38% YoY data center growth from AI chips. Economic implications include boosted AI infrastructure spending, reducing reliance on Nvidia. Market psychology: FOMO buying as CPUs gain traction in AI ('CPUs cool again'). Historical parallel: NVDA post-2023 earnings rallies. Analogies: Like Intel's Pentium era chip wars; rocket fuel for AI arms race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Earnings beat, raised guidance on AI/data center (70%+ CPU growth Q2), upgrades from Goldman/Citi. X sentiment positive (up 15%+ mentions), web news rally in chips."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% upside on AI momentum, target $450.",
+                "short_position": "Short if overbought RSI>80 fades, potential 5% pullback.",
+                "key_risks": "Competition from NVDA/Intel, supply chain issues, broader tech correction."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings beat, AI tailwinds confirmed, high analyst upgrades, positive X/web sentiment."
+        },
+        {
+            "details": {
+                "ticker": "DIS",
+                "full_name": "The Walt Disney Company",
+                "current_price": 118.75,
+                "market_cap": "$215B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 125.4,
+                    "low": 85.2
+                },
+                "pe_ratio": 22.5,
+                "volume": "28M",
+                "recent_dividend": "$0.45 quarterly, ex-date Apr 2026"
+            },
+            "impact_theory": "Disney Q2 FY2026 earnings beat on streaming profitability and parks revenue. Implications: Cost cuts paying off, consumer spending resilient. Psychology: Relief rally after streaming losses. Parallels: Post-COVID parks rebound 2021. Analogies: Turning Titanic (losses) to Treasure Island (profits); phoenix from streaming ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Pops 7% on revenue beat from parks/streaming, per CNBC/Yahoo. Positive market coverage, X buzz on earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $135 on entertainment recovery.",
+                "short_position": "Avoid or short on box office flops.",
+                "key_risks": " cord-cutting acceleration, economic slowdown hitting discretionary."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but streaming competition lingers; high confidence in short-term pop."
+        },
+        {
+            "details": {
+                "ticker": "UBER",
+                "full_name": "Uber Technologies, Inc.",
+                "current_price": 72.3,
+                "market_cap": "$152B",
+                "sector_industry": "Technology / Ride-sharing",
+                "high_low_52_week": {
+                    "high": 85.6,
+                    "low": 48.9
+                },
+                "pe_ratio": 35.8,
+                "volume": "35M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Uber Q1 earnings beat with profitability sustained, revenue up massively YoY. Implications: Mobility/delivery growth in tough economy. Psychology: Validates path to sustained profits. Parallels: Post-IPO turnaround like AMZN. Analogies: From gas-guzzler to EV efficiency; taxi medallion killer evolves.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "EPS/revenue beat, revenue $13.2B vs 2019 $3.1B shows scale. Positive premarket, X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% to $85 on growth.",
+                "short_position": "Short if regulation bites.",
+                "key_risks": "Driver shortages, fuel costs, competition from LYFT."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent beats but valuation stretched."
+        },
+        {
+            "details": {
+                "ticker": "ANET",
+                "full_name": "Arista Networks, Inc.",
+                "current_price": 345.2,
+                "market_cap": "$108B",
+                "sector_industry": "Technology / Networking",
+                "high_low_52_week": {
+                    "high": 360.1,
+                    "low": 210.5
+                },
+                "pe_ratio": 52.1,
+                "volume": "12M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Arista Q1 revenue $2.71B beat, record cash flow, AI networking demand. Implications: Cloud/AI data center expansion. Psychology: AI infrastructure play. Parallels: Cisco 2000 boom. Analogies: Plumbing for AI data floods; fiber optic gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-12%",
+                "reasoning": "Beat guidance, raised outlook. Positive earnings call coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $400 on AI networking.",
+                "short_position": "Short on slowdown.",
+                "key_risks": "Customer concentration (MSFT/META), chip shortages."
+            },
+            "confidence_rating": "A",
+            "justification": "AI-driven beat, strong cash flow."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 850.4,
+                "market_cap": "$50B",
+                "sector_industry": "Technology / Servers",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "22M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SMCI Q1 revenue $10.24B (123% YoY growth despite miss), AI server demand. Implications: Hyperscaler capex boom. Psychology: Growth trumps miss. Parallels: Dell AI pivot. Analogies: Building AI skyscrapers; server farm frenzy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Huge growth, premarket mover with AMD. Memory chip rally ties in."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% on AI servers.",
+                "short_position": "Short post-miss digestion.",
+                "key_risks": "Margin pressure, accounting issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Growth strong but revenue miss tempers."
+        }
+    ]
+}
