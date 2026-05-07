@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "FSLY",
+                "full_name": "Fastly, Inc.",
+                "current_price": 20.43,
+                "market_cap": "$2.5B",
+                "sector_industry": "Technology / Edge Cloud Platforms",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 15.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Fastly reported record Q1 2026 revenue of $173M (+20% YoY) and beat EPS expectations, but stock plunged 35% due to concerns over decelerating growth, high capex, and market rotation away from high-growth tech amid broader AI hype fatigue. Economic implications include edge computing demand from AI but capex signaling investments outpacing revenue. Market psychology: Sell the news despite beat, fear of dilution or margin pressure. Historical parallels: Similar to 2021 cloud stock drops post-beat on guidance worries. Analogies: Like a sprinter slowing mid-race (revenue decel); building a Ferrari while sales lag (capex).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "X sentiment negative (crash despite beat, support tests); web news highlights drop despite record results due to capex/forecast concerns. High volume selloff suggests continuation lower unless bargain hunting."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 10-15% rebound if holds $20 support; target $23.",
+                "short_position": "Short for 10% further downside to $18; risks oversold bounce.",
+                "key_risks": "Earnings digestion leads to short-cover; broader tech rally on Iran peace news."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong data from earnings/X, but volatile post-earnings reaction."
+        },
+        {
+            "details": {
+                "ticker": "AAON",
+                "full_name": "AAON, Inc.",
+                "current_price": 142.46,
+                "market_cap": "$8B",
+                "sector_industry": "Industrials / HVAC Systems",
+                "high_low_52_week": {
+                    "high": 116.0,
+                    "low": 62.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "14M",
+                "recent_dividend": "$0.08 (annualized)"
+            },
+            "impact_theory": "Q1 revenue +54% to $497M, record backlog $2.13B from data center demand, raised FY guidance 40-45% growth. Implications: AI/data center boom drives HVAC for cooling. Psychology: Re-rating as AI infrastructure play. Parallels: 2023-24 infra stocks on AI. Analogies: Picking up pennies before avalanche (backlog); tailwind from AI heatwave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +20%",
+                "reasoning": "X posts hype earnings beat/raise, data center tie-in; news confirms massive beat. Positive sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% upside to $170; momentum play.",
+                "short_position": "Avoid or small short on profit-taking; 5-10% pullback.",
+                "key_risks": "Overextended gap-up; macro slowdown in construction."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst, AI theme alignment, strong X buzz."
+        },
+        {
+            "details": {
+                "ticker": "MCD",
+                "full_name": "McDonald's Corporation",
+                "current_price": 284.0,
+                "market_cap": "$205B",
+                "sector_industry": "Consumer Cyclical / Quick Service Restaurants",
+                "high_low_52_week": {
+                    "high": 335.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "5M",
+                "recent_dividend": "$1.77 quarterly"
+            },
+            "impact_theory": "Q1 US sales miss growth target amid consumer spending tightening. Implications: Signals weakness in low-end consumer amid inflation. Psychology: Defensive shift hurts staples. Parallels: 2022 consumer slowdown. Analogies: Canary in coal mine for spending; Big Mac index flashing caution.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "News focuses on miss; X mentions in movers negatively. Consumer sentiment key."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long if dips to support; dividend yield attractive.",
+                "short_position": "Short for 5% to $270; consumer weakness.",
+                "key_risks": "Market rally overrides; value buy."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss but mega-cap resilience."
+        },
+        {
+            "details": {
+                "ticker": "FTNT",
+                "full_name": "Fortinet, Inc.",
+                "current_price": 102.0,
+                "market_cap": "$80B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 115.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 48.3,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 beat, billings +31%, raised FY outlook on AI/OT demand. Implications: Cyber supercycle from AI infra. Psychology: Momentum in cybersecurity. Parallels: Post-2020 cyber boom. Analogies: Firewall for AI castle; moat widening.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "X positive on beat/raise; news highlights billings surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $120; 15% gain.",
+                "short_position": "Short pullback 5-10%; post-earnings fade.",
+                "key_risks": "Valuation stretch; competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong metrics, AI tailwind."
+        },
+        {
+            "details": {
+                "ticker": "WHR",
+                "full_name": "Whirlpool Corporation",
+                "current_price": 56.57,
+                "market_cap": "$3.5B",
+                "sector_industry": "Consumer Cyclical / Home Appliances",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 56.0
+                },
+                "pe_ratio": 8.2,
+                "volume": "4M",
+                "recent_dividend": "$1.75 quarterly"
+            },
+            "impact_theory": "Q1 sales miss -9.6% YoY. Implications: Housing/appliance demand weak. Psychology: Consumer durables hurting. Parallels: 2008 slowdown. Analogies: Washing machine stuck in spin cycle; fridge with no food.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "Miss confirmed; part of consumer weakness theme."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value long at lows; 10% rebound.",
+                "short_position": "Short to $50; 10% loss potential.",
+                "key_risks": "Housing rebound; dividend support."
+            },
+            "confidence_rating": "C",
+            "justification": "Less X buzz, broader consumer theme."
+        }
+    ]
+}
