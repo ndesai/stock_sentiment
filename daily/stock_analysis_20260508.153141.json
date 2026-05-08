@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AGL",
+                "full_name": "agilon health, inc.",
+                "current_price": 58.5,
+                "market_cap": "$2.8B",
+                "sector_industry": "Healthcare / Health Care Providers",
+                "high_low_52_week": {
+                    "high": 60.2,
+                    "low": 12.5
+                },
+                "pe_ratio": -15.2,
+                "volume": "150M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 earnings beat with revenue $1.42B (down YoY but beat est), net income up to $48.9M, raised FY guidance to $5.7B rev. Economic: Signals turnaround in value-based care for seniors amid aging pop. Psych: Short squeeze + momentum. Parallels: Similar to TDOC post-earnings surges. Analogies: Like a phoenix rising from ashes of prior losses; rubber band snapping back after compression.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20%",
+                "reasoning": "Earnings crush expectations, raised outlook, X sentiment exploding with +117% mentions, web news positive on margins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +30% potential to $75 on momentum, hold 1-2wks.",
+                "short_position": "Short: High risk, potential -15% if squeeze continues.",
+                "key_risks": "Profit taking after parabolic run, dilution, healthcare reg changes."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings catalyst, massive volume/volume, positive analyst upgrades."
+        },
+        {
+            "details": {
+                "ticker": "ATRA",
+                "full_name": "Atara Biotherapeutics, Inc.",
+                "current_price": 28.1,
+                "market_cap": "$450M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 30.5,
+                    "low": 2.1
+                },
+                "pe_ratio": -2.8,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "FDA provides clear resubmission path for tab-cel BLA with added Phase 3 data, partner Pierre Fabre to submit. Economic: EBV+ PTLD therapy potential $500M+ market. Psych: Biotech derisking rally. Parallels: 2021 FDA nods for peers like KYMR. Analogies: Green light at red light district; dam breaking after pressure build.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+40%",
+                "reasoning": "FDA clarity post-Type A meeting, stock +92%, high X buzz, news headlines surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +50% to $40 on approval hopes.",
+                "short_position": "Short: Avoid, biotech momentum volatile.",
+                "key_risks": "BLA rejection, cash burn, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive FDA feedback but execution risk on resubmission."
+        },
+        {
+            "details": {
+                "ticker": "DDOG",
+                "full_name": "Datadog, Inc.",
+                "current_price": 145.2,
+                "market_cap": "$48B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 250.5,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 rev $1.01B +32% YoY beat, 4550 $100k+ customers, raised FY rev $4.3-4.34B on AI. Economic: Cloud observability boom w/AI infra. Psych: Tech rally amid Mideast de-escalation. Parallels: SNOW 2023 AI pivot. Analogies: Fuel to AI rocket engine; snowball in avalanche.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Beat + raise, AI tailwinds, X posts highlight +29% move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +20% to $175 next qtr.",
+                "short_position": "Short: -10% on valuation reset.",
+                "key_risks": "Competition from Splunk/MSFT, macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent beats, AI secular growth."
+        },
+        {
+            "details": {
+                "ticker": "FTNT",
+                "full_name": "Fortinet, Inc.",
+                "current_price": 89.95,
+                "market_cap": "$68B",
+                "sector_industry": "Technology / Software - Cybersecurity",
+                "high_low_52_week": {
+                    "high": 92.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "32M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 rev $1.85B +20%, billings +31%, raised FY billings $8.8-9.1B on AI/OT security. Economic: Cyber threats rise w/AI. Psych: Quality compounder rally. Parallels: PANW post-earnings. Analogies: Firewall in storm; moat widening.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Beat est, strong guidance, +19% reaction, positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +15% to $105.",
+                "short_position": "Short: -8% pullback.",
+                "key_risks": "Margin pressure, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Recurring rev strength, market leader."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 185.0,
+                "market_cap": "$295B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 120.8,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 rev $10.3B +38%, AI data center boom, Q2 guide $11.2B beat. Economic: AI capex surge. Psych: Nvidia alternative hype amid peace rally. Parallels: NVDA 2023. Analogies: Co-pilot to AI jet; tidal wave rider.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+18%",
+                "reasoning": "AI demand exceeds, +18% surge, X/web hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long: +25% to $230.",
+                "short_position": "Short: -12% correction.",
+                "key_risks": "TSMC delays, AI hype fade."
+            },
+            "confidence_rating": "A",
+            "justification": "AI secular trend, strong execution."
+        }
+    ]
+}
