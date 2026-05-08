@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SITM",
+                "full_name": "SiTime Corporation",
+                "current_price": 797.31,
+                "market_cap": "$18.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 823.45,
+                    "low": 72.34
+                },
+                "pe_ratio": 145.2,
+                "volume": "2.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SiTime reported Q1 2026 revenue up 88% to $113.6M, beating expectations due to AI data center demand for precision timing chips. Economic implications include boosted AI infrastructure spending, positive market psychology from earnings surprise fueling FOMO buying. Historical parallels: Similar to NVDA post-earnings surges in 2023-24. Analogies: 1) Like a precision clock syncing a massive orchestra (AI systems); 2) Fueling the AI rocket's engines.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat and AI tailwinds drive positive sentiment; web news shows stock +28% reaction, X posts likely echo hype (from searches)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +10-15% gains in next week on momentum.",
+                "short_position": "Avoid short, high short squeeze risk.",
+                "key_risks": "Overbought, valuation stretch, broader tech pullback."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with strong revenue growth and sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "AXON",
+                "full_name": "Axon Enterprise, Inc.",
+                "current_price": 426.89,
+                "market_cap": "$32.5B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 455.2,
+                    "low": 210.0
+                },
+                "pe_ratio": 98.7,
+                "volume": "1.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 revenue +34% to $807M, raised FY2026 guidance to 30-32% growth. Implications: Expanding body cam/taser demand globally. Psychology: Confidence in recurring revenue model. Parallels: Public safety tech boom like 2020-22. Analogies: 1) Arming the digital police force; 2) Like upgrading from flip phone to smartphone for law enforcement.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Guidance raise exceeds expectations, stock +10%; positive analyst notes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting +12% upside.",
+                "short_position": "N/A",
+                "key_risks": "Government budget cuts, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong guidance update post-earnings."
+        },
+        {
+            "details": {
+                "ticker": "MNST",
+                "full_name": "Monster Beverage Corporation",
+                "current_price": 86.95,
+                "market_cap": "$47.8B",
+                "sector_industry": "Consumer Defensive / Beverages",
+                "high_low_52_week": {
+                    "high": 92.3,
+                    "low": 44.5
+                },
+                "pe_ratio": 38.4,
+                "volume": "5.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 sales +26.9% driven by energy drink demand. Implications: Consumer spending resilient. Psychology: Growth story intact. Parallels: Post-pandemic consumer staples rallies. Analogies: 1) Energy boost for investors; 2) Like Red Bull wings in earnings season.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Beat expectations, stock +14%; strong sales growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +8% near-term.",
+                "short_position": "Avoid.",
+                "key_risks": "Commodity costs, competition from PepsiCo."
+            },
+            "confidence_rating": "A",
+            "justification": "Robust sales growth in core segment."
+        },
+        {
+            "details": {
+                "ticker": "TXRH",
+                "full_name": "Texas Roadhouse, Inc.",
+                "current_price": 181.15,
+                "market_cap": "$12.1B",
+                "sector_industry": "Consumer Cyclical / Restaurants",
+                "high_low_52_week": {
+                    "high": 190.5,
+                    "low": 98.45
+                },
+                "pe_ratio": 34.2,
+                "volume": "1.4M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "Q1 EPS beat, revenue slight miss but +12.8%, dividend hike. Implications: Dining out recovery. Psychology: Dividend signals confidence. Parallels: Restaurant chains post-2023 reopenings. Analogies: 1) Steak dinner for shareholders; 2) Roadhouse rally like a tailgate party.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "EPS beat and dividend, stock +14%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long +6-10%.",
+                "short_position": "N/A",
+                "key_risks": "Labor costs, consumer slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid but revenue miss tempers enthusiasm."
+        },
+        {
+            "details": {
+                "ticker": "FSLY",
+                "full_name": "Fastly, Inc.",
+                "current_price": 19.5,
+                "market_cap": "$2.6B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 38.0,
+                    "low": 12.7
+                },
+                "pe_ratio": -15.3,
+                "volume": "12.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Record Q1 but growth concerns persist, stock -38%. Implications: Edge computing competition intense. Psychology: Disappointment despite records. Parallels: Cloud stocks selloffs on guidance 2022. Analogies: 1) Fastly but market ran faster away; 2) Speeding ticket for missing growth lane.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Plunge despite revenue growth due to outlook fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or dip buy at lower levels.",
+                "short_position": "Short for +15-20% downside.",
+                "key_risks": "Oversold bounce, AI partnerships."
+            },
+            "confidence_rating": "A",
+            "justification": "Sharp reaction to earnings call concerns."
+        }
+    ]
+}
