@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "RXT",
+                "full_name": "Rackspace Technology, Inc.",
+                "current_price": 5.74,
+                "market_cap": "1.423B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 5.78,
+                    "low": 0.39
+                },
+                "pe_ratio": 33.44,
+                "volume": "104.75M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rackspace reported Q1 2026 results with revenue beat, profitability inflection point, reaffirmed FY outlook, and announced strategic AI partnership with AMD for governed AI infrastructure. This counters recent weakness in cloud sector amid AI hype. Economic implications: Signals recovery in enterprise cloud spending post-jobs surge. Market psychology: Massive volume spike creates FOMO momentum, shifting from distressed turnaround to AI growth story. Historical parallels: Similar to DigitalOcean's 2023 rally post-partnerships. Analogies: 1. Like a sinking ship finding new engines (AMD AI). 2. Penny arcade jackpot in cloud casino.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12%",
+                "reasoning": "Earnings beat and high-profile AMD AI partnership drove +57% surge with record volume. Web news positive, X sentiment buzzing with #RXT mentions on momentum (assumed from high engagement). Jobs report supports tech spend."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for additional 10-20% gains on continued momentum and AI tailwinds",
+                "short_position": "Avoid or small short for 5-10% pullback on profit-taking",
+                "key_risks": "Overbought after 57% run, potential dilution, broader market rotation from tech."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with earnings + partnership, extreme volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NET",
+                "full_name": "Cloudflare, Inc.",
+                "current_price": 198.81,
+                "market_cap": "70.254B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 130.2
+                },
+                "pe_ratio": 152.0,
+                "volume": "14.51M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cloudflare announced Q1 beat on revenue/EPS but issued softer Q2 guidance and revealed 20% workforce cut in AI-driven restructuring. Economic: Highlights cost pressures in hypergrowth cloud amid maturing AI capex. Psych: Panic selling on layoffs despite profitability push. Historical: Parallels Snowflake's 2024 post-earnings drop. Analogies: 1. Trimming fat but spooking the herd. 2. Ferrari slowing to fix engine mid-race.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Mixed earnings with weak guidance and layoffs caused -23% plunge. News highlights restructuring fears, X likely negative on job cuts despite AI pivot."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for +15% rebound if guidance stabilizes",
+                "short_position": "Short for further 10% downside on continued pressure",
+                "key_risks": "Oversold bounce, AI long-term benefits undervalued."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong drop but growth co, guidance key watch."
+        },
+        {
+            "details": {
+                "ticker": "HUBS",
+                "full_name": "HubSpot, Inc.",
+                "current_price": 193.18,
+                "market_cap": "9.956B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 682.57,
+                    "low": 180.5
+                },
+                "pe_ratio": 101.79,
+                "volume": "4.06M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat with raised EPS guidance, but multiple analyst downgrades/PT cuts post-report. Economic: CRM sector resilient but valuation reset amid rate fears. Psych: Profit-taking after YTD weakness. Historical: Like CRM peers post-guidance. Analogies: 1. Good report, bad headlines. 2. Party pooper analysts crash the beat.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "Beat but analyst reaction negative, -21% drop. X sentiment mixed-negative on downgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 20% upside to fair value",
+                "short_position": "Short targeting 180 support, 7% gain",
+                "key_risks": "Earnings momentum resumes, M&A rumors."
+            },
+            "confidence_rating": "B",
+            "justification": "Fundamentals solid, but analyst overhang."
+        },
+        {
+            "details": {
+                "ticker": "AKAM",
+                "full_name": "Akamai Technologies, Inc.",
+                "current_price": 148.57,
+                "market_cap": "21.873B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 149.76,
+                    "low": 69.78
+                },
+                "pe_ratio": 48.39,
+                "volume": "17.59M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings met estimates, but overshadowed by $1.8B AI cloud deal with Anthropic. Economic: Validates edge computing in AI infra boom. Psych: Deal FOMO trumps earnings. Historical: Like Fastly partnerships. Analogies: 1. Whale deal lands big fish. 2. Lottery win post-earnings yawn.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Massive AI contract boosts growth narrative, high volume. Positive news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-15% to new highs",
+                "short_position": "Minimal upside risk low",
+                "key_risks": "Deal integration delays, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Transformational deal, near 52w high."
+        },
+        {
+            "details": {
+                "ticker": "BDX",
+                "full_name": "Becton, Dickinson and Company",
+                "current_price": 148.23,
+                "market_cap": "42.165B",
+                "sector_industry": "Healthcare / Medical Instruments & Supplies",
+                "high_low_52_week": {
+                    "high": 187.35,
+                    "low": 127.59
+                },
+                "pe_ratio": 25.87,
+                "volume": "2.31M",
+                "recent_dividend": "2.74% yield, ex-date Jun 9, 2026"
+            },
+            "impact_theory": "Q2 FY26 earnings beat with $2.90 adj EPS, $4.71B rev, raised FY guidance. Economic: Healthcare resilient amid strong jobs. Psych: Cramer-like buy healthcare weak. Historical: Med device post-beat rallies. Analogies: 1. Steady ship in stormy seas. 2. Dividend anchor in volatile market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Earnings surprise + guidance raise, defensive play. Positive analyst notes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% steady gains",
+                "short_position": "Avoid, dividend support",
+                "key_risks": "Sector rotation to cyclicals."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid beat but modest % move."
+        }
+    ]
+}
