@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 215.2,
+                "market_cap": "$5.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 216.87,
+                    "low": 100.0
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI chip demand continues to surge amid big tech earnings validating AI thesis. Economic implications: boosts US tech dominance. Market psychology: FOMO buying. Historical parallels: dotcom boom chip rally. Analogies: like oil rush in 1970s for energy, AI gold rush fueling semis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "AI rally, record highs, Wedbush bullish on AI inflection. X sentiment positive on AI stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10% gains on continued AI hype",
+                "short_position": "Short if overbought, potential 5% pullback",
+                "key_risks": "Valuation bubble, competition from AMD/INTC, regulatory scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news flow, consistent gainer, high engagement."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 125.0,
+                "market_cap": "$530B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 20.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "120M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Reports of Apple foundry deal and AI CPU demand turnaround. Implications: Revives Intel as US chip leader. Psychology: Short squeeze after years of pain. Parallels: 2010s recovery. Analogies: phoenix rising from ashes, caterpillar to butterfly.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Premarket +5.79%, Apple report fuels rally to record highs, up 116% month."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% upside on deals",
+                "short_position": "Avoid or short on profit taking",
+                "key_risks": "Execution on foundry, competition, debt"
+            },
+            "confidence_rating": "B",
+            "justification": "Hot news but volatile history."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 72.5,
+                "market_cap": "$28B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 80.0,
+                    "low": 40.0
+                },
+                "pe_ratio": -15.3,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive clinical data or earnings beat in biotech rally. Implications: mRNA tech expansion beyond COVID. Psychology: Biotech momentum. Parallels: 2020 vaccine surge. Analogies: lottery ticket winner, rocket launch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Premarket +7.29%, biggest mover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for quick 20% pop",
+                "short_position": "Short post-spike fade",
+                "key_risks": "Trial failures, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility in biotech."
+        },
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "Qualcomm Incorporated",
+                "current_price": 185.0,
+                "market_cap": "$205B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "15M",
+                "recent_dividend": "$0.85 quarterly"
+            },
+            "impact_theory": "AI edge chip strength in Nasdaq rally. Implications: Mobile AI growth. Psychology: Sector rotation to chips. Parallels: 5G boom. Analogies: smartphone revolution wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "+7.30% top gainer Nasdaq."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 8% gains",
+                "short_position": "Minimal",
+                "key_risks": "China exposure, Apple dependency"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent performer."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 68.5,
+                "market_cap": "$60B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 35.0,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Weakness amid chip sector rotation or earnings miss. Implications: Profit taking. Psychology: Fear of missing out on leaders. Parallels: 2022 bear market. Analogies: tide out exposing rocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Premarket -3.02%, lagging peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy",
+                "short_position": "Short for 10% downside",
+                "key_risks": "Rebound on sector rally, oversold"
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed signals in volatile sector."
+        }
+    ]
+}
