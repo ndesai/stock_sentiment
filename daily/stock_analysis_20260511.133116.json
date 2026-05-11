@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AKAM",
+                "full_name": "Akamai Technologies, Inc.",
+                "current_price": 148.38,
+                "market_cap": "$21.2B",
+                "sector_industry": "Technology / Cloud Computing & Cybersecurity",
+                "high_low_52_week": {
+                    "high": 150.5,
+                    "low": 72.3
+                },
+                "pe_ratio": 35.2,
+                "volume": "45M",
+                "recent_dividend": "N/A (No recent dividend)"
+            },
+            "impact_theory": "Akamai reported Q1 2026 revenue of $1.074B (up 6% YoY), beating estimates, with Cloud Infrastructure Services up 40%. Key catalyst: $1.8B, 7-year AI cloud deal with Anthropic for inference workloads. Economic implications: Validates edge computing for AI amid hyperscaler constraints; boosts recurring revenue. Market psychology: Reprices AKAM as AI infrastructure play, shifting from CDN/security focus. Historical parallels: Similar to Fastly/Cloudflare AI pivots in 2023-24. Analogies: Like AWS winning Netflix streaming deal (recurring high-margin revenue); or Snowflake's data cloud surge on AI hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X sentiment overwhelmingly positive (posts highlight 27-42% surge, analyst PT hikes to $190); web news confirms earnings beat + landmark AI deal. Momentum to carry into May 12 trading."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +15-20% gains on continued AI narrative; target $170.",
+                "short_position": "Avoid short; momentum too strong.",
+                "key_risks": "AI capex pressures margins short-term; competition from AWS/Azure."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat + massive contract; strong X/web sentiment; high volume."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 130.05,
+                "market_cap": "$550B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 132.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 45.1,
+                "volume": "120M",
+                "recent_dividend": "$0.125 quarterly (ex-date May 1, 2026)"
+            },
+            "impact_theory": "Preliminary agreement with Apple for Intel to manufacture chips (e.g., for Macs/iPads), diversifying from TSMC amid geopolitics. Economic: $10B+ annual revenue by 2030 per BofA; US gov $9B support. Psychology: Intel turnaround validated, YTD +200%. Parallels: TSMC-Apple exclusivity shift like Samsung-Qualcomm in 2010s. Analogies: Like Boeing winning Airbus engine deal (revival narrative); Ford pivoting to EVs with battery plant subsidies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X buzz on ATHs, gov backing; web reports rally extension. Positive analyst upgrades (BofA PT $96)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% to $155 on foundry momentum.",
+                "short_position": "Short if deal falls through (-10%).",
+                "key_risks": "Deal not finalized; TSMC dominance; execution delays."
+            },
+            "confidence_rating": "A",
+            "justification": "Gov-brokered deal credible; stock ATH confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "MELI",
+                "full_name": "MercadoLibre, Inc.",
+                "current_price": 1650.0,
+                "market_cap": "$84B",
+                "sector_industry": "Consumer Cyclical / E-commerce & Fintech",
+                "high_low_52_week": {
+                    "high": 2400.0,
+                    "low": 1400.0
+                },
+                "pe_ratio": 68.4,
+                "volume": "2.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 revenue +49% YoY (fastest in 4yrs), but EPS miss ($8.23 vs est), margins compress from credit investments (loans +87%). Implications: Growth intact, but short-term profitability hit. Psychology: Overreaction to margins; Burry buying dip. Parallels: AMZN 2014 margin squeeze on AWS/Prime. Analogies: Like Uber post-IPO profitability chase; Shopify fulfillment investments.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish long",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "X mixed (dip buy calls, PT cuts); web highlights miss but growth. Sentiment cooling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for +30% rebound to $2150.",
+                "short_position": "Short for -10% if margins worsen.",
+                "key_risks": "LATAM macro (inflation); credit defaults."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong growth but margin fears; analyst buys persist."
+        },
+        {
+            "details": {
+                "ticker": "INOD",
+                "full_name": "Innodata Inc.",
+                "current_price": 58.0,
+                "market_cap": "$1.8B",
+                "sector_industry": "Technology / AI Data Engineering",
+                "high_low_52_week": {
+                    "high": 60.0,
+                    "low": 5.0
+                },
+                "pe_ratio": 120.5,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Record Q1 revenue $90.1M (+54% YoY), adj EBITDA $25M beat; raised 2026 guidance. Implications: AI data annotation boom. Psychology: Small-cap AI frenzy. Parallels: C3.ai early surges. Analogies: Like AppLovin on ad AI pivot; SoundHound voice AI hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Web: 90% surge on blowout; X positions include it."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum +25% to $75.",
+                "short_position": "Short overbought pullback.",
+                "key_risks": "High valuation; AI bubble burst."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong results but speculative small-cap."
+        },
+        {
+            "details": {
+                "ticker": "RKLB",
+                "full_name": "Rocket Lab USA, Inc.",
+                "current_price": 15.2,
+                "market_cap": "$7.5B",
+                "sector_industry": "Industrials / Aerospace",
+                "high_low_52_week": {
+                    "high": 16.0,
+                    "low": 3.5
+                },
+                "pe_ratio": -45.0,
+                "volume": "30M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 revenue $200.3M beat, $30M Anduril HASTE deal, 5-launch Neutron contract. Implications: Space economy ramp. Psychology: Record highs on execution. Parallels: SpaceX private valuation jumps. Analogies: Like Joby on eVTOL contracts; Archer milestones.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Web: 25% jump to records; X liquid leaders."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for +20% to $18.",
+                "short_position": "Short delays (-15%).",
+                "key_risks": "Launch failures; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings + contracts solid; space sector hot."
+        }
+    ]
+}
