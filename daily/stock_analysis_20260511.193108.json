@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 130.5,
+                "market_cap": "$550B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 132.75,
+                    "low": 18.97
+                },
+                "pe_ratio": 32.1,
+                "volume": "85M",
+                "recent_dividend": "$0.125 quarterly, yield 0.38%"
+            },
+            "impact_theory": "Reports of preliminary agreement with Apple for chip manufacturing and collaboration with SK Hynix on advanced packaging boosted sentiment. Economically, this validates Intel's foundry ambitions amid AI demand. Psychologically, shifts narrative from laggard to comeback story. Historical parallel: Similar to TSMC's rally on Apple deals in 2010s. Analogies: Like a phoenix rising from ashes in chip wars; turning swords (CPU losses) into plowshares (foundry wins).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Positive X sentiment on turnaround, web news on deals; premarket +5.79%, extending rally. Oil tensions secondary as tech outperforms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15% gains on confirmed deals; target $150.",
+                "short_position": "Short if no follow-through, potential 5-10% pullback on skepticism.",
+                "key_risks": "Execution delays, competition from TSMC, broader market selloff on inflation/oil."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming news sources, strong premarket/volume, positive X buzz."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 57.2,
+                "market_cap": "$22B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 35.0
+                },
+                "pe_ratio": -15.2,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Renewed interest in hantavirus research using mRNA platform sparked rally. Implications: Positions Moderna for pandemic preparedness amid outbreaks. Psychology: Revives COVID-era hype. Parallels: BioNTech rally on variants. Analogies: Like a fire alarm boosting smoke detector sales; dormant volcano rumbling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Premarket +7.29%, extending gains; X/web highlight early-stage promise despite caveats."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for pipeline momentum, 20% upside to $70.",
+                "short_position": "Short on trial failures, 10% drop.",
+                "key_risks": "Early-stage risks, regulatory hurdles, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong move but analyst notes 'early-stage'; sentiment positive but volatile biotech."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 788.0,
+                "market_cap": "$850B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 800.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 45.3,
+                "volume": "120M",
+                "recent_dividend": "$0.115 quarterly, yield 0.06%"
+            },
+            "impact_theory": "Samsung strike threats, AI memory demand surge. Economic: Tightens supply, boosts pricing power. Psychology: Momentum unstoppable. Parallels: 2021 chip shortage. Analogies: Oil cartel squeeze; gold rush for memory.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Up 5.75% on news, DB $1000 target; X positive on rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $900, 15% gain.",
+                "short_position": "Short overbought pullback 8%.",
+                "key_risks": "Supply normalization, insider selling."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent surges, analyst upgrades, high search interest."
+        },
+        {
+            "details": {
+                "ticker": "AKAM",
+                "full_name": "Akamai Technologies, Inc.",
+                "current_price": 134.0,
+                "market_cap": "$20B",
+                "sector_industry": "Technology / Software Infrastructure",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat, $1.8B AI cloud deal with Anthropic. Implications: Accelerates shift to AI infra. Psychology: Validates pivot. Parallels: Cloudflare post-earnings. Analogies: Winning lottery in tech transition; surfing AI wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25%",
+                "reasoning": "+26.6% on news, strong guidance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-earnings, 20% to $160.",
+                "short_position": "Avoid or short fade.",
+                "key_risks": "Deal execution, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings confirmed, big move."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 95.0,
+                "market_cap": "$85B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 100.0,
+                    "low": 40.0
+                },
+                "pe_ratio": -40.2,
+                "volume": "30M",
+                "recent_dividend": "$0.06 quarterly, yield 0.25%"
+            },
+            "impact_theory": "Premarket loser amid chip sector rotation. Implications: Profit-taking after YTD gains. Psychology: Overbought correction. Parallels: NVDA dips in rallies. Analogies: Balloon deflating; herd turning.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Premarket -3%, peers up while rotating out."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy for AI rebound 10%.",
+                "short_position": "Short momentum fade 7% loss.",
+                "key_risks": "AI demand surprise upside."
+            },
+            "confidence_rating": "C",
+            "justification": "Short-term shift, but strong YTD."
+        }
+    ]
+}
