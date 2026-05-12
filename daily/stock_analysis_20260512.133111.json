@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "POET",
+                "full_name": "POET Technologies Inc.",
+                "current_price": 13.9,
+                "market_cap": "$1.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 15.5,
+                    "low": 2.45
+                },
+                "pe_ratio": -12.5,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "POET surged on high volume momentum amid AI and tech rally, following broader market strength in semis after Iran war end reducing oil fears. Economic implications: Boosts investor confidence in photonics for AI data centers. Market psychology: FOMO driving retail interest as seen on X. Historical parallels: Similar to 2021 semi boom. Analogies: Like a rocket igniting on strong fuel (volume), or wildfire spreading in dry tech sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "High RS, volume spike, X buzz positive. Web news shows whipsaws but upward trend."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% gains on continuation to 17.",
+                "short_position": "Short if breaks support, 10% downside.",
+                "key_risks": "High beta, market reversal, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but volatile small cap."
+        },
+        {
+            "details": {
+                "ticker": "ENGN",
+                "full_name": "enGene Therapeutics Inc.",
+                "current_price": 1.5,
+                "market_cap": "$50M",
+                "sector_industry": "Healthcare / Biotech",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 1.2
+                },
+                "pe_ratio": 0.0,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Plunged 80% on mixed Phase 2 trial data for LEGEND, raising doubts on efficacy. Economic: Hits biotech funding. Psychology: Panic selling. Parallels: Many biotechs tank on interim data. Analogies: Ship hitting iceberg (trial failure), domino falling in sector.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-20-30%",
+                "reasoning": "Trial disappointment, downgrades, low X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long bounce at lows 5-10%.",
+                "short_position": "Short to 1.0, 20% gains.",
+                "key_risks": "Short squeeze, positive catalyst."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear negative catalyst."
+        },
+        {
+            "details": {
+                "ticker": "GDC",
+                "full_name": "GD Culture Group Limited",
+                "current_price": 2.5,
+                "market_cap": "$30M",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 1.2
+                },
+                "pe_ratio": -5.2,
+                "volume": "10M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Volatile on $10.75/share buyout proposal, initial plunge then surge. Implications: Potential privatization premium. Psychology: Confusion to optimism. Parallels: Other Chinese ADRs buyouts. Analogies: Rollercoaster ride, cat with 9 lives reviving.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+50-100%",
+                "reasoning": "Buyout news, X bulls eyeing $10, reversal sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to buyout price, 300%+.",
+                "short_position": "Avoid or short failed deal.",
+                "key_risks": "Deal fails, delisting."
+            },
+            "confidence_rating": "B",
+            "justification": "Volatile but positive shift."
+        },
+        {
+            "details": {
+                "ticker": "EMBC",
+                "full_name": "Embecta Corp.",
+                "current_price": 8.5,
+                "market_cap": "$500M",
+                "sector_industry": "Healthcare / Medical Devices",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 7.5
+                },
+                "pe_ratio": 6.5,
+                "volume": "5M",
+                "recent_dividend": "$0.15 quarterly"
+            },
+            "impact_theory": "Dropped 57% on Q2 earnings miss, guidance cut due to diabetes pen issues. Economic: Weak demand. Psychology: Capitulation. Parallels: Med device post-earnings drops. Analogies: Balloon deflating, house of cards.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-20%",
+                "reasoning": "Earnings disappointment, analyst neutral."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value long 15%.",
+                "short_position": "Short further decline 15%.",
+                "key_risks": "Buyout rumors, recovery."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings reaction."
+        },
+        {
+            "details": {
+                "ticker": "SE",
+                "full_name": "Sea Limited",
+                "current_price": 65.0,
+                "market_cap": "$38B",
+                "sector_industry": "Communication Services / Interactive Media",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 50.0
+                },
+                "pe_ratio": -45.0,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Premarket drop on earnings, mixed results in gaming/ecomm. Implications: SE Asia growth slowdown. Psychology: Profit taking. Parallels: 2022 tech correction. Analogies: Tsunami hitting beach (earnings), tightrope walk.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Earnings reaction, X mentions negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy 10%.",
+                "short_position": "Short to 60, 8%.",
+                "key_risks": "Growth rebound."
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate shift."
+        }
+    ]
+}
