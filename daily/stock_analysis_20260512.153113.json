@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "QUBT",
+                "full_name": "Quantum Computing Inc.",
+                "current_price": 1.16,
+                "market_cap": "$150M",
+                "sector_industry": "Technology / Quantum Computing",
+                "high_low_52_week": {
+                    "high": 1.8,
+                    "low": 0.3
+                },
+                "pe_ratio": -5.2,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Quantum Computing Inc. reported strong Q1 2026 results with revenue surging to $3.7M from $39K YoY, beating estimates despite loss. Economic implications: accelerates quantum tech adoption in AI/computing. Market psych: excitement over growth in nascent sector. Historical parallels: similar to early AI stocks post-earnings pops. Analogies: like finding oil in quantum desert; rocket fuel for speculative tech plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Earnings beat drove 16% surge; X posts highlight jump on results, positive momentum. Web news confirms revenue surge, strategic highlights."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% upside on continued quantum hype; target $1.40",
+                "short_position": "Short if fades post-earnings; potential 10% drop",
+                "key_risks": "High volatility, dilution risk, unproven tech profitability."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings catalyst, high volume, positive X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "GLW",
+                "full_name": "Corning Incorporated",
+                "current_price": 205.0,
+                "market_cap": "$42B",
+                "sector_industry": "Technology / Optical Communications",
+                "high_low_52_week": {
+                    "high": 208.92,
+                    "low": 120.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "22M",
+                "recent_dividend": "$0.28 quarterly"
+            },
+            "impact_theory": "Corning added to BofA US1 list on AI data center demand; stock +10% to new high. Implications: AI infra boom boosts optical fiber/connectivity. Psych: FOMO on AI supply chain. Parallels: Cisco in dotcom. Analogies: backbone of AI highway; fiber optic gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Surged on AI optimism, 137% YTD; analyst upgrades. Limited X but positive web coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for ride to $220 on AI tailwinds; 10% gain",
+                "short_position": "Avoid or short on valuation pullback",
+                "key_risks": "AI hype fade, competition in optics."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear AI catalyst, YTD strength, but broader market dependent."
+        },
+        {
+            "details": {
+                "ticker": "CTRA",
+                "full_name": "Coterra Energy Inc.",
+                "current_price": 35.6,
+                "market_cap": "$27B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 38.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 12.1,
+                "volume": "73M",
+                "recent_dividend": "$0.22 quarterly"
+            },
+            "impact_theory": "Top loser -8.6% amid oil volatility, inflation fears, merger with Devon. Implications: energy sector pressure from geopolitics/oil >$100. Psych: risk-off in commodities. Parallels: 2022 energy drop post-Ukraine. Analogies: storm hitting oil rig; bear trap in energy rally.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Volume spike on downside, merger completion but revenue concerns, weak nat gas."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy if oil rebounds; 5% upside",
+                "short_position": "Short for further 10% decline on macro pressures",
+                "key_risks": "Oil price reversal, merger synergies."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear loser status, but energy cyclical."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla Inc.",
+                "current_price": 427.0,
+                "market_cap": "$1.4T",
+                "sector_industry": "Consumer Cyclical / Auto",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 95.3,
+                "volume": "150M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "TSLA dropped 10pts amid market vol, but robotaxi progress noted. Implications: EV/autonomous shift. Psych: profit-taking post-rally. Parallels: 2023 dips before surges. Analogies: rollercoaster in EV race; pit stop before F1 sprint.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X mentions drop but underlying positives on robotaxi/AI; broader market lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for rebound to $450; 8% gain",
+                "short_position": "Short momentum fade; 7% loss",
+                "key_risks": "Competition, regulatory hurdles."
+            },
+            "confidence_rating": "B",
+            "justification": "Volatile but strong fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 122.0,
+                "market_cap": "$3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "400M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Chips sector up on Apple-Intel rumors, broader semis gain amid records. Implications: AI/chip demand. Psych: sector rotation to tech. Parallels: 2023 NVDA run. Analogies: GPU as AI pickaxe; chip tsunami.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Futures +5%, market records, chip lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum to $130; 7% gain",
+                "short_position": "Short overbought pullback",
+                "key_risks": "Earnings May 20, valuation bubble."
+            },
+            "confidence_rating": "A",
+            "justification": "Sector strength, high conviction AI theme."
+        }
+    ]
+}
