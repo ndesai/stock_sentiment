@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WIX",
+                "full_name": "Wix.com Ltd",
+                "current_price": 53.01,
+                "market_cap": "$3.11B",
+                "sector_industry": "Technology / Web Development",
+                "high_low_52_week": {
+                    "high": 77.03,
+                    "low": 51.6
+                },
+                "pe_ratio": 101.42,
+                "volume": "High (earnings day)",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 earnings revealed revenue of $541.2M missing estimates, despite double-digit growth; increased marketing spend on AI and Super Bowl ads weighed on profits. Economic implications include slower partner revenue growth amid tech spending caution. Market psychology: Fear of margin compression in competitive web platform space. Historical parallels: Similar to Shopify's 2022 post-earnings drop on guidance. Analogies: 1. Like a chef burning the main course despite appetizers being great - presentation (growth) overshadowed by substance (profits). 2. Overpromising on AI hype leading to reality check, akin to early EV stock corrections.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10%",
+                "reasoning": "Earnings miss triggered 25-30% drop; X sentiment negative on growth slowdown; web searches confirm analyst PT cuts (BofA to $95); broader tech caution post-PPI data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 15% rebound if guidance stabilizes, target $60",
+                "short_position": "Short for additional 10-15% downside to $45 support",
+                "key_risks": "Buyout rumors or AI pivot could spark rally; high short interest squeeze risk."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings reaction but volatile tech sector; X posts highlight slaughter but some see margin reset."
+        },
+        {
+            "details": {
+                "ticker": "WOLF",
+                "full_name": "Wolfspeed Inc",
+                "current_price": 65.35,
+                "market_cap": "$2.5B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 78.84,
+                    "low": 24.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "12M+",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Citrini Research highlighted Wolfspeed's silicon carbide (SiC) chips for AI data centers/power efficiency post-restructuring; debt cut 70%. Economic: Boost to EV/AI supply chain. Psychology: Momentum from short squeeze (57% short interest). Parallels: ON Semi 2021 SiC rally. Analogies: 1. Underdog boxer landing knockout punch (research note). 2. Phoenix rising from restructuring ashes into AI gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "20-24% surge on research; X bullish (100%+ gains shared); chip sector bounce despite PPI; high volume confirms sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% to $80 ATH",
+                "short_position": "Avoid or short pullback to $60 for 10% loss",
+                "key_risks": "Earnings headwinds persist; overbought RSI; macro chip slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst, high conviction X chatter, technical breakout."
+        },
+        {
+            "details": {
+                "ticker": "KC",
+                "full_name": "Kingsoft Cloud Holdings Ltd",
+                "current_price": 18.22,
+                "market_cap": "$1.2B",
+                "sector_industry": "Technology / Cloud Computing",
+                "high_low_52_week": {
+                    "high": 18.52,
+                    "low": 2.2
+                },
+                "pe_ratio": -10.5,
+                "volume": "High",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Intraday reversal +18% to 52w high on technical breakout/volatility; China cloud demand amid AI push. Implications: Geopolitical thaw boosts ADRs. Psychology: FOMO on China tech rebound. Parallels: BILI 2023 rally. Analogies: 1. Spring after harsh winter for China stocks. 2. Rubber band snapback from oversold.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Surged on no specific news but technicals; X mentions gains; YTD +74% momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $22 (20%)",
+                "short_position": "Short fade to $15 (-15%)",
+                "key_risks": "China regulatory risks; earnings May 27."
+            },
+            "confidence_rating": "B",
+            "justification": "Technical driven, less news but strong move."
+        },
+        {
+            "details": {
+                "ticker": "REZI",
+                "full_name": "Resideo Technologies Inc",
+                "current_price": 18.5,
+                "market_cap": "$2.8B",
+                "sector_industry": "Industrials / Security Products",
+                "high_low_52_week": {
+                    "high": 25.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "High",
+                "recent_dividend": "$0.50 annual"
+            },
+            "impact_theory": "Q1 revenue +8% to $1.91B beat but weak guidance/higher costs; stock -15-17%. Implications: Margin pressure in home security. Psychology: Disappointment despite top-line beat. Parallels: Honeywell spin-off struggles. Analogies: 1. Good meal but bad service ruins experience. 2. Boat leaking despite full sails.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Post-earnings crash; X limited but news confirms guidance concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value buy +15% to $22",
+                "short_position": "Short to $16 (-10%)",
+                "key_risks": "Housing rebound catalyst."
+            },
+            "confidence_rating": "C",
+            "justification": "Mixed earnings, moderate sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "SATS",
+                "full_name": "EchoStar Corp",
+                "current_price": 132.27,
+                "market_cap": "$7.5B",
+                "sector_industry": "Communication / Satellite",
+                "high_low_52_week": {
+                    "high": 135.96,
+                    "low": 15.0
+                },
+                "pe_ratio": -25.0,
+                "volume": "Medium",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 loss but revenue beat; sector leader up 6% on comms strength. Implications: Dish merger synergies. Psychology: Recovery from lows. Parallels: 2024 Dish rally. Analogies: 1. Storm clouds parting. 2. Satellite realignment to new orbit.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Top performer in sector; undervalued per DCF."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $140 (6%)",
+                "short_position": "Minimal downside",
+                "key_risks": "Debt heavy."
+            },
+            "confidence_rating": "B",
+            "justification": "Steady gainer, less volatile."
+        }
+    ]
+}
