@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SLS",
+                "full_name": "SELLAS Life Sciences Group, Inc.",
+                "current_price": 6.01,
+                "market_cap": "$180M",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 6.72,
+                    "low": 1.36
+                },
+                "pe_ratio": -4.2,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 earnings released showing progress toward Phase 3 REGAL trial readout (78/80 events reached), increased manufacturing spend signaling BLA prep, and strong cash position. Economic implications: potential first approval in AML transforming revenue profile. Market psychology: binary event anticipation driving FOMO buying in biotech. Historical parallels: similar surges pre-readout in biotechs like $SGMO or $KURA. Analogies: like a sprinter nearing the finish line after years of training; pressure cooker building steam for explosive release.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-30%",
+                "reasoning": "Earnings beat expectations, trial near completion per web_search and X posts showing positive sentiment (detailed trial updates shared). High engagement on X with bulls highlighting catalysts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20-50% gains on positive Phase 3 readout expected soon.",
+                "short_position": "Short post-readout if negative, potential -40% drop.",
+                "key_risks": "Trial failure (binary risk), dilution from ATM facility, arbitration outcome."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from earnings and trial progress, strong premarket surge, unanimous positive X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "WOLF",
+                "full_name": "Wolfspeed, Inc.",
+                "current_price": 64.5,
+                "market_cap": "$8.2B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 73.74,
+                    "low": 24.7
+                },
+                "pe_ratio": -12.5,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Citrini Research note names WOLF top AI pick post-restructuring, highlighting SiC chips for power management in data centers/EVs. Economic: SiC demand boom with AI infra spend. Psychology: short squeeze (57% short interest) + analyst hype. Parallels: early NVDA calls in 2022. Analogies: sleeping giant awakening; rocket fuel igniting after refueling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "20-24% surge on research note per multiple sources, X buzz on #monster stock, extending gains 7 days."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $80+ on AI momentum, 25% upside.",
+                "short_position": "Short on short squeeze unwind, but risky.",
+                "key_risks": "High short interest volatility, execution on restructuring, competition in SiC."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming reports of surge, thematic AI fit, high volume."
+        },
+        {
+            "details": {
+                "ticker": "PENG",
+                "full_name": "Penguin Solutions, Inc.",
+                "current_price": 44.23,
+                "market_cap": "$2.3B",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 47.0,
+                    "low": 20.0
+                },
+                "pe_ratio": 25.4,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "New AMD partnership for AI data centers, raised FY2026 sales outlook on AI demand. Implications: positioned in AI infra buildout. Psychology: breakout momentum. Parallels: similar to $SMCI early AI run. Analogies: puzzle piece fitting into AI ecosystem; wave rider catching AI tsunami.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "13% surge on partnership news, portfolio inclusions on X, strong YTD +150%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued AI infra play, 15-30% to $55.",
+                "short_position": "Avoid or short on hype fade.",
+                "key_risks": "Execution on partnerships, broader semi slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news but older partnership (3 days), sustained gains."
+        },
+        {
+            "details": {
+                "ticker": "TSEM",
+                "full_name": "Tower Semiconductor Ltd.",
+                "current_price": 170.0,
+                "market_cap": "$19B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 28.7,
+                "volume": "12M",
+                "recent_dividend": "$0.41"
+            },
+            "impact_theory": "Q1 earnings beat, $1.3B silicon photonics contracts thru 2027, AI demand driving Q2 outlook. Implications: multi-year revenue visibility in photonics/AI. Psychology: undervalued capacity play. Parallels: TSM contract wins. Analogies: oil well struck in chip desert; dam breaking for revenue flood.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Earnings beat + contracts, 20% pop, X analysts Strong Buy, SmartScore high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for $200+ on backlog fill, 20% upside.",
+                "short_position": "Short if geopolitical risks flare.",
+                "key_risks": "Israel tensions, customer concentration."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete contracts, earnings confirmation, AI alignment."
+        },
+        {
+            "details": {
+                "ticker": "CAMT",
+                "full_name": "Camtek Ltd.",
+                "current_price": 174.63,
+                "market_cap": "$10B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 174.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 2026 earnings post-record 2025, but growth tempered vs peers, high valuation concerns. Implications: semi inspection demand strong but guidance cautious. Psychology: profit-taking in overvalued name. Parallels: peers like $KLAC post-earnings dips. Analogies: balloon deflating after hype; racehorse stumbling near end.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-20%",
+                "reasoning": "Down 15%+ on earnings call, DCF overvalued notes, lagging peers despite semi boom."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dip buy for rebound to $200.",
+                "short_position": "Short targeting $150, 15% downside on valuation reset.",
+                "key_risks": "Continued AI demand surprise upside, short squeeze."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings reaction clear, but semi sector resilient."
+        }
+    ]
+}
