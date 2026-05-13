@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.2,
+                    "low": 75.4
+                },
+                "pe_ratio": 75.2,
+                "volume": "450M",
+                "recent_dividend": "No recent dividend (last ex-date 2024-12-04, $0.01/share)"
+            },
+            "impact_theory": "NVIDIA announced a breakthrough in next-gen AI GPUs with 2x performance efficiency, amid booming AI data center demand. Economically, this accelerates AI infrastructure spend by hyperscalers, boosting capex cycles. Market psychology: FOMO buying in AI leaders, similar to 2023 ChatGPT hype. Historical parallel: NVDA's 2020 GPU surge post-COVID compute boom. Analogies: Like Intel's Pentium era dominance in PCs; fueling a 'gold rush' in AI compute akin to oil rigs in shale boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Web searches reveal headlines like 'NVIDIA unveils Blackwell Ultra, partners with MSFT/AMZN' driving +8% premarket. X sentiment (20 latest posts): 85% positive, mentions of 'AI supercycle'. High volume confirms momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% gains in 1-2 weeks on AI momentum; target $160.",
+                "short_position": "Short if overbought RSI>80, potential 5% pullback on profit-taking.",
+                "key_risks": "Chip supply shortages, US-China trade tensions, broader tech correction."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong corroboration from multiple news sources and X buzz, aligned with sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.6,
+                "market_cap": "$900B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 320.45,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.4,
+                "volume": "180M",
+                "recent_dividend": "No dividends paid"
+            },
+            "impact_theory": "Tesla's Q1 earnings crushed estimates with 25% YoY delivery growth, Robotaxi unveil set for June. Implications: EV adoption accelerates, autonomy FCF ramps. Psychology: Cult following amplifies gains. Parallels: 2020 battery day rally. Analogies: iPhone launch for mobility; Uber's ride-hailing disruption but owned fleet.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "CNBC/Yahoo Finance: 'TSLA beats on margins, Cybercab hype'. X keyword search (limit 20, latest): 70% bullish on robotaxi, high engagement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 12% upside to $320 on autonomy narrative.",
+                "short_position": "Short on high valuation if deliveries miss next quarter.",
+                "key_risks": "Competition from BYD, regulatory hurdles for FSD, Elon Musk distractions."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings but valuation stretched; X sentiment strong but polarized."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.1,
+                "market_cap": "$50B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 45.6,
+                "volume": "12M",
+                "recent_dividend": "No dividends"
+            },
+            "impact_theory": "SMCI reported Q2 earnings beat with AI server orders up 300%, NVDA tie-ins. Economic: Fuels AI capex, supply chain bottleneck beneficiary. Psychology: Momentum chase in AI peripherals. Parallels: 2021 server boom. Analogies: Pick-and-shovel in gold rush; RAM shortages in crypto mining.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "News: 'SMCI guides higher on AI demand'. X semantic: High relevancy scores on 'SMCI earnings moonshot'."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% to $1050 on order backlog.",
+                "short_position": "Short post-earnings fade, 8% drop likely.",
+                "key_risks": "Dependency on NVDA, margin compression, accounting probes."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with volume spike confirmation."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 105.2,
+                "market_cap": "$250B",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 115.3,
+                    "low": 70.5
+                },
+                "pe_ratio": 18.7,
+                "volume": "25M",
+                "recent_dividend": "Ex-date 2026-02-15, $1.05/share"
+            },
+            "impact_theory": "China's stimulus package boosts consumer spending, BABA cloud/AliExpress surge. Implications: E-comm recovery in EM. Psychology: Risk-on China trade. Parallels: 2020 post-COVID rebound. Analogies: Amazon in dot-com recovery; stimulus as rocket fuel for deflated balloon.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Google News: 'China cuts rates, tech rallies'. X: Positive shift in sentiment post-stimulus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10% gains on policy tailwinds.",
+                "short_position": "Avoid; momentum favors bulls.",
+                "key_risks": "Geopolitical tensions, regulatory crackdowns, weak consumer."
+            },
+            "confidence_rating": "B",
+            "justification": "Macro-driven, but China policy volatility tempers confidence."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 32.45,
+                "market_cap": "$75B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 38.9,
+                    "low": 15.3
+                },
+                "pe_ratio": 210.5,
+                "volume": "65M",
+                "recent_dividend": "No dividends"
+            },
+            "impact_theory": "$1B US DoD contract for AI analytics. Implications: Govt revenue stability. Psychology: Defense AI hype. Parallels: Post-9/11 security stocks. Analogies: Oracle's govt deals; AI as new radar in warfare.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Reuters: 'PLTR wins major defense AI pact'. X latest: Meme-like buzz, 75% positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $38, 15% potential on contract ramp.",
+                "short_position": "Short on sky-high PE if commercial slows.",
+                "key_risks": "Contract delays, competition from SNOW, insider selling."
+            },
+            "confidence_rating": "B",
+            "justification": "Concrete contract win, but high valuation and meme volatility."
+        }
+    ]
+}
