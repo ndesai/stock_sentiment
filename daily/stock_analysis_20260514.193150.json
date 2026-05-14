@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CBRS",
+                "full_name": "Cerebras Systems Inc.",
+                "current_price": 316.71,
+                "market_cap": "$67.448B",
+                "sector_industry": "Semiconductors / Technology",
+                "high_low_52_week": {
+                    "high": 385.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "24,080,651",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cerebras blockbuster IPO priced at $185, opened at $350+, traded up to $385 amid AI chip frenzy. Economic implications: Validates massive demand for AI accelerators beyond Nvidia. Market psychology: FOMO drives retail/institutional buying despite volatility. Historical parallels: ARM IPO 2023 surged 25% debut on AI hype. Analogies: Like Tesla's 2010 IPO sparking EV boom; rocket launch - explosive start with turbulence.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "X sentiment mixed but hyped (opened high, volatile drops to $300), web news on huge $5.55B raise, AI pioneer status. Sector rally on Trump-Xi easing chip export fears boosts confidence."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued AI hype, potential +30% to $400+ in weeks",
+                "short_position": "Short on post-IPO fade if <300, target $250 (-20%)",
+                "key_risks": "Extreme volatility, customer concentration (90% from 2 clients), no profitability."
+            },
+            "confidence_rating": "A",
+            "justification": "Highest due to fresh IPO momentum and sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 235.34,
+                "market_cap": "$5.7T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.05,
+                    "low": 129.16
+                },
+                "pe_ratio": 48.03,
+                "volume": "87,151,593",
+                "recent_dividend": "0.04 (0.02%)"
+            },
+            "impact_theory": "7th straight day up on US approval for H200 chips to China amid Trump-Xi summit. Implications: Eases trade war fears, unlocks China revenue. Psychology: Reinforces AI dominance. Parallels: 2023 post-ChatGPT surge. Analogies: King on throne fending rivals; snowball effect in AI winter.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "News on China sales approval, X mentions earnings beat (simulated), consistent leadership in AI chips."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $260 (+10%), AI infrastructure buildout",
+                "short_position": "Avoid or short on valuation bubble burst",
+                "key_risks": "High PE, competition from CBRS/AMD, geopolitical flare-ups."
+            },
+            "confidence_rating": "A",
+            "justification": "Proven track record, strong fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 177.95,
+                "market_cap": "$155.61B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 182.31,
+                    "low": 58.61
+                },
+                "pe_ratio": 57.78,
+                "volume": "31,477,793",
+                "recent_dividend": "0.24 (0.13%)"
+            },
+            "impact_theory": "Surged 10% intraday on AI demand, Nvidia CEO in Trump China delegation signaling trade relief. Implications: Boosts custom AI chip orders. Psychology: Underdog in AI race gaining. Parallels: 2024 rally on data center growth. Analogies: Wingman to NVDA; rising tide lifts boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X and news highlight AI momentum, outperforming sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $200 (+12%), AI networking exposure",
+                "short_position": "Short if trade talks fail",
+                "key_risks": "Cyclical semis, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but secondary to NVDA."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 802.49,
+                "market_cap": "$906.281B",
+                "sector_industry": "Semiconductors / Technology",
+                "high_low_52_week": {
+                    "high": 818.67,
+                    "low": 90.93
+                },
+                "pe_ratio": 37.98,
+                "volume": "53,733,828",
+                "recent_dividend": "0.60 (0.08%)"
+            },
+            "impact_theory": "Chip stocks surge as AI shifts to memory/CPU demand. Implications: HBM memory bottleneck solved boosts AI training. Psychology: Value play in frothy semis. Parallels: 2021 memory cycle. Analogies: Fuel for AI engine; dam breaking on demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Multiple headlines on AI demand, BofA PT double, jaw-dropping rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $900 (+12%), memory shortage",
+                "short_position": "Short on oversupply fears",
+                "key_risks": "Commodity pricing, Samsung competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid AI tie-in but cyclical."
+        },
+        {
+            "details": {
+                "ticker": "WOLF",
+                "full_name": "Wolfspeed, Inc.",
+                "current_price": 68.95,
+                "market_cap": "$3.333B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 73.74,
+                    "low": 8.05
+                },
+                "pe_ratio": 0.0,
+                "volume": "15,004,308",
+                "recent_dividend": "None"
+            },
+            "impact_theory": " +24% on Citrini top AI semi pick for SiC/GaN in EV/AI power. Implications: Power efficiency key for data centers. Psychology: Small cap momentum. Parallels: 2022 EV chip hype. Analogies: Electricity backbone for AI; hidden gem in supply chain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Bullish analyst report, YTD +230%, AI/EV infrastructure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $90 (+30%), power semi demand",
+                "short_position": "Short on losses/revenue decline",
+                "key_risks": "Ongoing losses, execution risks."
+            },
+            "confidence_rating": "B",
+            "justification": "High potential but riskier profile."
+        }
+    ]
+}
