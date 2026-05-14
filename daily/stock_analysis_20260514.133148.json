@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CSCO",
+                "full_name": "Cisco Systems, Inc.",
+                "current_price": 58.45,
+                "market_cap": "$235B",
+                "sector_industry": "Technology / Networking Hardware",
+                "high_low_52_week": {
+                    "high": 64.2,
+                    "low": 42.1
+                },
+                "pe_ratio": 18.2,
+                "volume": "28.5M",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Cisco reported strong Q3 FY2026 earnings on May 13, beating estimates with revenue up 12% YoY to $15.8B driven by massive AI-related networking demand. Raised FY guidance. Amid Trump-Xi summit easing trade tensions, reinforces AI infrastructure buildout. Economic implications: accelerates capex cycle for hyperscalers. Market psych: shifts fear to greed on AI monetization. Historical: parallels Cisco's dominance in internet boom 1990s. Analogies: like laying highways for AI data centers (1), or power grids for EV surge (2).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Earnings beat + AI guidance + positive X sentiment + chip rally from summit. Web searches confirm premarket surge to 52w high; X upgrades reinforce."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in 1-2 weeks on AI momentum; target $65.",
+                "short_position": "Avoid or short above $65 if AI hype fades; potential 5% drop.",
+                "key_risks": "Macro slowdown cuts capex; competition from Arista; overvaluation if guidance misses."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst + aligning macro (summit) + high volume + analyst upgrades."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.3,
+                "market_cap": "$3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 75.4
+                },
+                "pe_ratio": 75.1,
+                "volume": "385M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Nvidia CEO Jensen Huang joined Trump on Air Force One to China for Xi summit May 14, signaling potential easing of chip export bans amid trade talks. Positive for China revenue. Implications: unlocks $10B+ market, boosts AI chip demand. Psych: reduces regulatory overhang fear. Parallels: 2018-2020 Huawei ban recovery. Analogies: like unlocking Middle East oil for US energy firms (1), or ending steel tariffs (2).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Multiple news on Huang's last-minute inclusion; chip stocks up; X buzz on AI melt-up; summit de-escalation on trade."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% gain to $155; momentum play.",
+                "short_position": "Short on overbought RSI if summit disappoints; 5-7% downside.",
+                "key_risks": "Summit fails on Taiwan/Iran; China retaliation; bubble valuation pop."
+            },
+            "confidence_rating": "A",
+            "justification": "High-profile news + sector rotation to chips + historical trade deal bounces."
+        },
+        {
+            "details": {
+                "ticker": "RUM",
+                "full_name": "Rumble Inc.",
+                "current_price": 1.75,
+                "market_cap": "$700M",
+                "sector_industry": "Technology / Social Media",
+                "high_low_52_week": {
+                    "high": 8.2,
+                    "low": 1.2
+                },
+                "pe_ratio": -12.5,
+                "volume": "18.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "RUM Q1 2026 earnings missed estimates; revenue growth slowed, extended hours down 7%. Implications: ad monetization lags YouTube; user growth stalls amid competition. Psych: erodes free-speech platform hype. Parallels: Truth Social post-SPAC fade. Analogies: like Vine vs TikTok (1), or MySpace vs Facebook (2).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Earnings miss confirmed in recaps; after-hours drop; limited X buzz but negative extension."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; dip buy below $1.50 for rebound if crypto rally.",
+                "short_position": "Short for 15% to $1.50; high short interest.",
+                "key_risks": "Meme squeeze; political event boost; dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear miss but volatile small-cap; less volume than big tech."
+        },
+        {
+            "details": {
+                "ticker": "VNET",
+                "full_name": "VNET Group, Inc.",
+                "current_price": 11.28,
+                "market_cap": "$1.8B",
+                "sector_industry": "Technology / Cloud Computing",
+                "high_low_52_week": {
+                    "high": 12.5,
+                    "low": 1.8
+                },
+                "pe_ratio": -5.3,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top daily gainer amid Trump-Xi summit hopes easing US-China tensions, boosting Chinese cloud/AI plays. Implications: potential hyperscaler expansion in China. Psych: risk-on for delist fears. Parallels: 2020 phase-one deal rally. Analogies: like reopening borders post-COVID for travel stocks (1), trade truce for soy farmers (2).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Listed as top gainer in Yahoo/Morningstar; China summit positive; high volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 20% to $14; momentum.",
+                "short_position": "Short post-rally; regulatory risks.",
+                "key_risks": "Summit flop; China crackdown; losses persist."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong mover but speculative China play; sentiment tied to geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "TSEM",
+                "full_name": "Tower Semiconductor Ltd.",
+                "current_price": 52.1,
+                "market_cap": "$5.9B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 58.0,
+                    "low": 28.5
+                },
+                "pe_ratio": 32.4,
+                "volume": "12.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Top gainer on chip rally from NVDA China news + analyst upgrades sector-wide. Implications: foundry demand for AI/RF chips. Psych: broad semi optimism. Parallels: 2023 AI surge. Analogies: like TSMC in mobile boom (1), foundries in PC era (2).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-8%",
+                "reasoning": "Yahoo gainers list; X upgrades; summit chip tailwind."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 12% to $60.",
+                "short_position": "Short if semis cool.",
+                "key_risks": "Customer concentration; capex cycle peak; geopolitics."
+            },
+            "confidence_rating": "B",
+            "justification": "Momentum from peers but smaller cap, higher vol."
+        }
+    ]
+}
