@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CSCO",
+                "full_name": "Cisco Systems, Inc.",
+                "current_price": 116.72,
+                "market_cap": "$475B",
+                "sector_industry": "Technology / Networking Equipment",
+                "high_low_52_week": {
+                    "high": 120.5,
+                    "low": 44.5
+                },
+                "pe_ratio": 15.2,
+                "volume": "85M",
+                "recent_dividend": "$0.40 quarterly (ex-date May 2026)"
+            },
+            "impact_theory": "Cisco reported record Q3 FY26 revenue of $15.8B, up 12% YoY, driven by 17% product growth from AI networking demand. Raised FY26 guidance. Economic implications: boosts tech sector confidence amid AI boom. Market psychology: shifts from cautious to optimistic on enterprise spending. Historical parallels: similar to 2023 AI-driven rally. Analogies: like a dam breaking after pressure (pent-up demand), or rocket fuel igniting (guidance raise).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Earnings beat expectations, strong AI orders, positive X sentiment on surge. Web news confirms 13-15% after-hours jump."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10-15% upside in week on momentum, target $130.",
+                "short_position": "Avoid or short above $125 if overbought.",
+                "key_risks": "Market pullback, competition from Arista, macroeconomic slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong earnings data, consistent news coverage, high volume confirms sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "POET",
+                "full_name": "POET Technologies Inc.",
+                "current_price": 8.25,
+                "market_cap": "$450M",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 9.5,
+                    "low": 2.1
+                },
+                "pe_ratio": -25.4,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 revenue up 200% to $0.5M, new COO appointment, $400M financing announced. Implications: accelerates AI photonic tech commercialization. Psychology: meme-like hype in AI optics. Parallels: early NVDA AI run. Analogies: spark to wildfire (options frenzy), underdog boxer landing punch (financing).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Recent earnings and news sparked monthly 181% gain, positive web/X buzz on AI potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for short squeeze, potential 30% to $10+.",
+                "short_position": "Short on dilution risks post-financing.",
+                "key_risks": "High volatility, execution risks, dilution from raise."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong monthly performance but small cap, earnings loss tempers."
+        },
+        {
+            "details": {
+                "ticker": "RXT",
+                "full_name": "Rackspace Technology, Inc.",
+                "current_price": 4.2,
+                "market_cap": "$900M",
+                "sector_industry": "Technology / Cloud Computing",
+                "high_low_52_week": {
+                    "high": 4.5,
+                    "low": 0.9
+                },
+                "pe_ratio": -3.2,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "New AMD deal, Q1 results reaffirmed guidance. Implications: positions in AI cloud. Psychology: turnaround from lows. Parallels: cloud recovery post-2022. Analogies: lifeline to sinking ship (AMD deal), phoenix rising (312% monthly).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Top monthly gainer, AMD partnership news boosts sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long targeting $6, 40% gain.",
+                "short_position": "Short if guidance miss.",
+                "key_risks": "Debt load, competition from hyperscalers."
+            },
+            "confidence_rating": "B",
+            "justification": "Impressive monthly gain but profitability concerns."
+        },
+        {
+            "details": {
+                "ticker": "ZETA",
+                "full_name": "Zeta Global Holdings Corp.",
+                "current_price": 22.5,
+                "market_cap": "$5.2B",
+                "sector_industry": "Technology / Marketing Software",
+                "high_low_52_week": {
+                    "high": 25.0,
+                    "low": 10.5
+                },
+                "pe_ratio": 45.6,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Post-earnings hold at support, revenue +50% YoY, raised guidance. Implications: AI marketing demand. Psychology: dip buy resilience. Parallels: CRM post-earnings. Analogies: rubber ball bounce (fib support), dam holding flood (guidance).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X posts highlight strength amid dip, undervalued metrics."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long to $28, 25% upside.",
+                "short_position": "Minimal, momentum strong.",
+                "key_risks": "Market dip drags, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Positive X sentiment, good metrics."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 1250.0,
+                "market_cap": "$3.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1400.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 68.4,
+                "volume": "450M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Pattern of 7 straight post-earnings selloffs noted on X, upcoming earnings 5/20. Implications: profit-taking in AI leader. Psychology: fear of slowdown. Parallels: 2022 chip correction. Analogies: rubber band stretched tight (selloff pattern), Everest climber fatigue (high valuation).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-7%",
+                "reasoning": "X sentiment highlights selloff history, pre-earnings caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy.",
+                "short_position": "Short pre-earnings for 5-10% drop.",
+                "key_risks": "Beat expectations continue rally."
+            },
+            "confidence_rating": "C",
+            "justification": "Pattern noted but upcoming earnings uncertain."
+        }
+    ]
+}
