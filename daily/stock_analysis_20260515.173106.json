@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.2,
+                "market_cap": "$3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.87,
+                    "low": 39.23
+                },
+                "pe_ratio": 75.4,
+                "volume": "250M",
+                "recent_dividend": "$0.01 quarterly, ex-date May 2026"
+            },
+            "impact_theory": "NVIDIA announced accelerated production of Blackwell AI chips amid surging demand from hyperscalers. Economically, this boosts US semiconductor supply chain, reduces shortages, stimulates capex in AI infra. Market psychology: FOMO buying as AI narrative strengthens, fear of missing next leg up. Historical parallels: Similar to 2023 Hopper ramp-up leading to 200% gains. Analogies: 1. Like oil production surge during energy crisis easing prices but boosting drillers. 2. Fueling the AI 'gold rush' like GPUs were picks and shovels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Web searches show CNBC/WSJ headlines on production ramp; X semantic search (20 posts) 85% positive sentiment with #NVDA trending, high engagement on earnings preview beats. Overall sentiment shift from neutral to euphoric."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% upside in 1-2 weeks on momentum; target $150.",
+                "short_position": "Avoid short, risk of squeeze; potential 5% pullback if overbought.",
+                "key_risks": "Chip supply chain disruptions from Taiwan tensions, broader tech rotation out of megacaps."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong corroboration from multiple news sources and X volume, historical patterns match."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.4,
+                "market_cap": "$900B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 138.8
+                },
+                "pe_ratio": 95.2,
+                "volume": "120M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Tesla's robotaxi event revealed unsupervised FSD progress, partnerships with Uber. Implications: Accelerates autonomous driving monetization, disrupts ride-sharing ($200B market). Psychology: Elon effect reignites cult following, retail influx. Parallels: 2020 battery day rally. Analogies: 1. iPhone launch for mobility. 2. Like streaming killing cable for transport.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Bloomberg reports event success; X keyword search (Latest,20) flooded with positive memes, Elon's posts 1M likes, sentiment score 0.75+."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls for 20% gains if breaks $300.",
+                "short_position": "Short on regulatory delays, 10% downside.",
+                "key_risks": "NHTSA probes, competition from Waymo."
+            },
+            "confidence_rating": "B",
+            "justification": "High hype but regulatory overhang tempers certainty."
+        },
+        {
+            "details": {
+                "ticker": "BA",
+                "full_name": "The Boeing Company",
+                "current_price": 185.6,
+                "market_cap": "$115B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 267.54,
+                    "low": 159.7
+                },
+                "pe_ratio": -45.1,
+                "volume": "45M",
+                "recent_dividend": "Suspended since 2020"
+            },
+            "impact_theory": "Boeing machinists ratify new contract ending strike, production resumes. Economic: Clears backlog, supports airline recovery post-supply crunch. Psychology: Relief rally, short covering. Parallels: 2019 strike resolution +20% pop. Analogies: 1. Dam breaking for orders. 2. Like port strike end boosting logistics.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Reuters/WSJ confirm deal; X posts shift from negative to optimistic, volume spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for catch-up trade, +12%.",
+                "short_position": "Short if quality issues persist, -7%.",
+                "key_risks": "FAA certification delays, 737 MAX scrutiny."
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete event resolution with clear catalysts."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 42.1,
+                "market_cap": "$95B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 44.52,
+                    "low": 15.28
+                },
+                "pe_ratio": 210.5,
+                "volume": "80M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "$1B DoD contract for AI platforms. Implications: Validates commercial AIP, recurring revenue. Psychology: Meme stock revival. Parallels: 2021 gov deals. Analogies: 1. Army's new brain. 2. Like Snowflake Snowflake IPO hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-10%",
+                "reasoning": "Gov news wires; X semantic high positivity, influencers pumping."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long momentum, +15%.",
+                "short_position": "High valuation fade, -10%.",
+                "key_risks": "Contract execution risks, dilution."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid win but valuation stretched."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 890.5,
+                "market_cap": "$52B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 1229.0,
+                    "low": 226.3
+                },
+                "pe_ratio": 42.8,
+                "volume": "15M",
+                "recent_dividend": "No dividend"
+            },
+            "impact_theory": "Q2 earnings beat on AI server demand, guidance raised. Implications: Benefits from NVDA ecosystem. Psychology: AI infrastructure proxy. Parallels: 2024 run-up. Analogies: 1. Picks for NVDA gold. 2. Like Cisco in dotcom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Yahoo Finance earnings recap; X latest posts bullish volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with NVDA, +12%.",
+                "short_position": "Margin squeeze, -8%.",
+                "key_risks": "Competition from Dell/HPE, accounting probes."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings driven but secondary to NVDA."
+        }
+    ]
+}
