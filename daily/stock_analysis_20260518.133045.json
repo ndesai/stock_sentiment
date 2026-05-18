@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "REGN",
+                "full_name": "Regeneron Pharmaceuticals Inc",
+                "current_price": 614.99,
+                "market_cap": "73.2B",
+                "sector_industry": "Pharmaceuticals / Healthcare",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "11M+",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Disappointing clinical trial results for a key drug candidate triggered sharp sell-off. Economic implications include delayed revenue streams and R&D write-down risks; market psychology shows rapid de-risking of biotech pipelines. Historical parallel: similar drops in 2023 for failed oncology trials. Analogies: 1) Like a startup missing its Series C milestone after hype. 2) A blockbuster movie sequel underperforming expectations after massive pre-sales.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12% to -15%",
+                "reasoning": "Premarket drop of ~10.5% on trial miss; X posts highlight REGN sink and rotation out of healthcare. Negative sentiment dominant with volume surge confirming pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization below $550 support for rebound trade (+8-12% swing)",
+                "short_position": "Enter short on any relief rally targeting $520-550 zone for 10-15% downside",
+                "key_risks": "Oversold bounce on analyst upgrades or pipeline clarification; regulatory news volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear premarket data and trial news directly tied to price action with high conviction from multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "BIDU",
+                "full_name": "Baidu, Inc.",
+                "current_price": 142.72,
+                "market_cap": "46.0B",
+                "sector_industry": "Internet / AI & Search",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 18.4,
+                "volume": "32M+",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strong Q1 earnings beat with EPS of 12.06 vs est 11.43 signals AI/search momentum. Implications: accelerated cloud/AI investments boost valuation; psychology shifts to optimism in Chinese tech. Historical: echoes 2024 earnings pops. Analogies: 1) Tesla beating delivery targets amid EV hype. 2) Netflix subscriber surge after content investment.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +8%",
+                "reasoning": "Premarket +3.95% move confirmed by earnings surprise; positive X mentions on Chinese tech recovery and premarket gainers list."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips toward $138 for run to $155-160 (+8-12%)",
+                "short_position": "Not recommended; momentum favors longs",
+                "key_risks": "Geopolitical China-US tensions or macro slowdown in ad revenue"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with verified beat and immediate premarket confirmation."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 229.87,
+                "market_cap": "5.46T",
+                "sector_industry": "Semiconductors / AI Hardware",
+                "high_low_52_week": {
+                    "high": 236.0,
+                    "low": 129.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "69M+",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Morgan Stanley PT hike to $285 + upcoming earnings keep AI leadership narrative alive. Implications: sustains semiconductor cycle premium; psychology fuels FOMO buying. Parallels 2023-24 AI rallies. Analogies: 1) Amazon cloud dominance in early AWS days. 2) Apple iPhone launch cycles creating ecosystem lock-in.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "PT upgrade + chip sector surge mentions on X; anticipation building ahead of earnings week with positive sentiment dominant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on pullbacks to $220 targeting $250-260 (+8-13%) post-earnings",
+                "short_position": "Only tactical on failed breakout above $240 for quick 3-5% scalp",
+                "key_risks": "Earnings miss or macro rotation out of growth/tech"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong ongoing catalyst but earnings outcome introduces moderate uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "LRCX",
+                "full_name": "Lam Research Corporation",
+                "current_price": 292.79,
+                "market_cap": "356B",
+                "sector_industry": "Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 340.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "14M+",
+                "recent_dividend": "$0.85 quarterly"
+            },
+            "impact_theory": "Chip equipment demand surge tied to AI buildout. Implications: extended capex cycle benefits suppliers; psychology reinforces semis rotation. Historical parallel to 2020-21 equipment boom. Analogies: 1) Caterpillar during infrastructure spending spree. 2) ASML monopoly in EUV tools driving multiples.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Premarket +2.73% as part of chip stock surge; X sentiment positive on sector momentum alongside NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy $280-285 dips for $320+ target (+9-12%)",
+                "short_position": "Limited; only on broad market reversal",
+                "key_risks": "Supply chain delays or customer capex cuts"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds clear but less specific catalyst than earnings."
+        },
+        {
+            "details": {
+                "ticker": "RXT",
+                "full_name": "Rackspace Technology, Inc.",
+                "current_price": 6.01,
+                "market_cap": "1.45B",
+                "sector_industry": "Cloud Computing / IT Services",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 1.5
+                },
+                "pe_ratio": 15.8,
+                "volume": "1M+",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strong May 2026 performance (+165% MTD) driven by cloud/AI infrastructure deals. Implications: validates turnaround story and multiple expansion; psychology attracts momentum traders. Historical: similar to 2021 SPAC/cloud recovery. Analogies: 1) Zoom during pandemic remote-work boom. 2) Snowflake post-IPO growth sprint.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15% to +25% continuation",
+                "reasoning": "Monthly leader status with X mentions of unusual activity and top gainers; sustained positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum continuation to $8-9 (+33-50%) on volume confirmation",
+                "short_position": "High-risk; only on exhaustion signals above $7.50",
+                "key_risks": "Profit-taking after parabolic run or dilution concerns"
+            },
+            "confidence_rating": "C",
+            "justification": "Strong performance but smaller cap increases volatility and reversal risk."
+        }
+    ]
+}
