@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 415.25,
+                "market_cap": "3.08T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 312.15
+                },
+                "pe_ratio": 35.8,
+                "volume": "18.4M",
+                "recent_dividend": "$0.75 (May 2026)"
+            },
+            "impact_theory": "Bill Ackman’s Pershing Square stake disclosure signals strong institutional confidence in Microsoft’s AI/cloud growth. Economic implications include boosted tech valuations amid AI capex. Market psychology: positive momentum from hedge fund validation. Historical parallels: similar Ackman moves preceded 15%+ rallies. Analogies: (1) Like Buffett’s Apple bet, signals long-term conviction. (2) Echoes activist entries driving sentiment shifts in mega-caps.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4.5%",
+                "reasoning": "Ackman disclosure on May 18 drove immediate 3.1% gain; sustained buying expected. X posts show positive retail sentiment. Oil/geopolitics may indirectly benefit via Azure growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 8-12% gains over 2 weeks on continued inflows; stop at -3%",
+                "short_position": "Avoid; limited downside risk given strong fundamentals",
+                "key_risks": "Broader tech selloff from rising rates/oil; earnings volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with direct price reaction and high-profile investor backing; recent data confirms immediate lift."
+        },
+        {
+            "details": {
+                "ticker": "NU",
+                "full_name": "Nu Holdings Ltd.",
+                "current_price": 12.85,
+                "market_cap": "61.2B",
+                "sector_industry": "Financial Services / Digital Banking",
+                "high_low_52_week": {
+                    "high": 16.4,
+                    "low": 8.25
+                },
+                "pe_ratio": 28.4,
+                "volume": "42.7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Q1 2026 earnings miss ($0.19 vs $0.20 est) highlights competitive pressures and slower user growth in LatAm. Implications: pressure on fintech valuations amid macro uncertainty. Psychology: disappointment triggers profit-taking. Parallels to 2022 fintech corrections. Analogies: (1) Similar to early Coinbase misses leading to 20% drops. (2) Like PayPal post-2023 guidance cuts.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7.5%",
+                "reasoning": "Direct 5.7% drop on May 18 miss; X sentiment negative with volume spike. Geopolitical oil rise adds indirect inflation pressure on emerging markets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $11.50 support before entry",
+                "short_position": "Potential 8-10% downside to $11.60; cover on rebound",
+                "key_risks": "Quick recovery if Latin America macro improves; high volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit earnings miss with immediate market reaction and measurable volume surge."
+        },
+        {
+            "details": {
+                "ticker": "PBR",
+                "full_name": "Petrobras",
+                "current_price": 20.45,
+                "market_cap": "132B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 22.15,
+                    "low": 13.8
+                },
+                "pe_ratio": 6.2,
+                "volume": "29.1M",
+                "recent_dividend": "$0.45 (Apr 2026)"
+            },
+            "impact_theory": "Brent crude surge to $110 on Iran/Strait of Hormuz tensions boosts Petrobras production economics and dividends. Implications: energy sector rotation from tech. Psychology: fear-driven oil premium lifts commodity plays. Parallels to 2022 Russia-Ukraine oil spike. Analogies: (1) Like 2022 Exxon gains on supply shocks. (2) Mirrors 2011 Gulf tensions benefiting majors.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6.2%",
+                "reasoning": "May 18 oil spike + X posts highlighting PBR surge (1.71% intraday) and record Q1 production. Retail enthusiasm strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "6-9% upside in coming days; target $22.20; dividend yield support",
+                "short_position": "Not recommended; geopolitical risk premium persistent",
+                "key_risks": "De-escalation in Middle East could reverse gains rapidly"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong commodity correlation evident but geopolitics introduce volatility."
+        },
+        {
+            "details": {
+                "ticker": "HTHT",
+                "full_name": "H World Group Limited",
+                "current_price": 38.75,
+                "market_cap": "12.4B",
+                "sector_industry": "Consumer Cyclical / Hotels",
+                "high_low_52_week": {
+                    "high": 48.9,
+                    "low": 29.4
+                },
+                "pe_ratio": 21.6,
+                "volume": "2.8M",
+                "recent_dividend": "$0.22 (Q1 2026)"
+            },
+            "impact_theory": "Q1 adjusted EPS beat ($0.49 vs $0.46) signals China travel recovery and operational efficiency. Implications: positive for consumer discretionary recovery narrative. Psychology: relief rally on China data. Parallels to 2023 post-COVID hospitality rebound. Analogies: (1) Like Marriott 2023 beats driving sustained gains. (2) Echoes Airbnb recovery patterns.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.8%",
+                "reasoning": "Direct beat on May 18 drove 1.4% gain; sentiment on X stable to positive amid broader travel optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "4-7% further upside on China stimulus hopes",
+                "short_position": "Limited; use only on macro China weakness",
+                "key_risks": "China economic slowdown or renewed COVID restrictions"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid earnings catalyst with sector tailwinds but dependent on macro China data."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.6,
+                "market_cap": "528B",
+                "sector_industry": "Energy / Integrated Oil",
+                "high_low_52_week": {
+                    "high": 126.4,
+                    "low": 95.75
+                },
+                "pe_ratio": 9.1,
+                "volume": "15.2M",
+                "recent_dividend": "$0.95 (May 2026)"
+            },
+            "impact_theory": "Rising oil prices from geopolitical tensions enhance upstream margins and free cash flow for dividends/buybacks. Implications: defensive rotation into energy amid inflation fears. Psychology: safe-haven appeal. Parallels to 2022 energy outperformance. Analogies: (1) Like Chevron 2022 gains. (2) Similar to 2008 oil spike beneficiary plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5.1%",
+                "reasoning": "Oil at $110 drives sector strength; X mentions highlight energy rotation. May 18 session confirmed positive price action."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 7-10% gains; strong dividend yield ~3.2%",
+                "short_position": "Not advised while oil >$100",
+                "key_risks": "OPEC+ production hikes or rapid de-escalation in tensions"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct oil price linkage confirmed by market action; high visibility catalyst."
+        }
+    ]
+}
