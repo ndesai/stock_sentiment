@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.85,
+                "market_cap": "3.52T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.75,
+                    "low": 87.2
+                },
+                "pe_ratio": 48.2,
+                "volume": "285.4M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Nvidia earnings and AI demand amid chip sector volatility; rising yields pressure growth stocks. Economic implications include inflation signals slowing capex. Market psychology: fear of rate hikes vs AI hype. Historical parallel: 2023 AI rally reversal. Analogies: Like 2000 dot-com peak for tech or 2022 crypto winter correction.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.5%",
+                "reasoning": "X sentiment shows bearish shift on Nvidia due to earnings miss fears and yield spike; web news highlights tech tumble on May 18."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential 3-6% rebound on positive earnings surprise",
+                "short_position": "High conviction short targeting 5-8% drop, covered on stabilization",
+                "key_risks": "Strong AI guidance beats; geopolitical oil relief"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent across multiple news sources and X latest posts on May 18 volatility"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.45,
+                "market_cap": "528B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 92.35
+                },
+                "pe_ratio": 14.1,
+                "volume": "18.7M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Iran strike threats and Brent crude at $110 boost energy prices. Implications: higher input costs but energy profits surge. Psychology: safe-haven rotation into commodities. Historical: 2022 Russia invasion energy spike. Analogies: Gulf War oil surge or 2014 shale boom reversal.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.2%",
+                "reasoning": "X posts and news highlight oil spike from Middle East tensions driving positive sentiment for majors"
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy; 4-7% upside on sustained $110+ oil",
+                "short_position": "Not recommended; risk of quick ceasefire reversal",
+                "key_risks": "Diplomatic resolution lowers oil; OPEC+ decisions"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation from latest geopolitical news flow on May 18"
+        },
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 512.3,
+                "market_cap": "472B",
+                "sector_industry": "Healthcare/Health Insurance",
+                "high_low_52_week": {
+                    "high": 595.4,
+                    "low": 445.1
+                },
+                "pe_ratio": 21.8,
+                "volume": "3.9M",
+                "recent_dividend": "2.10 (quarterly)"
+            },
+            "impact_theory": "Defensive healthcare resilient amid inflation/yield concerns. Earnings stability provides safe haven. Psychology: flight to quality in volatile macro. Historical: 2020 pandemic resilience. Analogies: Utilities in 2022 rate hikes or consumer staples during 2008 crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.1%",
+                "reasoning": "Mentioned as index gainer; positive sentiment in X searches for healthcare amid market selloff"
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady gains 2-4%; dividend support",
+                "short_position": "Minimal opportunity; defensive nature limits downside",
+                "key_risks": "Regulatory changes or M&A integration issues"
+            },
+            "confidence_rating": "B",
+            "justification": "Supported by index performance data but less viral on social"
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 97.65,
+                "market_cap": "785B",
+                "sector_industry": "Consumer Defensive/Retail",
+                "high_low_52_week": {
+                    "high": 109.2,
+                    "low": 76.8
+                },
+                "pe_ratio": 32.4,
+                "volume": "14.2M",
+                "recent_dividend": "0.21 (quarterly)"
+            },
+            "impact_theory": "Defensive consumer staple benefits from economic uncertainty and inflation pressures on shoppers. Implications: resilient sales. Psychology: value rotation away from growth. Historical: 2023 recession-proof performance. Analogies: Costco during high inflation or Dollar General in 2022.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1.8%",
+                "reasoning": "Forbes highlights as top defensive pick for May; stable X sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "1-3% gains with dividend yield support",
+                "short_position": "Low conviction",
+                "key_risks": "Consumer spending slowdown or competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamental narrative in multiple analyst reports"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.75,
+                "market_cap": "2.98T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 232.15,
+                    "low": 168.9
+                },
+                "pe_ratio": 29.6,
+                "volume": "52.8M",
+                "recent_dividend": "0.24 (quarterly)"
+            },
+            "impact_theory": "Tech giant exposed to yield-driven selloff but strong services/AI ecosystem. Implications: valuation compression in high-rate environment. Psychology: mixed fear/greed on ecosystem strength. Historical: 2022 rate-hike drawdown. Analogies: Microsoft in 2022 correction or Google post-IPO volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2.7%",
+                "reasoning": "Broad tech weakness reflected in Nasdaq drop and X sentiment analysis"
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip-buy opportunity 3-5% rebound potential",
+                "short_position": "Short with tight stops; limited to 4%",
+                "key_risks": "Services growth beats or new product catalysts"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of recent mentions tying to macro yield and inflation themes"
+        }
+    ]
+}
