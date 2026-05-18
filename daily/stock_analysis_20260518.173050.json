@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 219.28,
+                "market_cap": "5.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 110.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "280M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Anticipation of Q1 2026 earnings on May 20 amid Iran tensions boosting energy but pressuring tech via higher rates. Economic implications: AI demand resilience vs inflation. Market psychology: FOMO tempered by yield spike. Historical parallels: 2023 rate hikes. Analogies: Like a rocket awaiting fuel check; chess grandmaster's next move under clock pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Pre-earnings hype strong per X sentiment (Latest mode, 20 posts) and news focus; oil spike indirect positive for data center expansion narrative. Strong AI tailwinds dominate."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% post-earnings gains if guidance beats",
+                "short_position": "Avoid; high volatility risk of 5-10% drop on miss",
+                "key_risks": "Rate hikes, earnings miss, geopolitical escalation"
+            },
+            "confidence_rating": "A",
+            "justification": "Highest volume/attention stock this week with clear catalysts confirmed via multiple searches."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Integrated Oil",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Brent crude at $110 on US-Iran tensions ('clock ticking'). Implications: Higher margins for producers, inflation pass-through. Psychology: Safe-haven rotation into energy. Parallels: 2022 Ukraine invasion spike. Analogies: Oil tanker riding geopolitical waves; dam holding rising water levels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Direct beneficiary of oil surge per CNBC/YouTube reports and X posts; volume surge noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy ETF exposure or XOM for 6-12% upside on sustained oil",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "De-escalation talks, OPEC+ supply response"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent multi-source confirmation on oil price driver."
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 312.4,
+                "market_cap": "78B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 210.0
+                },
+                "pe_ratio": 68.5,
+                "volume": "4.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cramer/Club trimming cybersecurity holdings amid AI disruption debate. Implications: Short-term pressure but long-term AI-sec demand. Psychology: Rotation out of perceived high-valuation names. Parallels: 2024 CrowdStrike outage volatility. Analogies: Trimming sails in gusty winds; pruning a tree for stronger growth.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Cramer commentary + bond yield fears dominate sentiment per recent X keyword search."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for pullback entry, target 8% rebound",
+                "short_position": "Intraday scalp on weakness for 3-5%",
+                "key_risks": "Oversold bounce, positive AI-sec catalysts"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific media mention provides targeted signal."
+        },
+        {
+            "details": {
+                "ticker": "BIDU",
+                "full_name": "Baidu, Inc.",
+                "current_price": 98.75,
+                "market_cap": "35B",
+                "sector_industry": "Communication Services / Internet Search",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 72.0
+                },
+                "pe_ratio": 12.4,
+                "volume": "6.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q1 earnings beat reported Monday (+5.5% EPS surprise). Implications: China tech recovery signals. Psychology: Relief rally potential. Parallels: 2024 China stimulus rallies. Analogies: Underdog winning a round; phoenix rising from regulatory ashes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Earnings calendar data and surprise metrics drive post-market sentiment lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/accumulate for China reopening upside 10%+",
+                "short_position": "Minimal opportunity",
+                "key_risks": "Regulatory shifts, macro China slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Recent earnings release provides concrete catalyst."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Integrated Oil",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Brent crude at $110 on US-Iran tensions ('clock ticking'). Implications: Higher margins for producers, inflation pass-through. Psychology: Safe-haven rotation into energy. Parallels: 2022 Ukraine invasion spike. Analogies: Oil tanker riding geopolitical waves; dam holding rising water levels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Direct beneficiary of oil surge per CNBC/YouTube reports and X posts; volume surge noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy ETF exposure or XOM for 6-12% upside on sustained oil",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "De-escalation talks, OPEC+ supply response"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent multi-source confirmation on oil price driver."
+        }
+    ]
+}
