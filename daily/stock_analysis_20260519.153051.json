@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GOVX",
+                "full_name": "GeoVax Labs, Inc.",
+                "current_price": 1.85,
+                "market_cap": "52.3M",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 12.5,
+                    "low": 0.95
+                },
+                "pe_ratio": -2.1,
+                "volume": "12.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sudden Ebola outbreak in Central Africa triggered sharp selloff in related biotechs despite potential vaccine relevance. Economic implications include short-term volatility in small-cap healthcare amid fear-driven trading. Market psychology shows panic selling overriding fundamentals. Historical parallel: 2014 Ebola outbreak saw initial biotech surges then corrections. Analogies: (1) Like earthquake insurance stocks after tremors—initial hype fades to reality; (2) Similar to COVID vaccine plays in early 2020 where overreactions dominated.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-25 to -35",
+                "reasoning": "Premarket drop of 17%+ on Ebola news; X sentiment shows heavy negative volume with traders exiting positions quickly amid outbreak uncertainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential rebound +15% on positive trial data",
+                "short_position": "High potential +30% gains via short if outbreak news worsens",
+                "key_risks": "Sudden positive clinical updates or government contracts could cause rapid reversal"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear news catalyst with premarket data and direct X sentiment confirmation on GOVX"
+        },
+        {
+            "details": {
+                "ticker": "SAP",
+                "full_name": "SAP SE",
+                "current_price": 248.75,
+                "market_cap": "290.2B",
+                "sector_industry": "Technology / Enterprise Software",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 175.2
+                },
+                "pe_ratio": 42.8,
+                "volume": "3.8M",
+                "recent_dividend": "1.55 (quarterly)"
+            },
+            "impact_theory": "Strong premarket gains driven by AI/cloud demand amid broader tech rotation. Implications: positive for European tech exposure and enterprise AI spend. Psychology: relief buying after recent selloffs. Parallels: 2023 AI rally. Analogies: (1) Like a safe harbor ship in stormy seas; (2) Comparable to Microsoft post-earnings strength.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +8",
+                "reasoning": "+4.74% premarket move; positive X posts highlighting enterprise software resilience and AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "+5-10% short-term swing potential",
+                "short_position": "Limited; avoid shorts given momentum",
+                "key_risks": "Broader Nasdaq weakness or delayed AI adoption could cap gains"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong premarket data corroborated by multiple sources but broader market volatility tempers full conviction"
+        },
+        {
+            "details": {
+                "ticker": "NOW",
+                "full_name": "ServiceNow, Inc.",
+                "current_price": 985.4,
+                "market_cap": "195.8B",
+                "sector_industry": "Technology / Cloud Software",
+                "high_low_52_week": {
+                    "high": 1085.0,
+                    "low": 650.3
+                },
+                "pe_ratio": 78.5,
+                "volume": "1.9M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Gains on AI workflow automation demand continuing despite sector pullback. Economic: supports high-margin recurring revenue model. Psychology: investor preference for proven leaders. Parallels to 2024 AI boom leaders. Analogies: (1) Reliable engine in volatile market; (2) Like a premium brand surviving recession.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +6",
+                "reasoning": "+3.70% premarket; X sentiment favorable toward platform strength and recent contracts."
+            },
+            "potential_profit_risks": {
+                "long_position": "+4-8% upside near-term",
+                "short_position": "Risky; momentum favors longs",
+                "key_risks": "Valuation compression if growth slows or macro tightens"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent premarket gains and sector positioning provide solid evidence"
+        },
+        {
+            "details": {
+                "ticker": "LI",
+                "full_name": "Li Auto Inc.",
+                "current_price": 21.35,
+                "market_cap": "21.8B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 45.2,
+                    "low": 17.8
+                },
+                "pe_ratio": 18.2,
+                "volume": "18.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "EV sector pressure and China demand concerns led to premarket losses. Implications: highlights China EV headwinds and competition. Psychology: risk-off rotation away from growth autos. Historical parallel to 2022 EV correction. Analogies: (1) Like a speedboat against headwinds; (2) Comparable to early Tesla volatility episodes.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -8",
+                "reasoning": "-4.49% premarket; X discussions focused on China sales slowdown and margin pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Cautious; possible +10% on stimulus news",
+                "short_position": "+8-15% downside opportunity",
+                "key_risks": "Policy support or new model launches could spark quick recovery"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct premarket mover data aligns perfectly with sector X sentiment"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 132.6,
+                "market_cap": "3.25T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.1,
+                    "low": 92.45
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly, split-adjusted)"
+            },
+            "impact_theory": "Continued AI chip demand offset by broader tech profit-taking. Implications sustain long-term growth story but near-term volatility. Psychology: AI narrative resilient yet sensitive to macro. Parallel: post-2023 earnings cycles. Analogies: (1) The gold standard in digital gold rush; (2) Like a high-performance engine idling during traffic.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly Bullish",
+                "estimated_price_impact_pct": "+1 to +4",
+                "reasoning": "Mixed market reaction but strong underlying demand; X posts highlight long-term AI positioning despite daily swings."
+            },
+            "potential_profit_risks": {
+                "long_position": "+5-12% on positive AI news flow",
+                "short_position": "Avoid; high short interest risk of squeeze",
+                "key_risks": "Geopolitical supply issues or competitor breakthroughs"
+            },
+            "confidence_rating": "B",
+            "justification": "Dominant AI player with reliable long-term thesis but daily price action remains volatile"
+        }
+    ]
+}
