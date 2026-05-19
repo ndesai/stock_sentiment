@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 222.32,
+                "market_cap": "5.5T",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 289.5,
+                    "low": 110.2
+                },
+                "pe_ratio": 48.5,
+                "volume": "146M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Upcoming NVDA earnings amid Iran oil-driven inflation and high yields pressuring growth stocks. Economic: Higher rates curb capex. Psychology: Fear of valuation reset post-AI run. Historical: 2022 rate hikes. Analogies: Like 2000 dot-com peak pre-earnings; Tesla 2023 pre-delivery numbers.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Pre-earnings volatility + yield spike + oil inflation fears weighing on semis; X posts show dip-buying but caution on NVDA report."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for earnings beat to +12% post-report",
+                "short_position": "Short into report for 6-8% drop if miss on guidance",
+                "key_risks": "AI demand beat could trigger 15% rally; geopolitical de-escalation"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event with clear macro tailwinds (yields, oil) confirmed in news/X data"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 160.49,
+                "market_cap": "720B",
+                "sector_industry": "Energy - Integrated Oil",
+                "high_low_52_week": {
+                    "high": 178.4,
+                    "low": 95.3
+                },
+                "pe_ratio": 11.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Iran tensions/Strait of Hormuz driving oil to $111+. Implications: Margin expansion for majors. Psychology: Safe-haven rotation from tech. Historical: 2022 Ukraine invasion oil spike. Analogies: 1990 Gulf War surge; 2022 energy outperformance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "Persistent geopolitical premium in oil; strong sentiment in X posts on energy as hedge"
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-10% near-term gains on sustained oil",
+                "short_position": "Avoid or cover; limited downside unless ceasefire",
+                "key_risks": "Sudden de-escalation drops oil 15%"
+            },
+            "confidence_rating": "B",
+            "justification": "Oil macro clear from news but resolution timing uncertain"
+        },
+        {
+            "details": {
+                "ticker": "HD",
+                "full_name": "The Home Depot, Inc.",
+                "current_price": 299.81,
+                "market_cap": "300B",
+                "sector_industry": "Consumer Cyclical - Home Improvement Retail",
+                "high_low_52_week": {
+                    "high": 415.2,
+                    "low": 245.8
+                },
+                "pe_ratio": 22.1,
+                "volume": "4.2M",
+                "recent_dividend": "$2.25 quarterly"
+            },
+            "impact_theory": "Post-earnings reaffirmation despite macro headwinds. Implications: Resilient consumer spending signals. Psychology: Relief rally possible. Historical: 2023 rate-pause retail rebound. Analogies: Walmart 2025 resilience; Lowe's post-inflation beats.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly Bullish",
+                "estimated_price_impact_pct": "+1% to +3%",
+                "reasoning": "Affirmed guidance counters yield/inflation narrative per market reports"
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add for stable 3-5% quarterly move",
+                "short_position": "Not recommended; defensive characteristics",
+                "key_risks": "Consumer slowdown if rates stay elevated"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings context solid but broader macro pressure"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 681.54,
+                "market_cap": "760B",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 820.0,
+                    "low": 320.5
+                },
+                "pe_ratio": 12.3,
+                "volume": "25M",
+                "recent_dividend": "$0.46 quarterly"
+            },
+            "impact_theory": "HBM/AI memory demand vs. yield-driven tech selloff. Implications: Cyclical upside tempered by rates. Psychology: Rotation out of high-valuation semis. Historical: 2023-24 memory cycle peaks. Analogies: 2017-18 NAND boom/bust; NVDA 2024 pre-earnings pullback.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Chip sector correction accelerating with yields and NVDA focus per X sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate post-pullback for 15%+ rebound",
+                "short_position": "Ride downside for 8% gain into earnings season",
+                "key_risks": "Strong HBM guidance reversal of trend"
+            },
+            "confidence_rating": "A",
+            "justification": "Sector-wide data and X posts align on correction"
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 196.12,
+                "market_cap": "380B",
+                "sector_industry": "Energy - Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 215.8,
+                    "low": 112.4
+                },
+                "pe_ratio": 13.8,
+                "volume": "9.5M",
+                "recent_dividend": "$1.71 quarterly"
+            },
+            "impact_theory": "Oil price surge from geopolitics benefits integrated majors with upstream exposure. Implications: EPS beat potential. Psychology: Defensive rotation favored. Historical: 2008 and 2022 oil rallies. Analogies: Shell/BP outperformance in crises; 1973 embargo gains.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Direct oil correlation confirmed across news and recent X activity"
+            },
+            "potential_profit_risks": {
+                "long_position": "Add on dips targeting 7-9% gains",
+                "short_position": "Minimal; energy strength persists",
+                "key_risks": "Quick Iran resolution caps upside"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro drivers strong but volatility high"
+        }
+    ]
+}
