@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 75.8
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth-focused)"
+            },
+            "impact_theory": "NVIDIA's Q1 2026 earnings release tomorrow (May 20) amid AI supercycle hype and chip stock selloff today. Economic implications include continued capex boom in data centers offsetting macro inflation fears. Market psychology: anticipation mixed with profit-taking; historical parallels to 2023-2025 AI rallies. Analogies: 1) Like Tesla in 2020 EV boom - massive forward valuation justified by growth. 2) Dot-com era Cisco - dominant infrastructure play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15",
+                "reasoning": "X sentiment strongly positive on AI data points; web searches highlight earnings catalyst despite today's chip drag. Rising yields/inflation offset by AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips pre-earnings; potential 10-20% upside on beat/guidance",
+                "short_position": "Short volatility post-earnings if miss; 5-12% downside risk",
+                "key_risks": "Guidance shortfall, macro rate hikes, China export restrictions"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility on earnings event + consistent historical post-earnings pops supported by strong X/web sentiment."
+        },
+        {
+            "details": {
+                "ticker": "HD",
+                "full_name": "The Home Depot, Inc.",
+                "current_price": 378.4,
+                "market_cap": "375B",
+                "sector_industry": "Consumer Cyclical - Home Improvement Retail",
+                "high_low_52_week": {
+                    "high": 415.0,
+                    "low": 295.5
+                },
+                "pe_ratio": 24.8,
+                "volume": "4.2M",
+                "recent_dividend": "$2.25 quarterly (May 2026)"
+            },
+            "impact_theory": "Home Depot Q1 earnings release today showed solid beat amid housing market recovery signals. Implications: resilient consumer spending despite inflation/oil spike. Psychology: relief rally potential after yield spike pressure. Parallels: 2021-22 recovery plays. Analogies: 1) Like Costco in inflation - steady essential spending. 2) Post-2008 housing rebound stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +7",
+                "reasoning": "Earnings beat confirmed in news; X posts note retail resilience despite broader market dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Post-earnings hold for housing data tailwind; +5-12% near-term",
+                "short_position": "Limited; avoid unless macro worsens sharply",
+                "key_risks": "Higher mortgage rates curbing housing turnover"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings data anchors outlook with moderate macro sensitivity."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.75,
+                "market_cap": "515B",
+                "sector_industry": "Energy - Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 85.4
+                },
+                "pe_ratio": 8.9,
+                "volume": "18.5M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices elevated due to Iran/Strait of Hormuz tensions pushing energy inflation. Implications: direct boost to upstream profits. Psychology: safe-haven rotation from tech amid yields. Parallels: 2022 energy crisis. Analogies: 1) 1970s oil shocks favoring majors. 2) Like gold miners in rate-hike cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +9",
+                "reasoning": "Geopolitical oil spike confirmed across news; positive X chatter on energy plays."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy allocation for inflation hedge; +6-15% if tensions persist",
+                "short_position": "On de-escalation; -8% possible",
+                "key_risks": "Sudden peace talks or OPEC+ response"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro/geopolitical driver with visible price sensitivity."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 162.3,
+                "market_cap": "755B",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 32.1,
+                "volume": "22M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Chip sector rotation amid broader Nasdaq weakness and Nvidia pre-earnings jitters. Implications: AI/semiconductor supply chain strength tested. Psychology: rotation out of high-valuation semis. Parallels: 2022-23 correction then rebound. Analogies: 1) Like Qualcomm in 5G cycle. 2) Cisco post-bubble infrastructure survivor.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium",
+                "estimated_price_impact_pct": "-3 to +6",
+                "reasoning": "Today's chip drag dominant in searches; X sentiment cautious pre-NVDA but AI long-term bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for AI exposure; +8-12% recovery",
+                "short_position": "Near-term tactical on yield spike; -5% downside",
+                "key_risks": "Data center capex slowdown or competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector correlation high but long-term fundamentals intact."
+        },
+        {
+            "details": {
+                "ticker": "FDX",
+                "full_name": "FedEx Corporation",
+                "current_price": 245.8,
+                "market_cap": "60B",
+                "sector_industry": "Industrials - Integrated Freight & Logistics",
+                "high_low_52_week": {
+                    "high": 315.0,
+                    "low": 198.5
+                },
+                "pe_ratio": 15.4,
+                "volume": "1.8M",
+                "recent_dividend": "$1.38 quarterly"
+            },
+            "impact_theory": "Cramer highlight on superior supply chain logistics amid global trade shifts. Implications: efficiency gains offset higher fuel costs. Psychology: defensive industrial rotation. Parallels: 2020 pandemic logistics boom. Analogies: 1) UPS in e-commerce surge. 2) Amazon logistics backbone plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +10",
+                "reasoning": "Positive CNBC/Cramer coverage + resilient volume commentary in X feeds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Industrial recovery play; +7-14% on volume growth",
+                "short_position": "Fuel cost spike risk; limited short appeal",
+                "key_risks": "Economic slowdown reducing shipping demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Specific analyst endorsement + sector tailwinds align with data."
+        }
+    ]
+}
