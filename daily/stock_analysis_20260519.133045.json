@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MPC",
+                "full_name": "Marathon Petroleum Corporation",
+                "current_price": 168.45,
+                "market_cap": "54.8B",
+                "sector_industry": "Energy / Oil & Gas Refining",
+                "high_low_52_week": {
+                    "high": 195.2,
+                    "low": 112.3
+                },
+                "pe_ratio": 8.7,
+                "volume": "12.4M",
+                "recent_dividend": "$0.85 quarterly (ex-date May 15, 2026)"
+            },
+            "impact_theory": "Strong Q1 earnings beat and refinery margin expansion amid tight distillate markets. Positive economic implications from energy independence push and OPEC+ supply discipline. Market psychology: momentum chasing in energy names after prolonged underperformance. Historical parallel: 2022 post-Ukraine invasion surge. Analogies: 1) Like a freight train accelerating downhill after brake release. 2) Oil tanker catching tailwinds from global supply chain re-routing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+9.5%",
+                "reasoning": "Premarket surge of 7.5% on earnings; strong X sentiment (positive volume spikes); refining crack spreads widening supports further upside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 12-15% gain to $190 zone within 2 weeks; entry on any dip below $165",
+                "short_position": "Avoid; momentum too strong, potential squeeze risk above $175",
+                "key_risks": "Oil price reversal on demand slowdown or OPEC surprise increase"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with broad sector tailwinds and verifiable premarket volume"
+        },
+        {
+            "details": {
+                "ticker": "PHM",
+                "full_name": "PulteGroup, Inc.",
+                "current_price": 98.75,
+                "market_cap": "21.3B",
+                "sector_industry": "Consumer Cyclical / Homebuilding",
+                "high_low_52_week": {
+                    "high": 145.8,
+                    "low": 82.1
+                },
+                "pe_ratio": 9.2,
+                "volume": "8.9M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "Disappointing housing demand data and margin compression from higher input costs. Implications: slowdown in residential construction signals cooling economy. Psychology: panic selling in rate-sensitive names. Historical parallel: 2022 rate-hike selloff. Analogies: 1) House of cards collapsing under rising rates. 2) Rollercoaster dropping after peak enthusiasm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-18%",
+                "reasoning": "16.8% premarket plunge on weak guidance; negative X chatter on affordability crisis; further downside likely"
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk; wait for stabilization below $85 support",
+                "short_position": "Target additional 10-12% downside to $87; cover at $82",
+                "key_risks": "Unexpected Fed rate cut or strong housing starts rebound"
+            },
+            "confidence_rating": "A",
+            "justification": "Large premarket move backed by company-specific weak outlook and sector rotation out of cyclicals"
+        },
+        {
+            "details": {
+                "ticker": "VRSK",
+                "full_name": "Verisk Analytics, Inc.",
+                "current_price": 278.9,
+                "market_cap": "39.5B",
+                "sector_industry": "Technology / Information Services",
+                "high_low_52_week": {
+                    "high": 295.4,
+                    "low": 210.55
+                },
+                "pe_ratio": 42.1,
+                "volume": "1.8M",
+                "recent_dividend": "$0.39 quarterly"
+            },
+            "impact_theory": "Data analytics demand surge from insurance and climate-risk modeling. Implications: AI-enabled risk tools drive recurring revenue growth. Psychology: defensive growth rotation. Historical parallel: 2023 post-AI boom. Analogies: 1) Radar detecting storms early. 2) Swiss Army knife for enterprise risk.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "6.7% premarket gain on strong subscription renewals; positive analyst notes and X buzz around data moat"
+            },
+            "potential_profit_risks": {
+                "long_position": "6-8% upside to $300; hold through earnings season",
+                "short_position": "Limited opportunity; high valuation limits short interest",
+                "key_risks": "Competition from new AI startups or macro slowdown in insurance spending"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid catalyst with recurring revenue visibility but premium valuation caps upside magnitude"
+        },
+        {
+            "details": {
+                "ticker": "NVT",
+                "full_name": "nVent Electric plc",
+                "current_price": 82.35,
+                "market_cap": "13.7B",
+                "sector_industry": "Industrials / Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 91.2,
+                    "low": 54.75
+                },
+                "pe_ratio": 24.8,
+                "volume": "2.1M",
+                "recent_dividend": "$0.19 quarterly"
+            },
+            "impact_theory": "Data center infrastructure boom and electrical safety solutions demand. Implications: electrification megatrend accelerates. Psychology: industrial rotation into AI-adjacent plays. Historical parallel: 2020-21 semiconductor equipment run. Analogies: 1) Power cord to the AI revolution. 2) Backbone of the electrified future.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "5.1% premarket pop on data-center order backlog; favorable X sentiment on industrial AI exposure"
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 8% gain to $89; pair with sector ETF for hedge",
+                "short_position": "Not recommended; secular tailwinds intact",
+                "key_risks": "Supply chain delays or slower hyperscaler capex"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear thematic tailwind with order momentum but smaller absolute move than energy names"
+        },
+        {
+            "details": {
+                "ticker": "SAP",
+                "full_name": "SAP SE",
+                "current_price": 245.6,
+                "market_cap": "285B",
+                "sector_industry": "Technology / Enterprise Software",
+                "high_low_52_week": {
+                    "high": 262.8,
+                    "low": 168.4
+                },
+                "pe_ratio": 38.5,
+                "volume": "3.5M",
+                "recent_dividend": "€2.05 annual"
+            },
+            "impact_theory": "Cloud ERP migration acceleration and AI co-pilot integrations. Implications: enterprise digital transformation spend remains resilient. Psychology: European tech catch-up narrative. Historical parallel: 2024-25 cloud transition wave. Analogies: 1) Operating system upgrade for global business. 2) Swiss watch precision in enterprise software.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "4.7% premarket advance on strong cloud revenue beat; broad positive X and analyst coverage"
+            },
+            "potential_profit_risks": {
+                "long_position": "5-7% additional upside; long-term hold favored",
+                "short_position": "High valuation limits short viability",
+                "key_risks": "Currency headwinds or slower European macro recovery"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent growth story with cloud visibility; move smaller than US energy cyclicals but durable"
+        }
+    ]
+}
