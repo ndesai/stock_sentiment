@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 735.2,
+                "market_cap": "810B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 780.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "31.4M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Middle East tensions and rising oil prices ($110+/bbl Brent) triggered broad tech selloff on May 18-20 2026, hitting memory chip demand expectations. Economic implication: higher input costs and inflation fears slow capex. Market psychology: risk-off rotation from growth to defensives. Historical parallel: 2022 energy shock tech dip. Analogies: (1) Like 1970s oil crisis pressuring electronics firms; (2) Similar to 2022 rate-hike rotation away from semis.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.5%",
+                "reasoning": "Micron cited in Nasdaq decline (0.51-1.5% indexes down) amid oil/inflation fears; recent X posts show negative sentiment spike on supply chain and demand slowdown concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential 8-12% rebound on oil de-escalation",
+                "short_position": "5-7% downside target over next week",
+                "key_risks": "Earnings beat or geopolitical easing could reverse quickly; high volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation with macro oil/inflation news confirmed across multiple sources; sentiment shift clear but earnings upcoming adds uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 161.29,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 9.8,
+                "volume": "9.5M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Brent crude surge above $109-$110 on Iran/Middle East impasse boosts energy sector profits and dividends. Implication: inflation hedge and revenue windfall. Psychology: safe-haven rotation into energy. Historical: 2022 Ukraine invasion energy rally. Analogies: (1) 2008 oil spike benefiting majors; (2) COVID recovery energy surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.8%",
+                "reasoning": "XLE up 2.3% recently; X posts highlight positive energy sentiment amid geopolitical premium"
+            },
+            "potential_profit_risks": {
+                "long_position": "3-6% upside near-term; strong dividend yield play",
+                "short_position": "Risky due to potential de-escalation drop",
+                "key_risks": "Rapid resolution of conflicts or OPEC+ decisions"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct macro driver (oil prices) with consistent positive sector performance data"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 223.15,
+                "market_cap": "5.5T",
+                "sector_industry": "Technology/Semiconductors - AI",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "56.8M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Chip sector volatility from broader tech weakness and pre-earnings positioning amid macro fears. Implication: AI demand resilient but near-term sentiment pressured. Psychology: growth stock rotation risk. Historical: 2023-24 rate-sensitive dips. Analogies: (1) 2022 bear market tech drawdown; (2) Dot-com era growth volatility.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish",
+                "estimated_price_impact_pct": "-2.1%",
+                "reasoning": "Market-wide Nasdaq pressure; X latest posts mixed with earnings anticipation"
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for earnings catalyst; 5-10% swing potential",
+                "short_position": "Limited; high beta amplifies losses",
+                "key_risks": "Strong AI guidance could spark rally"
+            },
+            "confidence_rating": "B",
+            "justification": "Broad macro impact evident but company-specific catalysts (earnings) could override"
+        },
+        {
+            "details": {
+                "ticker": "ALAB",
+                "full_name": "Astera Labs, Inc.",
+                "current_price": 251.2,
+                "market_cap": "41.9B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 157.3,
+                "volume": "1.6M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Strong momentum in AI connectivity chips; recent gainers list leadership amid selective tech rotation. Implication: niche AI infrastructure demand holds. Psychology: momentum chasing in semis. Historical: 2023-24 AI stock surges. Analogies: (1) Early NVDA-like breakout; (2) 2020 cloud computing rally.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6.5%",
+                "reasoning": "Top daily gainer (+13% sessions); positive X buzz on AI data center exposure"
+            },
+            "potential_profit_risks": {
+                "long_position": "Continued 8-12% upside on AI theme",
+                "short_position": "Volatile; avoid until pullback",
+                "key_risks": "Valuation compression or broader tech correction"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear momentum and volume confirmation from market data"
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 133.02,
+                "market_cap": "675B",
+                "sector_industry": "Consumer Defensive/Retail",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "3.1M",
+                "recent_dividend": "0.21 (quarterly)"
+            },
+            "impact_theory": "Defensive play favored in uncertain macro (inflation, geopolitics, bond yields). Implication: steady consumer staples demand. Psychology: flight to safety. Historical: 2022 inflation beneficiary. Analogies: (1) 2008 recession defensive outperformance; (2) COVID pantry stocking surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.4%",
+                "reasoning": "Forbes May 2026 defensive pick; stable volume/sentiment on X amid market pullback"
+            },
+            "potential_profit_risks": {
+                "long_position": "2-4% steady gains + dividend; long-term hold",
+                "short_position": "Not recommended",
+                "key_risks": "Consumer spending slowdown if recession deepens"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent macro defensive theme supported by analyst lists and market action"
+        }
+    ]
+}
