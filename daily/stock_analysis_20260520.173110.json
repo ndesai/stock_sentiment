@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "3.52T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.8,
+                    "low": 92.15
+                },
+                "pe_ratio": 52.4,
+                "volume": "285.4M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "NVIDIA earnings release tonight focuses on AI demand sustainability amid geopolitical tensions and bond yield rises. Implications include validation of AI capex boom. Market psychology: heightened anticipation leading to volatility. Historical parallel: 2023-2025 AI rally cycles. Analogies: (1) Like 1990s internet boom validation via earnings; (2) Oil shock earnings determining sector leadership.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Pre-earnings rebound on X sentiment (tech/chip sector leadership) and AI demand optimism; historical beats drive 5-10% moves. Yields easing supports."
+            },
+            "potential_profit_risks": {
+                "long_position": "+8% on beat/guidance raise; target $154",
+                "short_position": "-6% on miss; support $134",
+                "key_risks": "AI ROI skepticism, China export curbs, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume pre-earnings chatter, direct event catalyst with consistent historical accuracy."
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 148.2,
+                "market_cap": "68.5B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 178.9,
+                    "low": 112.45
+                },
+                "pe_ratio": 14.8,
+                "volume": "8.9M",
+                "recent_dividend": "$1.12 (quarterly)"
+            },
+            "impact_theory": "Earnings beat with traffic recovery but margin squeeze from pricing cuts. Economic: consumer resilience test. Psychology: short-term disappointment vs long-term CEO strategy. Parallels: 2023 retail recovery plays. Analogies: (1) Post-pandemic traffic rebuild like airlines; (2) Amazon price wars margin cycle.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+2% to -3%",
+                "reasoning": "X posts note EPS beat/revenue growth/raised guidance but margin focus weighs; traffic data positive long-term."
+            },
+            "potential_profit_risks": {
+                "long_position": "+5% on consumer recovery confirmation",
+                "short_position": "-4% margin pressure continuation",
+                "key_risks": "Inflation costs, competition from Walmart/Amazon"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings data with mixed sentiment; high recent X engagement."
+        },
+        {
+            "details": {
+                "ticker": "OKTA",
+                "full_name": "Okta, Inc.",
+                "current_price": 98.45,
+                "market_cap": "16.8B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 115.3,
+                    "low": 71.2
+                },
+                "pe_ratio": 38.2,
+                "volume": "4.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Barclays upgrade/raised 2027 guidance on demand. Implications: cybersecurity/AI integration tailwinds. Psychology: momentum from positive analyst shift. Parallels: 2024 SaaS recovery. Analogies: (1) Zoom post-pandemic guidance beats; (2) Snowflake data demand cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "Recent X/Yahoo Finance coverage on guidance raise amid improved execution; sector rotation to software."
+            },
+            "potential_profit_risks": {
+                "long_position": "+7% on continued demand signals",
+                "short_position": "-3% on macro IT spend cuts",
+                "key_risks": "Competition from Microsoft, valuation compression"
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst-driven catalyst with supportive recent posts."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 127.8,
+                "market_cap": "515B",
+                "sector_industry": "Consumer Defensive / Retail - General",
+                "high_low_52_week": {
+                    "high": 142.15,
+                    "low": 98.6
+                },
+                "pe_ratio": 27.5,
+                "volume": "12.7M",
+                "recent_dividend": "$0.83 (quarterly)"
+            },
+            "impact_theory": "Defensive retail leader amid macro uncertainty and bond yield pressure. Implications: steady consumer staple demand. Psychology: safe haven rotation. Parallels: 2022 inflation resilience. Analogies: (1) Costco membership model stability; (2) Procter & Gamble defensive outperformance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1.5% to +3%",
+                "reasoning": "Listed in top May defensive buys; stable volume on yield concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "+4% dividend + growth",
+                "short_position": "Limited downside",
+                "key_risks": "Wage inflation, online competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent defensive positioning in multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 112.6,
+                "market_cap": "125B",
+                "sector_industry": "Technology / Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 148.75,
+                    "low": 68.9
+                },
+                "pe_ratio": 11.9,
+                "volume": "21.3M",
+                "recent_dividend": "$0.46 (quarterly)"
+            },
+            "impact_theory": "Strong growth in HBM/AI memory amid Nvidia ecosystem. Implications: supply chain validation. Psychology: momentum from chip sector. Parallels: 2024 DRAM cycle recovery. Analogies: (1) SK Hynix AI memory surge; (2) 2021 chip shortage pricing power.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Highlighted in growth stocks lists; AI demand synergy with NVDA catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "+6% on memory pricing strength",
+                "short_position": "-5% cyclical downturn",
+                "key_risks": "Memory price volatility, capex cycles"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds confirmed by recent analyst coverage."
+        }
+    ]
+}
