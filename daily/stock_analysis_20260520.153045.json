@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 220.61,
+                "market_cap": "5.34T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 45.02,
+                "volume": "139M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA's upcoming earnings report is the marquee event, testing AI demand sustainability amid high valuations. Rising yields and Iran-driven oil/inflation pressures create headwinds. Market psychology: anticipation builds volatility; historical parallel to 2023 AI boom peaks. Analogies: Like a rocket launch countdown (potential lift-off or scrub) or a championship game (win big or disappointment).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "Chip rebound pre-earnings and strong AI narrative from web/X sentiment (positive buzz on demand); potential beat drives upside despite macro risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares; target 10-20% gain on beat",
+                "short_position": "Avoid or hedge with puts; risk of 5-10% drop on miss",
+                "key_risks": "Missed expectations, macro inflation spike, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of pre-earnings coverage and trending status confirm major sentiment catalyst"
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 127.24,
+                "market_cap": "57.8B",
+                "sector_industry": "Consumer Cyclical/Retail",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 15.65,
+                "volume": "8.4M",
+                "recent_dividend": "1.12 (quarterly)"
+            },
+            "impact_theory": "Retail earnings and consumer spending amid high gas prices/energy inflation from Iran conflict. Sentiment shift from cautious to opportunistic as yields stabilize. Historical parallel to 2022 inflation retail pullback recovery. Analogies: Weathering a storm (resilient retail) or shopping during sales (value hunt).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Premarket movers positive; consumer fears priced in but earnings resilience noted in searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips; 6-12% upside potential",
+                "short_position": "Limited; covered calls preferred",
+                "key_risks": "Consumer pullback, higher input costs"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong retail news mentions and trending status but macro sensitivity"
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 176.27,
+                "market_cap": "152B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "25M",
+                "recent_dividend": "0.06 (quarterly)"
+            },
+            "impact_theory": "AI/data center chip demand tailwinds tied to NVDA narrative. Sentiment positive rebound in semis. Economic: Accelerates digital infra spend. Parallels 2024 AI rally. Analogies: Following the leader pack or surfing the AI wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +12%",
+                "reasoning": "Analyst calls highlight and X chatter on semis strength ahead of NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on AI momentum; 8-15% gains",
+                "short_position": "Short only on broad tech selloff",
+                "key_risks": "Sector rotation, earnings misses downstream"
+            },
+            "confidence_rating": "B",
+            "justification": "Trending with NVDA ecosystem but less direct news volume"
+        },
+        {
+            "details": {
+                "ticker": "ADI",
+                "full_name": "Analog Devices, Inc.",
+                "current_price": 414.31,
+                "market_cap": "205B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "3.2M",
+                "recent_dividend": "0.92 (quarterly)"
+            },
+            "impact_theory": "Industrial/auto semis exposure benefits from AI/electrification. Yield/inflation macro pressure offset by growth. Historical: Recovery post-2022 chip glut. Analogies: Steady ship in choppy waters or precision tool in tech toolbox.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Trending and analyst positive calls amid semis rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; modest 5%+ gains",
+                "short_position": "Minimal opportunity",
+                "key_risks": "Cyclical downturn in industrials"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent sector play with positive sentiment signals"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 298.97,
+                "market_cap": "4.45T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 303.2,
+                    "low": 193.5
+                },
+                "pe_ratio": 32.8,
+                "volume": "32M",
+                "recent_dividend": "0.24 (quarterly)"
+            },
+            "impact_theory": "Services growth and AI features (e.g., Apple Intelligence) amid broader tech rally. Macro drag from yields tempered by cash flow strength. Parallels iPhone cycle recoveries. Analogies: Reliable blue-chip anchor or evergreen orchard yielding fruit.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Stable sentiment; less direct catalyst but benefits from market rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive long; 4-8% upside",
+                "short_position": "Rarely attractive",
+                "key_risks": "China exposure, regulatory issues"
+            },
+            "confidence_rating": "C",
+            "justification": "Broad market player but fewer specific May 2026 catalysts vs peers"
+        }
+    ]
+}
