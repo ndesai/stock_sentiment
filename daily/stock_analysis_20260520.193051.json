@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 220.61,
+                "market_cap": "5.42T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.13,
+                    "low": 87.43
+                },
+                "pe_ratio": 48.5,
+                "volume": "140948296",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "NVIDIA's earnings release on May 20 drives sentiment ahead of May 21 trading. Strong AI demand signals sustained growth but potential margin pressure from competition creates volatility. Market psychology amplifies moves due to NVDA's index weight; historical parallels to 2023/2024 earnings beats causing 5-10% swings. Analogies: Like Tesla post-EV hype cycles or Amazon during cloud ramp-up.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Anticipated strong data center/AI revenue beat amid easing oil/geopolitical tensions; X sentiment (Latest mode) shows positive chatter on earnings guidance outweighing Fed minutes caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 4-8% upside targeting $230-$240; gains from AI momentum continuation",
+                "short_position": "Avoid shorts or tight stops; limited downside unless major guidance miss",
+                "key_risks": "Guidance shortfall, broader tech selloff, or hawkish Fed minutes interpretation"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility earnings event with consistent historical volatility and positive pre-earnings sentiment indicators"
+        },
+        {
+            "details": {
+                "ticker": "ADI",
+                "full_name": "Analog Devices, Inc.",
+                "current_price": 414.31,
+                "market_cap": "206B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 247.1,
+                    "low": 181.81
+                },
+                "pe_ratio": 28.4,
+                "volume": "6190317",
+                "recent_dividend": "$0.92 quarterly"
+            },
+            "impact_theory": "Analog Devices earnings coincide with NVDA, amplifying semiconductor sector moves. Industrial/auto recovery expectations boost outlook; psychology ties to broader chip cycle recovery post-2023 downturn. Parallels to 2024 semi rallies. Analogies: Similar to Texas Instruments cycle plays or Qualcomm 5G inflection points.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Sector tailwinds from AI/edge computing spillover and positive X sentiment around earnings beats for peers"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long positions for 2-5% gains on continued semi strength",
+                "short_position": "Limited; possible quick reversal if macro disappoints",
+                "key_risks": "Macro slowdown, inventory build-up signals, or correlated NVDA weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings catalyst but lower standalone visibility than mega-caps"
+        },
+        {
+            "details": {
+                "ticker": "LOW",
+                "full_name": "Lowe's Companies, Inc.",
+                "current_price": 218.37,
+                "market_cap": "124B",
+                "sector_industry": "Consumer Cyclical/Home Improvement Retail",
+                "high_low_52_week": {
+                    "high": 287.3,
+                    "low": 207.1
+                },
+                "pe_ratio": 17.8,
+                "volume": "3343632",
+                "recent_dividend": "$1.15 quarterly"
+            },
+            "impact_theory": "Lowe's earnings reflect housing market stabilization amid Fed data and lower oil prices improving consumer sentiment. Psychology: Defensive retail plays gain favor in uncertain macro. Historical parallels to 2022-23 rate hike resilience. Analogies: Like Home Depot post-pandemic or Target during inflation moderation.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "0% to +3%",
+                "reasoning": "Solid same-store sales expected; X posts show retail resilience sentiment improving post-Fed minutes"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for dividend + modest appreciation (1-3%)",
+                "short_position": "Not recommended; stable fundamentals",
+                "key_risks": "Housing data weakness or consumer spending pullback"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings provide clarity but retail sector less volatile than tech"
+        },
+        {
+            "details": {
+                "ticker": "INTU",
+                "full_name": "Intuit Inc.",
+                "current_price": 399.71,
+                "market_cap": "112B",
+                "sector_industry": "Technology/Software - Application",
+                "high_low_52_week": {
+                    "high": 715.0,
+                    "low": 532.5
+                },
+                "pe_ratio": 32.6,
+                "volume": "3192733",
+                "recent_dividend": "$1.02 quarterly"
+            },
+            "impact_theory": "Intuit earnings highlight fintech/SMB software resilience. Tax season tailwinds + AI features drive optimism. Market psychology favors quality growth names; parallels 2024 software rebounds. Analogies: Like Adobe AI pivot or PayPal user growth phases.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Positive pre-release sentiment on X and earnings momentum in cloud/fintech verticals"
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for 3-6% run-up on software leadership narrative",
+                "short_position": "High risk; momentum favors longs",
+                "key_risks": "Subscription growth miss or macro consumer weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent performer with earnings visibility"
+        },
+        {
+            "details": {
+                "ticker": "TJX",
+                "full_name": "TJX Companies, Inc.",
+                "current_price": 150.68,
+                "market_cap": "170B",
+                "sector_industry": "Consumer Cyclical/Off-Price Retail",
+                "high_low_52_week": {
+                    "high": 146.0,
+                    "low": 98.0
+                },
+                "pe_ratio": 29.1,
+                "volume": "8732569",
+                "recent_dividend": "$0.415 quarterly"
+            },
+            "impact_theory": "TJX benefits from value-seeking consumers amid economic caution and lower energy costs. Earnings reflect off-price resilience. Psychology: Defensive plays in volatile markets. Parallels to 2020-22 outperformance. Analogies: Dollar General or Ross Stores value rotation phases.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1% to +4%",
+                "reasoning": "Steady comps expected; positive retail rotation sentiment on X post-Fed"
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for steady 1-4% gains and dividend yield",
+                "short_position": "Minimal opportunity",
+                "key_risks": "Inflation resurgence hurting margins"
+            },
+            "confidence_rating": "C",
+            "justification": "Stable but less dramatic catalyst impact compared to tech earnings"
+        }
+    ]
+}
