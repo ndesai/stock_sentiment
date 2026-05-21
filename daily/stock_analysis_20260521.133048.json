@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "3.52T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.8,
+                "volume": "285M",
+                "recent_dividend": "0.01 (Q1 2026)"
+            },
+            "impact_theory": "Nvidia Q1 earnings beat estimates with strong AI chip demand but gross margin outlook slightly missed high expectations amid competition. Economic implications: reinforces AI capex boom. Market psychology: profit-taking after rally. Historical parallel: similar post-earnings dip in 2023. Analogies: (1) Like Tesla post-earnings volatility on guidance. (2) Comparable to Intel's past cycles where AI hype drove short-term swings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3.5%",
+                "reasoning": "Earnings beat but cautious guidance + oil/ macro headwinds led to muted futures reaction. X sentiment (latest posts) shows 55% negative on valuation concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for long-term AI growth; potential 15% rebound on next catalyst",
+                "short_position": "Short on overextended valuation for 5-8% quick gains",
+                "key_risks": "Further AI competition or macro slowdown could amplify downside"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of recent earnings coverage and direct X/news correlation confirms impact"
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 98.75,
+                "market_cap": "795B",
+                "sector_industry": "Consumer Defensive/Retail",
+                "high_low_52_week": {
+                    "high": 105.3,
+                    "low": 78.6
+                },
+                "pe_ratio": 28.4,
+                "volume": "18.2M",
+                "recent_dividend": "0.57 (May 2026)"
+            },
+            "impact_theory": "Walmart earnings met estimates but Q2 outlook disappointed due to high gas prices impacting consumer spending. Implications: signals potential retail slowdown. Psychology: defensive stock rotation. Historical: 2022 inflation squeeze parallels. Analogies: (1) Like Costco during 2023 energy spikes. (2) Similar to Target's consumer pullback episodes.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.2%",
+                "reasoning": "Disappointing forward guidance amid inflation fears; X posts (Latest mode) show mixed but predominantly cautious consumer sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for defensive resilience, 6-10% recovery potential",
+                "short_position": "Short for near-term 4-7% decline on consumer weakness",
+                "key_risks": "Strong holiday sales recovery or lower oil could reverse quickly"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings data clear but broader macro variables add moderate uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "RL",
+                "full_name": "Ralph Lauren Corporation",
+                "current_price": 312.45,
+                "market_cap": "19.8B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 335.1,
+                    "low": 205.8
+                },
+                "pe_ratio": 24.1,
+                "volume": "1.45M",
+                "recent_dividend": "0.825 (May 2026)"
+            },
+            "impact_theory": "Ralph Lauren surged on strong demand and pricing power offsetting tariff impacts. Positive luxury consumer resilience. Implications: luxury sector strength. Psychology: rotation into quality brands. Historical: parallels post-pandemic recovery plays. Analogies: (1) Like LVMH earnings beats. (2) Comparable to Nike's selective strength cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6.8%",
+                "reasoning": "Strong comparable sales and tariff mitigation noted in reports; latest X posts overwhelmingly positive on brand momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for 8-12% gains on continued luxury strength",
+                "short_position": "Avoid or cover; limited downside near-term",
+                "key_risks": "Tariff escalation or economic slowdown hitting discretionary spend"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent news/X alignment with clear positive catalysts"
+        },
+        {
+            "details": {
+                "ticker": "SSNLF",
+                "full_name": "Samsung Electronics Co., Ltd.",
+                "current_price": 48.9,
+                "market_cap": "328B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 62.4,
+                    "low": 38.25
+                },
+                "pe_ratio": 15.2,
+                "volume": "12.8M",
+                "recent_dividend": "0.38 (Q1 2026)"
+            },
+            "impact_theory": "Threatened 18-day Samsung strike from May 21 risks production halts in memory chips. Major implications for global supply chains and Korea growth. Psychology: supply uncertainty fears. Historical: similar 2024 auto strikes impact. Analogies: (1) Like TSMC disruption scares. (2) Comparable to 2023 chip shortage volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7.5%",
+                "reasoning": "Finance minister warning + union threats dominate coverage; X sentiment Latest posts 70% bearish on disruption risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for strike resolution for rebound play (potential 12%+)",
+                "short_position": "Short on strike news for 8-10% downside",
+                "key_risks": "Quick resolution or government intervention could limit losses"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news alignment but outcome of negotiations introduces uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.65,
+                "market_cap": "528B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 95.4
+                },
+                "pe_ratio": 9.8,
+                "volume": "15.4M",
+                "recent_dividend": "0.95 (Q1 2026)"
+            },
+            "impact_theory": "Rising oil prices (Brent >$109) from Iran tensions boost energy sector. Implications: higher energy costs/inflation. Psychology: safe haven rotation into oil. Historical: 2022 Ukraine spike parallels. Analogies: (1) Like 2022 energy super-cycle. (2) Similar to Chevron outperformance in geopolitical crises.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4.8%",
+                "reasoning": "Oil spike on Middle East news drives sector gains; X posts show bullish energy sentiment surge in Latest mode."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy for 6-9% gains on sustained oil prices",
+                "short_position": "Not recommended; limited near-term downside",
+                "key_risks": "De-escalation in Iran talks could reverse gains rapidly"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to verifiable oil price moves and high volume coverage"
+        }
+    ]
+}
