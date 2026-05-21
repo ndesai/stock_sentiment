@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "Nvidia Corporation",
+                "current_price": 219.5,
+                "market_cap": "5.41T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.5,
+                    "low": 92.3
+                },
+                "pe_ratio": 45.2,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Nvidia's Q1 2026 earnings beat with strong guidance on AI demand and supply constraints into Vera Rubin platform. Economic implications: Sustained AI capex boom supports growth. Market psychology: Positive sentiment on long-term dominance despite short-term volatility. Historical parallel: Similar to 2023 AI rally post-earnings. Analogies: Like Amazon's early cloud dominance; Tesla's EV inflection.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Strong earnings and supply-constrained outlook through 2027-28 drove positive X sentiment and analyst upgrades (new $500 PT). Recent pullback sets stage for rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "+6-12% on continued AI momentum",
+                "short_position": "Avoid; limited downside unless macro shock",
+                "key_risks": "Geopolitical oil spikes, valuation compression, competition from AMD/Intel"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct post-earnings data, multiple analyst targets, high X engagement confirming demand narrative"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices Inc",
+                "current_price": 138.4,
+                "market_cap": "730B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.2,
+                    "low": 75.1
+                },
+                "pe_ratio": 38.7,
+                "volume": "92M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD's Q1 beat and rosy Q2 outlook fueled 18%+ surge. Implications: Accelerating data center/AI share gains vs Nvidia. Psychology: Momentum chasing in semis. Historical: Parallels 2024 AI rebound. Analogies: Intel's 90s comeback; Qualcomm 5G ramp.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Earnings catalyst with sector lift; strong X buzz on outperformance continuing into May."
+            },
+            "potential_profit_risks": {
+                "long_position": "+8-15% near-term",
+                "short_position": "Risky given momentum",
+                "key_risks": "Margin pressure, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Verified earnings reaction and sustained positive coverage"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 31.8,
+                "market_cap": "598B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.4,
+                    "low": 18.9
+                },
+                "pe_ratio": 22.1,
+                "volume": "65M",
+                "recent_dividend": "0.125 (quarterly)"
+            },
+            "impact_theory": "Mixed moves amid broader chip rally; potential foundry progress. Implications: Turnaround story in US chip manufacturing. Psychology: Value vs growth rotation. Historical: 2023 recovery attempt. Analogies: IBM's cloud pivot; GE industrial reset.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Sector tailwinds offset some company-specific caution; modest X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "+3-7% on recovery",
+                "short_position": "Limited",
+                "key_risks": "Execution delays on foundry"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide lift but less direct catalysts than peers"
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 142.7,
+                "market_cap": "273B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 188.9,
+                    "low": 78.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Recent warning on smartphone weakness offset by AI licensing growth. Implications: Design IP leader benefits from all chip demand. Psychology: Selective rotation in semis. Historical: Similar to 2024 ARM IPO run. Analogies: Qualcomm royalty model; Adobe subscription shift.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium",
+                "estimated_price_impact_pct": "-3% short / +6% medium",
+                "reasoning": "Market reaction to smartphone caution; long-term AI tailwinds noted in X discussions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Medium-term +8%",
+                "short_position": "Short-term scalp possible",
+                "key_risks": "Smartphone cyclicality"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings warning vs broader sector strength"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology Inc",
+                "current_price": 118.9,
+                "market_cap": "825B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.3,
+                    "low": 48.6
+                },
+                "pe_ratio": 15.8,
+                "volume": "28M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "HBM memory demand for AI training boosts outlook amid sector surge. Implications: Memory cycle upswing. Psychology: Undervalued growth play. Historical: 2024-25 memory boom repeat. Analogies: Samsung DRAM cycles; SK Hynix HBM ramp.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Sector momentum + AI memory tailwinds prominent in recent X posts and earnings season."
+            },
+            "potential_profit_risks": {
+                "long_position": "+7-12%",
+                "short_position": "Avoid",
+                "key_risks": "Commodity pricing volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment with NVDA/AMD catalysts and positive recent targets"
+        }
+    ]
+}
