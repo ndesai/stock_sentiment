@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.35,
+                "market_cap": "3.52T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.5
+                },
+                "pe_ratio": 48.7,
+                "volume": "285.4M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "NVIDIA reported strong Q1 FY2027 earnings beating estimates with $81.62B revenue (85% YoY growth) driven by data center/AI. Economic implications include continued AI capex boom; market psychology shows relief rally post-earnings amid geopolitical tensions. Historical parallel to 2023 AI surge. Analogies: Like Amazon's early cloud dominance or Cisco's 1990s internet boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4.5%",
+                "reasoning": "Massive beat on data center revenue ($75.2B); strong outlook for AI demand. X sentiment overwhelmingly positive post-earnings (latest posts praise AI leadership). Recent market volatility from Iran/oil offset by this catalyst."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 8-12% upside over next week on AI momentum; entry on dips.",
+                "short_position": "High risk due to valuation; avoid or tight stops below $135.",
+                "key_risks": "Geopolitical escalation in Middle East, valuation compression if growth slows, competition from custom chips."
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings just released with clear beats; real-time X and news alignment strong."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 78.45,
+                "market_cap": "632B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 84.2,
+                    "low": 58.9
+                },
+                "pe_ratio": 32.1,
+                "volume": "18.7M",
+                "recent_dividend": "$0.21 quarterly (May 2026)"
+            },
+            "impact_theory": "WMT reported Q1 FY2027 earnings today with mixed results and cautious guidance amid high gas prices and consumer sentiment dip from Iran conflict. Implications: Defensive play but pressure on margins. Psychology: Flight to safety but tempered optimism. Historical: Similar to 2022 inflation period pullback. Analogies: Like Costco during energy spikes or Target's 2023 recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-2.8%",
+                "reasoning": "Cautious outlook and Q1 miss on some metrics due to tariffs/gas prices. X posts show consumer concern sentiment; market reaction negative pre-close."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term defensive hold; 3-5% recovery on stabilization.",
+                "short_position": "Short for 4-6% dip if oil stays elevated.",
+                "key_risks": "Inflation pass-through failure, e-commerce slowdown, macro consumer pullback."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings fresh today; consistent with defensive stock underperformance in high-oil environment."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "128B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 132.4,
+                    "low": 75.8
+                },
+                "pe_ratio": 14.2,
+                "volume": "32.5M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Micron weighed on tech sector in recent sessions due to broader AI/memory demand concerns amid macro volatility. Economic: Memory cycle recovery tied to AI servers. Psychology: Sector rotation fears. Historical parallel to 2024 HBM ramp. Analogies: Like Samsung memory cycles or Intel's AI pivot.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1.5%",
+                "reasoning": "NVDA strength spills over to memory plays; recent declines create mean-reversion. X latest sentiment mixed but improving on AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "5-7% rebound play on AI supply chain.",
+                "short_position": "Limited; better avoided.",
+                "key_risks": "DRAM pricing volatility, China export restrictions, cyclical downturn."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector correlation with NVDA earnings clear from news flow."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 108.9,
+                "market_cap": "475B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 92.1
+                },
+                "pe_ratio": 9.8,
+                "volume": "15.2M",
+                "recent_dividend": "$0.99 quarterly"
+            },
+            "impact_theory": "Oil prices surged on Iran conflict escalation concerns, boosting energy names like XOM. Implications: Higher energy costs pressure broader economy but direct profit for producers. Psychology: Safe-haven rotation. Historical: 2022 Ukraine invasion spike. Analogies: Like BP during Gulf tensions or Chevron's wartime gains.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.2%",
+                "reasoning": "Brent crude >$110 support from geopolitical headlines. X posts highlight energy as hedge; positive sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "4-6% upside if tensions persist.",
+                "short_position": "Risky; only on de-escalation news.",
+                "key_risks": "Diplomatic resolution in Middle East, OPEC+ decisions, demand destruction."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct oil price correlation confirmed across news sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 132.6,
+                "market_cap": "215B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 148.9,
+                    "low": 76.4
+                },
+                "pe_ratio": 42.3,
+                "volume": "42.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD benefits from AI ecosystem spillover but pressured by NVDA dominance and broader tech selloff. Economic: Competitive AI GPU/CPU market expansion. Psychology: Relative value play vs. leader. Historical: 2023-24 AI rally follower. Analogies: Like Qualcomm in mobile or Intel's recovery attempts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.8%",
+                "reasoning": "NVDA earnings positive for entire AI supply chain including AMD MI300 series demand. Latest X buzz positive on ecosystem."
+            },
+            "potential_profit_risks": {
+                "long_position": "Catch-up rally 5-9%.",
+                "short_position": "Avoid amid momentum.",
+                "key_risks": "Market share loss to NVDA, execution delays, macro tech rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector tailwinds but less direct catalyst than NVDA."
+        }
+    ]
+}
