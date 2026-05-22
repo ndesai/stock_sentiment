@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 205.5,
+                "market_cap": "5.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 216.87,
+                    "low": 92.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "180M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Nvidia reported Q1 FY2027 earnings on May 20 with strong AI demand but guidance met with skepticism due to China revenue constraints (down to 6%). New Fed chair and Iran peace optimism boost broad tech sentiment. Market psychology: Post-earnings rotation from mega-caps. Historical parallel: 2023 AI rally continuation. Analogies: 1) Like Cisco in 1999 dot-com but with real earnings. 2) Amazon early cloud phase scaling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Earnings beat + domestic AI spend surge (US 78% revenue); X posts show sustained optimism despite China headwinds. Iran deal reduces geopolitical premium."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 230-240 (+12-17%) on AI momentum continuation; strong Blackwell ramp",
+                "short_position": "Avoid or cover above 210; limited downside to 195 on guidance miss fears",
+                "key_risks": "China export restrictions escalation; valuation compression if rates rise"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume earnings reaction + macro tailwinds from Fed/Iran align with historical post-earnings patterns for NVDA."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.4,
+                "market_cap": "890B",
+                "sector_industry": "Consumer Cyclical / Auto & EV",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 138.8
+                },
+                "pe_ratio": 68.5,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SpaceX public filing for largest-ever IPO sparks Elon ecosystem excitement and valuation uplift spillover. Iran peace talks ease EV supply chain concerns (rare earths). Psychology: Narrative shift to multi-company empire. Parallel: 2020 SPAC boom. Analogies: 1) Bezos Amazon + Blue Origin synergy. 2) Early Google/Alphabet split value unlock.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X sentiment highly positive on SpaceX IPO news; broader risk-on from geopolitics supports growth stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 310-330 (+11-19%) on IPO hype and robotaxi progress",
+                "short_position": "Limited; dips to 260 possible on delivery misses",
+                "key_risks": "Execution on autonomy timelines; dilution from IPO hype fade"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong X buzz and macro relief but Tesla-specific catalysts still pending full confirmation."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.75,
+                "market_cap": "530B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 14.8,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly (yield ~3.2%)"
+            },
+            "impact_theory": "Progress on US-Iran talks signals potential Hormuz stability, moderating oil volatility but long-term demand intact. New Fed chair expected dovish tilt aids capex. Psychology: Relief rally in defensives. Parallel: 2018-19 OPEC+ deal impacts. Analogies: 1) Post-Gulf War oil stabilization. 2) 2020 vaccine announcement energy rebound.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Oil price stabilization + dividend appeal in risk-on environment; X posts mixed but positive on macro."
+            },
+            "potential_profit_risks": {
+                "long_position": "Income play; target 125 (+5%) with dividend reinvestment",
+                "short_position": "Not recommended; support at 110",
+                "key_risks": "Sudden deal breakdown spiking crude; transition to renewables pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro linkage but earnings season focus elsewhere mutes immediate move."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 245.8,
+                "market_cap": "710B",
+                "sector_industry": "Financials / Banking",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 195.3
+                },
+                "pe_ratio": 12.4,
+                "volume": "8.5M",
+                "recent_dividend": "$1.25 quarterly (yield ~2.0%)"
+            },
+            "impact_theory": "Kevin Warsh oath as new Fed Chair (May 22) introduces potential policy clarity favoring banks via stable rates or measured hikes. Iran deal lowers systemic risk. Psychology: Rotation into value/financials. Parallel: 2017-18 Powell era bank outperformance. Analogies: 1) Post-Volcker rate environment. 2) 2009 stress-test recovery rally.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "New leadership expected pro-growth; X sentiment turns positive on financials post-oath."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 265-275 (+8-12%) on NIM expansion",
+                "short_position": "Watch for 235 support break",
+                "key_risks": "Regulatory tightening; curve inversion persistence"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct event catalyst with new Fed chair and strong bank fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 428.9,
+                "market_cap": "3.2T",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 465.0,
+                    "low": 305.5
+                },
+                "pe_ratio": 35.8,
+                "volume": "25M",
+                "recent_dividend": "$0.83 quarterly (yield ~0.8%)"
+            },
+            "impact_theory": "AI cloud growth (Azure + OpenAI) benefits from Nvidia ecosystem strength and broad market risk-on. Fed transition supports multiples. Psychology: Mega-cap defensive growth. Parallel: 2023-24 AI leadership. Analogies: 1) 1990s Microsoft Windows dominance extension. 2) Amazon AWS early monopoly phase.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Indirect AI tailwinds + macro relief; consistent X positive mentions alongside NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 460-480 (+7-12%) on cloud/AI acceleration",
+                "short_position": "Minimal; strong support at 400",
+                "key_risks": "Antitrust scrutiny; competition from Google/Oracle AI clouds"
+            },
+            "confidence_rating": "A",
+            "justification": "Resilient fundamentals and sector leadership in current sentiment environment."
+        }
+    ]
+}
