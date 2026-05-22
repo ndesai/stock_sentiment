@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 220.95,
+                "market_cap": "5.32T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 129.16
+                },
+                "pe_ratio": 65.2,
+                "volume": "4.4M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Nvidia's upcoming Q1 earnings amid continued AI demand surge. Geopolitics (Iran tensions) boost data center needs indirectly via energy/compute. Market psychology: AI supercycle optimism driving FOMO buying. Historical parallel: 2023-2025 AI boom parallels dot-com but with real revenue. Analogies: Like Tesla in EV hype 2020; like Cisco in 1999 internet buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Strong AI revenue growth expected in earnings; premarket chipmaker strength and record index closes signal positive sentiment. X posts highlight NVDA as core AI play amid earnings season."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-12% gain on earnings beat; target new highs.",
+                "short_position": "Avoid or covered call; high valuation risks pullback on miss.",
+                "key_risks": "Earnings miss, valuation compression, macro slowdown, competition from AMD/others."
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant AI position with consistent earnings beats; recent market rallies confirm momentum; high visibility into guidance."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 469.95,
+                "market_cap": "733B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 470.07,
+                    "low": 452.52
+                },
+                "pe_ratio": 52.1,
+                "volume": "2.0M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI chip demand spillover from Nvidia leadership; data center expansion. Geopolitical energy inflation favors efficient compute. Psychology: Rotation into semis post-NVDA run. Historical: Similar to 2024 AI rally gains. Analogies: Intel in 90s PC boom; Qualcomm mobile transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Chip sector lift from AI news and index records; X sentiment positive on semi plays alongside NVDA/PLTR mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on pullbacks for 6-10% upside to earnings season peak.",
+                "short_position": "Limited; momentum strong.",
+                "key_risks": "Supply chain issues, margin pressure, broader tech correction."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector tailwinds but less dominant than NVDA; follows broader AI narrative reliably."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 154.32,
+                "market_cap": "644B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 154.79,
+                    "low": 154.01
+                },
+                "pe_ratio": 14.8,
+                "volume": "8.2K",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Iran/US tensions driving oil price spikes and inflation fears. Benefits energy producers. Market psychology: Safe haven rotation into energy amid geopolitics. Historical: 2022 Russia-Ukraine oil spike parallels. Analogies: Like 1970s oil shocks; 2008 commodity supercycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Oil prices rising with Middle East uncertainty; energy sector outperformance noted in recent sessions per web/X sentiment on inflation/oil."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add for 5%+ gains on sustained oil >$80-110.",
+                "short_position": "Not recommended short-term.",
+                "key_risks": "De-escalation talks, OPEC supply response, demand slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geopolitical catalyst with energy outperformance in mixed markets; dividend support adds stability."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 137.39,
+                "market_cap": "329B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 138.09,
+                    "low": 137.24
+                },
+                "pe_ratio": 280.5,
+                "volume": "92K",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI platform adoption accelerating with gov/commercial contracts. Ties into broader AI boom. Psychology: Growth stock momentum and meme-like retail interest. Historical: Snowflake or Snowflake-like post-IPO AI hype. Analogies: Like early Salesforce CRM adoption; Palantir as 'AI OS' like Windows for data.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Frequent X mentions alongside NVDA/AMD as AI beneficiary; earnings season tailwinds and contract news flow positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum trade for 10%+ on continued contract wins.",
+                "short_position": "High valuation vulnerable to rotation.",
+                "key_risks": "Profitability concerns, competition, valuation bubble pop."
+            },
+            "confidence_rating": "B",
+            "justification": "Explosive growth narrative backed by real AI deployments; sentiment strong but volatility high."
+        },
+        {
+            "details": {
+                "ticker": "MRK",
+                "full_name": "Merck & Co., Inc.",
+                "current_price": 120.55,
+                "market_cap": "286B",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 120.55,
+                    "low": 119.05
+                },
+                "pe_ratio": 18.4,
+                "volume": "24K",
+                "recent_dividend": "0.79 (quarterly)"
+            },
+            "impact_theory": "Premarket mover on potential pipeline/news; defensive healthcare play amid market volatility/inflation. Psychology: Rotation to defensives during uncertainty. Historical: Pharma strength in 2020-22 volatility. Analogies: Like JNJ during COVID; defensive staples in rate hike cycles.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Premarket gains noted in CNBC; healthcare stability offsets energy/inflation concerns per recent market updates."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive long for 3-5% stability/gains.",
+                "short_position": "Minimal appeal.",
+                "key_risks": "Patent cliffs, regulatory, clinical trial failures."
+            },
+            "confidence_rating": "C",
+            "justification": "Solid defensive characteristics and recent mover status but less direct AI/geopolitics tie-in than peers."
+        }
+    ]
+}
