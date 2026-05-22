@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 218.5,
+                "market_cap": "5.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 235.74,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "280M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Nvidia's Q1 FY2027 earnings beat estimates with record data center revenue driven by AI demand, but post-earnings sell-off reflects high expectations and valuation concerns. Economic implications include sustained AI capex boom. Market psychology: optimism tempered by 'sell the news'. Historical parallel: 2023-2024 AI rallies. Analogies: Like Tesla in EV hype cycle; gold rush equipment supplier.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Strong guidance and AI tailwinds outweigh short-term dip; X sentiment and analyst upgrades support rebound. Web searches show continued positive outlook despite volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-15% gains on AI momentum",
+                "short_position": "Avoid or hedge; limited downside given dominance",
+                "key_risks": "Valuation compression, competition, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings data and sector leadership provide high conviction; multiple sources confirm beat and outlook."
+        },
+        {
+            "details": {
+                "ticker": "IMAX",
+                "full_name": "IMAX Corporation",
+                "current_price": 37.5,
+                "market_cap": "2.1B",
+                "sector_industry": "Communication Services / Entertainment",
+                "high_low_52_week": {
+                    "high": 38.5,
+                    "low": 14.2
+                },
+                "pe_ratio": 28.0,
+                "volume": "4.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "WSJ reports early-stage takeover talks with potential buyers (studios/entertainment firms) for premium large-format cinema tech. Implications: premium valuation in M&A. Psychology: excitement over buyout premium. Historical: similar to theater chain deals. Analogies: Like a streaming service acquisition; rare collectible asset in declining theater industry.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "11%+ surge on news; talks signal strategic value. X and web confirm high sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for potential 20%+ premium on deal",
+                "short_position": "Risky; news flow favors upside",
+                "key_risks": "Deal falls through, dilution, market correction"
+            },
+            "confidence_rating": "B",
+            "justification": "Fresh takeover rumor with price action support, but early stage so moderate-high confidence."
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores, Inc.",
+                "current_price": 152.0,
+                "market_cap": "50B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 168.0,
+                    "low": 121.5
+                },
+                "pe_ratio": 22.0,
+                "volume": "2.8M",
+                "recent_dividend": "$0.37 quarterly"
+            },
+            "impact_theory": "Ross Stores beat earnings and raised guidance amid resilient consumer spending on value retail. Implications: off-price model thrives in uncertain economy. Psychology: relief rally on retail strength. Historical parallel: post-recession discount retailer gains. Analogies: Like Costco in value proposition; Walmart defensive play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Strong results and raised outlook; positive sentiment in earnings season coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for 6-10% follow-through gains",
+                "short_position": "Not recommended",
+                "key_risks": "Consumer slowdown, inventory issues, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Confirmed earnings beat and guidance raise from reliable sources."
+        },
+        {
+            "details": {
+                "ticker": "MRK",
+                "full_name": "Merck & Co., Inc.",
+                "current_price": 128.0,
+                "market_cap": "325B",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 134.5,
+                    "low": 99.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "8.2M",
+                "recent_dividend": "$0.79 quarterly"
+            },
+            "impact_theory": "Positive Phase 3 results for lung cancer treatment (with Chinese partner) boost pipeline confidence. Implications: oncology revenue growth potential. Psychology: biotech catalyst excitement. Historical: Keytruda success story. Analogies: Like Moderna vaccine news; successful pharma R&D payoff.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Trial success drives sentiment; sector rotation into healthcare amid volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for pipeline-driven upside 5-10%",
+                "short_position": "Limited appeal",
+                "key_risks": "Regulatory hurdles, patent cliffs, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive clinical data supports outlook with good but not absolute certainty."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 108.0,
+                "market_cap": "480B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "15M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Falling crude oil prices amid US-Iran deal hopes pressure energy sector. Implications: margin compression for upstream. Psychology: risk-off in geopolitically sensitive names. Historical: post-OPEC deal oil drops. Analogies: Airline stocks on fuel cost relief; commodity producers in easing supply fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "Oil pullback directly impacts; searches and X posts highlight energy weakness on Middle East optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization or oil rebound",
+                "short_position": "Short for 5-10% downside on continued oil drop",
+                "key_risks": "Geopolitical reversal, OPEC response, demand strength"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro link to oil prices with recent news flow alignment."
+        }
+    ]
+}
