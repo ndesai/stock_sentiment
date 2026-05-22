@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "245M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "NVIDIA reported strong Q1 earnings beating estimates but guidance was in-line/not exceeding high expectations amid AI demand. Economic implications include sustained AI capex cycle supporting tech growth. Market psychology shows relief rally after pullback. Historical parallel to 2023 AI boom. Analogies: Like a rocket continuing ascent despite minor turbulence; or a dominant athlete maintaining lead in a marathon.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Earnings beat + AI momentum; X posts show positive sentiment on guidance resilience and data center growth. Recent market context with Fed changes and Iran talks offset by strong earnings season."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 5-12% upside into next catalysts",
+                "short_position": "Avoid or cover shorts; limited downside unless macro worsens",
+                "key_risks": "AI hype fade, competition from AMD/others, valuation compression if rates rise"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume earnings reaction with clear positive signals from multiple sources including real-time X sentiment and news"
+        },
+        {
+            "details": {
+                "ticker": "IBM",
+                "full_name": "International Business Machines Corporation",
+                "current_price": 248.75,
+                "market_cap": "225B",
+                "sector_industry": "Technology - IT Services/Software",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "8.5M",
+                "recent_dividend": "1.67 (quarterly)"
+            },
+            "impact_theory": "Trump admin quantum computing push boosts IBM with major investments announced. Implications for US tech leadership in quantum/AI. Psychology: Positive re-rating of legacy tech. Historical: Parallels 2010s cloud shift. Analogies: Like an established ship gaining wind in new sails; veteran boxer landing a strong combo.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +10%",
+                "reasoning": "Direct policy tailwind + earnings momentum; strong X buzz around quantum and SoftBank/ARM ties indirectly."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for 8-15% near-term gains on policy news flow",
+                "short_position": "Not recommended",
+                "key_risks": "Execution delays on quantum, broader market rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news catalysts confirmed across sources, slightly tempered by macro uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "WDAY",
+                "full_name": "Workday, Inc.",
+                "current_price": 268.4,
+                "market_cap": "72B",
+                "sector_industry": "Technology - Application Software",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 48.5,
+                "volume": "3.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Workday beat Q1 estimates sharply, signaling enterprise software resilience. Implications: Continued digital transformation spend. Psychology: Relief and momentum in SaaS. Historical parallel to post-pandemic recovery beats. Analogies: Strong swimmer pulling ahead in choppy waters; reliable train arriving on time boosting rider confidence.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "Premarket surge >8%; positive earnings sentiment dominant on X and news wires."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued 6-11% run",
+                "short_position": "High risk due to momentum",
+                "key_risks": "Guidance miss next quarter, macro slowdown in IT spend"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with immediate price action and broad positive coverage"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.3,
+                "market_cap": "525B",
+                "sector_industry": "Energy - Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "15.8M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Iran talks/Hormuz uncertainty driving oil volatility. Implications: Geopolitical premium on energy prices. Psychology: Defensive rotation into energy amid Fed transition. Historical: 2022 energy spike parallels. Analogies: Safe harbor during stormy seas; coiled spring ready for release on positive developments.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+2% to +6% on oil stability",
+                "reasoning": "Brent crude sensitive to US-Iran progress; X sentiment mixed but leans positive on earnings resilience."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy hedge play with 4-8% potential",
+                "short_position": "If deal reached quickly",
+                "key_risks": "Sudden ceasefire drops oil prices sharply; OPEC decisions"
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical driver confirmed in news but outcome uncertain"
+        },
+        {
+            "details": {
+                "ticker": "ARM",
+                "full_name": "Arm Holdings plc",
+                "current_price": 142.0,
+                "market_cap": "148B",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 68.5,
+                "volume": "4.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SoftBank stake and broader chip/AI ecosystem gains from earnings season and market leadership. Implications: Continued semiconductor strength. Psychology: Tech leadership extension. Historical: Similar to 2024 AI chip rallies. Analogies: Rising tide lifting premium boats; chess grandmaster extending winning streak.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Indirect boost from NVDA/IBM ecosystem + SoftBank mentions in Asia trading."
+            },
+            "potential_profit_risks": {
+                "long_position": "Growth continuation 5-10%",
+                "short_position": "Limited",
+                "key_risks": "Valuation, ARM license renewals"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector tailwinds with supporting X/news flow"
+        }
+    ]
+}
