@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AZO",
+                "full_name": "AutoZone, Inc.",
+                "current_price": 3406.5,
+                "market_cap": "57B",
+                "sector_industry": "Consumer Cyclical / Specialty Retail",
+                "high_low_52_week": {
+                    "high": 3800.0,
+                    "low": 2800.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "450K",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "AZO reports Q3 FY2026 earnings on May 26 before market open amid post-Memorial Day trading resumption and easing oil prices from US-Iran deal hopes. Strong auto parts demand historically benefits from summer driving season; earnings beat could signal resilient consumer spending despite inflation concerns. Parallels to 2022-2023 earnings-driven rallies in retail. Analogies: Like a retailer riding the post-holiday wave (similar to post-Thanksgiving surges) or a barometer for discretionary spending in a cooling but not crashing economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Consensus EPS ~$36.15 (up from prior year); historical post-earnings moves average 5-7%. Positive same-store sales and guidance amid consumer confidence data expected May 26 could drive gains. X sentiment shows anticipation for auto retail strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on open or pre-earnings; target 5-8% gain on beat/guidance, potential 10%+ if strong auto aftermarket data.",
+                "short_position": "Avoid or cautious short; limited downside unless major miss (est. -6% move).",
+                "key_risks": "Miss on EPS/guidance due to higher input costs; broader market volatility from Iran headlines; summer fuel price sensitivity."
+            },
+            "confidence_rating": "B",
+            "justification": "High visibility on earnings catalyst with historical precedent; moderate uncertainty from macro/geopolitical overlay. Solid data on expected EPS and sector."
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler, Inc.",
+                "current_price": 182.37,
+                "market_cap": "28B",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "2.1M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "ZS Q3 FY2026 earnings post-close May 26; cloud security demand tied to AI/digital transformation amid market recovery post-Iran tensions. Earnings growth reflects cybersecurity spending resilience. Parallels to 2023-2024 tech rallies on AI tailwinds. Analogies: A cloud 'shield' provider in uncertain times (like defense stocks in geopolitical stress) or a high-growth tech name riding broader Nasdaq momentum.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +12%",
+                "reasoning": "Consensus EPS $0.80; strong ARR growth expected. X posts highlight cybersecurity as defensive play; positive sentiment on tech earnings season kickoff."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position ahead of earnings for 8%+ swing on beat; momentum play post-close.",
+                "short_position": "High risk; volatility favors longs on positive AI/cyber narrative.",
+                "key_risks": "Guidance miss on growth; macro selloff if Iran deal falters; high valuation multiple compression."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings catalyst with sector tailwinds; recent price action supportive. Moderate macro risks."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil price volatility from mixed US-Iran deal signals (hopes for Hormuz reopening driving Brent down ~5%). Energy majors like XOM benefit from stabilized but elevated prices. Historical parallels to 2019-2020 deal-driven moves. Analogies: A 'barometer of global stability' (oil as geopolitical thermometer) or a safe-haven dividend play during uncertainty (like gold miners in crises).",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish short-term",
+                "estimated_price_impact_pct": "-2% to +3%",
+                "reasoning": "Oil drop on deal hopes pressures upstream; long-term support from supply concerns. X sentiment mixed on energy volatility but positive on majors' balance sheets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips for dividend yield and recovery if deal stalls; 3-6% upside.",
+                "short_position": "Short-term scalp on oil weakness; limited as majors resilient.",
+                "key_risks": "Deal breakdown spikes oil (positive for XOM); prolonged low prices erode margins."
+            },
+            "confidence_rating": "C",
+            "justification": "Geopolitical catalyst dominant but uncertain outcome; earnings stability known but price sensitive."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.2,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "250M",
+                "recent_dividend": "$0.01 quarterly (symbolic)"
+            },
+            "impact_theory": "AI/semiconductor demand continues amid broader market optimism and easing macro risks from Iran talks. NVDA benefits from sustained chip demand for data centers/cloud. Parallels to 2023 AI boom. Analogies: The 'picks and shovels' provider in the AI gold rush (like railroad stocks in industrial era) or the market's tech heartbeat (leads Nasdaq moves).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Sector rotation into tech post-holiday; positive X chatter on AI resilience despite volatility. Earnings momentum expected to carry forward."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; add on any pullback for 5%+ gains on continued AI narrative.",
+                "short_position": "Risky due to momentum; only tactical.",
+                "key_risks": "Valuation correction; China export restrictions; broader tech rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong secular tailwinds; consistent leader in sentiment scans. Macro overlay adds moderate uncertainty."
+        },
+        {
+            "details": {
+                "ticker": "COST",
+                "full_name": "Costco Wholesale Corporation",
+                "current_price": 1028.0,
+                "market_cap": "455B",
+                "sector_industry": "Consumer Defensive / Retail - Discount Stores",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 850.0
+                },
+                "pe_ratio": 48.0,
+                "volume": "1.8M",
+                "recent_dividend": "$1.16 quarterly"
+            },
+            "impact_theory": "Upcoming earnings context (mentioned in calendars) and consumer confidence data May 26 highlight resilient membership model amid easing inflation/oil. Warehouse clubs thrive in value-seeking environment. Parallels to post-pandemic recovery plays. Analogies: A 'bulk-buy fortress' in uncertain times (recession-resistant) or a proxy for middle-class spending health.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Consumer data and retail resilience positive; X posts note defensive retail appeal. Earnings season spillover supportive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady compounder; 3-6% near-term on positive macro.",
+                "short_position": "Not recommended; defensive characteristics limit downside.",
+                "key_risks": "Inflation resurgence; membership growth slowdown; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Defensive qualities align with current macro; earnings visibility and data catalysts clear."
+        }
+    ]
+}
