@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.2,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "Ongoing US-Iran ceasefire talks and potential Strait of Hormuz reopening signal lower energy costs and reduced geopolitical risk premium, boosting broad market risk appetite and tech spending. Market psychology: relief rally in growth stocks after volatility. Historical parallel: 2018-2019 trade deal optimism fueled tech rallies. Analogies: 1) Like post-COVID reopening boosting travel/tech demand; 2) Similar to 2023 AI boom on rate cut hopes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X sentiment (latest posts) shows continued AI momentum despite minor dips; peace news reduces macro headwinds. Strong earnings season supports semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips targeting 5-8% upside on AI demand continuation",
+                "short_position": "Avoid or hedge; momentum favors longs",
+                "key_risks": "Earnings miss or Fed hawkish comments; valuation compression if rates rise"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro tailwinds from geopolitics confirmed across multiple sources, but NVDA-specific earnings volatility noted on X."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 108.5,
+                "market_cap": "480B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices falling on Iran deal optimism directly pressures energy revenues. Economic implication: lower input costs for economy but margin squeeze for producers. Psychology: sector rotation out of energy. Historical: 2020 OPEC+ deal volatility. Analogies: 1) 2015 oil glut crash; 2) Post-Ukraine invasion reversal on de-escalation.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Oil futures down sharply per news; X posts highlight CEO comments on instability as driver, now reversing."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; limited upside short-term",
+                "short_position": "Short for 4-7% downside on continued oil weakness",
+                "key_risks": "Deal delays or supply disruptions could reverse quickly"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct commodity linkage to headline news; multiple corroborating sources."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 98.4,
+                "market_cap": "790B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 105.5,
+                    "low": 78.0
+                },
+                "pe_ratio": 28.1,
+                "volume": "22M",
+                "recent_dividend": "$0.21 quarterly"
+            },
+            "impact_theory": "Lower energy prices boost consumer discretionary spending power. Market psychology favors defensive retailers amid uncertainty. Historical: Post-2022 inflation peak benefited value retailers. Analogies: 1) 2020 stimulus-fueled retail surge; 2) Like airline recovery on fuel cost drops.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Peace deal reduces cost pressures; X notes WMT as 'trade-down king' holding up better than peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for steady 3-6% gains on consumer strength",
+                "short_position": "Minimal; defensive nature limits downside",
+                "key_risks": "Weaker-than-expected consumer sentiment data on May 26"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but positive macro impact confirmed; earnings resilience noted."
+        },
+        {
+            "details": {
+                "ticker": "AZO",
+                "full_name": "AutoZone, Inc.",
+                "current_price": 3120.0,
+                "market_cap": "55B",
+                "sector_industry": "Consumer Cyclical / Auto Parts Retail",
+                "high_low_52_week": {
+                    "high": 3450.0,
+                    "low": 2650.0
+                },
+                "pe_ratio": 21.5,
+                "volume": "180K",
+                "recent_dividend": "N/A (buybacks focused)"
+            },
+            "impact_theory": "Earnings expected May 26; lower gas prices support vehicle maintenance spending. Broader peace optimism aids cyclical consumer plays. Psychology: pre-earnings positioning. Historical parallel: post-recession auto recovery. Analogies: 1) Oil price drops boosting auto aftermarket; 2) Similar to 2023 rate pause effects.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6% on beat",
+                "reasoning": "Pre-earnings buildup; sector benefits from macro relief."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position ahead for earnings surprise upside 5%+",
+                "short_position": "If miss, 4-8% drop possible",
+                "key_risks": "Earnings volatility; macro data release same day"
+            },
+            "confidence_rating": "C",
+            "justification": "Event-driven; earnings outcome uncertain despite favorable backdrop."
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler, Inc.",
+                "current_price": 178.5,
+                "market_cap": "27B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "3.2M",
+                "recent_dividend": "N/A (growth)"
+            },
+            "impact_theory": "Earnings on May 26 amid continued digital transformation and AI security demand. Geopolitical de-escalation frees IT budgets. Psychology: growth stock rotation. Historical: post-2022 cyber spending surge. Analogies: 1) Cloud boom on lower rates; 2) Post-pandemic digital acceleration.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8% on positive guidance",
+                "reasoning": "Tech relief rally + earnings catalyst; positive X sentiment on cyber/AI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy pre-earnings for volatility upside",
+                "short_position": "High risk; momentum stock",
+                "key_risks": "High valuation; any growth slowdown or macro surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Dual catalysts (earnings + macro) align well."
+        }
+    ]
+}
