@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "280M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Geopolitical tensions with Iran and fluctuating oil prices are raising inflation concerns, pressuring AI/tech stocks like NVDA despite strong fundamentals. Earnings optimism and AI demand provide support. Historical parallel to 2022 rate-hike volatility. Analogies: Like a rocket in crosswinds (momentum vs external shocks) or a high-performance engine throttled by fuel costs (oil impacting growth narrative).",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Oil surge and inflation fears from Middle East uncertainty hitting growth stocks; X posts show mixed sentiment with caution on rates. Ceasefire hopes could reverse. Recent market pullbacks noted in searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for AI rally continuation; potential +15% on positive earnings or de-escalation",
+                "short_position": "Short on oil spike confirmation; -6% downside target",
+                "key_risks": "Sudden ceasefire news or strong AI demand data reversing move; high volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic tie to oil/geopolitics and AI but earnings season volatility adds uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.75,
+                "market_cap": "525B",
+                "sector_industry": "Energy - Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 11.8,
+                "volume": "18M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Brent crude fluctuations due to Iran-US talks directly boost or pressure energy majors. Optimism on ceasefire could ease prices; ongoing tension supports. Parallels to 2022 energy spike. Analogies: Weather vane in geopolitical storm or oil barrel on a seesaw with diplomacy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish on tension, Bearish on deal",
+                "estimated_price_impact_pct": "+3% to +7% or -5%",
+                "reasoning": "Direct beneficiary of high oil; X sentiment positive on energy plays amid uncertainty but cautious on resolution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add for dividend + oil upside; +10% potential",
+                "short_position": "On confirmed ceasefire; target -8%",
+                "key_risks": "Rapid de-escalation or OPEC decisions"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear direct correlation with dominant news theme of oil/Iran"
+        },
+        {
+            "details": {
+                "ticker": "COST",
+                "full_name": "Costco Wholesale Corporation",
+                "current_price": 875.0,
+                "market_cap": "390B",
+                "sector_industry": "Consumer Defensive - Discount Stores",
+                "high_low_52_week": {
+                    "high": 920.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 48.5,
+                "volume": "2.1M",
+                "recent_dividend": "1.16 (quarterly)"
+            },
+            "impact_theory": "Earnings release (May 26 AMC) amid consumer sentiment and inflation worries. Defensive qualities shine in uncertainty. Parallels to pandemic resilience. Analogies: Steady ship in choppy seas or inflation hedge supermarket.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +6%",
+                "reasoning": "Anticipated strong Q results; searches highlight defensive stock appeal in uncertain times. Positive pre-earnings buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Post-earnings momentum play; +8% upside on beat",
+                "short_position": "Rare; only if misses badly",
+                "key_risks": "Guidance miss on margins or membership growth"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst clear but macro overlay adds variables"
+        },
+        {
+            "details": {
+                "ticker": "SNPS",
+                "full_name": "Synopsys, Inc.",
+                "current_price": 545.0,
+                "market_cap": "82B",
+                "sector_industry": "Technology - Software - Application",
+                "high_low_52_week": {
+                    "high": 630.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "1.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Earnings catalyst in AI/semiconductor design tools sector amid chip demand and geopolitics. Strong secular growth offset by macro. Historical: Similar to 2023 AI boom volatility. Analogies: Precision tool in tech factory or bridge over rate-hike river.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +9%",
+                "reasoning": "Key earnings play in hot sector; positive tech sentiment on X despite broader market caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Earnings swing trade; significant beat potential +12%",
+                "short_position": "Limited; on weak guidance",
+                "key_risks": "Sector rotation or macro shock post-earnings"
+            },
+            "confidence_rating": "B",
+            "justification": "High conviction on earnings but timing and reaction uncertain"
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 72.5,
+                "market_cap": "62B",
+                "sector_industry": "Technology - Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12M",
+                "recent_dividend": "0.06 (quarterly)"
+            },
+            "impact_theory": "Anticipated earnings in data center/AI networking space; benefits from AI infrastructure spend but exposed to oil/inflation via customer capex. Parallels to 2024 semi cycles. Analogies: AI highway builder or domino in supply chain.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+1% to +5%",
+                "reasoning": "Sector leader in earnings week; X posts note AI tailwinds outweighing near-term macro concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Pre-earnings accumulation; +7% on positive outlook",
+                "short_position": "If data center weakness shown",
+                "key_risks": "Customer spending slowdown or competition"
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings focus but less dominant single catalyst than peers"
+        }
+    ]
+}
