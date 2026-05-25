@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 154.21,
+                "market_cap": "685B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 176.41,
+                    "low": 100.5
+                },
+                "pe_ratio": 14.2,
+                "volume": "18.5M",
+                "recent_dividend": "$0.95 quarterly (May 2026)"
+            },
+            "impact_theory": "Progress in US-Iran ceasefire talks lowers oil prices, pressuring integrated oil majors like XOM despite strong Q1 earnings and Venezuela expansion plans. Economic implication: Reduced revenue from lower crude realizations; market psychology: Profit-taking after geopolitical premium fades. Historical parallel: 2015-2016 oil glut selloff. Analogies: (1) Like a retailer seeing demand drop after a competitor's sale ends; (2) A shipping company facing cheaper fuel but lower cargo rates from eased tensions.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Iran deal optimism drives WTI down sharply; X posts and news highlight oil stock weakness amid broader market rally. Recent volume spikes on negative headlines."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; limited upside until oil stabilizes",
+                "short_position": "3-7% gains possible on continued de-escalation",
+                "key_risks": "Venezuela deal catalysts, earnings beats, or renewed tensions"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong alignment between news flow (Iran talks) and sentiment data; moderate due to potential policy surprises."
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines Inc.",
+                "current_price": 76.14,
+                "market_cap": "49B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 82.5,
+                    "low": 38.2
+                },
+                "pe_ratio": 9.8,
+                "volume": "8.3M",
+                "recent_dividend": "$0.188 quarterly (May 2026)"
+            },
+            "impact_theory": "Lower jet fuel from eased Middle East tensions boosts airline margins significantly. Implications: Improved profitability and capacity adjustments pay off; psychology: Relief rally as fuel hedge costs drop. Historical: Post-2020 oil crash airline recovery. Analogies: (1) A trucking firm benefiting from diesel price drop; (2) A restaurant chain seeing food costs fall after supply chain normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +12%",
+                "reasoning": "Fuel cost relief dominant theme in recent coverage; X sentiment positive on airline recovery stories amid oil drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "5-10% near-term gains on fuel relief",
+                "short_position": "Limited; avoid",
+                "key_risks": "Demand weakness if recession fears rise, labor costs"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct causal link from geopolitics to fuel prices; consistent positive sentiment signals."
+        },
+        {
+            "details": {
+                "ticker": "RGTI",
+                "full_name": "Rigetti Computing Inc.",
+                "current_price": 26.42,
+                "market_cap": "5.1B",
+                "sector_industry": "Technology / Quantum Computing",
+                "high_low_52_week": {
+                    "high": 58.15,
+                    "low": 8.2
+                },
+                "pe_ratio": -12.5,
+                "volume": "204M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Quantum computing hype persists with AI synergy amid broad tech rally. Implications: Speculative capital inflows accelerate; psychology: Momentum chasing in high-growth tech. Historical: 2020-21 quantum/SPAC boom. Analogies: (1) Early EV stocks during battery tech breakthroughs; (2) Biotech moonshots on positive trial data.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +20%",
+                "reasoning": "High-volume gainers list leader; X buzz around quantum advancements and market rotation into growth names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Volatile 15%+ swings possible",
+                "short_position": "High risk; short squeeze potential",
+                "key_risks": "Dilution, execution misses, macro rotation away from growth"
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility and speculative nature reduce certainty despite recent momentum."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 127.5,
+                "market_cap": "820B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 85.3
+                },
+                "pe_ratio": 28.4,
+                "volume": "12M",
+                "recent_dividend": "$0.21 quarterly"
+            },
+            "impact_theory": "Eased inflation/geopolitical risks support consumer spending and defensive retail. Implications: Steady demand and margin stability; psychology: Flight to safety in uncertain summer. Historical: Defensive outperformance in 2022 inflation peaks. Analogies: (1) Grocery chain thriving when energy costs drop for shoppers; (2) Utility stock during rate-cut expectations.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Consumer sentiment recovery tied to lower energy; positive mentions in market outlook pieces."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady 4-7% gains with dividend support",
+                "short_position": "Not recommended",
+                "key_risks": "Higher-than-expected inflation persistence, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Reliable defensive play with clear macro tailwinds; diversified news coverage."
+        },
+        {
+            "details": {
+                "ticker": "NVTS",
+                "full_name": "Navitas Semiconductor Corp.",
+                "current_price": 29.25,
+                "market_cap": "5.4B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 4.5
+                },
+                "pe_ratio": -45.0,
+                "volume": "51M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Power semiconductor demand surges with AI/data center growth and EV transition, amplified by market rotation. Implications: Revenue acceleration expected; psychology: Tech leadership rotation. Historical: 2023-24 AI chip boom. Analogies: (1) Memory chip stocks during PC upgrade cycles; (2) Solar inverter makers in renewable boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "Featured in top daily gainers with strong volume; X and news highlight semi strength amid broader rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "8-12% upside on continued momentum",
+                "short_position": "Risky due to momentum",
+                "key_risks": "Valuation compression, supply chain issues"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds clear; recent performance validates sentiment shift."
+        }
+    ]
+}
