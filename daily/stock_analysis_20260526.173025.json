@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 129.5,
+                "market_cap": "142B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 45.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "28.5M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "UBS raised PT to record $1,625 on strong AI/memory demand. Economic implications include boosted capex in data centers amid AI supercycle. Market psychology: FOMO in semis after NVDA strength. Historical parallel: 2023-24 AI rally. Analogies: Like early internet boom for networking stocks; Tesla's 2020 surge on EV hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Major analyst upgrade + AI tailwinds confirmed in recent earnings season; X sentiment overwhelmingly positive on memory/AI plays. Web search shows consistent positive coverage on MU and peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong upside on continued AI spending; potential 10-20% gains if guidance holds",
+                "short_position": "Limited; only if macro slowdown hits chip demand",
+                "key_risks": "Cyclical semiconductor volatility, competition from Samsung/SK Hynix, geopolitical supply risks"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from high-profile upgrade, corroborated across multiple news sources and positive X chatter; aligns with ongoing AI narrative."
+        },
+        {
+            "details": {
+                "ticker": "RACE",
+                "full_name": "Ferrari N.V.",
+                "current_price": 412.0,
+                "market_cap": "78B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 475.0,
+                    "low": 310.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "1.2M",
+                "recent_dividend": "€2.25 annual"
+            },
+            "impact_theory": "First fully electric vehicle 'Luce' launch met with mixed reception, shares fell ~6%. Implications: Luxury EV transition risk vs traditional ICE strength. Psychology: Luxury buyers prefer heritage. Parallels to Porsche EV launches. Analogies: Like Apple Watch vs traditional watches; luxury watch brands facing smartwatch disruption.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-8%",
+                "reasoning": "Direct reaction to EV unveil news; web results highlight immediate 6% drop. Sentiment on X mixed but negative on dilution of brand exclusivity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term if EV succeeds, but near-term pressure",
+                "short_position": "Good for 5-10% downside on continued brand concerns",
+                "key_risks": "EV adoption slower than expected in luxury segment; strong brand moat limits downside"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific news event driving immediate move, backed by multiple financial outlets; historical luxury auto EV reactions support thesis."
+        },
+        {
+            "details": {
+                "ticker": "NVTS",
+                "full_name": "Navitas Semiconductor Corporation",
+                "current_price": 29.25,
+                "market_cap": "5.4B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 32.0,
+                    "low": 3.8
+                },
+                "pe_ratio": 85.0,
+                "volume": "51M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "GaN power chips gaining traction in AI/data center efficiency. Broader semis rally spillover. Implications: Accelerated adoption in high-growth power management. Psychology: Momentum chasing small-cap tech. Parallels: 2020-21 EV supply chain plays. Analogies: Wolfspeed during SiC boom; early-stage ARM in mobile.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Listed among top daily movers with +20% gains; X posts highlight volume spikes and AI relevance."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-beta play on semis/AI; 20%+ possible on continued momentum",
+                "short_position": "Risky due to volatility",
+                "key_risks": "Execution risk on growth, dilution, competition in GaN tech"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent price action and volume confirm sentiment shift; fits broader tech/AI theme."
+        },
+        {
+            "details": {
+                "ticker": "RGTI",
+                "full_name": "Rigetti Computing, Inc.",
+                "current_price": 26.42,
+                "market_cap": "5.1B",
+                "sector_industry": "Technology / Quantum Computing",
+                "high_low_52_week": {
+                    "high": 58.0,
+                    "low": 0.8
+                },
+                "pe_ratio": -12.5,
+                "volume": "204M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Quantum computing hype resurgence amid AI compute demands. Implications: Long-term tech frontier investment. Psychology: Speculative fervor in emerging tech. Parallels: Early CRISPR or blockchain stocks. Analogies: Like Bitcoin miners during crypto rallies; 3D printing hype cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Significant daily mover (+20%) in quantum/AI space; positive X volume on tech innovation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative upside on quantum milestones; 15-30% swings common",
+                "short_position": "Avoid due to extreme volatility",
+                "key_risks": "Pre-revenue, high burn rate, tech timeline uncertainty"
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility mover with event-driven sentiment but less fundamental backing than established names."
+        },
+        {
+            "details": {
+                "ticker": "HLIT",
+                "full_name": "Harmonic Inc.",
+                "current_price": 15.2,
+                "market_cap": "1.7B",
+                "sector_industry": "Technology / Communication Equipment",
+                "high_low_52_week": {
+                    "high": 15.4,
+                    "low": 5.2
+                },
+                "pe_ratio": 32.0,
+                "volume": "13M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Video delivery and broadband tech benefiting from 5G/streaming growth. Broader market rotation into value tech. Implications: Infrastructure spend tailwinds. Psychology: Undervalued growth catch-up. Parallels: Arista Networks during cloud buildout. Analogies: Cisco in 1990s internet boom; Roku early streaming days.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-18%",
+                "reasoning": "Strong mover (+19.7%) amid tech sector strength; supportive web coverage on equipment demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Continued 5G/ broadband capex could drive 15%+ gains",
+                "short_position": "Minimal near-term",
+                "key_risks": "Customer concentration, cyclical capex spending"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent mover status with sector tailwinds; multiple sources confirm positive momentum."
+        }
+    ]
+}
