@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 413.35,
+                "market_cap": "2.11T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 421.97,
+                    "low": 190.03
+                },
+                "pe_ratio": 31.4,
+                "volume": "14.5M",
+                "recent_dividend": "3.51 (0.86% yield)"
+            },
+            "impact_theory": "TSMC's relentless rally powers Taiwan to overtake India as world's 5th largest stock market, fueled by AI chip dominance and global demand. Economic implications: solidifies supply chain leadership, boosts earnings visibility amid AI supercycle. Market psychology: FOMO in semis, positive sentiment spillover. Historical parallels: similar to 2020-2021 chip boom. Analogies: 1) Like Saudi Aramco in oil era, TSMC is the 'picks and shovels' king of AI. 2) The 'Intel of the 21st century' but more dominant in foundry.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Taiwan market cap surpass news and AI demand surge drive positive X sentiment (TSMC rally posts dominant). Recent insider activity mixed but overall bullish on fundamentals; 52w highs near. Web searches confirm TSMC boom narrative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy on dips; potential 15%+ gains on continued AI orders and Taiwan premium.",
+                "short_position": "Avoid; high valuation risks pullback if China tensions escalate.",
+                "key_risks": "Geopolitical (Taiwan Strait), valuation stretch, insider selling."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources (Bloomberg, GuruFocus, X posts) on market value overtake and AI catalysts; consistent positive momentum."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 750.0,
+                "market_cap": "830B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 804.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "25M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "AI memory supercycle: HBM demand outstrips supply, transforming MU from cyclical to structural AI play. Implications: massive revenue growth (196% YoY cited), margin expansion. Psychology: rotation into memory names post-NVDA. Parallels: 2023-24 NVDA run. Analogies: 1) 'The shovel seller in AI gold rush'. 2) Like oil majors during 1970s energy crisis but for data.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "UBS PT raise, HBM sold out 2026, Motley Fool $1500 target predictions. X and news heavy on AI memory catalyst; recent surge from $448 to $800+."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; 20%+ upside to new highs on earnings beats.",
+                "short_position": "High risk; momentum strong, potential short squeeze.",
+                "key_risks": "Commodity cycle return, capacity expansion delays, macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Abundant analyst upgrades, earnings data, and sentiment alignment across sources."
+        },
+        {
+            "details": {
+                "ticker": "ASTS",
+                "full_name": "AST SpaceMobile, Inc.",
+                "current_price": 25.0,
+                "market_cap": "7.5B",
+                "sector_industry": "Communication Services/Satellite",
+                "high_low_52_week": {
+                    "high": 40.0,
+                    "low": 5.0
+                },
+                "pe_ratio": -15.0,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SpaceX IPO hype (largest ever) spills over to space ecosystem stocks. Implications: increased investor interest in satellite broadband/AI connectivity plays. Psychology: speculative fervor around commercial space. Parallels: 2020 SPAC space boom. Analogies: 1) 'SpaceX tailwinds like Tesla's early EV hype'. 2) 'The next frontier infrastructure builder'.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-30%",
+                "reasoning": "Seeking Alpha movers list highlights space stocks; X posts on SpaceX IPO excitement boost sentiment for ASTS."
+            },
+            "potential_profit_risks": {
+                "long_position": "High volatility play; 30%+ on partnership/news catalysts.",
+                "short_position": "Risky due to hype-driven moves.",
+                "key_risks": "Execution delays, dilution, competition from Starlink."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong narrative tie to SpaceX but fewer direct fundamentals vs semis."
+        },
+        {
+            "details": {
+                "ticker": "NVTS",
+                "full_name": "Navitas Semiconductor Corporation",
+                "current_price": 29.25,
+                "market_cap": "5.2B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 29.5,
+                    "low": 4.22
+                },
+                "pe_ratio": 120.0,
+                "volume": "51M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Power semis for AI/data centers seeing volume surge. Implications: efficiency gains critical for power-hungry AI. Psychology: momentum chasing small-cap tech. Parallels: 2023 AI enablers run. Analogies: 1) 'The efficient engine in the AI machine'. 2) 'NVDA's lesser-known power partner'.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-25%",
+                "reasoning": "Top gainer lists (19.98% move); AI infrastructure tailwinds confirmed in searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing trade potential 20%+ on continued volume.",
+                "short_position": "Volatile; overextended possible.",
+                "key_risks": "Competition, valuation premium, macro tech selloff."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear mover status and sector fit but smaller company specifics less covered."
+        },
+        {
+            "details": {
+                "ticker": "RGTI",
+                "full_name": "Rigetti Computing, Inc.",
+                "current_price": 26.42,
+                "market_cap": "4.8B",
+                "sector_industry": "Technology/Quantum Computing",
+                "high_low_52_week": {
+                    "high": 58.15,
+                    "low": 10.3
+                },
+                "pe_ratio": -8.0,
+                "volume": "204M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Quantum computing hype intersects with AI acceleration. Implications: future-proofing compute beyond classical. Psychology: speculative quantum narrative revival. Parallels: early AI or biotech hype cycles. Analogies: 1) 'The quantum leap for next-gen AI'. 2) 'IBM/Google's agile challenger'.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20-40%",
+                "reasoning": "Massive volume and 19.87% gain; quantum + AI crossover buzz on X and movers lists."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-beta trade; 30%+ on milestones.",
+                "short_position": "Extreme volatility favors shorts on fades.",
+                "key_risks": "Tech risk (no profits), dilution, hype fade."
+            },
+            "confidence_rating": "C",
+            "justification": "High volume mover but speculative nature and less fundamental backing than established semis."
+        }
+    ]
+}
