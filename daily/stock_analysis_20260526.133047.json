@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "5.22T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.4
+                },
+                "pe_ratio": 48.3,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly (May 2026)"
+            },
+            "impact_theory": "Upcoming Q1 FY2026 earnings amid AI demand surge and Middle East de-escalation boosting risk appetite. Economic implications: Validates trillion-dollar AI capex cycle. Market psychology: FOMO in tech vs. bubble fears. Historical parallels: 2023-2025 AI rallies. Analogies: Like 1990s internet boom for semiconductors; rocket fuel for broader market like oil in 2000s.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "Strong expected beat on data center revenue (>80% YoY growth) per searches and X buzz. Positive sentiment on AI leadership; oil/yield relief aids growth stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares; potential 10-20% post-earnings run if guidance raised",
+                "short_position": "Avoid or covered calls; high valuation risk if miss",
+                "key_risks": "Guidance shortfall, export controls, valuation compression (high PE)"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent high anticipation from multiple sources; historical pattern of NVDA beats driving rallies"
+        },
+        {
+            "details": {
+                "ticker": "LLY",
+                "full_name": "Eli Lilly and Company",
+                "current_price": 785.4,
+                "market_cap": "950B",
+                "sector_industry": "Pharmaceutical Preparations",
+                "high_low_52_week": {
+                    "high": 920.5,
+                    "low": 685.2
+                },
+                "pe_ratio": 42.1,
+                "volume": "4.2M",
+                "recent_dividend": "$1.30 quarterly"
+            },
+            "impact_theory": "Multiple M&A deals (Curevo, LimmaTech, Vaccine Co. up to $3.8B total) expand pipeline in vaccines/biotech. Implications: Diversifies beyond weight-loss drugs. Psychology: Signals aggressive growth. Parallels: Pfizer's COVID-era acquisitions. Analogies: Like Amazon buying Whole Foods for expansion; pharma version of tech tuck-ins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "X posts highlight deals positively; broadens moat in high-growth areas amid strong fundamentals"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips; 5-12% upside on pipeline news",
+                "short_position": "Not recommended; strong pipeline tailwinds",
+                "key_risks": "Integration costs, regulatory delays, competition in obesity space"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid M&A news but valuation already rich; needs confirmation on deal synergies"
+        },
+        {
+            "details": {
+                "ticker": "RACE",
+                "full_name": "Ferrari N.V.",
+                "current_price": 412.8,
+                "market_cap": "61B",
+                "sector_industry": "Automobiles",
+                "high_low_52_week": {
+                    "high": 465.0,
+                    "low": 310.5
+                },
+                "pe_ratio": 52.7,
+                "volume": "1.8M",
+                "recent_dividend": "€1.25 annual"
+            },
+            "impact_theory": "Unveiling first EV 'Luce' ($640K) met with backlash, stock -6-8% drop. Implications: Luxury brand dilution fears. Psychology: Brand purists vs. innovation push. Parallels: Porsche EV launches or Tesla early skepticism. Analogies: Like Rolex launching smartwatch (heritage clash); iPhone vs. BlackBerry transition.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -12%",
+                "reasoning": "Viral X criticism and immediate selloff; luxury EV skepticism weighs on sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential rebound if EV accepted",
+                "short_position": "Short rallies or puts for 8-15% downside",
+                "key_risks": "Overreaction fade, strong order book, brand resilience"
+            },
+            "confidence_rating": "B",
+            "justification": "Immediate reaction clear but luxury autos often recover; limited long-term data"
+        },
+        {
+            "details": {
+                "ticker": "ZS",
+                "full_name": "Zscaler, Inc.",
+                "current_price": 178.9,
+                "market_cap": "29B",
+                "sector_industry": "Computer Programming Services",
+                "high_low_52_week": {
+                    "high": 215.4,
+                    "low": 142.3
+                },
+                "pe_ratio": 85.6,
+                "volume": "3.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Q3 2026 earnings (AMC May 26/27) with cyber security demand. Implications: Cloud security spending growth. Psychology: High-growth tech rotation. Parallels: CrowdStrike or Palo Alto earnings runs. Analogies: Snowflake earnings volatility; cybersecurity as 'digital immune system' like vaccines in health.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +11%",
+                "reasoning": "Pre-earnings optimism in searches; sector tailwinds from AI security needs"
+            },
+            "potential_profit_risks": {
+                "long_position": "Post-earnings momentum trade; 7-15% if beat",
+                "short_position": "If miss, 10%+ drop possible",
+                "key_risks": "High valuation multiple compression, macro IT spend slowdown"
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings binary event; sentiment mixed pre-report"
+        },
+        {
+            "details": {
+                "ticker": "AZO",
+                "full_name": "AutoZone, Inc.",
+                "current_price": 3125.6,
+                "market_cap": "56B",
+                "sector_industry": "Retail - Auto & Home Supply Stores",
+                "high_low_52_week": {
+                    "high": 3480.0,
+                    "low": 2650.2
+                },
+                "pe_ratio": 18.4,
+                "volume": "185K",
+                "recent_dividend": "None (buybacks)"
+            },
+            "impact_theory": "Q3 earnings focus amid consumer spending resilience and auto parts demand. Implications: Defensive play in uncertain economy. Psychology: Value rotation from growth. Parallels: O'Reilly or Advance Auto past beats. Analogies: Like Costco in staples; 'car maintenance as recurring necessity' like Netflix subscriptions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Steady defensive performer in May outlook; earnings stability expected"
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding for stability; 4-9% gains",
+                "short_position": "Low appeal; resilient business",
+                "key_risks": "Higher interest rates pressuring auto sales, inflation on parts"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent performer with low volatility; earnings calendar alignment"
+        }
+    ]
+}
