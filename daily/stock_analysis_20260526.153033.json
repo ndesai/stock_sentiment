@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 215.33,
+                "market_cap": "5.215T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 129.16
+                },
+                "pe_ratio": 64.01,
+                "volume": "169M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "AI infrastructure boom continues with strong demand for GPUs. Economic implications: boosts tech capex. Market psychology: FOMO in AI names. Historical parallels: dot-com boom in tech. Analogies: 1) Like railroads in industrial revolution fueling growth. 2) Like smartphones transforming computing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-8%",
+                "reasoning": "AI optimism outweighs geopolitical risks; strong earnings visibility in data centers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 5-10% short-term gains on AI news flow",
+                "short_position": "Avoid or covered calls; high valuation risk",
+                "key_risks": "Valuation bubble, competition from AMD/others, regulatory scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI narrative backed by multiple news sources and market action."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 751.0,
+                "market_cap": "830B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 812.73,
+                    "low": 194.37
+                },
+                "pe_ratio": 12.74,
+                "volume": "N/A (high)",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "HBM and DRAM demand surge from AI servers. Implications: memory pricing power. Psychology: momentum chasing. Parallels: 2023-24 chip cycle recovery. Analogies: 1) Oil in 1970s energy crisis. 2) Cloud computing adoption wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-12%",
+                "reasoning": "AI memory demand highlighted in analyst reports and growth stock lists."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy; potential 10%+ on earnings or sector rotation",
+                "short_position": "High risk due to cyclical upswing",
+                "key_risks": "Inventory cycles, China exposure"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple sources (Zacks, Yahoo) cite MU as top AI play."
+        },
+        {
+            "details": {
+                "ticker": "DELL",
+                "full_name": "Dell Technologies Inc.",
+                "current_price": 295.19,
+                "market_cap": "200B+",
+                "sector_industry": "Technology/Computer Hardware",
+                "high_low_52_week": {
+                    "high": 295.19,
+                    "low": 100.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "high",
+                "recent_dividend": "~0.5%"
+            },
+            "impact_theory": "AI server sales exploding. Implications: hardware supply chain boost. Psychology: rotation into value-AI plays. Parallels: PC boom of 1990s. Analogies: 1) Cisco in internet buildout. 2) Auto makers in EV transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-10%",
+                "reasoning": "130% YTD gains on AI trade; continued momentum in reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for continued AI server demand upside",
+                "short_position": "Risky amid momentum",
+                "key_risks": "Margin pressure, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but less ubiquitous coverage than pure plays like NVDA."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 308.82,
+                "market_cap": "4.535T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 308.82,
+                    "low": 200.0
+                },
+                "pe_ratio": 30.0,
+                "volume": "50M+",
+                "recent_dividend": "~0.5%"
+            },
+            "impact_theory": "Services growth and AI features in devices. Implications: ecosystem stickiness. Psychology: safe haven in tech. Parallels: iPhone launch cycles. Analogies: 1) Microsoft Windows dominance. 2) Luxury brand pricing power.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-4%",
+                "reasoning": "Stable performer amid broader AI rally, minor premarket dips offset by fundamentals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady long for dividends and buybacks",
+                "short_position": "Limited upside volatility",
+                "key_risks": "China sales, regulatory"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent but not the primary driver of daily shifts."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 426.01,
+                "market_cap": "1.3T+",
+                "sector_industry": "Consumer Cyclical/Auto & Energy",
+                "high_low_52_week": {
+                    "high": 426.01,
+                    "low": 200.0
+                },
+                "pe_ratio": 80.0,
+                "volume": "100M+",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "EV adoption + robotaxi/AI optimism. Implications: valuation premium justified by future. Psychology: Elon narrative driven. Parallels: early Amazon growth. Analogies: 1) SpaceX valuation model. 2) Early Netflix subscriber growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-7%",
+                "reasoning": "Volatile but AI/autonomy sentiment positive despite macro."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing trades on news catalysts for 5%+ moves",
+                "short_position": "High beta short opportunities on overreactions",
+                "key_risks": "Execution risk, competition, valuation swings"
+            },
+            "confidence_rating": "B",
+            "justification": "High sentiment volatility from X/posts and news, moderate predictability."
+        }
+    ]
+}
