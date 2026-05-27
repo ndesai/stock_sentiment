@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 214.13,
+                "market_cap": "5.20T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "280M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Chip stock surge driven by AI demand and positive economic data amid Middle East peace hopes. Economic implications include boosted tech sector growth and lower energy costs. Market psychology: FOMO buying in semis. Historical parallel: 2023-2024 AI boom. Analogies: Gold rush for picks and shovels; rocket fuel for tech indices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong semiconductor rally with NVDA leading gains; positive X sentiment on AI; record market highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares; potential 10%+ gain on continued momentum",
+                "short_position": "Avoid or hedge with puts; limited downside short-term",
+                "key_risks": "Overvaluation correction, geopolitical flare-up, earnings miss"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent news and social signals across multiple sources confirming chip surge."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 955.39,
+                "market_cap": "1.01T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Memory chip demand explosion from AI/data centers. Implications: Higher revenues, supply chain expansion. Psychology: Momentum chasing. Parallels: 2024 HBM boom. Analogies: Oil boom for memory; tailwind for entire tech ecosystem.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Top gainer in semis; +19% recent move; strong X and news coverage on memory frenzy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy; 15%+ upside possible",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Commodity price volatility in memory, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit mentions as biggest gainer alongside NVDA."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 425.36,
+                "market_cap": "2.00T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "25M",
+                "recent_dividend": "0.59 (quarterly)"
+            },
+            "impact_theory": "AI networking/custom chips driving growth. Implications: Diversified revenue streams. Psychology: Institutional buying. Parallels: Previous custom ASIC cycles. Analogies: Highway builder for AI traffic; diversified portfolio play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Part of chip rally; earnings anticipation and sector strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips; 8% upside",
+                "short_position": "Not recommended",
+                "key_risks": "Broad market pullback, acquisition integration"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector tailwinds but less specific news volume than peers."
+        },
+        {
+            "details": {
+                "ticker": "QCOM",
+                "full_name": "QUALCOMM Incorporated",
+                "current_price": 245.36,
+                "market_cap": "262B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 18.7,
+                "volume": "18M",
+                "recent_dividend": "0.85 (quarterly)"
+            },
+            "impact_theory": "Mobile/AI edge computing gains from chip surge. Implications: 5G + AI synergy. Psychology: Catch-up buying. Parallels: Snapdragon adoption waves. Analogies: Smartphone evolution 2.0; edge computing enabler.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Named in chip surge reports; positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy; 9% potential",
+                "short_position": "Low conviction",
+                "key_risks": "Smartphone cycle slowdown, patent disputes"
+            },
+            "confidence_rating": "B",
+            "justification": "Group move with other semis but fewer standalone catalysts."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 508.0,
+                "market_cap": "822B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 42.8,
+                "volume": "55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Data center/AI GPU competition heating up. Implications: Market share gains possible. Psychology: Underdog rally. Parallels: 2024-25 CPU/GPU battles. Analogies: Marathon runner catching up; alternative to dominant player.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Benefits from overall semiconductor rally and AI narrative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective buys; 7% upside",
+                "short_position": "Risky due to momentum",
+                "key_risks": "NVDA dominance, execution risks on new products"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide positive but secondary to NVDA/MU leaders."
+        }
+    ]
+}
