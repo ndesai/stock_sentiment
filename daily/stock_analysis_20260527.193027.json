@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 920.0,
+                "market_cap": "1.04T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 956.16,
+                    "low": 92.22
+                },
+                "pe_ratio": 42.5,
+                "volume": "47M+",
+                "recent_dividend": "0.38% yield, ex-div Mar 30 2026"
+            },
+            "impact_theory": "Micron surged 19% on strong AI memory demand (HBM chips) and UBS price target hike, hitting $1T market cap milestone. Implications: Accelerates semiconductor supercycle, boosts tech valuation multiples. Market psychology: FOMO in AI plays post-earnings optimism. Historical parallel: Similar to NVDA 2023-2024 rallies. Analogies: (1) Like Tesla's early EV boom where supply chain leaders exploded; (2) Gold rush pickaxe sellers profiting from AI 'miners'.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "AI demand surge and record highs in Nasdaq/S&P; X sentiment overwhelmingly positive on chip rally and peace deal tailwinds lowering oil, per recent posts and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong upside from continued HBM sales; potential 20%+ gains on momentum.",
+                "short_position": "Avoid; high valuation risk if AI hype cools.",
+                "key_risks": "Overvaluation correction, competition from Samsung/SK Hynix, geopolitical escalation."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with immediate price action and broad market confirmation; multiple sources align on AI tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "200M+",
+                "recent_dividend": "0.03% yield"
+            },
+            "impact_theory": "Nvidia benefits indirectly from Micron's memory demand validation and broader AI capex. Implications: Reinforces GPU dominance in data centers. Psychology: Herd behavior amplifying tech rally. Historical: Parallels 2024 AI boom. Analogies: (1) Microsoft in PC era; (2) Cisco during dot-com infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Chip sector momentum from MU and peace deal optimism; X posts highlight NVDA earnings anticipation and AI spending."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride AI wave; 10%+ potential short-term.",
+                "short_position": "High risk due to momentum.",
+                "key_risks": "Export restrictions, valuation bubble, earnings misses."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent sector leadership confirmed across news and social sentiment."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 165.0,
+                "market_cap": "270B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "40M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Follow-on beneficiary of memory/AI chip rally and potential Iran deal reducing input costs. Implications: Broader semi recovery. Psychology: Rotation into value semis. Historical: 2023 AI catch-up rallies. Analogies: (1) Intel in early PC days; (2) Qualcomm in smartphone boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Sector-wide rally; positive X buzz on chip stocks post-Micron move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Catch-up play; 12% gains possible.",
+                "short_position": "Limited; momentum favors longs.",
+                "key_risks": "Slower AI adoption, margin pressure."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation but less direct catalyst than MU."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 215.0,
+                "market_cap": "3.2T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "50M",
+                "recent_dividend": "0.5% yield, quarterly"
+            },
+            "impact_theory": "Tech rally spillover; iPhone demand steady amid macro relief from potential peace. Implications: Defensive growth in uncertain times. Psychology: Safe haven in rally. Historical: Post-earnings beats in 2025. Analogies: (1) Samsung in memory cycles; (2) Procter & Gamble in consumer rallies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Broader Nasdaq records and lowered rates/oil from Iran hopes lift consumer tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Stable gains on market beta; 6% upside.",
+                "short_position": "Not recommended.",
+                "key_risks": "China exposure, product delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but reliable beneficiary of market sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 148.0,
+                "market_cap": "650B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 12.0,
+                "volume": "15M",
+                "recent_dividend": "3.2% yield"
+            },
+            "impact_theory": "Potential Iran deal lowers oil prices, pressuring energy names despite short-term volatility. Implications: Margin compression for producers. Psychology: Rotation out of defensives into growth. Historical: Post-Gulf War oil drops. Analogies: (1) Airlines post-peace; (2) Gold miners in risk-on environments.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Oil price relief from de-escalation news; X posts note energy sector lag."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization.",
+                "short_position": "Short for 8% downside on oil drop.",
+                "key_risks": "Deal failure, supply disruptions."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro link to Iran news with measurable oil impact."
+        }
+    ]
+}
