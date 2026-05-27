@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 209.81,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "AI memory chip dominance and SK Hynix joining $1T club signals continued boom in AI infrastructure demand. Economic implications include accelerated capex by hyperscalers. Market psychology: FOMO driving tech rally to records. Historical parallel: 2023-2024 AI surge. Analogies: Like dot-com but with real earnings; gold rush for picks and shovels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Recent memory chip frenzy and AI optimism from May 27 coverage; strong X sentiment on record highs and earnings growth keeping pace."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips, target 12% upside on continued AI spend; potential 20% if earnings beat.",
+                "short_position": "Avoid or hedge; limited downside unless macro shock.",
+                "key_risks": "Valuation bubble concerns, geopolitical oil/inflation spillover, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent multi-source news on AI rally and chip leadership; high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 901.63,
+                "market_cap": "1.0T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "35M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Dominance in HBM/AI DRAM driving SK Hynix/Micron to trillion valuations. Implications: Supply chain boom, higher margins. Psychology: Momentum chasing in memory sector. Parallels: 2020 semis cycle. Analogies: EV battery boom; semiconductor super cycle 2.0.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Asia memory chip frenzy May 27; X posts highlight trillion club entry and Samsung boost."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong momentum play, 15%+ on AI demand confirmation.",
+                "short_position": "Not recommended; high beta upside.",
+                "key_risks": "Cyclical downturn risk, inventory corrections, China export curbs."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news tie to AI memory surge with real-time market reaction evidence."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 420.5,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 310.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "22M",
+                "recent_dividend": "0.75 (quarterly)"
+            },
+            "impact_theory": "AI investments (Copilot/OpenAI) fueling earnings growth amid broader tech rally. Implications: Cloud/AI monetization acceleration. Psychology: Defensive growth appeal. Parallels: 2010s cloud shift. Analogies: IBM mainframe era to PC; modern platform flywheel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "AI optimism dominant in May 27 coverage; analyst targets to $600 with discount noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, 7% upside to fair value.",
+                "short_position": "Minimal; use for pairs trade vs overvalued peers.",
+                "key_risks": "Regulatory scrutiny on AI, Azure growth slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Broad AI tailwinds but less specific daily catalyst than pure-play chips."
+        },
+        {
+            "details": {
+                "ticker": "BP",
+                "full_name": "BP p.l.c.",
+                "current_price": 32.8,
+                "market_cap": "95B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 28.0
+                },
+                "pe_ratio": 6.5,
+                "volume": "15M",
+                "recent_dividend": "0.465 (quarterly)"
+            },
+            "impact_theory": "Sudden ouster of Chair Albert Manifold over governance concerns signals internal turmoil. Implications: Strategy uncertainty, potential activist pressure. Psychology: Leadership risk aversion. Parallels: Past oil major CEO shakeups (e.g., 2010s). Analogies: Corporate coup like activist board fights; governance scandal ripple.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "May 27 coverage on firing without warning; negative X sentiment on instability amid oil price volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; dividend yield attractive long-term.",
+                "short_position": "Short on continued turmoil, 8% downside target.",
+                "key_risks": "Energy price swings, transition execution failure."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific leadership event with clear negative framing in financial media."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 145.2,
+                "market_cap": "235B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI GPU/data center gains amid chip sector rally. Implications: Market share capture vs NVDA. Psychology: Underdog momentum. Parallels: 2021-22 CPU/GPU cycles. Analogies: AMD's Ryzen comeback story repeated in AI.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Chip surge and AI optimism spillover from Micron/SK Hynix news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Relative value vs NVDA, 10% catch-up potential.",
+                "short_position": "Limited; monitor execution risks.",
+                "key_risks": "Execution on AI roadmap, margin pressure."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds strong but less headline-specific than leaders."
+        }
+    ]
+}
