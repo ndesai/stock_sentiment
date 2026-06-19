@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 379.4,
+                "market_cap": "2.82T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 305.0
+                },
+                "pe_ratio": 35.2,
+                "volume": "22.5M",
+                "recent_dividend": "0.75 quarterly"
+            },
+            "impact_theory": "Fed Chair Warsh's first FOMC meeting signals potential 2026 rate hike amid inflation, triggering broad tech selloff. Economic implications include higher borrowing costs slowing growth; market psychology shifts to risk-off. Historical parallel: 2022 rate hike cycle. Analogies: Like tightening a valve on a pressure cooker (inflation control vs growth); river dam releasing water (liquidity reduction).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Post-FOMC tech-led decline; X sentiment negative on rate outlook; recent 1.3% Nasdaq drop. Web news highlights uncertainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; limited upside near-term",
+                "short_position": "Potential 4-8% gains on continued volatility into next week",
+                "key_risks": "AI momentum rebound, earnings resilience"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear Fed event catalyst with direct price action confirmation in recent sessions."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 210.69,
+                "market_cap": "5.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.8,
+                "volume": "285M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI leader hit by broad risk-off from Fed policy shift despite strong fundamentals. Implications: Valuation compression possible. Psychology: Rotation out of growth. Parallel: Dot-com bust selective. Analogies: Rocket losing fuel mid-flight; tide receding exposing rocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Tech bellwether selloff post-FOMC; X posts reference rate hike fears impacting semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy long-term on AI cycle",
+                "short_position": "3-6% near-term downside play",
+                "key_risks": "Strong data center demand, China export news"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume reaction and sector leadership in decline confirmed."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 577.22,
+                "market_cap": "1.45T",
+                "sector_industry": "Technology/Social Media",
+                "high_low_52_week": {
+                    "high": 640.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "18.2M",
+                "recent_dividend": "0.50 quarterly"
+            },
+            "impact_theory": "Affected by rate-sensitive ad spend outlook and tech rotation. Broader macro tightening weighs on growth stocks. Historical: 2022 ad recession. Analogies: Weather vane in shifting winds; elastic band stretched too far.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2.5% to -5%",
+                "reasoning": "Closed lower with peers on June 17; X sentiment notes policy uncertainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Monitor for stabilization",
+                "short_position": "Modest short window 3-5%",
+                "key_risks": "User growth, AI ad tools"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector but slightly less volatile than semis."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp.",
+                "current_price": 185.0,
+                "market_cap": "180B",
+                "sector_industry": "Aerospace/Space",
+                "high_low_52_week": {
+                    "high": 192.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Recent IPO debut June 12 with strong initial gains; macro volatility now tests post-IPO sentiment. Implications: High valuation scrutiny amid rate environment. Parallel: Recent high-profile IPOs like ARM. Analogies: New ship in stormy seas; lottery ticket maturing.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to slightly Bearish",
+                "estimated_price_impact_pct": "-5% to +2%",
+                "reasoning": "Post-debut consolidation amid market-wide selloff; limited X buzz post-IPO hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-risk momentum hold",
+                "short_position": "Volatile swings offer 8-12% opportunities",
+                "key_risks": "Contract wins, Musk news flow"
+            },
+            "confidence_rating": "B",
+            "justification": "New listing with event-driven but macro overlay."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 137.81,
+                "market_cap": "610B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "15.8M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Iran tensions and potential deal easing oil prices; Fed secondary. Geopolitics drive volatility. Historical: 2019-2020 oil shocks. Analogies: Pendulum swinging between supply fears and resolution; seesaw balancing conflict vs diplomacy.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "-2% to +3%",
+                "reasoning": "Oil calming on deal hopes; X posts note macro macro shifts away from energy spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend hold with commodity hedge",
+                "short_position": "Limited unless escalation",
+                "key_risks": "OPEC decisions, demand data"
+            },
+            "confidence_rating": "C",
+            "justification": "Event impact moderating; less direct tie to primary Fed catalyst."
+        }
+    ]
+}
