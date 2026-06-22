@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Upcoming earnings and HBM/AI memory demand sentiment shift amid AI supercycle. Geopolitical easing (Iran talks) reduces risk premium. Historical parallel to 2023-24 memory recovery. Analogies: Like 2020 EV battery boom; like 1990s PC memory cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "MU earnings catalyst Thursday; positive X sentiment on HBM cycle. Rebalance flows supportive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MU with 10-20% upside on strong guidance; targets 155-165",
+                "short_position": "Avoid short; high risk of squeeze",
+                "key_risks": "Missed estimates or macro slowdown in AI capex"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple catalysts aligned with ongoing AI narrative; strong recent sentiment on X and news."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "185M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Blackwell ramp and AGM focus; AI dominance continues post-Iran stability. Parallels 2023 AI breakout. Analogies: Internet bubble leaders; smartphone chip cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "AGM catalysts; rebalance and memory ecosystem positive spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips; 5-12% near-term gain potential",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Valuation compression, China export restrictions"
+            },
+            "confidence_rating": "A",
+            "justification": "Core AI leader with multiple near-term events; consistent positive sentiment."
+        },
+        {
+            "details": {
+                "ticker": "VRT",
+                "full_name": "Vertiv Holdings Co",
+                "current_price": 115.0,
+                "market_cap": "43B",
+                "sector_industry": "Industrials/Electrical Equipment",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "4.2M",
+                "recent_dividend": "0.08 quarterly"
+            },
+            "impact_theory": "Data center power/cooling bottleneck structural; AI buildout rotation from compute to infrastructure. Parallels industrial automation cycles. Analogies: Like 5G infrastructure play; solar inverter boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-12%",
+                "reasoning": "X posts highlight VRT as 'shovel' stock; structural demand vs. cyclical memory."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for structural growth; 8-15% upside",
+                "short_position": "Limited opportunity",
+                "key_risks": "Hyperscaler capex delays, margin pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic fit but less direct near-term catalyst than semis."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 78.5,
+                "market_cap": "68B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 92.0,
+                    "low": 48.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "12.8M",
+                "recent_dividend": "0.06 quarterly"
+            },
+            "impact_theory": "S&P 500 rebalance inclusion drives passive inflows. AI connectivity exposure. Parallels 2024 chip additions. Analogies: Like index inclusion rallies (e.g., Tesla 2020).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-9%",
+                "reasoning": "Rebalance flows noted in news/X; AI networking demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for rebalance pop; 6-10% short-term",
+                "short_position": "Not recommended",
+                "key_risks": "Profit-taking post-inclusion, broader tech rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven with good visibility but shorter duration."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 108.0,
+                "market_cap": "475B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "15.2M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Iran peace progress lowers oil risk premium and prices (~$75). Reduced geopolitical premium. Historical parallels: 2015-16 Iran deal impact. Analogies: Post-war oil gluts; shale boom adjustments.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Oil prices down on talks; negative sentiment shift for producers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited; defensive dividend play",
+                "short_position": "Short for 5-10% decline on sustained peace",
+                "key_risks": "Deal breakdown, OPEC+ cuts, demand surprises"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geopolitical catalyst but uncertain timeline for full resolution."
+        }
+    ]
+}
