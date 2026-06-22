@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "SpaceX",
+                "current_price": 175.0,
+                "market_cap": "450B",
+                "sector_industry": "Aerospace/Defense",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "U.S.-Iran peace talks lead to selloff in SpaceX amid broader market rotation. Economic implications include reduced geopolitical premium on defense/aerospace. Market psychology shows profit-taking after recent highs. Historical parallel: post-ceasefire adjustments in 2020s defense stocks. Analogies: 1) Like oil stocks post-OPEC deal. 2) Tech IPOs cooling after hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8%",
+                "reasoning": "Premarket dive of 4.6% on peace talk optimism reducing conflict premium; X sentiment shows mixed but heavy selling pressure from recent highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization around $150 support for rebound play (+15% potential)",
+                "short_position": "Short on rallies to $190 with target $160 (-15% potential)",
+                "key_risks": "Nasdaq-100 inclusion news could reverse sentiment quickly; volatility from analyst initiations"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalyst with visible price action but inclusion rumors add uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology",
+                "current_price": 135.0,
+                "market_cap": "180B",
+                "sector_industry": "Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "25M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Memory chip demand from AI data centers drives gains amid SK Hynix strength. Implications: Boost to semiconductor supply chain. Psychology: Momentum chasing in AI theme. Historical: Similar to 2023-24 chip rallies. Analogies: 1) Like NVDA run on GPU demand. 2) Auto parts surge in EV boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "4%+ early gains; positive peer moves and AI capex tailwinds confirmed via recent sentiment scans"
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips targeting $150 (+11%) on earnings momentum",
+                "short_position": "Avoid; limited downside in near term",
+                "key_risks": "Earnings miss or macro slowdown in tech spend"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear sector momentum with multiple confirming signals from peers and news"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Semiconductors/Technology",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "180M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI buildout and shareholder meeting catalysts offset some Fed hawkishness. Broader implications for tech leadership. Psychology: AI enthusiasm persists despite rate concerns. Historical parallel: 2023 AI boom continuation. Analogies: 1) Internet boom stocks. 2) Renewable energy leaders in transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Positive sector moves and AI data center narrative dominant in searches and X posts"
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold with +5-10% upside to new highs",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Valuation compression if rates rise further"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic support but macro rate risks present"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 195.0,
+                "market_cap": "2.9T",
+                "sector_industry": "Consumer Electronics/Technology",
+                "high_low_52_week": {
+                    "high": 240.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "55M",
+                "recent_dividend": "0.24 quarterly"
+            },
+            "impact_theory": "Analyst downgrade on AI strategy concerns amid broader tech rotation. Economic: Services growth vs hardware slowdown. Psychology: Disappointment on innovation narrative. Historical: Post-iPhone cycle dips. Analogies: 1) Microsoft post-Windows hype. 2) Auto stocks during EV transition doubts.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Downgrade mentions and AI execution questions in recent coverage; moderate negative X sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for long-term (+8% recovery)",
+                "short_position": "Short rallies above $200 (-6% target)",
+                "key_risks": "Services revenue resilience or new product catalysts"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear analyst action but company fundamentals remain robust"
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 168.0,
+                "market_cap": "2.1T",
+                "sector_industry": "Internet/Technology",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 24.0,
+                "volume": "30M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI capex concerns weigh on ad/search giant. Implications for cloud/AI investments. Psychology: Rotation out of high-valuation tech. Historical: Dot-com era valuation resets. Analogies: 1) FAANG rotation in 2022. 2) E-commerce post-pandemic normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "10% drop noted in updates tied to AI spend fears; negative sentiment in latest scans"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for capitulation near $155 (+10%)",
+                "short_position": "Target $155 on continued weakness",
+                "key_risks": "Regulatory wins or ad market recovery"
+            },
+            "confidence_rating": "C",
+            "justification": "Sentiment shift evident but Google Cloud growth provides buffer"
+        }
+    ]
+}
