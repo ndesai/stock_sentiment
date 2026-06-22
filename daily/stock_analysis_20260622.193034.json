@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.3,
+                    "low": 85.4
+                },
+                "pe_ratio": 18.2,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Positive signals from US-Iran peace talks and falling oil prices boost chip demand outlook via lower energy costs and economic stability. Market psychology: relief rally in semis after geopolitical tension. Historical parallel: 2020 post-COVID chip boom. Analogies: 1) Like post-Gulf War oil drop fueling tech in 1991. 2) Similar to 2023 AI surge after rate pause.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Upcoming earnings + sector tailwinds from lower oil/geopolitics; X sentiment positive on MU (limit 20 latest posts show excitement). Web news highlights MU as buy before repricing."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 15%+ gain into earnings; target $165",
+                "short_position": "Avoid or covered call if overextended post-rally",
+                "key_risks": "Earnings miss, macro slowdown, competition from NVDA"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment of news catalysts, sector momentum, and multiple sources confirming positive shift."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.75,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.1
+                },
+                "pe_ratio": 52.4,
+                "volume": "245M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI demand sustained amid easing energy prices and peace prospects improving global supply chains. Psychology: continued FOMO in AI leaders despite some big-tech rotation. Historical: Parallels 2023-2024 AI rally. Analogies: 1) Dot-com leaders post-2001 stabilization. 2) Like Tesla post-EV subsidy clarity.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-7%",
+                "reasoning": "Consistent top pick in June 2026 lists; chip sector gains noted in multiple reports; X buzz high on AI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for long-term 20% upside to $170",
+                "short_position": "Not recommended; high short interest squeeze risk",
+                "key_risks": "Valuation bubble, export restrictions, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant position in news and sentiment scans with clear macro tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "CCL",
+                "full_name": "Carnival Corporation",
+                "current_price": 27.85,
+                "market_cap": "36B",
+                "sector_industry": "Consumer Cyclical/Cruise Lines",
+                "high_low_52_week": {
+                    "high": 32.4,
+                    "low": 14.8
+                },
+                "pe_ratio": 14.1,
+                "volume": "19.2M",
+                "recent_dividend": "$0.50 annual"
+            },
+            "impact_theory": "Lower oil prices directly reduce fuel costs for cruises; peace talks ease travel sentiment. Psychology: consumer spending optimism. Historical: Post-2010s oil crash cruise recovery. Analogies: 1) Airlines post-2014 oil drop. 2) Like hotels after pandemic travel rebound.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Highlighted in Morningstar podcast as buy before repricing; oil decline major positive; positive X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for 12% gain to $32",
+                "short_position": "Limited; seasonal risks",
+                "key_risks": "Economic slowdown reducing vacations, fuel volatility rebound"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear commodity benefit but consumer discretionary sensitive to broader economy."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.4,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.2,
+                    "low": 18.9
+                },
+                "pe_ratio": 22.7,
+                "volume": "52M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Legacy tech foundry business highlighted as opportunity amid chip sector rally. Geopolitics favors domestic semis. Psychology: value rotation into underperformers. Historical: Intel recoveries in cycle upturns. Analogies: 1) IBM turnaround plays. 2) Like AMD post-2016 resurgence.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "CNBC segment on foundry opportunity; chip stocks outperforming; moderate positive X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long for turnaround 25% upside",
+                "short_position": "Risky due to momentum",
+                "key_risks": "Execution on foundry, continued market share loss"
+            },
+            "confidence_rating": "B",
+            "justification": "News-specific catalyst but historically volatile execution."
+        },
+        {
+            "details": {
+                "ticker": "FDX",
+                "full_name": "FedEx Corporation",
+                "current_price": 268.9,
+                "market_cap": "65B",
+                "sector_industry": "Industrials/Logistics",
+                "high_low_52_week": {
+                    "high": 313.5,
+                    "low": 215.3
+                },
+                "pe_ratio": 15.8,
+                "volume": "2.8M",
+                "recent_dividend": "$1.38 quarterly"
+            },
+            "impact_theory": "Lower oil cuts transport costs; peace improves global trade volumes. Psychology: cyclical recovery bet. Historical: Logistics gains in low-energy periods. Analogies: 1) UPS post-recession. 2) Trucking after 2016 oil crash.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Featured in buy-before-reprice list alongside MU/CCL; oil drop supportive; neutral-to-positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding for 8-10% gains",
+                "short_position": "Minimal opportunity",
+                "key_risks": "E-commerce slowdown, labor costs"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect benefit, less direct news volume than semis."
+        }
+    ]
+}
