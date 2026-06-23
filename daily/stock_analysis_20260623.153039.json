@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp. (SpaceX)",
+                "current_price": 157.35,
+                "market_cap": "2.43T",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 225.64,
+                    "low": 147.11
+                },
+                "pe_ratio": 85.2,
+                "volume": "52.83M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Post-IPO rout after massive debut; profit-taking and valuation concerns amid broader tech selloff. Economic implications: Reduced capital for SpaceX expansion impacting space economy growth. Market psychology: Fear of overvaluation in hype-driven IPOs. Historical parallels: Post-IPO drops like Snowflake or Rivian. Analogies: Like a rocket launch that overshoots then corrects; A gold rush miner stock crashing after initial hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Extended declines for third day; $600B+ value lost; sentiment on X and news shows panic selling in tech following IPO euphoria. X latest posts highlight volatility and rout continuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $150 for long-term entry; potential 20%+ rebound on positive contracts.",
+                "short_position": "Short on bounces targeting 10-20% downside to $130 support.",
+                "key_risks": "Sudden positive NASA/Starlink news or Musk tweets could reverse; high volatility."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct coverage of SPCX rout in multiple sources (Bloomberg, CNBC, Yahoo) with consistent price action data."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 172.5,
+                "market_cap": "2.1T",
+                "sector_industry": "Technology / Internet Services",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "28.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Leading tech losses in selloff; AI spending scrutiny and Iran deal hopes not offsetting. Implications: Pressure on ad revenue and cloud growth narrative. Psychology: Rotation out of mega-cap tech. Parallels: 2022 tech winter. Analogies: Domino in a line of falling tech giants; Leaky boat in a rising tide of small caps.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Explicitly cited as leading losses in Asia/ US trade coverage; broad tech tumble sentiment confirmed via news and X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips for AI long-term; 15% upside over months.",
+                "short_position": "Short-term shorts for 5-8% moves.",
+                "key_risks": "Earnings beats or AI announcements."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple Bloomberg and CNBC reports pinpoint Alphabet in the tech selloff."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 45.5,
+                "volume": "245M",
+                "recent_dividend": "$0.01 (quarterly)"
+            },
+            "impact_theory": "AI capex slowdown fears amid valuation reset. Implications: Supply chain ripple effects. Psychology: Profit taking after long run. Parallels: Dot-com bust chip stocks. Analogies: King of the hill pushed off by market rotation; High-speed train braking suddenly.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Software/chip names hit hard in Nasdaq selloff; broad sentiment shift noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; buy dips targeting 25% recovery.",
+                "short_position": "Tactical shorts 8-12%.",
+                "key_risks": "Data center demand surprise upside."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with tech selloff narrative though less specific mentions than SPCX/GOOGL."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 198.0,
+                "market_cap": "2.1T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cloud/AWS growth questioned in valuation reset. Implications: E-commerce margin pressure. Psychology: Mega-cap fatigue. Parallels: 2022 rotation. Analogies: E-commerce giant facing headwinds like a retailer in recession; Tallest tree in forest hit by lightning.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Included in software/tech selloff coverage; sentiment aligns with broader Nasdaq weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term AI/cloud play; 12%+ upside.",
+                "short_position": "Short 5% moves.",
+                "key_risks": "Retail sales strength or AWS beats."
+            },
+            "confidence_rating": "B",
+            "justification": "Grouped in selloff reports with other tech names."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 112.5,
+                "market_cap": "505B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 (quarterly)"
+            },
+            "impact_theory": "Iran deal hopes driving oil price declines benefiting energy stability. Implications: Lower input costs economy-wide. Psychology: Safe haven rotation. Parallels: Post-OPEC deal periods. Analogies: Oil tanker in stormy geopolitical seas stabilizing; Anchor in choppy tech waters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Oil falling on US-Iran deal optimism provides relative strength vs tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy hedge; modest gains 5-10%.",
+                "short_position": "Avoid or limited.",
+                "key_risks": "Deal breakdown spikes oil prices."
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect beneficiary from Iran news; less direct sentiment data than tech names."
+        }
+    ]
+}
