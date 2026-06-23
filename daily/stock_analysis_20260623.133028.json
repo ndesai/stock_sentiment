@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SPACEX",
+                "full_name": "SpaceX Inc.",
+                "current_price": 245.67,
+                "market_cap": "612.4B",
+                "sector_industry": "Aerospace/Defense",
+                "high_low_52_week": {
+                    "high": 412.5,
+                    "low": 198.3
+                },
+                "pe_ratio": 48.2,
+                "volume": "142.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Massive selloff in SpaceX shares following valuation concerns and broader AI/tech bubble fears, compounded by ongoing U.S.-Iran diplomatic progress reducing oil/geopolitical premiums. Economic implications include reduced investor confidence in high-growth tech. Market psychology: Fear of overvaluation leading to rotation out of mega-caps. Historical parallels to 2022 tech crash or dot-com bust. Analogies: Like a hot-air balloon deflating after too much hype (AI valuations) or a crowded theater exit after a false fire alarm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12% to -18%",
+                "reasoning": "Continued rout into June 23 session; 16% single-day drop on June 22, third consecutive decline. X sentiment (via recent posts) shows panic and short-selling activity. Web news highlights $600B+ value loss in days amid tech selloff."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-risk entry on oversold bounce; potential 8-15% rebound if AI news stabilizes.",
+                "short_position": "Profitable continuation shorts; target further 10-15% downside on volume.",
+                "key_risks": "Short squeeze on positive Iran deal or earnings surprise; regulatory/news volatility."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources (WSJ, Bloomberg videos) confirm dramatic moves; high visibility on X."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 142.85,
+                "market_cap": "1.78T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 192.45,
+                    "low": 118.2
+                },
+                "pe_ratio": 22.8,
+                "volume": "48.7M",
+                "recent_dividend": "0.20 (quarterly)"
+            },
+            "impact_theory": "Worst day in over a year due to AI business concerns amid sector rotation. Implications: Pressure on ad revenue and cloud growth expectations. Psychology: Capitulation in high-valuation names. Parallels to 2023 banking/tech volatility. Analogies: Domino effect from SpaceX decline or a dam breaking under valuation pressure.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Directly cited in WSJ coverage; leading tech losses with Nasdaq down 1.3%+. Negative X sentiment on AI hype deflation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; possible 4-7% recovery on support levels.",
+                "short_position": "Attractive for continued downside targeting 135 support.",
+                "key_risks": "Strong fundamentals could trigger quick reversal; broader market recovery."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent reporting across financial outlets and real-time market data alignment."
+        },
+        {
+            "details": {
+                "ticker": "ASML",
+                "full_name": "ASML Holding N.V.",
+                "current_price": 678.4,
+                "market_cap": "268.5B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1052.8,
+                    "low": 542.1
+                },
+                "pe_ratio": 31.5,
+                "volume": "3.2M",
+                "recent_dividend": "1.95 (annual)"
+            },
+            "impact_theory": "Biggest points decliner in Europe on tech selloff spillover. Implications for global chip supply chain sentiment. Parallels to 2022 semiconductor correction. Analogies: Falling leaves in autumn (sector-wide pressure) or a ship caught in tech storm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Bloomberg coverage of European indices hit by global tech rout; negative sentiment amplification."
+            },
+            "potential_profit_risks": {
+                "long_position": "Medium-term recovery play if chip demand holds.",
+                "short_position": "Near-term downside momentum play.",
+                "key_risks": "Supply chain/geopolitical events; earnings catalysts."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong European market data alignment but less U.S.-specific volume."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.25,
+                "market_cap": "2.91T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.4,
+                    "low": 87.6
+                },
+                "pe_ratio": 42.1,
+                "volume": "285.6M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Indirect exposure to AI valuation reset and broader tech unwind. Economic effects on AI infrastructure spending. Parallels to prior AI hype cycles. Analogies: King of the hill knocked down or domino in AI stack.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Sector-wide selloff; X posts reference AI concerns spilling over."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate dips for long-term AI growth.",
+                "short_position": "Tactical shorts on momentum.",
+                "key_risks": "Earnings or partnership news reversal."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but high-correlation with Alphabet/SpaceX moves."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.9,
+                "market_cap": "793.2B",
+                "sector_industry": "Automotive/EV",
+                "high_low_52_week": {
+                    "high": 414.5,
+                    "low": 182.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "95.4M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "EV/tech correlation to selloff; valuation scrutiny amid sector rotation. Historical parallels to 2022 EV correction. Analogies: High-speed train derailed or rocket losing thrust.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -9%",
+                "reasoning": "Tech-heavy sentiment spillover evident in market breadth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Volatile but potential rebound candidate.",
+                "short_position": "Momentum continuation opportunity.",
+                "key_risks": "Elon/news-driven swings; delivery data."
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate direct linkage but strong sector correlation."
+        }
+    ]
+}
