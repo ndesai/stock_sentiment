@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 202.5,
+                "market_cap": "4.98T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 245.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Global chip stock rout triggered by AI spending fatigue and memory oversupply fears. Economic implications include cooling capex by hyperscalers. Market psychology: profit-taking after prolonged rally. Historical parallel: 2022 tech correction. Analogies: Like a gold rush cooling after initial boom; akin to dot-com bubble burst in sentiment shift.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Heavy selling in Asia chip names spilled over; Micron earnings watch tomorrow amplifies caution. X sentiment overwhelmingly negative on AI ROI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 15% rebound on positive earnings if AI narrative holds",
+                "short_position": "5-10% downside on continued rout; cover on support at $190",
+                "key_risks": "Unexpected positive AI news or Fed comments could reverse quickly"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant theme across all news sources with clear price action confirmation"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.0,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "95M",
+                "recent_dividend": "Quarterly $0.115"
+            },
+            "impact_theory": "Memory chip selloff led by SK Hynix/Samsung weakness. Implications: potential pricing pressure in DRAM. Psychology: rotation out of high-beta AI plays. Historical: 2023 HBM boom reversal. Analogies: Commodity cycle bust; like oil price crash on oversupply signals.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Pre-earnings pressure + Asia rout; hyperscaler spend doubts dominant on X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "High volatility play post-earnings; 20%+ swing possible",
+                "short_position": "Strong short candidate near resistance; 8-15% target",
+                "key_risks": "Earnings beat could spark violent short squeeze"
+            },
+            "confidence_rating": "A",
+            "justification": "Directly cited as leader of losses with global chip context"
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 168.5,
+                "market_cap": "2.08T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 192.0,
+                    "low": 124.0
+                },
+                "pe_ratio": 24.8,
+                "volume": "42M",
+                "recent_dividend": "Quarterly $0.20"
+            },
+            "impact_theory": "AI researcher departures and spending concerns weigh on valuation. Broader tech de-risking. Parallel to 2022 Google layoffs/valuation reset. Analogies: Talent flight like post-IPO startup exodus; like auto makers facing EV transition costs.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Multiple days of AI-related negative headlines; X posts highlight defection news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; dip-buy for long-term AI exposure",
+                "short_position": "Tactical 4-7% short on momentum continuation",
+                "key_risks": "Search or YouTube revenue resilience"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news coverage but diversified business provides some buffer"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.0,
+                "market_cap": "3.0T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 232.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "65M",
+                "recent_dividend": "Quarterly $0.24"
+            },
+            "impact_theory": "Broader tech selloff spillover despite less direct AI exposure. Supply chain/China concerns resurfacing. Historical parallel to 2018 trade war dip. Analogies: Safe-haven stock becoming risk asset; like consumer staples in growth rotation.",
+            "news_impact_analysis": {
+                "outlook": "Mildly Bearish",
+                "estimated_price_impact_pct": "-2% to -4%",
+                "reasoning": "Less severe than pure-play semis but caught in risk-off wave."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive long; stable dividends support floor",
+                "short_position": "Limited; better as hedge",
+                "key_risks": "Services growth or new product cycle"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect impact confirmed across multiple market reports"
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "SpaceX Corp",
+                "current_price": 142.0,
+                "market_cap": "185B",
+                "sector_industry": "Industrials/Aerospace",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "28M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "First debt offering raises dilution/financing concerns post-IPO euphoria. Market psychology shift from growth story to execution risk. Parallel: WeWork or other high-valuation private-to-public transitions. Analogies: Tesla early debt raises; startup valuation compression.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -16%",
+                "reasoning": "Three-day decline highlighted; debt news dominant catalyst per WSJ/CNBC."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative recovery trade post-debt clarity",
+                "short_position": "Momentum short with 12%+ potential",
+                "key_risks": "Starlink revenue or NASA contract wins"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear single-stock event driving Nasdaq drag"
+        }
+    ]
+}
