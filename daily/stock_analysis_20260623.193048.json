@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "SpaceX",
+                "current_price": 118.5,
+                "market_cap": "285B",
+                "sector_industry": "Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 115.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "45.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SpaceX's first debt offering triggered massive profit-taking after IPO run-up. Economic implications include concerns over cash burn for Starlink expansion amid high valuations. Market psychology: Fear of overvaluation in space/tech hype. Historical parallel: WeWork or early Tesla volatility. Analogies: (1) Like a rocket losing fuel mid-launch; (2) Dot-com bubble excess valuations correction.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-16% to -20%",
+                "reasoning": "Debt offering signals financing needs; X sentiment overwhelmingly negative (limit 20 latest posts show panic selling). Tech selloff contagion amplified losses."
+            },
+            "potential_profit_risks": {
+                "long_position": "Short-term bounce on Starlink milestones; potential 10-15% rebound if debt well-received.",
+                "short_position": "Continued decline to $100; target 15-25% downside gains.",
+                "key_risks": "Elon Musk influence, regulatory delays, macro rate sensitivity."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with consistent news/X coverage confirming major sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 162.4,
+                "market_cap": "2.0T",
+                "sector_industry": "Technology - Internet Services",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "32.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI talent departures to rivals signals internal challenges in retaining top researchers. Implications: Slower AI innovation pace, valuation compression. Psychology: Loss of confidence in leadership. Parallels: Google 2010s talent wars. Analogies: (1) Sports team losing star players; (2) Tech exodus like post-IPO Facebook brain drain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "News of defections dominant driver; latest X posts reflect bearish AI hype fatigue (20 latest: majority negative)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value entry at support; 8-12% recovery on earnings.",
+                "short_position": "Further slide to $150; 7-10% short gains.",
+                "key_risks": "Search monopoly resilience, ad revenue stability."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating reports + sentiment data align perfectly."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology Inc.",
+                "current_price": 128.0,
+                "market_cap": "140B",
+                "sector_industry": "Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "28.7M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Korean chip peers tumble sparks global memory sector rout amid AI capex worries. Implications: Margin pressure if hyperscaler spending slows. Psychology: Sector rotation out of growth tech. Parallels: 2022 chip cycle downturn. Analogies: (1) Domino effect in supply chain; (2) Oil shock rippling through energy stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -9%",
+                "reasoning": "Pre-earnings weakness + Asia contagion; X sentiment latest posts highlight spending fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy ahead of earnings; 12% upside if beat.",
+                "short_position": "Break below $120; 8% downside target.",
+                "key_risks": "Cyclical inventory swings, geopolitical supply risks."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation but earnings event risk tempers rating."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com Inc.",
+                "current_price": 185.3,
+                "market_cap": "1.95T",
+                "sector_industry": "Consumer Discretionary - E-commerce/Cloud",
+                "high_low_52_week": {
+                    "high": 215.0,
+                    "low": 155.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "41.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Broad tech selloff hits AWS growth narrative and retail margins. Implications: Valuation reset for high-multiple growth. Psychology: Rotation from mega-cap tech. Parallels: 2022 Amazon drawdown. Analogies: (1) Retail holiday hangover; (2) Cloud computing bubble concern.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4.5% to -7%",
+                "reasoning": "Follow-on selling from broader Nasdaq weakness; X posts show mixed but net negative sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "AWS momentum play; 10% recovery potential.",
+                "short_position": "Test of $175 support; 6% gains.",
+                "key_risks": "Consumer spending resilience, competition in cloud."
+            },
+            "confidence_rating": "B",
+            "justification": "Part of wider tech move, less unique catalyst than peers."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 428.5,
+                "market_cap": "3.2T",
+                "sector_industry": "Technology - Software/Cloud",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 360.0
+                },
+                "pe_ratio": 35.4,
+                "volume": "22.3M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "AI infrastructure spend concerns weigh on Azure outlook. Implications: Growth deceleration narrative. Psychology: High-valuation fatigue. Parallels: 2023 Microsoft pullback. Analogies: (1) Enterprise software spending pause; (2) Microsoft Office monopoly challenged.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Contagion from AI peers; latest X sentiment cautious on valuations."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive quality name; modest 5% bounce.",
+                "short_position": "Limited, as fundamentals strong.",
+                "key_risks": "OpenAI partnership exposure, regulatory scrutiny."
+            },
+            "confidence_rating": "B",
+            "justification": "Broad market influence but more resilient fundamentals."
+        }
+    ]
+}
