@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.45,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.3,
+                    "low": 79.2
+                },
+                "pe_ratio": 12.8,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Global memory chip sell-off triggered by AI demand concerns and South Korea Kospi crash (SK Hynix -12%). Economic implications: Slowing AI capex cycle, potential inventory glut in DRAM/HBM. Market psychology: Fear of overvaluation in AI supply chain after rapid run-up. Historical parallel: 2022 chip downturn. Analogies: Like 2000 dot-com bust for semis; oil glut of 2014-16.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Led Nasdaq decline 2.2%; X sentiment highly negative on AI hype exhaustion. Web search shows Micron singled out as primary decliner amid global tech rout."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; possible rebound play on oversold bounce (+5-8% short-term if support holds)",
+                "short_position": "High conviction short on continued weakness; target -12% near-term",
+                "key_risks": "AI infrastructure spending resilience, earnings beats, short squeeze"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst (memory sell-off), high volume confirmation, consistent across news/X sources."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 168.75,
+                "market_cap": "2.08T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 192.5,
+                    "low": 138.1
+                },
+                "pe_ratio": 24.6,
+                "volume": "32.1M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "AI talent departures + $80B stock sale announcement for AI infra. Implications: Capital allocation pressure, talent war costs. Psychology: Rotation out of mega-cap AI leaders. Parallel: 2022 META talent exodus. Analogies: Microsoft-Yahoo acquisition era overpay; Tesla valuation resets.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "5% drop Monday on AI news; negative X buzz on capex dilution and talent loss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy long-term AI exposure (+10% on stabilization)",
+                "short_position": "Tactical short for further 6-8% downside",
+                "key_risks": "Strong cloud earnings, regulatory wins"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming news sources and direct sentiment shift visible."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 182.3,
+                "market_cap": "1.92T",
+                "sector_industry": "Consumer Cyclical/E-commerce & Cloud",
+                "high_low_52_week": {
+                    "high": 210.9,
+                    "low": 151.6
+                },
+                "pe_ratio": 42.1,
+                "volume": "41.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Broader tech sell-off spillover; AWS growth concerns amid AI capex focus. Implications: Valuation compression on high multiple growth names. Psychology: Profit-taking after multi-year AI rally. Parallel: 2021-22 growth stock rotation. Analogies: Netflix post-pandemic correction; Cisco post-2000.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "4.8% decline cited; sustained negative X sentiment on valuation and macro sensitivity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; add on weakness for +8% recovery",
+                "short_position": "Short-term momentum short -5%",
+                "key_risks": "Retail/Q3 strength, AWS acceleration"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst alignment but less specific to AMZN than MU/GOOGL."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 498.6,
+                "market_cap": "1.27T",
+                "sector_industry": "Technology/Social Media & Advertising",
+                "high_low_52_week": {
+                    "high": 595.0,
+                    "low": 410.2
+                },
+                "pe_ratio": 27.4,
+                "volume": "18.7M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Tech rotation and AI spending scrutiny hit ad-tech growth narrative. Implications: Ad revenue sensitivity to macro/economic slowdown fears. Psychology: Rotation from high-beta growth. Parallel: 2022 META privacy/ad crisis. Analogies: Snap valuation resets; Twitter pre-acquisition volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "2.3% drop, part of broad sell-off; moderate negative X volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Attractive entry for dividend + AI upside (+7-10%)",
+                "short_position": "Limited; covered calls preferred",
+                "key_risks": "Strong engagement metrics, AI ad tools rollout"
+            },
+            "confidence_rating": "B",
+            "justification": "Part of sector move but less direct news driver than peers."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 122.8,
+                "market_cap": "3.02T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.1,
+                    "low": 87.6
+                },
+                "pe_ratio": 48.5,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI supply chain contagion from memory weakness. Implications: GPU demand fears despite leadership. Psychology: Leader-follower dynamic in semis. Parallel: 2018 crypto mining collapse for GPUs. Analogies: Intel post-2000; AMD cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-6% to -11%",
+                "reasoning": "Indirect hit from MU sell-off and general AI narrative fatigue in searches/X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Flagship AI name; buy dips for +12% rebound",
+                "short_position": "High risk; volatility favors options",
+                "key_risks": "Blackwell ramp, data center dominance"
+            },
+            "confidence_rating": "A",
+            "justification": "Sector leader with highest visibility and volume confirming shift."
+        }
+    ]
+}
