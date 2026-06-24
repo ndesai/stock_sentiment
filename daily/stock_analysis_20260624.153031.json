@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1051.77,
+                "market_cap": "1.17T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1213.56,
+                    "low": 103.38
+                },
+                "pe_ratio": 49.01,
+                "volume": "59M",
+                "recent_dividend": "0.05% yield"
+            },
+            "impact_theory": "Micron's earnings miss or guidance amid global tech sell-off and memory chip weakness. Economic implications include AI supply chain slowdown. Market psychology shows fear of AI hype deflation. Historical parallels to 2022 chip downturn. Analogies: Like a dam breaking after heavy rain (sell-off cascade); domino effect in semiconductor ecosystem.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10 to -15%",
+                "reasoning": "Heavy pre-earnings drop of 13% on June 23 amid global memory sell-off and Asia tech rout; X sentiment negative on AI spending sustainability."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for 15-25% rebound post-earnings if guidance strong",
+                "short_position": "Short for 10% further drop if misses",
+                "key_risks": "Volatility from earnings, macro Fed signals"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst in earnings and broad tech weakness confirmed by multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp.",
+                "current_price": 156.11,
+                "market_cap": "2.08T",
+                "sector_industry": "Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 225.64,
+                    "low": 147.11
+                },
+                "pe_ratio": -216.8,
+                "volume": "155M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Post-IPO sell-off after debut highs. Implications for valuation of high-growth space/tech. Psychology: Profit-taking and hype fade. Parallels to other mega IPOs like Snowflake. Analogies: Rocket launch followed by gravity pull; hot air balloon deflating after peak altitude.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5 to -15%",
+                "reasoning": "3-day losing streak, dipped below $150 debut; high volume selling on X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $150 for long-term 30%+ upside",
+                "short_position": "Short rallies to $170+ for 8-12% quick gains",
+                "key_risks": "Musk-related news, bond offerings, volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "IPO volatility well-documented but fundamentals strong long-term."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 175.5,
+                "market_cap": "2.1T",
+                "sector_industry": "Technology / Internet Services",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "25M",
+                "recent_dividend": "0.5%"
+            },
+            "impact_theory": "AI talent departures and tech sell-off drag. Economic: Slowing AI investment. Psychology: Rotation out of big tech. Parallels to 2022 growth stock correction. Analogies: Leaking boat in stormy seas; herd fleeing burning building.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -8%",
+                "reasoning": "5% drop cited amid talent concerns and broader Nasdaq weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 10% recovery",
+                "short_position": "Short on further AI news for 5-7%",
+                "key_risks": "Regulatory, earnings"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news tie-in with multiple reports."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 195.0,
+                "market_cap": "2.0T",
+                "sector_industry": "Consumer Cyclical / E-commerce",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "40M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tech sell-off spillover. Implications for e-commerce/AWS margins. Psychology: Risk-off sentiment. Parallels to pandemic growth unwind. Analogies: Avalanche starting from small rocks; domino chain in tech giants.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -6%",
+                "reasoning": "4.8% decline noted in tech rout coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for 15% rebound",
+                "short_position": "Short-term shorts for 4-6%",
+                "key_risks": "Consumer spending data"
+            },
+            "confidence_rating": "B",
+            "justification": "Broad market correlation strong but less specific catalyst."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.0,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "300M",
+                "recent_dividend": "0.03%"
+            },
+            "impact_theory": "AI chip leader caught in memory/tech sell-off. Implications for entire AI ecosystem. Psychology: Overvaluation fears. Parallels to dot-com bubble leaders. Analogies: King of the hill pushed off; engine of train derailing.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short",
+                "estimated_price_impact_pct": "-5 to -10%",
+                "reasoning": "Dragged in global tech rout and Micron weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, add on dips for 20%+",
+                "short_position": "Tactical shorts on momentum loss",
+                "key_risks": "Competition, regulation"
+            },
+            "confidence_rating": "A",
+            "justification": "Sector leader with clear sentiment linkage."
+        }
+    ]
+}
