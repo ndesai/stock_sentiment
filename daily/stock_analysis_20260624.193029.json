@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 168.5,
+                    "low": 85.2
+                },
+                "pe_ratio": 18.7,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Micron's earnings report is pivotal for AI memory demand. Positive results could validate AI capex sustainability after recent tech rout. Market psychology: Relief rally possible on beats; fear of slowdown if weak. Historical parallel: Similar to 2023 AI boom post-earnings volatility. Analogies: 1) Like oil earnings confirming energy demand cycle. 2) Like auto earnings validating EV transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Focus on AI DRAM/HBM demand; pre-earnings stabilization seen in searches. X sentiment mixed but earnings anticipation high (latest mode searches show positive chatter on recovery)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MU on beat; target 10-15% upside to $160+",
+                "short_position": "Short if miss; 8-12% downside risk",
+                "key_risks": "Guidance miss on AI spending slowdown; macro rate hike concerns"
+            },
+            "confidence_rating": "A",
+            "justification": "Highest visibility event with direct AI sector impact; real-time news confirms centrality."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.3,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.4
+                },
+                "pe_ratio": 52.4,
+                "volume": "245M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Heavy hit in prior day's tech selloff due to valuation concerns on AI hype. Implications: AI infrastructure leader but sensitive to sentiment shifts. Psychology: FOMO reversal to caution. Historical: Echoes 2022 crypto/AI bubble corrections. Analogies: 1) Dot-com era leaders post-bubble. 2) Tesla's valuation swings on hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium",
+                "estimated_price_impact_pct": "-3 to +5%",
+                "reasoning": "Stabilization post-rout; MU earnings spillover positive. X latest posts show cautious optimism on recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate dips for 5-10% rebound",
+                "short_position": "Avoid or hedge; high beta volatility",
+                "key_risks": "Continued valuation compression; competition in chips"
+            },
+            "confidence_rating": "A",
+            "justification": "Core AI name with massive volume and news dominance."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.8,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.6,
+                    "low": 95.1
+                },
+                "pe_ratio": 42.1,
+                "volume": "52M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Caught in semiconductor rout; AI GPU competition with NVDA. Economic: Data center demand key. Psychology: Sector rotation fears. Historical: Parallels 2024-25 semis cycles. Analogies: 1) Intel's past AI catch-up struggles. 2) Like pharma pipeline approvals.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-7%",
+                "reasoning": "Broader recovery from AI selloff; earnings season tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on sector rebound, 5%+ target",
+                "short_position": "Limited; pair trade vs NVDA",
+                "key_risks": "Market share loss; macro headwinds"
+            },
+            "confidence_rating": "B",
+            "justification": "High correlation to MU/NVDA but less direct catalyst."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.4,
+                "market_cap": "785B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.2,
+                    "low": 128.7
+                },
+                "pe_ratio": 28.9,
+                "volume": "18M",
+                "recent_dividend": "$0.53 quarterly"
+            },
+            "impact_theory": "Networking/AI chips exposed to same valuation fears. Implications: Diversified but AI-heavy. Parallels historical semis corrections post-hype. Analogies: 1) Cisco's dot-com aftermath. 2) Like cloud stocks post-growth peaks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-9%",
+                "reasoning": "Stabilization amid tech rebound; dividend support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for dividend + growth, 6% upside",
+                "short_position": "Risky due to strength",
+                "key_risks": "AI capex pause; interest rate sensitivity"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid fundamentals but secondary to MU focus."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.1,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 48.5,
+                    "low": 18.9
+                },
+                "pe_ratio": 15.2,
+                "volume": "95M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Laggard in AI but potential recovery play. Economic: Foundry ambitions. Psychology: Value hunters vs growth selloff. Historical: Turnaround parallels like IBM. Analogies: 1) Auto legacy makers vs EV disruptors. 2) Retail banks post-crisis recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-2 to +3%",
+                "reasoning": "Sector pressure dominates; limited AI exposure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long on turnaround, high risk/reward",
+                "short_position": "Moderate; continued weakness likely",
+                "key_risks": "Execution misses; competitive losses"
+            },
+            "confidence_rating": "C",
+            "justification": "Peripheral to main AI narrative; lower conviction."
+        }
+    ]
+}
