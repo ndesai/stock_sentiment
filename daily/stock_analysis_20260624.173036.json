@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.5,
+                "market_cap": "3.35T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "280M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Continued AI infrastructure demand and Nvidia's dominance in GPUs drive positive sentiment. Economic implications include boosted tech capex and productivity gains. Market psychology: FOMO in AI narrative sustains premiums. Historical parallel: Dot-com boom in semiconductors. Analogies: 1) Like oil in the 20th century for energy. 2) Like smartphones for mobile computing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "X posts highlight AI spending by META/GOOG; strong earnings momentum and sector leadership amid cooling inflation expectations supporting growth stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% gains on AI catalysts; target new highs.",
+                "short_position": "Avoid shorting; high volatility risk.",
+                "key_risks": "Valuation compression if AI hype fades or competition intensifies; macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI leadership and multiple confirming news/X signals provide high conviction."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 510.0,
+                "market_cap": "1.29T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 532.0,
+                    "low": 290.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Massive AI capacity expansion announcements signal accelerated investment. Implications: Higher opex short-term but long-term efficiency/revenue from AI products. Psychology: Confidence in Big Tech execution. Parallels: Amazon's early cloud buildout. Analogies: 1) Railroad expansion era. 2) Electricity grid rollout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X sentiment and news on AI infrastructure spend; positive correlation with NVDA ecosystem."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long META expecting 8-12% upside from AI monetization.",
+                "short_position": "Not recommended; strong fundamentals.",
+                "key_risks": "Regulatory scrutiny, ad market volatility, execution risk on AI ROI."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating data points from news and social sentiment."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 145.0,
+                "market_cap": "160B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "25M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Upcoming earnings amid HBM/AI memory demand surge. Implications: Cyclical recovery in memory chips. Psychology: Anticipation of beats fuels momentum. Parallels: 2023-24 memory cycle bottom. Analogies: 1) Housing market cycle. 2) Commodity supercycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Earnings week focus; positive pre-announcement X chatter and AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ahead of earnings for 12%+ swing potential.",
+                "short_position": "Post-earnings fade if miss.",
+                "key_risks": "Cyclical volatility, inventory issues, macro demand weakness."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst strong but timing and exact beat uncertain."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 215.0,
+                "market_cap": "3.2T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 235.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "50M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Potential product price increases and AI features in devices. Implications: Margin expansion and services growth. Psychology: Premium brand loyalty. Parallels: iPhone launch cycles. Analogies: 1) Luxury auto pricing power. 2) Streaming content bundling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Subtle positive sentiment on pricing power and ecosystem stickiness amid broader tech rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 3-5% gains on stability.",
+                "short_position": "Minimal; defensive qualities.",
+                "key_risks": "China exposure, slowing hardware sales, antitrust."
+            },
+            "confidence_rating": "B",
+            "justification": "Less volatile mover but consistent positive backdrop."
+        },
+        {
+            "details": {
+                "ticker": "ASML",
+                "full_name": "ASML Holding N.V.",
+                "current_price": 1050.0,
+                "market_cap": "410B",
+                "sector_industry": "Technology/Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 1150.0,
+                    "low": 580.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "1.2M",
+                "recent_dividend": "€1.45 annual"
+            },
+            "impact_theory": "Denial of EUV shipment allegations clears overhang. Implications: Continued monopoly on advanced lithography for AI chips. Psychology: Relief rally. Parallels: Past supply chain rumor resolutions. Analogies: 1) Boeing after grounding incidents. 2) Key infrastructure provider.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "X posts and news confirm resolution; critical enabler for NVDA ecosystem."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% recovery/gains.",
+                "short_position": "High risk due to geopolitical sensitivity.",
+                "key_risks": "Export controls, order delays, high valuation."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear positive catalyst with some macro/geopolitical uncertainty."
+        }
+    ]
+}
