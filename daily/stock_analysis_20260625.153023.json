@@ -1,0 +1,62 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "QQQ",
+                "full_name": "Invesco QQQ Trust",
+                "current_price": 485.25,
+                "market_cap": "N/A (ETF)",
+                "sector_industry": "ETF/Technology",
+                "high_low_52_week": {
+                    "high": 540.81,
+                    "low": 402.35
+                },
+                "pe_ratio": 28.5,
+                "volume": "45.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Nasdaq technical breakdown signals weakening momentum amid narrow AI leadership. Economic implications include reduced risk appetite; market psychology shows fear of Fed surprises. Historical parallel: 2022 tech selloff. Analogies: Like a dam leaking before burst; dominoes in a line starting to fall.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3.5%",
+                "reasoning": "X posts highlight breaking support on Nasdaq Composite; thin advancing stocks indicate weak breadth. Limited specific catalysts but sentiment shift evident in latest posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential -5% downside if support breaks further",
+                "short_position": "Enter short on bounce to 490, target 460 for +6% gain",
+                "key_risks": "Sudden AI news reversal or Fed dovish surprise could trigger short squeeze"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent technical signals across multiple X posts, but no major fundamental catalyst identified."
+        },
+        {
+            "details": {
+                "ticker": "ADANIPOWER",
+                "full_name": "Adani Power Ltd",
+                "current_price": 152.4,
+                "market_cap": "58.2B INR",
+                "sector_industry": "Utilities/Energy",
+                "high_low_52_week": {
+                    "high": 185.3,
+                    "low": 98.7
+                },
+                "pe_ratio": 22.1,
+                "volume": "12.8M",
+                "recent_dividend": "0.50 INR (Mar 2026)"
+            },
+            "impact_theory": "Indian power sector tracking amid global energy shifts. Implications for emerging market flows. Psychology: Momentum chasing in India stocks. Parallel: 2023 Adani volatility. Analogies: Rocket fueled by policy tailwinds; tightrope walk over regulatory hurdles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4.2%",
+                "reasoning": "Mentioned in Indian stock screening posts with positive tracking sentiment; sector resilience noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips, target 165 for +8% in 2 weeks",
+                "short_position": "Not recommended; high short interest risk",
+                "key_risks": "Regulatory changes in India or global commodity price spikes"
+            },
+            "confidence_rating": "C",
+            "justification": "Limited US-centric coverage; primarily domestic India sentiment from X."
+        }
+    ]
+}
