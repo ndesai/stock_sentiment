@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1205.48,
+                "market_cap": "1.35T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1253.57,
+                    "low": 991.1
+                },
+                "pe_ratio": 28.5,
+                "volume": "69.4M",
+                "recent_dividend": "$0.15 quarterly (declared June 24, 2026)"
+            },
+            "impact_theory": "Micron's record Q3 earnings (revenue $41.46B, +345% YoY) driven by AI memory demand triggered massive sentiment reversal from prior chip selloff fears. Economic implications include accelerated AI infrastructure spending and supply constraints boosting pricing power. Market psychology shifted from AI bubble doubts to renewed enthusiasm. Historical parallel: 2023-2024 NVDA rallies on similar demand surges. Analogies: (1) Like a gold rush where pickaxe sellers (memory makers) profit most; (2) Oil boom where producers surge on demand spikes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-16%",
+                "reasoning": "Blowout results and $50B Q4 guide beat estimates significantly; X sentiment overwhelmingly positive with AI trade revival; lifts entire semiconductor sector."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 15-25% gains into year-end as AI cycle extends",
+                "short_position": "Avoid; momentum strong, risk of squeeze",
+                "key_risks": "Valuation stretch, macro slowdown in consumer electronics, competition from Samsung/SK Hynix"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with quantifiable beats and sector-wide confirmation from multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.2,
+                "market_cap": "3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.3,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.8,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "MU's AI memory validation reinforces NVIDIA's GPU dominance narrative amid prior rate/valuation concerns. Implications: Sustained data center capex. Psychology: Fear of missing out returns. Parallels: Post-earnings NVDA surges in 2024. Analogies: (1) Domino effect in tech supply chain; (2) Tide lifting all AI boats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Indirect beneficiary of memory demand confirmation; X posts highlight sector rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for continued AI leadership, potential 10-20% upside",
+                "short_position": "High risk due to momentum",
+                "key_risks": "Export restrictions, competition, high valuation"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation with MU catalyst and historical patterns."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 178.5,
+                "market_cap": "840B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 128.4
+                },
+                "pe_ratio": 32.1,
+                "volume": "22M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Networking/custom AI silicon exposure benefits from overall memory/AI demand surge validated by MU. Broader chip optimism returns after recent dips. Parallels to prior Broadcom rallies on AI tailwinds. Analogies: Ecosystem play like suppliers to auto boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector rebound and AI infrastructure spending lift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for steady gains tied to AI capex cycle",
+                "short_position": "Not recommended",
+                "key_risks": "Acquisition integration, macro sensitivity"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but confirmed sector tailwind."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 138.9,
+                "market_cap": "225B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 152.4,
+                    "low": 95.8
+                },
+                "pe_ratio": 35.6,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "CPU/GPU AI offerings gain credibility from industry-wide demand proof. Psychology shift from underperformer to catch-up play. Historical: AMD rallies on positive sector news. Analogies: Second mover advantage in expanding market.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Chip sector recovery lifts all players, especially AI-exposed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Attractive for relative value vs peers",
+                "short_position": "Limited",
+                "key_risks": "Market share battles, execution on new products"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector lift confirmed but less direct catalyst than MU."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 248.7,
+                "market_cap": "715B",
+                "sector_industry": "Financials/Banking",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 195.3
+                },
+                "pe_ratio": 13.2,
+                "volume": "8.2M",
+                "recent_dividend": "$1.25 quarterly"
+            },
+            "impact_theory": "Leadership transition (Lake retirement, new co-presidents) signals stability and continuity in strong bank franchise amid mixed macro backdrop. Minor positive on succession clarity. Parallels to smooth CEO transitions boosting confidence. Analogies: Corporate relay race handoff; steady ship in choppy waters.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to slightly Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Positive internal news offsets broader market volatility; limited X buzz compared to tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defensive hold with dividend appeal",
+                "short_position": "Not favored",
+                "key_risks": "Interest rate environment, regulatory changes"
+            },
+            "confidence_rating": "C",
+            "justification": "News is company-specific but lower market-moving impact than earnings surprises."
+        }
+    ]
+}
