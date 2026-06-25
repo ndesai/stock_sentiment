@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 200.74,
+                "market_cap": "4.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "250M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Major AI infrastructure spending pause and rotation out of hype stocks amid $2.7T Magnificent 7 + AVGO/ORCL value wipeout in June. Economic implications: slower near-term capex realization but sustained long-term GPU demand (Oracle utilization 97.5%). Market psychology: profit-taking after parabolic runs, fear of delayed ROI. Historical parallels: 2022 tech correction post-2021 bubble. Analogies: Like 1999 dot-com rotation into profitability focus; like 2022 crypto winter where infrastructure leaders survived.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish long-term",
+                "estimated_price_impact_pct": "-8% to +5%",
+                "reasoning": "Recent 7% monthly drop, heavy options activity, but strong data center revenue (92% YoY). X sentiment mixed with retail selling to fund alternatives; analyst targets remain high. Web news highlights rotation but Oracle GPU demand confirmation supports recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% rebound on next AI catalyst; target $230+",
+                "short_position": "Short on further rotation news for 8-12% downside to $180",
+                "key_risks": "Earnings volatility, macro rate decisions, AI capex slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources on AI sell-off (Yahoo, Options Insider, Motley Fool) with consistent price levels and fundamentals intact."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 365.46,
+                "market_cap": "2.7T",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 468.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "22M",
+                "recent_dividend": "0.75 quarterly"
+            },
+            "impact_theory": "AI Azure growth (123% YoY to $37B run-rate) overshadowed by broad tech derating and retail profit-taking. Implications: Validates hyperscaler spend but questions valuation multiples. Psychology: Rotation fatigue after prior run. Parallels: Post-2023 banking/tech pauses. Analogies: 2021 rotation from growth to value; EV hype cycle corrections.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-5% to +3%",
+                "reasoning": "YTD -22%, recent 2.3% drop. Goldman maintains Buy citing limitless AI tailwinds. X/web show continued options interest but sentiment cooling."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for Azure-driven 10-18% recovery",
+                "short_position": "Limited; better for pairs trade vs. pure AI plays",
+                "key_risks": "Azure growth miss, regulatory scrutiny"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals offset by macro rotation; fewer direct event triggers than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 157.53,
+                "market_cap": "430B",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 118.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "15M",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "AI data center pivot with 13% workforce cut and $70B buildout announced post strong FY26 results ($67B rev +17%). Implications: Near-term margin pressure vs long-term cloud positioning. Psychology: Valuation reset on execution risk. Parallels: Amazon AWS early capex phases. Analogies: Telecom infrastructure buildouts of 1990s; semiconductor equipment cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-6% to +10%",
+                "reasoning": "Recent 4.6-18% monthly declines but beat estimates and raised guidance. Positive Oracle GPU comments boost NVDA ecosystem indirectly. X sentiment negative on margins."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on pullback targeting $200+ (60% upside per analysts)",
+                "short_position": "Short further margin concerns for 8-10%",
+                "key_risks": "Buildout delays, competition from hyperscalers"
+            },
+            "confidence_rating": "A",
+            "justification": "Detailed earnings reactions and analyst targets align across sources."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 185.0,
+                "market_cap": "860B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "18M",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "Networking/optical AI exposure caught in broad AI infrastructure derating alongside NVDA. Implications: Validates sustained demand per analysts. Psychology: High-beta selloff. Parallels: 2023 semi correction. Analogies: Auto chip cycle volatility; renewable energy infrastructure plays.",
+            "news_impact_analysis": {
+                "outlook": "Mixed",
+                "estimated_price_impact_pct": "-4% to +8%",
+                "reasoning": "Mentioned in AI bill analysis and analyst calls favoring networking. Options flow active."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for AI networking recovery 12-20%",
+                "short_position": "Avoid or limited",
+                "key_risks": "Supply chain, customer concentration"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector rotation but less specific negative catalysts."
+        },
+        {
+            "details": {
+                "ticker": "PLTR",
+                "full_name": "Palantir Technologies Inc.",
+                "current_price": 113.5,
+                "market_cap": "265B",
+                "sector_industry": "Technology/Application Software",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 220.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI platform narrative profit-taking after 85% rev growth and raised guidance. Implications: Valuation compression on high multiple. Psychology: Expectation reset post-runup. Parallels: Snowflake/Snow post-IPO hype. Analogies: SaaS multiple contraction 2022; biotech platform stories.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-7% to +12%",
+                "reasoning": "Down 16.9% monthly, 2.7% recent drop despite fundamentals. Buy ratings with $225 targets persist."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for ontology/AI platform 20%+ rebound",
+                "short_position": "Short overvaluation realization 10%",
+                "key_risks": "Contract concentration, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sentiment shift data but high volatility typical for PLTR."
+        }
+    ]
+}
