@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.45,
+                "market_cap": "132.8B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.32,
+                    "low": 68.75
+                },
+                "pe_ratio": 14.2,
+                "volume": "42.5M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Memory chip selloff triggered by AI cost concerns and price hikes from Apple affecting demand outlook. Economic implications include cooling AI capex hype; market psychology shifting from euphoria to caution on valuation. Historical parallel to 2022 chip downturn. Analogies: Like 2021 EV bubble correction; or oil glut fears in 2015.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Recent 20% two-day drop extended by SK Hynix/Samsung news; X sentiment negative on oversupply fears. Web searches confirm analyst downgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 15% rebound on positive earnings",
+                "short_position": "5-10% gains on continued selloff to $105 support",
+                "key_risks": "AI demand surprise upside; Fed rate signals"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent news flow and volume spikes support bearish view but volatility high."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.9,
+                "market_cap": "785B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 225.1,
+                    "low": 112.4
+                },
+                "pe_ratio": 22.8,
+                "volume": "28.7M",
+                "recent_dividend": "$0.53 quarterly (yield ~1.25%)"
+            },
+            "impact_theory": "Tech selloff spillover from memory weakness and broader AI valuation reset. Implications for supply chain slowdown; psychology of rotation out of mega-caps. Parallels to 2023 rate-hike tech correction. Analogies: Dot-com bust rotation; 2022 growth stock purge.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -9%",
+                "reasoning": "Follow-on weakness from MU/AVGO pair trading; latest X posts show increased short interest mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Entry near $155 on oversold bounce for 12%+",
+                "short_position": "Target $155-160 for 6-8% downside capture",
+                "key_risks": "Custom AI ASIC wins; macro improvement"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with sector news and recent price action patterns."
+        },
+        {
+            "details": {
+                "ticker": "HPE",
+                "full_name": "Hewlett Packard Enterprise Company",
+                "current_price": 19.85,
+                "market_cap": "25.9B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 24.65,
+                    "low": 14.8
+                },
+                "pe_ratio": 11.4,
+                "volume": "18.2M",
+                "recent_dividend": "$0.13 quarterly (yield ~2.6%)"
+            },
+            "impact_theory": "Record earnings and guidance raise overshadowed by AI execution doubts, leading to sharp selloff despite fundamentals. Implications for enterprise IT spend; psychology favors proof over promises. Historical parallel to post-earnings reactions in 2023. Analogies: Cisco post-boom disappointment; IBM cloud transition doubts.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bearish short-term",
+                "estimated_price_impact_pct": "-7% immediate, +4% recovery potential",
+                "reasoning": "X posts highlight 'value hangover' narrative; news confirms strong results but valuation compression."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for dividend + recovery, target 25+ (25% upside)",
+                "short_position": "Limited; covered call strategy preferred",
+                "key_risks": "AI pipeline conversion delays; competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat vs price reaction discrepancy provides high conviction mean-reversion thesis."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp. (SpaceX)",
+                "current_price": 142.75,
+                "market_cap": "2.65T",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 168.5,
+                    "low": 95.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "65.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Post-IPO euphoria fading into volatility and profit-taking after record $86B raise. Economic implications for space economy hype cycle; psychology shift from FOMO to realism. Parallels to post-IPO performance of Snowflake or Rivian. Analogies: Tesla early volatility; Amazon dot-com era swings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Marketwatch notes 'FOMO officially over'; X sentiment turning skeptical on valuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for sub-$120 entry for long-term space growth",
+                "short_position": "Ride volatility down 12%+ near-term",
+                "key_risks": "Starship success or major contract wins"
+            },
+            "confidence_rating": "B",
+            "justification": "Recent IPO dynamics and news coverage provide solid directional signal."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 132.6,
+                "market_cap": "3.25T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.15,
+                    "low": 92.4
+                },
+                "pe_ratio": 48.5,
+                "volume": "312M",
+                "recent_dividend": "$0.01 quarterly (minimal yield)"
+            },
+            "impact_theory": "Sector-wide AI chip rotation and cost concerns weighing on leader. Broader implications for AI investment pace; market psychology testing 'AI is different' narrative. Parallels to 2000 tech bubble leaders. Analogies: Cisco in 2000; Bitcoin mining stocks post-2021.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Continued chip weakness spillover confirmed via multiple sources and X volume on downside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; add below $120 for 20%+ rebound",
+                "short_position": "Tactical 5-7% downside trades only",
+                "key_risks": "Blackwell ramp success; earnings beats"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant sector leader with highest liquidity and news flow correlation."
+        }
+    ]
+}
