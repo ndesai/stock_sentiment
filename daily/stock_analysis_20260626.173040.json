@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 132.45,
+                "market_cap": "145B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 78.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "45.2M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Micron reported blowout earnings but faced subsequent selloff amid broader memory chip cost concerns and AI spending jitters. Economic implications include potential margin pressure on hyperscalers. Market psychology: initial euphoria from earnings followed by rotation out of AI hype. Historical parallel: 2023-2024 semiconductor cycles. Analogies: Like post-earnings volatility in NVDA 2024; akin to oil price swings post-supply shocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "AI cost concerns and OpenAI IPO delay rumors dominate X sentiment (negative on memory names). Web news highlights retreat after gains; earnings beat not enough to offset macro fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy on support for 15-20% rebound on stabilization",
+                "short_position": "Short on rallies targeting 10-15% downside",
+                "key_risks": "Earnings momentum reversal, unexpected AI capex data"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume news coverage and consistent X chatter on memory/AI costs provide clear sentiment signal."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.75,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 245.0,
+                    "low": 165.2
+                },
+                "pe_ratio": 32.5,
+                "volume": "62.8M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Apple announced significant price increases across product lineup, sparking AI cost and affordability concerns. Implications: potential demand elasticity issues. Psychology: shift from premium brand loyalty to value sensitivity. Historical: Similar to 2022 iPhone pricing pushback. Analogies: Streaming service price hikes backlash; luxury auto pricing cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "Direct link to price hike news; X posts highlight consumer pushback and AI cost narrative spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; long-term hold remains strong",
+                "short_position": "Short near-term for 6-10% correction",
+                "key_risks": "Holiday season demand strength, services growth offset"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news correlation but Apple resilience historically limits downside."
+        },
+        {
+            "details": {
+                "ticker": "ON",
+                "full_name": "ON Semiconductor Corporation",
+                "current_price": 52.3,
+                "market_cap": "22B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 82.4,
+                    "low": 38.9
+                },
+                "pe_ratio": 14.8,
+                "volume": "18.5M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "ON Semi announced $7B all-stock acquisition of Synaptics for edge AI expansion but stock tanked 20% on integration fears and dilution concerns. Broader implications for M&A in semis. Psychology: Acquisition premium skepticism. Historical: Many deal-announcement selloffs (e.g., 2021-22). Analogies: AMD/Xilinx deal reaction; Intel acquisitions volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-15% to -22%",
+                "reasoning": "CEO defense of deal amid heavy selling; X sentiment sharply negative on deal terms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate post-selloff for acquisition synergies (20%+ upside)",
+                "short_position": "Continue short on further weakness",
+                "key_risks": "Regulatory approval, Synaptics integration execution"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with massive price reaction and volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.8,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors - AI",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.0,
+                "volume": "285M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Broader AI trade cooling due to cost fears spilling from memory names and OpenAI news. Implications for GPU demand outlook. Psychology: Hype cycle fatigue. Historical: 2022 crypto/AI rotation parallels. Analogies: Dot-com bubble rotation; EV hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Indirect exposure via sector sentiment; X posts show rotation away from pure AI plays."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core long-term hold; add on dips for 25%+ recovery",
+                "short_position": "Tactical short for near-term 8% move",
+                "key_risks": "Blackwell ramp success overriding sentiment"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide effect confirmed but NVDA fundamentals robust."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 452.6,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology/Software - Cloud/AI",
+                "high_low_52_week": {
+                    "high": 510.0,
+                    "low": 385.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "22.1M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "Xbox price increases announced alongside Apple moves, amplifying AI infrastructure cost narrative. Broader cloud/AI spend scrutiny. Psychology: Growth-at-any-cost questioning. Historical: 2023 rate-hike era tech valuation compression. Analogies: Netflix price hikes; SaaS valuation resets.",
+            "news_impact_analysis": {
+                "outlook": "Mildly Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Price hike news secondary to broader tech malaise; milder X reaction."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; diversified AI/cloud leader offers resilience",
+                "short_position": "Limited; better for pairs trade vs peers",
+                "key_risks": "Azure growth beats expectations"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect impact with strong underlying business mitigating volatility."
+        }
+    ]
+}
