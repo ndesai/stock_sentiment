@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Micron's blowout AI-driven earnings beat expectations significantly. Economic implications include accelerated semiconductor demand for data centers. Market psychology shows renewed confidence in AI infrastructure spending. Historical parallel to 2023 AI boom post-earnings. Analogies: Like oil boom fueling energy stocks in 2000s; rocket fuel for a specific engine in a larger vehicle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12% to +18%",
+                "reasoning": "Strong earnings validate AI memory demand; X sentiment highly positive post-release with volume surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips; potential +15% short-term gains from momentum continuation.",
+                "short_position": "Avoid or cover; high risk of further upside.",
+                "key_risks": "Supply chain issues, macro slowdown in AI capex, valuation compression."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with immediate market reaction confirmed in multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "245M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Indirect impact from OpenAI IPO delay and broader tech selloff amid AI hype questions. Economic: Continued GPU demand but valuation concerns. Psychology: Profit-taking and rotation. Historical: Similar to 2022 crypto winter pullbacks. Analogies: Rollercoaster ride after peak; high tide lifting all boats but ebbing selectively.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "IPO delay rattles sentiment; X posts show mixed but cautious tone on valuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $130 for long-term AI exposure (+10% recovery).",
+                "short_position": "Short-term hedge possible for 5-7% downside.",
+                "key_risks": "Earnings miss or China export curbs, intense competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals offset by near-term sentiment volatility."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.5,
+                "market_cap": "3.0T",
+                "sector_industry": "Technology / Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 232.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "52M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Mentioned in context of MU earnings spillover and tech rotation. Broader AI/software questions affect services growth narrative. Implications: Consumer spending resilience vs AI substitution fears. Parallels to post-iPhone launch cycles. Analogies: Anchor tenant in shopping mall; tortoise vs hare in tech race.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly Bearish",
+                "estimated_price_impact_pct": "-2% to -4%",
+                "reasoning": "Less direct exposure but tech selloff contagion; stable X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add for dividend stability (+3-5% annual).",
+                "short_position": "Limited appeal; low volatility.",
+                "key_risks": "China sales slowdown, regulatory actions, AI feature adoption delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect impact limits magnitude of move."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 452.0,
+                "market_cap": "3.35T",
+                "sector_industry": "Technology / Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 468.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "18M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "Software/IT services questioned due to in-house AI capabilities. OpenAI (partner) IPO delay adds uncertainty. Implications: Cloud growth vs margin pressure. Historical: Dot-com bubble software valuations. Analogies: Middleman in supply chain disrupted; trusted advisor facing AI replacement.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Sector-wide sentiment shift from X and news on AI disruption potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for Azure/OpenAI synergies (+8% recovery).",
+                "short_position": "Tactical short for 4-6% near-term.",
+                "key_risks": "AI capex ROI disappointment, competition from open-source."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to highlighted software valuation concerns."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 138.0,
+                "market_cap": "225B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Semi peer to MU/NVDA; benefits from AI demand but exposed to tech rotation. Economic boost from data center spend. Psychology: Follow-on momentum or sympathy moves. Parallels to 2024 chip cycle. Analogies: Second fiddle in orchestra; wave rider behind leader.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +10%",
+                "reasoning": "AI tailwinds from MU news outweigh broader selloff per X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Entry for AI GPU catch-up play (+8-12%).",
+                "short_position": "Not recommended.",
+                "key_risks": "Market share loss to NVDA, execution on MI300 series."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector positive but secondary to MU catalyst."
+        }
+    ]
+}
