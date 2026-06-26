@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.45,
+                "market_cap": "132.8B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.32,
+                    "low": 72.15
+                },
+                "pe_ratio": 14.8,
+                "volume": "28.4M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Micron earnings miss amid AI memory demand concerns and broader tech selloff following strong prior run. Economic implications include cooling AI capex hype amid cost concerns. Market psychology: profit-taking after parabolic gains. Historical parallel: 2022 chip downturn. Analogies: Like post-dotcom correction in semis; like oil price drop removing premium but signaling demand questions.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "X posts and news highlight Micron -13% move post-earnings preview, memory chip weakness in Korea/US, AI cost fears from Apple affecting suppliers. Sentiment shift heavy negative on X (limit 20 latest posts)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for AI recovery; potential +15% rebound on strong guidance revision",
+                "short_position": "Short into weakness for 8-12% downside if inflation data hawkish",
+                "key_risks": "AI demand resilience, Fed policy pivot, supply constraints"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong alignment between news, X sentiment and earnings catalyst but macro data (PCE) could shift narrative quickly."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 168.75,
+                "market_cap": "2.07T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 192.5,
+                    "low": 124.3
+                },
+                "pe_ratio": 22.4,
+                "volume": "32.1M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "AI talent departures and valuation concerns post-SpaceX IPO distraction. Implications: slowing innovation narrative. Psychology: rotation out of mega-cap growth. Parallels: 2022 Google AI lag correction. Analogies: Talent exodus like early Meta brain drain; IPO overhang like post-ARM listing.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "News of 5% drop tied to AI departures; broader tech malaise. X semantic search shows negative sentiment on valuation stretch."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for cloud/AI long-term; +10% recovery possible",
+                "short_position": "Short for continued rotation; 5-8% further downside",
+                "key_risks": "Search revenue stability, regulatory wins, AI product launches"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources (news, X, price action) on specific catalyst."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 182.3,
+                "market_cap": "1.92T",
+                "sector_industry": "Consumer Cyclical/E-commerce & Cloud",
+                "high_low_52_week": {
+                    "high": 210.15,
+                    "low": 151.8
+                },
+                "pe_ratio": 32.6,
+                "volume": "41.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tech-led selloff amplified by AI infrastructure spending scrutiny. Implications: AWS growth questions. Psychology: Fear of margin pressure. Parallels: 2022 e-comm slowdown. Analogies: Like post-pandemic Zoom correction; like retail rotation after earnings beat fatigue.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "4.8% decline cited in market reports alongside peers; X posts note cost concerns spilling over."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AWS recovery bets; potential +9% on positive macro",
+                "short_position": "Short volatility; 4-7% downside risk",
+                "key_risks": "Consumer spending data, AWS utilization metrics"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price action but broader market correlation reduces stock-specific certainty."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.65,
+                "market_cap": "3.05T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 232.4,
+                    "low": 164.2
+                },
+                "pe_ratio": 29.1,
+                "volume": "52.3M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Price increase announcements sparking AI cost worries for suppliers and ecosystem. Implications: Hardware demand elasticity test. Psychology: Premium brand fatigue. Parallels: 2019 iPhone cycle slowdown. Analogies: Like Tesla price cuts backlash; smartphone market share erosion like Nokia era.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2% to -5%",
+                "reasoning": "Bloomberg/ news coverage on AI cost concerns biting suppliers and peers; dragged indices."
+            },
+            "potential_profit_risks": {
+                "long_position": "Services growth story; +6% on new product cycle",
+                "short_position": "Tactical short 3-6% on continued pressure",
+                "key_risks": "China exposure, services margins, AI feature adoption"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect catalyst but consistent with sector theme."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 112.8,
+                "market_cap": "2.78T",
+                "sector_industry": "Technology/Semiconductors - AI",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 75.6
+                },
+                "pe_ratio": 38.5,
+                "volume": "285.6M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Memory/AI infrastructure selloff contagion. Implications: Valuation reset needed. Psychology: Momentum reversal after massive gains. Parallels: 2000 tech bubble peak. Analogies: Like Cisco post-2000; crypto miners post-hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "High correlation to MU and memory names; X latest posts flag overextension."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; +12% on any positive data",
+                "short_position": "High beta short opportunity for 7-10%",
+                "key_risks": "Blackwell ramp success, China sales, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant theme across all data sources with extreme volume and sentiment shift."
+        }
+    ]
+}
