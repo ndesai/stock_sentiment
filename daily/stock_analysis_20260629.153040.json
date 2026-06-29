@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "AI infrastructure boom continues with strong earnings but recent pullback due to valuation concerns and profit-taking. Economic implications include sustained capex by hyperscalers. Market psychology shows FOMO vs fear of bubble. Historical parallel to 1999 dot-com. Analogies: Like gold rush pickaxe seller; rocket fuel provider in space race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Continued AI demand dominance; X sentiment positive on earnings beat potential despite short-term dip. Recent legacy tech mentions favor pullback buys."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% gains by Q3 on AI cycle",
+                "short_position": "Avoid; high short squeeze risk",
+                "key_risks": "Valuation compression, competition from AMD, regulatory scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant AI position confirmed by multiple earnings cycles and market leadership."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.2,
+                "market_cap": "272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Gaining AI market share rapidly, outperforming NVDA YTD. Implications: Diversification in semis. Psychology: Underdog rally momentum. Parallel: Intel vs AMD past cycles. Analogies: Marathon runner overtaking leader; second engine on plane.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "130% YTD gains noted; strong sentiment on X and analyst upgrades for data center growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued share gains, 20% upside",
+                "short_position": "Limited; momentum strong",
+                "key_risks": "Execution risk, margin pressure"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent outperformance and positive coverage in June 2026."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 455.0,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 480.0,
+                    "low": 310.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "22M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "AI integration via Copilot/OpenAI driving growth amid broader tech pullback. Implications: Cloud and productivity boost. Psychology: Safe haven in tech. Parallel: Post-Internet boom recovery. Analogies: Swiss army knife of AI tools; reliable utility stock with growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Analyst calls positive; steady sentiment on platforms despite market volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, steady 10% gains",
+                "short_position": "Not recommended",
+                "key_risks": "Antitrust, Azure growth slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but less volatile than pure AI plays."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 215.0,
+                "market_cap": "3.2T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "55M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "WWDC AI Siri updates met with muted reaction leading to short-term weakness. Implications: Services growth key. Psychology: Expectation vs reality gap. Parallel: iPhone launch cycles. Analogies: Sleeping giant awakening; premium brand resilience test.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Recent selloff post-event; mixed X sentiment on AI features adoption speed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization, long-term buy",
+                "short_position": "Short for quick 5% scalp",
+                "key_risks": "China exposure, competition in AI"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven move with historical precedent for recovery."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.0,
+                "market_cap": "910B",
+                "sector_industry": "Consumer Cyclical/Auto & Energy",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 65.4,
+                "volume": "110M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Delivery forecasts upgraded amid Magnificent 7 volatility and robotaxi/AI hype. Implications: EV transition + autonomy narrative. Psychology: Elon factor volatility. Parallel: Early Amazon growth story. Analogies: High-octane sports car; speculative moonshot bet.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Analyst raises on deliveries; X sentiment polarized but volume high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Volatile swings for 15%+ swings",
+                "short_position": "Risky due to squeeze potential",
+                "key_risks": "Execution delays, competition, valuation"
+            },
+            "confidence_rating": "C",
+            "justification": "High uncertainty from leadership and macro factors."
+        }
+    ]
+}
