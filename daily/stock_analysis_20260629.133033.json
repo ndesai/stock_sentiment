@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 193.84,
+                "market_cap": "4.75T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 220.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 48.5,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "US-Iran de-escalation reduces geopolitical risk premium, boosting risk assets including AI leaders. Market psychology: relief rally after tension-driven volatility. Historical parallels: 2019-2020 Iran events led to tech rebound. Analogies: 1) Like post-election clarity boosting growth stocks. 2) Similar to 2023 banking crisis resolution favoring tech.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Peace talks + sustained AI demand from X/web sentiment; earnings momentum continues."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 5-8% gains on AI capex continuation; target entry on dips.",
+                "short_position": "Avoid shorts; limited downside unless rate hike surprise.",
+                "key_risks": "Valuation compression if growth slows; supply chain issues."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment between geopolitical relief and core AI narrative supported by multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 286.71,
+                "market_cap": "4.3T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 310.2,
+                    "low": 185.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "52M",
+                "recent_dividend": "0.24 (quarterly)"
+            },
+            "impact_theory": "Chip sourcing approvals amid China tensions and AI Siri updates create sentiment volatility. Psychology: mixed reaction to WWDC but long-term AI tailwinds. Parallels: 2023 Vision Pro launch hype cycle. Analogies: 1) iPhone launch cycles. 2) Similar to MSFT AI integration phases.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "De-risked supply chain + positive X chatter on AI features."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 3-5% on services/AI growth narrative.",
+                "short_position": "Short only on overreaction to China news.",
+                "key_risks": "Regulatory scrutiny; China revenue exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid fundamentals but mixed near-term news flow."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 381.78,
+                "market_cap": "1.22T",
+                "sector_industry": "Consumer Cyclical/Auto & EV",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 210.5
+                },
+                "pe_ratio": 72.3,
+                "volume": "78M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robotaxi/AI progress + macro relief from peace talks lift sentiment. Psychology: momentum from innovation narrative. Parallels: 2020 EV boom. Analogies: 1) Amazon early growth phase. 2) SpaceX synergies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "X sentiment positive on autonomy updates amid broader risk-on."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% on delivery/AI catalysts.",
+                "short_position": "Short volatility plays only.",
+                "key_risks": "Execution delays; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "High beta to macro and innovation news."
+        },
+        {
+            "details": {
+                "ticker": "HPE",
+                "full_name": "Hewlett Packard Enterprise Company",
+                "current_price": 43.93,
+                "market_cap": "57B",
+                "sector_industry": "Technology/IT Infrastructure",
+                "high_low_52_week": {
+                    "high": 52.1,
+                    "low": 18.4
+                },
+                "pe_ratio": 14.2,
+                "volume": "35M",
+                "recent_dividend": "0.13 (quarterly)"
+            },
+            "impact_theory": "Strong earnings and AI server demand; geopolitical calm supports enterprise spending. Psychology: value + growth rotation. Parallels: 2023-24 AI infra surge. Analogies: 1) Dell post-earnings pops. 2) Cisco recovery cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-12%",
+                "reasoning": "Recent 19%+ surge precedent; ongoing AI tailwinds confirmed via searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-15% follow-through.",
+                "short_position": "Minimal; momentum strong.",
+                "key_risks": "Margin pressure; macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with sector confirmation."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 377.5,
+                "market_cap": "2.8T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 295.0
+                },
+                "pe_ratio": 35.1,
+                "volume": "22M",
+                "recent_dividend": "0.75 (quarterly)"
+            },
+            "impact_theory": "Azure/OpenAI growth benefits from market stability post-Iran talks. Psychology: defensive growth appeal. Parallels: Post-2022 rate peak rally. Analogies: 1) Google cloud ramp. 2) Amazon AWS cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Consistent AI/cloud narrative with low volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 3-6% gains.",
+                "short_position": "Not recommended.",
+                "key_risks": "Antitrust; competition from open-source."
+            },
+            "confidence_rating": "B",
+            "justification": "Reliable but less volatile mover than peers."
+        }
+    ]
+}
