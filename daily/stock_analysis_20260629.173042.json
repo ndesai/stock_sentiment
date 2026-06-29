@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.45,
+                "market_cap": "132.8B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.25,
+                    "low": 72.8
+                },
+                "pe_ratio": 14.2,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth-oriented)"
+            },
+            "impact_theory": "Sharp selloff in AI chip stocks amid rotation and OpenAI IPO delay rumors. Economic implications include delayed capex cycles but sustained long-term AI demand. Market psychology: fear of overvaluation in semis after run-up. Historical parallel: 2022 chip downturn. Analogies: Like a tech bubble correction in 2000; rubber band snap after stretch.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium-term",
+                "estimated_price_impact_pct": "-4% to -8% immediate; +15% recovery by Q4",
+                "reasoning": "Friday's 6.7% drop on SOX weakness and sentiment from X/latest news; upcoming economic data June 30 may stabilize. Strong earnings history supports rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 12-18% gains into earnings; target $135",
+                "short_position": "Avoid or cover; high short interest risks squeeze",
+                "key_risks": "Further AI hype fade, geopolitical chip supply issues, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "High volume confirmation of shift but fundamentals intact; moderate due to volatility around quarter-end."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.3,
+                "market_cap": "231.4B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 191.75,
+                    "low": 93.1
+                },
+                "pe_ratio": 42.8,
+                "volume": "42.1M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI chip rotation and broader tech profit-taking. Implications for data center growth slowdown fears. Psychology: herd mentality exiting high-valuation names. Parallel to 2023 banking/tech volatility. Analogies: Domino effect in semis; cooling engine after overheat.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "2.1% Friday drop, X sentiment negative on semis; tied to MU/overall SOX. Economic calendar neutral."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 10%+ rebound",
+                "short_position": "Limited; momentum could reverse fast",
+                "key_risks": "Earnings beats, AI partnership news"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector-wide shift evidenced in news/X; high conviction on near-term pressure."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.75,
+                "market_cap": "3.42T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 164.4,
+                    "low": 87.25
+                },
+                "pe_ratio": 52.3,
+                "volume": "185M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Core AI leader facing valuation reset amid rotation. Implications: slower near-term growth priced in. Psychology: rotation from growth to value/defensives. Parallel: post-2023 rally pauses. Analogies: King of hill toppled temporarily; wave crest before next surge.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly Bearish",
+                "estimated_price_impact_pct": "-2% to +5% on data",
+                "reasoning": "Resilient but dragged by peers; X/posts show mixed sentiment. Positive macro backdrop ahead."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold; dips to $130 offer entry for 20%+",
+                "short_position": "Risky due to dominance",
+                "key_risks": "Supply constraints, competition from AMD/others"
+            },
+            "confidence_rating": "A",
+            "justification": "Strongest data points from multiple sources; market leader status."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.6,
+                "market_cap": "792B",
+                "sector_industry": "Consumer Cyclical / Auto & EV",
+                "high_low_52_week": {
+                    "high": 299.25,
+                    "low": 168.9
+                },
+                "pe_ratio": 68.4,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SpaceX-related spillover and EV demand concerns. Broader EV/AI narrative impact. Psychology: speculative names under pressure. Historical: 2022 EV correction. Analogies: Rocket launch delay; EV train temporarily derailed.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Mentioned in news alongside poor SpaceX performance; X shows negative retail sentiment spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 15% rebound on robotaxi news",
+                "short_position": "Viable near-term with tight stops",
+                "key_risks": "Elon Musk news, delivery beats"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect impacts; less direct data than semis."
+        },
+        {
+            "details": {
+                "ticker": "CMCSA",
+                "full_name": "Comcast Corporation",
+                "current_price": 42.85,
+                "market_cap": "168B",
+                "sector_industry": "Communication Services / Media",
+                "high_low_52_week": {
+                    "high": 48.1,
+                    "low": 34.75
+                },
+                "pe_ratio": 11.9,
+                "volume": "18.2M",
+                "recent_dividend": "$0.31 quarterly (yield ~2.9%)"
+            },
+            "impact_theory": "NBCUniversal spin-off announcement driving positive rotation into media. Defensive play amid tech weakness. Psychology: flight to value/yield. Parallel: media restructuring rallies. Analogies: Shedding weight for speed; phoenix rising from spin-off.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "20%+ surge noted on spin-off news; positive X sentiment shift; defensive appeal pre-June 30 data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy; target $48+ on completion",
+                "short_position": "Avoid",
+                "key_risks": "Regulatory hurdles on spin-off, cord-cutting acceleration"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive catalyst confirmed in multiple news sources."
+        }
+    ]
+}
