@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.92T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 42.8,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "Ongoing AI hype correction amid reports of OpenAI IPO delay and rising AI infrastructure costs. Economic implications include slowed capex in hyperscalers; market psychology shows rotation from growth to value/defensives; parallels to 2022 tech bubble deflation. Analogies: Like 2000 dot-com bust (overhyped tech) and 2022 crypto winter (sentiment reversal).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "X posts and news highlight sustained sell-off in semis; Micron weakness spillover; high volume selling pressure evident in recent sessions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 15% rebound on positive AI news",
+                "short_position": "5-10% downside if further rotation occurs",
+                "key_risks": "Sudden geopolitical de-escalation or strong earnings surprise"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent negative sentiment across multiple sources on tech/AI names"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 112.3,
+                "market_cap": "124B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.4,
+                    "low": 68.9
+                },
+                "pe_ratio": 15.2,
+                "volume": "42M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Post-earnings volatility and memory chip price pressure amid broader AI cost concerns. Implications for supply chain and DRAM pricing; psychology of profit-taking after prior rally; historical parallel to 2018-19 memory downturn. Analogies: Oil glut crash and 2023 regional bank crisis (sector-specific panic).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Heavy selling in memory stocks; SK Hynix/Samsung spillovers noted; X sentiment sharply negative post recent results."
+            },
+            "potential_profit_risks": {
+                "long_position": "Recovery play on AI demand rebound (+20% upside)",
+                "short_position": "Continued downside on macro weakness",
+                "key_risks": "Inventory build-up or weaker-than-expected guidance"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings and sector-wide data support strong bear case"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 132.7,
+                "market_cap": "215B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 187.6,
+                    "low": 93.1
+                },
+                "pe_ratio": 38.4,
+                "volume": "68M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI GPU competition and cost concerns hitting sentiment. Broader chip sector rotation; psychology of relative underperformance vs peers; parallels to 2021-22 rotation out of cyclicals. Analogies: Intel's lost decade and EV battery supply shocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "Consistent with Nasdaq/ semis weakness; latest analyst notes and volume indicate continued pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term AI positioning (15-25% upside potential)",
+                "short_position": "Near-term 5-8% drop possible",
+                "key_risks": "Data center order wins or macro relief rally"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic alignment but slightly less acute than MU"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 198.4,
+                "market_cap": "2.97T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 232.1,
+                    "low": 164.1
+                },
+                "pe_ratio": 31.5,
+                "volume": "52M",
+                "recent_dividend": "0.24 quarterly"
+            },
+            "impact_theory": "AI device rollout delays and cost inflation concerns weigh on valuation. Consumer spending psychology; parallels to iPhone cycle slowdowns. Analogies: 2018-19 trade war impact and smartphone saturation phase.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2% to -5%",
+                "reasoning": "Mentioned in AI cost headlines; defensive rotation benefiting relatively but still pressured."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend + services stability (+8% upside)",
+                "short_position": "Limited short interest opportunity",
+                "key_risks": "Services growth or new product catalysts"
+            },
+            "confidence_rating": "B",
+            "justification": "Moderate impact; less volatile than pure-play semis"
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.9,
+                "market_cap": "795B",
+                "sector_industry": "Consumer Cyclical/Auto & EV",
+                "high_low_52_week": {
+                    "high": 414.5,
+                    "low": 182.3
+                },
+                "pe_ratio": 52.1,
+                "volume": "95M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Robotaxi/AI hype cooling alongside SpaceX performance notes. EV demand psychology amid higher rates; historical EV bubble parallels. Analogies: Nikola fraud fallout and 2022 growth stock purge.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Mentioned in IPO delay context and broader tech weakness; high volatility sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Autonomy upside (+30% on catalysts)",
+                "short_position": "High beta downside trade",
+                "key_risks": "Delivery beats or regulatory wins"
+            },
+            "confidence_rating": "C",
+            "justification": "High volatility but mixed signals vs pure AI/semiconductor names"
+        }
+    ]
+}
