@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.25,
+                "market_cap": "3.32T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.13,
+                    "low": 75.2
+                },
+                "pe_ratio": 52.8,
+                "volume": "285M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Rebound in Mag7 and AI stocks after prior sell-off; strong AI demand and memory chip momentum. Economic implications: Boosts capex in tech. Market psychology: Relief rally, FOMO return. Historical parallels: 2023 AI boom. Analogies: Like post-earnings surge in 2024; rocket rebound after dip.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Tech rebound on June 29-30, Mag7 rally, AI hype continuation per news/X sentiment; positive volume and sentiment shift on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long calls or shares for 5-10% gains on continued AI momentum",
+                "short_position": "Avoid shorts; high risk of further upside",
+                "key_risks": "Valuation pullback, Fed rate concerns, geopolitical volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent rebound signals across markets, strong volume, multiple news sources confirming tech recovery."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.8,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 157.4,
+                    "low": 68.5
+                },
+                "pe_ratio": 18.5,
+                "volume": "32M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Memory chip demand surge from AI data centers; Micron's recent blockbuster quarter. Implications: Supply chain strength. Psychology: Rotation into memory plays. Parallels: 2024 HBM boom. Analogies: Gold rush suppliers; post-shortage recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Memory stocks rallying amid AI demand reports; positive X sentiment on earnings and sector outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long position targeting 8-12% gains on AI cycle continuation",
+                "short_position": "High risk; momentum favors longs",
+                "key_risks": "Inventory cycles, competition from Samsung/SK Hynix"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct sector news, earnings catalysts, strong historical correlation with AI spend."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 78.45,
+                "market_cap": "118B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 101.5,
+                    "low": 70.1
+                },
+                "pe_ratio": 22.1,
+                "volume": "18M",
+                "recent_dividend": "$0.36 quarterly"
+            },
+            "impact_theory": "Q4 earnings release on June 30; focus on consumer spending and brand recovery. Implications: Retail sector sentiment. Psychology: Earnings volatility. Parallels: Prior Nike beats/misses. Analogies: Earnings lottery ticket; brand revival story.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+/-3%",
+                "reasoning": "Pre-earnings buzz mixed; X posts highlight guidance expectations amid consumer confidence data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for earnings or straddle for volatility play",
+                "short_position": "Possible if miss on guidance",
+                "key_risks": "Guidance miss, macro consumer slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst clear but outcome uncertain; supported by recent market data."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 452.3,
+                "market_cap": "3.36T",
+                "sector_industry": "Technology/Software - Infrastructure",
+                "high_low_52_week": {
+                    "high": 468.35,
+                    "low": 340.8
+                },
+                "pe_ratio": 35.4,
+                "volume": "22M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "AI cloud growth (Azure/OpenAI) driving Mag7 rebound. Implications: Enterprise AI adoption. Psychology: Safe haven in tech. Parallels: Cloud boom cycles. Analogies: Reliable engine in tech rally; diversified AI play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Broad tech recovery, positive sentiment in X posts on AI leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady long for 3-6% quarterly gains",
+                "short_position": "Low conviction due to fundamentals",
+                "key_risks": "Regulatory scrutiny, competition in AI"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive coverage, strong earnings history, sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 178.9,
+                "market_cap": "2.2T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 192.4,
+                    "low": 130.5
+                },
+                "pe_ratio": 24.7,
+                "volume": "25M",
+                "recent_dividend": "$0.20 quarterly"
+            },
+            "impact_theory": "Dow Jones addition boosts visibility and index flows; AI/search growth. Implications: Institutional buying. Psychology: Prestige effect. Parallels: Prior index inclusions. Analogies: Blue-chip upgrade; steady compounder.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-3%",
+                "reasoning": "Dow inclusion news and Mag7 rebound noted in recent coverage and social sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady appreciation and dividend",
+                "short_position": "Not recommended",
+                "key_risks": "Ad revenue fluctuations, antitrust"
+            },
+            "confidence_rating": "B",
+            "justification": "Index effect positive but moderate; strong fundamentals back it."
+        }
+    ]
+}
