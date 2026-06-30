@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CMCSA",
+                "full_name": "Comcast Corporation",
+                "current_price": 42.5,
+                "market_cap": "170B",
+                "sector_industry": "Communication Services / Media & Telecom",
+                "high_low_52_week": {
+                    "high": 48.0,
+                    "low": 32.5
+                },
+                "pe_ratio": 14.2,
+                "volume": "85M",
+                "recent_dividend": "0.31 quarterly (yield ~2.9%)"
+            },
+            "impact_theory": "Comcast announced tax-free spin-off of NBCUniversal and Sky into separate public media company within ~1 year. This unlocks value by ending conglomerate discount, allowing focused strategies: connectivity/broadband for remaining Comcast vs. content/streaming for new entity. Economic implications include improved capital allocation and M&A flexibility. Market psychology: relief rally from vertical integration fatigue, pure-play premiums. Historical parallels: AT&T/Time Warner spin-offs or Disney separations. Analogies: 1) Like breaking up a bundled cable package into à la carte streaming—higher perceived value. 2) Corporate version of 'divorce to thrive' where specialized entities outperform diversified parents.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Pre-market surge >20% on announcement; sustained gains expected as investors price in unlock. X sentiment overwhelmingly positive with high engagement on 'best day in decade'. Web news dominated by positive spin coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 20%+ upside to spin completion; target pure-plays post-separation.",
+                "short_position": "Limited; avoid until execution risks materialize.",
+                "key_risks": "Spin execution delays/tax issues, content valuation volatility, broadband competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with immediate verifiable market reaction and broad analyst/investor support."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "220M",
+                "recent_dividend": "0.01 quarterly (yield negligible)"
+            },
+            "impact_theory": "Magnificent 7 and AI leaders rebounding sharply after prior semis selloff tied to memory pricing/AI cost concerns. Broader market recovery post short-term volatility. Implications: AI capex cycle intact. Psychology: FOMO re-entry after dip-buying opportunity. Parallels: 2023-24 AI rallies post corrections. Analogies: 1) Phoenix rising from ashes of memory chip volatility. 2) Tech train regaining steam after brief track slowdown.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Market rebound led by tech; X posts show sentiment flip from caution to optimism on AI fundamentals. Multiple sources confirm Mag7 recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride rebound; 8-12% near-term gains possible on continued AI narrative.",
+                "short_position": "Risky; momentum favors longs.",
+                "key_risks": "Valuation compression, China export curbs, earnings misses."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro rebound but lacks single dominant new catalyst beyond general sentiment recovery."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 185.0,
+                "market_cap": "860B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 205.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "18M",
+                "recent_dividend": "0.59 quarterly (yield ~1.3%)"
+            },
+            "impact_theory": "Semiconductor rebound from memory/AI supplier volatility (Samsung/SK Hynix precedent). AVGO benefits from custom AI chips and networking. Implications: Supply chain stabilization supports growth. Psychology: Bargain hunting in high-conviction names. Parallels: Post-earnings or sector rotation rallies. Analogies: 1) Chipmaker version of 'survivor mode' turning into growth sprint. 2) Orchestra conductor (AI ecosystem) resuming after brief instrument tuning.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Sector-wide stabilization and broader Nasdaq gains; positive X chatter on AI infrastructure leaders."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for 10%+ on AI cycle continuation.",
+                "short_position": "Not recommended.",
+                "key_risks": "Customer concentration (hyperscalers), geopolitical supply issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds clear but company-specific news lighter than CMCSA."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 465.0,
+                "market_cap": "3.45T",
+                "sector_industry": "Technology / Software",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "15M",
+                "recent_dividend": "0.83 quarterly (yield ~0.7%)"
+            },
+            "impact_theory": "Mag7 leader participating in broad tech rebound amid AI/cloud strength. SCOTUS/Fed stability supportive of growth stocks. Implications: Resilient earnings power. Psychology: Safety premium in mega-cap AI. Parallels: Post-2022 bear market recoveries. Analogies: 1) Reliable engine in a convoy regaining speed. 2) Blue-chip anchor stabilizing portfolio during volatility normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Index rebound + continued AI investment narrative; neutral-to-positive X volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; modest upside on stability.",
+                "short_position": "Minimal appeal.",
+                "key_risks": "Regulatory scrutiny, Azure growth slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent participation in market move with solid fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 138.0,
+                "market_cap": "225B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Semis rebound beneficiary with AI GPU exposure. Follows memory selloff recovery. Implications: Competitive positioning vs. NVDA strengthens sector. Psychology: Catch-up rally. Parallels: 2024-25 chip cycles. Analogies: 1) Underdog racer closing gap in AI race. 2) Supporting actor in blockbuster AI movie getting spotlight.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-12%",
+                "reasoning": "Sector rotation + specific AI mentions; elevated X sentiment volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive rebound play; higher beta upside.",
+                "short_position": "Avoid.",
+                "key_risks": "Market share battles, margin pressure."
+            },
+            "confidence_rating": "C",
+            "justification": "Sector-driven more than unique catalysts; higher volatility."
+        }
+    ]
+}
