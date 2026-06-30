@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "250M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Continued AI infrastructure demand and record chip stock performance in H1 2026 drive positive sentiment. Economic implications include accelerated tech capex. Market psychology shows FOMO in AI narrative. Historical parallel: 2023-2025 AI rally. Analogies: 1990s internet boom; gold rush for picks and shovels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Chip stocks best H1 on record; analyst upgrades; strong X sentiment on AI power demand. Web news highlights Nvidia leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% gains into Q3 earnings",
+                "short_position": "Avoid; high valuation risk",
+                "key_risks": "Valuation bubble, competition, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent multi-source confirmation of sector strength and sentiment."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.0,
+                "market_cap": "270B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI GPU competition and data center wins boost sentiment. Implications for market share gains. Psychology: catching up narrative. Parallel: Intel vs AMD cycles. Analogies: Underdog sports team comeback; smartphone app ecosystem growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Mentioned in big analyst calls alongside NVDA; positive X chatter on MI300/MI350 adoption."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% on momentum",
+                "short_position": "Limited; sector tailwinds",
+                "key_risks": "Execution on new chips, margin pressure"
+            },
+            "confidence_rating": "A",
+            "justification": "High overlap with NVDA news flow and confirmed sector outperformance."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1780.0,
+                "market_cap": "830B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 2100.0,
+                    "low": 1100.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "22M",
+                "recent_dividend": "5.25 (quarterly)"
+            },
+            "impact_theory": "Networking and custom AI ASICs strength amid chip boom. Implications for diversified revenue. Psychology of 'picks and shovels' reliability. Parallel: Cisco in 2000s. Analogies: Utility company in tech boom; diversified miner during gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Included in Tuesday analyst calls; stable dividend appeal amid volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding for 6-10% upside",
+                "short_position": "Not recommended",
+                "key_risks": "Acquisition integration, cyclical semi demand"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but slightly less hype than pure AI plays."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 465.0,
+                "market_cap": "3.45T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 520.0,
+                    "low": 320.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "18M",
+                "recent_dividend": "0.83 (quarterly)"
+            },
+            "impact_theory": "Azure AI growth and Copilot adoption sustain momentum. Broader implications for cloud spending. Psychology: safe AI exposure. Parallel: Amazon AWS rise. Analogies: Microsoft in 2010s cloud shift; established brand in emerging tech.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Consistent mentions in market outlooks; steady positive X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady compounder, 5-8% gains",
+                "short_position": "Minimal short interest",
+                "key_risks": "Regulatory scrutiny, slower growth perception"
+            },
+            "confidence_rating": "A",
+            "justification": "Mega-cap stability with direct AI linkage confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.0,
+                "market_cap": "910B",
+                "sector_industry": "Consumer Cyclical/Auto & Energy",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 175.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robotaxi and energy storage narratives intersect with AI hype. Implications for valuation multiples. Psychology: Elon effect and innovation premium. Parallel: Early EV adoption waves. Analogies: Apple product launches; SpaceX valuation transfer.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+3-10%",
+                "reasoning": "Mentioned in analyst calls; volatile X sentiment tied to news flow and deliveries."
+            },
+            "potential_profit_risks": {
+                "long_position": "High-beta play for 15%+ swings",
+                "short_position": "Opportunistic on overreactions",
+                "key_risks": "Delivery misses, competition, valuation swings"
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility requires monitoring but clear AI/EV overlap."
+        }
+    ]
+}
