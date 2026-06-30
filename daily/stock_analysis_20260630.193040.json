@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 194.97,
+                "market_cap": "4.8T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 55.3,
+                "volume": "148.8M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "NVIDIA unveiled RTX Spark superchip at Computex with Microsoft, Dell, HP partnerships boosting AI PC narrative. Economic implications: Accelerates AI adoption across enterprise/hardware. Market psychology: Renewed FOMO in AI leaders after recent jitters. Historical parallels: Similar to 2023-2024 AI boom post-ChatGPT. Analogies: 1) Like Tesla's early EV hype cycles. 2) Like Cisco during dot-com infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong analyst calls, new product momentum, easing Iran tensions aiding risk-on sentiment. X posts show high positive engagement on AI trade revival."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 10-15% gains on AI PC momentum; targets 215+",
+                "short_position": "Avoid shorts; momentum too strong short-term",
+                "key_risks": "Valuation compression if AI capex disappoints; geopolitical oil spikes"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming news sources (Computex, partnerships), record quarterly performance context, high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 411.84,
+                "market_cap": "1.32T",
+                "sector_industry": "Consumer Cyclical/Auto & Energy",
+                "high_low_52_week": {
+                    "high": 450.0,
+                    "low": 210.5
+                },
+                "pe_ratio": 78.4,
+                "volume": "57.6M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Mentions in market recaps alongside SpaceX IPO buzz and US-Iran deal optimism. Implications: EV/auto sector benefits from lower oil volatility expectations. Psychology: Sentiment rebound from prior sell-offs. Parallels: 2020 EV rally. Analogies: 1) Amazon's diversification narrative. 2) Early Apple iPhone hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Positive X sentiment on Elon-related ecosystem; macro risk-on from Middle East de-escalation. Strong quarterly close context."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8%+ swing on robotaxi/AI narrative continuation",
+                "short_position": "Short only on failed breakouts above 420",
+                "key_risks": "Execution delays on new models; competition from legacy autos"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but consistent mentions across multiple outlets; volume elevated but less direct catalysts than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 539.49,
+                "market_cap": "870B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 580.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "26.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Chip stocks outperform in best quarter ever; AMD benefits from AI/data center tailwinds alongside NVDA. Implications: Broader semiconductor cycle upswing. Psychology: Catch-up trade to NVDA. Parallels: 2024-25 AMD recovery rallies. Analogies: 1) Follower stock in smartphone supply chain. 2) Netflix vs. Disney content wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Trending mentions, analyst upgrades implied in sector strength; X posts highlight AMD jumps vs. stablecoin unrelated noise."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AMD targeting 580-600 on sector rotation",
+                "short_position": "Limited; pair trade vs NVDA possible",
+                "key_risks": "Margin pressure from pricing competition; macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide strength confirmed; specific price action data positive but fewer unique catalysts."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 368.57,
+                "market_cap": "2.75T",
+                "sector_industry": "Technology/Software & Services",
+                "high_low_52_week": {
+                    "high": 395.0,
+                    "low": 295.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "51.2M",
+                "recent_dividend": "$0.75 quarterly"
+            },
+            "impact_theory": "Key partner in NVIDIA RTX Spark AI PC initiative. Implications: Cloud/AI infrastructure spend acceleration. Psychology: Defensive growth stock appeal. Parallels: MSFT's Azure growth phases. Analogies: 1) Google-Android ecosystem lock-in. 2) Walmart supply chain dominance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Direct partnership news; Mag7 stabilization after jitters; positive macro close to Q2."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 5%+ gains + dividend",
+                "short_position": "Not recommended",
+                "key_risks": "Regulatory scrutiny on AI partnerships; Azure growth miss"
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit news tie-in to major catalyst; stable large-cap profile."
+        },
+        {
+            "details": {
+                "ticker": "DELL",
+                "full_name": "Dell Technologies Inc.",
+                "current_price": 142.5,
+                "market_cap": "95B",
+                "sector_industry": "Technology/Hardware",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "18.4M",
+                "recent_dividend": "$0.445 quarterly"
+            },
+            "impact_theory": "Direct beneficiary of NVIDIA AI PC partnerships and new superchip ecosystem. Implications: Hardware refresh cycle in PCs/servers. Psychology: Value + growth rotation into hardware plays. Parallels: PC upgrade cycles post-Windows releases. Analogies: 1) Best Buy during smartphone adoption. 2) Server makers in cloud boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "8.5% intraday moves noted in reports; X chatter on Dell alongside HPQ/MSFT in AI PC news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long for double-digit gains on ecosystem play",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Supply chain disruptions; competition from Lenovo/HP"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst alignment but smaller cap/less coverage than Mag7 names."
+        }
+    ]
+}
