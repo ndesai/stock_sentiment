@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 302.7,
+                "market_cap": "72B",
+                "sector_industry": "Industrials / Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 351.28,
+                    "low": 21.52
+                },
+                "pe_ratio": 45.2,
+                "volume": "12.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Major expansion of AI infrastructure financing partnership with Brookfield to $25B (5x increase). Fuels fuel cell deployment for data centers. Economic implication: Accelerates clean energy adoption in AI boom. Market psychology: FOMO in AI energy plays. Historical parallel: Similar to 2023-24 clean energy rallies post-IRA. Analogies: 1) Tesla's early EV infrastructure hype. 2) Nvidia's AI chip dominance run-up.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Partnership news drove 10%+ surge; analyst PT raises to $285-350. X sentiment highly positive on AI power solution. Strong volume confirms momentum ahead of July 2 jobs data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 20%+ gains on continued AI data center demand; entry on dips near $280.",
+                "short_position": "Risky; high valuation leaves room for pullback if partnership execution delays.",
+                "key_risks": "Execution risk on projects, competition from other energy solutions, macro rate sensitivity."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct catalyst with analyst upgrades and volume confirmation; clear sentiment shift on X/news."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 145.0,
+                "market_cap": "160B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "25M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Record Q3 2026 earnings beat with $41.46B rev (4x YoY). Strong HBM/AI memory demand. Implications: Validates AI supercycle. Psychology: Relief rally post-earnings volatility. Parallels: 2024 memory upcycle. Analogies: 1) NVDA 2023 earnings dominance. 2) Post-earnings rotation into cyclicals.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Beat-and-raise with strong guidance; continued pricing power through 2026. Positive X chatter on memory shortage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15%+ to new highs on sustained AI demand.",
+                "short_position": "Avoid; cycle remains early stage.",
+                "key_risks": "Inventory build, China export restrictions, cyclical memory pricing swings."
+            },
+            "confidence_rating": "A",
+            "justification": "Fresh blockbuster earnings with multi-quarter visibility; top sentiment mover."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 520.0,
+                "market_cap": "1.3T",
+                "sector_industry": "Communication Services / Internet Content & Information",
+                "high_low_52_week": {
+                    "high": 590.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "18M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Building internal cloud to sell AI computing capacity. Extends AI moat beyond social. Implications: New revenue stream. Psychology: AI narrative reinforcement. Parallels: Amazon AWS buildout. Analogies: 1) Google's early cloud push. 2) MSFT Azure AI expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Incremental positive catalyst amid broader AI rotation; stable sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for gradual gains; 10% upside on cloud monetization.",
+                "short_position": "Limited; core ad business resilient.",
+                "key_risks": "Regulatory scrutiny, ad market slowdown, capex overruns."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news flow but less explosive than pure AI plays; moderate sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 78.5,
+                "market_cap": "118B",
+                "sector_industry": "Consumer Cyclical / Footwear & Accessories",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "9M",
+                "recent_dividend": "$0.37 quarterly"
+            },
+            "impact_theory": "Q4 earnings beat aided by tariff refund. Mixed reaction on guidance. Implications: Tariff relief positive but consumer weakness persists. Psychology: Rotation away from defensives. Parallels: Post-tariff 2019 recovery. Analogies: 1) Apparel sector post-COVID rebound. 2) Earnings beats with weak forward views.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Beat but muted guidance; tariff one-off. Negative X sentiment on demand concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $75.",
+                "short_position": "Short for 5% downside on weak retail data.",
+                "key_risks": "Inventory issues, currency, macro consumer spending."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings-driven move with clear bearish tilt; moderate volume."
+        },
+        {
+            "details": {
+                "ticker": "MSTR",
+                "full_name": "MicroStrategy Incorporated",
+                "current_price": 145.0,
+                "market_cap": "32B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "15M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Abandoned 'never sell' Bitcoin stance amid BTC volatility. Implications: Reduces conviction premium. Psychology: Crypto proxy fatigue. Parallels: 2022 crypto winter holdings stress. Analogies: 1) Early Bitcoin ETF flows impact. 2) Corporate treasury rotation plays.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "Policy shift + BTC weakness weigh; X sentiment mixed-negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative; only on BTC recovery.",
+                "short_position": "Attractive for 10%+ drop if BTC < $95k.",
+                "key_risks": "BTC correlation volatility, dilution risk."
+            },
+            "confidence_rating": "C",
+            "justification": "Crypto-linked with policy change catalyst but lower conviction than pure equity news."
+        }
+    ]
+}
