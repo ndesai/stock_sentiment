@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Fed comments and AI capex focus causing volatility in chip leaders. Implications for AI infrastructure spending slowdown concerns. Psychology: Profit-taking after Q2 rally. Historical parallel to 2023 AI boom corrections. Analogies: Like 1999 dot-com rotation; like oil shocks impacting energy plays.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Chip pullback on overleveraging warnings; X sentiment mixed with profit taking. Recent earnings momentum offset by macro Fed hawkishness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-12% rebound on AI news",
+                "short_position": "Short for 4-7% quick drop",
+                "key_risks": "Unexpected AI earnings beats, Fed pivot"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent data on volatility but macro factors fluid"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 585.0,
+                "market_cap": "1.5T",
+                "sector_industry": "Technology/Social Media & Cloud",
+                "high_low_52_week": {
+                    "high": 630.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "18M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Announcement of cloud/AI compute sales boosting sentiment. Economic boost from hyperscaler diversification. Psychology: Renewed growth narrative. Parallels to Amazon AWS pivot. Analogies: Like Netflix streaming expansion; like Google Cloud growth story.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "Direct catalyst from excess capacity monetization; positive X buzz on AI monetization potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10%+ on execution",
+                "short_position": "Avoid or cover shorts",
+                "key_risks": "Ad revenue slowdown, regulatory issues"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear positive catalyst with market reaction evident"
+        },
+        {
+            "details": {
+                "ticker": "BE",
+                "full_name": "Bloom Energy Corporation",
+                "current_price": 28.5,
+                "market_cap": "6.8B",
+                "sector_industry": "Industrials/Energy Equipment",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 12.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI data center power partnership expansion. Implications for fuel cell demand surge. Psychology: Thematic rotation into AI enablers. Parallels to solar boom 2020s. Analogies: Like Tesla energy storage growth; EV supply chain plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +10%",
+                "reasoning": "Premarket surge on Brookfield deal; strong X sentiment on AI power theme."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing for 15% gains",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Execution delays, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven move with thematic tailwinds"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.0,
+                "market_cap": "115B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "35M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Blockbuster earnings amid AI memory demand. Broader memory cycle upswing. Psychology: Relief rally or continued rotation. Parallels to 2017-18 memory super cycle. Analogies: Like HBM demand for GPUs; NAND flash recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Earnings catalyst positive; mixed chip sector sentiment but MU outperforms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for cycle gains 10-20%",
+                "short_position": "Not recommended",
+                "key_risks": "Pricing pressure, inventory cycles"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings driven with sector context"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.0,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "22M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "AI networking and custom ASIC strength. Continued semiconductor leadership. Psychology: Quality compounder appeal amid volatility. Parallels to 2024-25 AI winners. Analogies: Like AMD custom chips; Intel foundry push.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1% to +4%",
+                "reasoning": "Steady performer in AI supply chain; positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, modest upside",
+                "short_position": "Limited",
+                "key_risks": "Valuation compression, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent fundamentals and sector leadership"
+        }
+    ]
+}
