@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.3,
+                "volume": "320M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Tech/AI valuation concerns amid broader market rotation and Michael Burry expanding shorts on AI names. Economic implications include potential slowdown in capex if valuations compress. Market psychology: Fear of bubble burst shifting from euphoria to caution. Historical parallel: 2022 tech correction. Analogies: Like 2000 dot-com peak, or housing bubble where momentum reverses sharply.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Recent 2%+ intraday drop on high volume; X sentiment shows increased bearish posts on valuation; chip sector under pressure from profit-taking post-strong Q1/Q2."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential rebound on earnings +2-4% if AI demand reaffirmed",
+                "short_position": "Short near-term with stops; target 8-12% downside on continued rotation",
+                "key_risks": "Positive Fed comments or strong macro data could trigger short squeeze"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong evidence from market action and Burry news, but earnings season volatility high"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.2,
+                "market_cap": "130B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "45M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "DRAM/memory pricing and AI demand concerns amplified by sector-wide pullback. Implications for supply chain and tech spending. Psychology: Overextended names punished hardest. Parallels to 2018-19 memory cycle. Analogies: Oil price swings affecting energy stocks; auto inventory corrections.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "6.2% drop cited in reports; high short interest building; latest X posts highlight memory cyclicality worries"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips below $110 for long-term AI exposure (+15% potential)",
+                "short_position": "Tactical short for 8-15% move into July earnings",
+                "key_risks": "HBM/AI memory demand upside surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price action confirmation and sector correlation"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 138.0,
+                "market_cap": "222B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 187.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 48.7,
+                "volume": "55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI GPU competition and valuation reset. Broader implications for data center spend. Psychology shift from AI hype to fundamentals scrutiny. Parallels: Previous semi cycles post-boom. Analogies: Smartphone component busts; EV supply glut corrections.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "4.2% decline reported; sentiment on X turning cautious on competition vs NVDA"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for CPU/GPU diversification; watch for $125 support",
+                "short_position": "Short swing trade targeting 6-10% further downside",
+                "key_risks": "New product launches or partnerships"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with NVDA/MU moves and analyst chatter"
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.0,
+                "market_cap": "790B",
+                "sector_industry": "Consumer Cyclical/Auto & EV",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 175.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Burry short bet signals AI/robotics overvaluation concerns spilling into EV/auto. Macro: Interest rates and demand sensitivity. Psychology: Momentum reversal. Parallels: 2022 TSLA correction. Analogies: WeWork-style hype deflation; early EV adoption plateaus.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Target of new shorts; mixed X sentiment with increased caution posts"
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or hedge until macro clarity",
+                "short_position": "Attractive short on Burry news for 5-12% move",
+                "key_risks": "Robotaxi or energy updates"
+            },
+            "confidence_rating": "C",
+            "justification": "Burry mention specific but broader auto sentiment mixed"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 162.0,
+                "market_cap": "760B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "28M",
+                "recent_dividend": "0.59 (quarterly)"
+            },
+            "impact_theory": "AI custom ASIC and networking exposure faces same valuation pressure as peers. Implications for hyperscaler spend. Psychology: Rotation out of mega-cap tech. Parallels: 2021-22 semi rotation. Analogies: Cisco post-dotcom; networking hardware cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Sector peer weakness; recent earnings reaction negative per reports"
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend + AI exposure attractive on pullback",
+                "short_position": "Tactical on relative weakness to broader market",
+                "key_risks": "VMware integration success"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation confirmed by multiple sources"
+        }
+    ]
+}
