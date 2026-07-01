@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 200.09,
+                "market_cap": "4.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 151.49
+                },
+                "pe_ratio": 45.2,
+                "volume": "145M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Ongoing AI demand and Blackwell ramp with new integrations like Claude Science; jobs report may signal economic strength supporting tech spend. Economic implications include sustained capex in AI infrastructure. Market psychology: FOMO in AI leaders vs profit-taking. Historical parallel: 2023-2024 AI rally. Analogies: 1) Like early internet boom for infrastructure providers. 2) Oil boom for energy but for compute power.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Strong AI news flow and positive X sentiment on demand; jobs data likely supportive for growth stocks per recent searches and posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 5-8% gains on continued AI hype; target new highs",
+                "short_position": "Avoid or hedge; limited downside unless jobs miss badly (-2%)",
+                "key_risks": "Valuation compression, regulatory scrutiny on AI, sudden macro shift"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI catalyst coverage and historical performance in similar periods; high volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 85.5,
+                "market_cap": "74B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.0,
+                    "low": 42.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "25M",
+                "recent_dividend": "0.06 quarterly"
+            },
+            "impact_theory": "Nvidia CEO endorsement as potential trillion-dollar company and AI networking demand surge. Implications: Accelerated adoption in data centers. Psychology: Momentum chasing after 33% spike. Historical: Similar to Broadcom surges. Analogies: 1) Tesla supply chain beneficiaries. 2) Gold rush pickaxe sellers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Direct catalyst from Nvidia comments; elevated X buzz and June momentum carrying into July."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong momentum play for 10%+ swing; ride AI tailwinds",
+                "short_position": "Risky; momentum could extend further",
+                "key_risks": "Execution misses, competition from peers, broader tech rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Recent explosive move backed by credible endorsement but volatile sector."
+        },
+        {
+            "details": {
+                "ticker": "GOOGL",
+                "full_name": "Alphabet Inc.",
+                "current_price": 175.3,
+                "market_cap": "2.1T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "32M",
+                "recent_dividend": "0.20 quarterly"
+            },
+            "impact_theory": "$80B equity raise for AI infrastructure sparks mixed reaction but funds long-term growth. Implications: Dilution short-term vs capacity expansion. Psychology: Concern over capex pace. Historical: Amazon/ Meta raises. Analogies: 1) Utility buildout financing. 2) R&D arms race spending.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish long-term",
+                "estimated_price_impact_pct": "-2-4% initially",
+                "reasoning": "Market digestion of dilution news amid ongoing AI spend; X sentiment cautious on near-term."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 6-10% recovery post-earnings clarity",
+                "short_position": "Short the initial reaction for 3% quick trade",
+                "key_risks": "AI ROI disappointment, antitrust issues, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear news driver but long-term fundamentals strong."
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 445.0,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 468.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 35.1,
+                "volume": "22M",
+                "recent_dividend": "0.75 quarterly"
+            },
+            "impact_theory": "AI integrations across Azure/OpenAI driving growth; jobs data to confirm corporate spending power. Implications: Cloud and AI margins expansion. Psychology: Safe haven in tech. Historical: Post-pandemic tech resilience. Analogies: 1) IBM mainframe era dominance. 2) Platform ecosystem lock-in like Apple.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Steady positive sentiment; less volatile than pure AI plays amid July seasonality."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding for steady 3-5% gains into earnings",
+                "short_position": "Minimal opportunity",
+                "key_risks": "Azure growth deceleration, competition in AI copilots"
+            },
+            "confidence_rating": "A",
+            "justification": "Diversified revenue and consistent AI execution track record."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI GPU competition intensifying with Nvidia dominance but MI300/MI350 ramps. Jobs report impact on data center spend. Implications: Market share battles. Psychology: Underdog narrative. Historical: Intel vs AMD cycles. Analogies: 1) Pepsi vs Coke rivalry. 2) EV battery suppliers vs Tesla.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+1-5%",
+                "reasoning": "Sector tailwinds from AI but relative lag; X posts highlight opportunity in diversification."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative upside 7%+ on AI news flow",
+                "short_position": "If Nvidia strength dominates (-3%)",
+                "key_risks": "Margin pressure, delayed product launches, macro capex cuts"
+            },
+            "confidence_rating": "C",
+            "justification": "Higher uncertainty relative to leaders; depends on competitive execution."
+        }
+    ]
+}
