@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "280M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Chip stock selloff on July 1 amid broader tech rotation and weak ADP jobs data signaling economic slowdown. Implications include reduced AI capex expectations. Psychology: Fear of peak AI hype. Historical parallel to 2022 tech correction. Analogies: Like 2000 dot-com bust for semis; like oil price crash for cyclical tech.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Nasdaq slide driven by chip declines post record highs; weak jobs + rate uncertainty pressure growth stocks. X sentiment negative on valuation concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for support at $135; potential 8% rebound on AI news",
+                "short_position": "Short at $145 with 6% target downside",
+                "key_risks": "Strong earnings or Fed dovish pivot could reverse quickly"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sentiment shift from news flow and market action, but holiday timing adds uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 28.75,
+                "market_cap": "26B",
+                "sector_industry": "Financials/Fintech",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 15.5
+                },
+                "pe_ratio": 32.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robinhood Chain mainnet launch + tokenized stocks expansion boosts long-term growth narrative. Positive sentiment shift from crypto/DeFi diversification. Historical parallel to Coinbase listing rally. Analogies: Like PayPal's early crypto pivot; like Square's blockchain play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +12%",
+                "reasoning": "Platform expansion news + international/crypto growth catalysts; strong X buzz on new features"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips to $27; target 15% upside on adoption metrics",
+                "short_position": "Avoid shorts due to momentum",
+                "key_risks": "Regulatory hurdles on tokenized assets and leveraged products"
+            },
+            "confidence_rating": "A",
+            "justification": "Specific positive catalyst with high visibility and sentiment lift"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 132.0,
+                "market_cap": "215B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Follow-on weakness from chip sector rotation amid economic data concerns. AI demand intact but near-term valuation pressure. Parallel to 2023 semis correction. Analogies: Like Intel's cyclical swings; like Tesla's EV hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Sector-wide tech selloff; jobs miss raises recession fears impacting cyclical semis"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $125 for AI recovery play",
+                "short_position": "Short rallies above $138",
+                "key_risks": "Data center earnings beats could trigger relief rally"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector correlated move with supporting macro data"
+        },
+        {
+            "details": {
+                "ticker": "CAT",
+                "full_name": "Caterpillar Inc.",
+                "current_price": 378.5,
+                "market_cap": "185B",
+                "sector_industry": "Industrials/Construction Machinery",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "3.2M",
+                "recent_dividend": "$1.30 quarterly"
+            },
+            "impact_theory": "Pullback after AI beneficiary rally as economic softening fears emerge from jobs data. Profit-taking post record Dow intraday high. Historical: Parallels 2022 industrial rotation. Analogies: Like Deere's ag cycle; like Boeing supply chain volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Explicit mention of CAT 7% pullback in July 1 session; macro sensitivity"
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips near $360 for infrastructure/AI theme",
+                "short_position": "Short term shorts viable to $350",
+                "key_risks": "Infrastructure spending bills or earnings resilience"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct news driver with measurable price action"
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 245.0,
+                "market_cap": "62B",
+                "sector_industry": "Financials/Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 290.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive spillover from Robinhood crypto expansion news and tokenized assets trend. Crypto/DeFi momentum building. Parallel to 2024 crypto bull run catalysts. Analogies: Like MicroStrategy's BTC correlation; like PayPal crypto integration.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "Industry tailwinds from fintech/crypto platform launches; X sentiment supportive"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on volume confirmation; 12% upside potential",
+                "short_position": "Limited; only on broad risk-off",
+                "key_risks": "Crypto volatility and regulatory changes"
+            },
+            "confidence_rating": "A",
+            "justification": "Sector synergy with clear positive catalysts and sentiment"
+        }
+    ]
+}
