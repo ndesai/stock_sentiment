@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 970.73,
+                "market_cap": "1165.85B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 21.9,
+                "volume": "25.4M",
+                "recent_dividend": "$0.15 (ex-date Jul 6, 2026)"
+            },
+            "impact_theory": "Sharp sell-off in semiconductor/memory stocks due to profit-taking after massive YTD gains and upcoming SK Hynix Nasdaq listing increasing competition. Economic implications: Signals potential cooling in AI-driven memory demand hype. Market psychology: Fear of bubble in AI semis after 260%+ gains. Historical parallels: 2022 chip downturn. Analogies: Like post-IPO lockup selling; herd exiting crowded AI trade like 2021 EV bubble.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Heavy volume selling on July 1-2 amid chip weakness; X sentiment negative on overvaluation fears; upcoming competitor listing adds pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for AI long-term; potential +15-25% on earnings rebound",
+                "short_position": "Short on rallies targeting -10-15% near-term",
+                "key_risks": "AI demand surge, positive earnings, or Fed easing could reverse quickly"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating news sources on sharp drops and clear catalyst (SK Hynix listing); high recent volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 52.5,
+                "market_cap": "220B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 68.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "65M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Continued weakness in legacy chipmakers as AI focus shifts to memory/GPUs. Implications: Slower recovery narrative. Psychology: Capitulation after prolonged underperformance. Parallels: 2010s Intel stagnation periods. Analogies: Blockbuster vs Netflix; traditional auto vs Tesla disruption.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "Broad semi selloff; limited positive catalysts in near term per news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative turnaround bet +20% if foundry wins",
+                "short_position": "Moderate downside to 45 support",
+                "key_risks": "Government subsidies, new CEO execution"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent sector weakness but Intel-specific news lighter than MU."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.8,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 52.0,
+                "volume": "180M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Profit-taking and rotation out of AI leaders after parabolic run. Broader market digestion of high valuations. Parallels: Dot-com peak rotations. Analogies: Magnificent 7 fatigue like FAANG in 2022; crowded trade unwinding.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "Multiple days of declines amid semis rout and macro jobs data reaction."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; dips bought aggressively +10% rebound",
+                "short_position": "Limited; momentum strong long-term",
+                "key_risks": "Earnings beats, Blackwell ramp"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility in all reports; clear sector correlation."
+        },
+        {
+            "details": {
+                "ticker": "AMAT",
+                "full_name": "Applied Materials, Inc.",
+                "current_price": 195.0,
+                "market_cap": "160B",
+                "sector_industry": "Technology/Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 255.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 24.0,
+                "volume": "8.5M",
+                "recent_dividend": "$0.40 quarterly"
+            },
+            "impact_theory": "Equipment makers hit by memory capex pause fears post-hype. Implications: Supply chain ripple. Psychology: De-risking after strong Q1/Q2. Parallels: 2018-19 semi equipment cycle. Analogies: Shovel sellers in gold rush slowdown.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Direct mention of 10% drops in sector reports; tied to MU weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Quality name for recovery +12-18%",
+                "short_position": "Near-term momentum trade -8%",
+                "key_risks": "Foundry spending acceleration"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector evidence but slightly less specific news volume."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.5,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "22M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Networking/AI ASIC exposure leads to sympathy selling with peers. Valuation reset. Parallels: 2023 AVGO run similar rotation risk. Analogies: High-beta stock in risk-off sector move.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Sector-wide decline impacting all AI semis names per market updates."
+            },
+            "potential_profit_risks": {
+                "long_position": "Diversified AI play +10% on stabilization",
+                "short_position": "Tactical -6%",
+                "key_risks": "VMware integration success, custom AI deals"
+            },
+            "confidence_rating": "B",
+            "justification": "Follows leaders but diversified business provides relative resilience."
+        }
+    ]
+}
