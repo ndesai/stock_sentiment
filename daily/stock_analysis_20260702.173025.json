@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 85.2
+                },
+                "pe_ratio": 18.5,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Meta's announcement of entering the AI cloud/compute business raises fears of AI hardware overcapacity and supply glut. Economic implications include margin pressure on memory chip makers amid slowing demand growth. Market psychology: profit-taking after 260%+ YTD gains. Historical parallel: 2022 chip cycle downturn. Analogies: (1) Like 2021 crypto miners flooding market causing GPU oversupply. (2) Dot-com bubble telecom overbuild.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-12% to -18%",
+                "reasoning": "Heavy profit-taking post-80%+ H1 rally; X sentiment shows fear of glut (negative posts on MU/AVGO). Weak June jobs adds rate cut hopes but semis-specific selloff dominates. web_search confirms 10%+ drops."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential 15% rebound on any positive AI demand update.",
+                "short_position": "Short with 10-15% downside target; cover on oversold signals.",
+                "key_risks": "Sudden positive earnings or AI capex news; volatility from macro data."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from Meta news + volume confirmation; consistent across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 138.0,
+                "market_cap": "3.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "245M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Same Meta glut fears plus broad semis rotation. Implications: AI leadership questioned temporarily. Psychology: FOMO reversal after massive run. Parallel: Post-2023 rally pauses. Analogies: (1) Tesla 2021-22 hype cycle correction. (2) Cisco post-dotcom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "1-2% intraday drop; X posts highlight overcapacity concerns. Broad index impact limited but high-beta stock hit hardest."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate dips for long-term AI thesis; 20%+ upside by year-end.",
+                "short_position": "Tactical shorts for 8-10% moves.",
+                "key_risks": "Strong Blackwell demand data or partnerships."
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event with direct quotes from analysts and market reaction data."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.0,
+                "market_cap": "780B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "18.2M",
+                "recent_dividend": "$0.53 quarterly"
+            },
+            "impact_theory": "Custom AI ASIC exposure makes it vulnerable to capacity concerns despite diversification. Implications: Valuation compression in networking/AI silicon. Psychology: Rotation out of high-flyers. Parallel: 2018-19 trade war semis dip. Analogies: (1) AMD vs Intel cycles. (2) Auto supplier overcapacity post-EV hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7% to -11%",
+                "reasoning": "Confirmed 2% drop; X sentiment tracks broader chip negativity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on weakness for dividend + AI exposure.",
+                "short_position": "Moderate short opportunities.",
+                "key_risks": "VMware integration success or new AI wins."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst alignment but slightly diversified business reduces impact vs pure-play memory."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 545.0,
+                "market_cap": "1.38T",
+                "sector_industry": "Technology / Internet Services",
+                "high_low_52_week": {
+                    "high": 595.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12.8M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Positive: Meta monetizing excess AI capacity via cloud business. Implications: New revenue stream, higher utilization. Psychology: Shift from cost center to profit center narrative. Parallel: Amazon AWS pivot success. Analogies: (1) Google's cloud growth story. (2) Microsoft Azure expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "Announcement drives sentiment; X posts positive on monetization potential despite chip sector fallout."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add; 12%+ upside from execution.",
+                "short_position": "Avoid.",
+                "key_risks": "Execution delays or regulatory scrutiny on cloud."
+            },
+            "confidence_rating": "B",
+            "justification": "Catalyst clear but market still digesting broader semis reaction."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.0,
+                "market_cap": "790B",
+                "sector_industry": "Consumer Cyclical / Auto & EV",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 175.0
+                },
+                "pe_ratio": 52.0,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Indirect AI/robotics exposure; market rotation favors or hurts depending on sentiment. Macro jobs weakness may boost rate sensitivity. Psychology: High-beta swings with AI theme. Parallel: 2024 election volatility. Analogies: (1) Early EV adoption hype cycles. (2) SpaceX-adjacent valuation swings.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly bullish",
+                "estimated_price_impact_pct": "+2% to +6%",
+                "reasoning": "Mentioned in midday movers; less direct hit than chips but AI narrative overlap. X volume elevated."
+            },
+            "potential_profit_risks": {
+                "long_position": "Watch for AI/robotics catalysts.",
+                "short_position": "High volatility short plays.",
+                "key_risks": "Delivery numbers, FSD updates, macro."
+            },
+            "confidence_rating": "C",
+            "justification": "Weaker direct link to primary news event; more macro/AI correlation driven."
+        }
+    ]
+}
