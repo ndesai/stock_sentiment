@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.5,
+                "market_cap": "920B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "85M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Tesla deliveries beat expectations but stock sank 7% on profit-taking and valuation concerns amid broader tech rotation. Economic implications include EV market competition and margin pressure. Market psychology: disappointment despite positives leads to sell-off. Historical parallel: similar post-earnings drops in 2024. Analogies: 1) Like a hot stock cooling after hype cycle. 2) Rollercoaster ride where good fundamentals ignored short-term.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "X and news sentiment negative post-deliveries report; profit-taking dominant after strong Q2. Chip/tech rotation adds pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential rebound on FSD updates (+10-15% upside risk)",
+                "short_position": "Short on weakness; target 5-10% downside before support",
+                "key_risks": "Elon Musk tweets, regulatory news, EV demand shifts"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news volume and consistent price action support moderate-high confidence in near-term bearish bias."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 45.8,
+                "volume": "220M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "AI chip leader facing profit-taking after 80%+ H1 gains; Meta AI capacity comments fuel glut fears. Implications: Valuation reset in AI supply chain. Psychology: FOMO reversal to caution. Historical: 2023-24 AI rally corrections. Analogies: 1) Dot-com bubble peak concerns. 2) Gold rush supplier slowdown.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "Semiconductor selloff led by Meta news; X sentiment shows rotation out of AI names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy on AI demand confirmation (+8-12%)",
+                "short_position": "Short volatility; 4-8% downside targets",
+                "key_risks": "Earnings beats, new AI contracts, macro rate news"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources (news, X) on chip slump; high volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.0,
+                "market_cap": "130B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "45M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Memory chip stock tumbled >10% on AI capacity glut narrative despite strong YTD. Implications: HBM/supply dynamics questioned. Psychology: Overextended rally unwind. Historical parallel: 2022 memory cycle bust. Analogies: 1) Commodity boom-bust. 2) Tech inventory correction.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Largest decliner in semis; X posts highlight profit-taking and overcapacity worries post-Meta announcement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below support for H2 recovery (+15%)",
+                "short_position": "Momentum short; 8-15% further drop possible",
+                "key_risks": "DRAM pricing, China demand, earnings"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price action and news alignment, though volatility high."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.5,
+                "market_cap": "780B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "18M",
+                "recent_dividend": "0.59 (quarterly)"
+            },
+            "impact_theory": "Networking/AI semis hit by sector rotation and glut fears. Implications: Slowing hyperscaler spend concerns. Psychology: Leader fatigue after rally. Historical: Similar to 2021 semis correction. Analogies: 1) Market leader profit-taking. 2) Supply chain normalization fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2% to -5%",
+                "reasoning": "Modest decline amid broader chip selloff; sentiment mixed but negative tilt from X/tech feeds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on dips; AI tailwinds (+6-10%)",
+                "short_position": "Limited; covered on support test",
+                "key_risks": "VMware integration, AI capex slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide move but AVGO relatively resilient; news volume supports view."
+        },
+        {
+            "details": {
+                "ticker": "CAT",
+                "full_name": "Caterpillar Inc.",
+                "current_price": 335.0,
+                "market_cap": "165B",
+                "sector_industry": "Industrials / Farm & Heavy Construction Machinery",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 240.0
+                },
+                "pe_ratio": 18.4,
+                "volume": "3.2M",
+                "recent_dividend": "1.41 (quarterly)"
+            },
+            "impact_theory": "AI beneficiary pulled back ~7% on profit-taking after massive rally. Implications: Industrial/AI capex link questioned short-term. Psychology: Rotation from growth to value. Historical: Post-rally pauses in industrials. Analogies: 1) Infrastructure boom cooldown. 2) Commodity equipment cycle.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -6%",
+                "reasoning": "Dow component pulled back from highs; news highlights AI rally fatigue."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips on construction data (+5-8%)",
+                "short_position": "Tactical short on resistance",
+                "key_risks": "Infrastructure bill execution, commodity prices"
+            },
+            "confidence_rating": "C",
+            "justification": "Less direct news volume than tech names; broader market context drives move."
+        }
+    ]
+}
