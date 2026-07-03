@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.5,
+                "market_cap": "115B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 78.5
+                },
+                "pe_ratio": 12.8,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Sharp pullback in chip stocks amid profit-taking after strong AI run. Economic implications include cooling semiconductor demand fears despite AI tailwinds. Market psychology: rotation out of high-valuation tech. Historical parallels to 2022 chip correction. Analogies: Like post-earnings dump in growth stocks; similar to 2023 banking sector rotation.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "July 1-2 news of >10% drops in MU/INTC on weak sentiment; X posts show profit-taking chatter. Pre-holiday thin volume amplifies moves."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; wait for stabilization around $95 support",
+                "short_position": "Short on rallies targeting 8-12% downside to $92-95; potential 10% gain in 1-2 weeks",
+                "key_risks": "AI demand surprise rebound; oversold bounce; holiday illiquidity"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent news/X sentiment on semis weakness; multiple corroborating sources"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 585.0,
+                "market_cap": "1.48T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 595.0,
+                    "low": 415.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12.2M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Bloomberg report on entering AI cloud computing business sparks surge. Implications: Diversifies revenue beyond ads into high-margin infra. Psychology: Renewed AI enthusiasm. Parallels to Amazon AWS pivot. Analogies: Meta as 'picks and shovels' play like NVIDIA early; similar to Google Cloud growth narrative.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +9%",
+                "reasoning": "Near 9% gain on July 2 news; strong X sentiment on cloud expansion. Pre-July 4 positioning supports continuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips or breakout above $590; 8-15% upside to $630+",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "Ad revenue slowdown; regulatory scrutiny; valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct catalyst with measurable price reaction and broad coverage"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.8,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.5,
+                    "low": 18.5
+                },
+                "pe_ratio": 22.4,
+                "volume": "45.1M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Heavy selling in legacy chipmakers on broader semis rotation and margin concerns. Economic: Signals potential slowdown in PC/server cycles. Psychology: Fear of missing AI pure-plays. Parallels to 2018-19 Intel struggles. Analogies: Value trap like old GE; contrast to TSMC premium pricing power.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7% to -11%",
+                "reasoning": "9%+ drop cited in reports; negative X volume on Intel-specific weakness amid MU move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long only below $30 with catalysts",
+                "short_position": "Short rallies for 8-12% drop; target $28-29",
+                "key_risks": "Foundry recovery news; government CHIPS Act funding"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news alignment but Intel has idiosyncratic turnaround potential"
+        },
+        {
+            "details": {
+                "ticker": "RIVN",
+                "full_name": "Rivian Automotive, Inc.",
+                "current_price": 16.5,
+                "market_cap": "16.2B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 19.8,
+                    "low": 8.2
+                },
+                "pe_ratio": -4.2,
+                "volume": "32.4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Raised 2026 delivery guidance on EV demand strength. Implications: Validates production ramp and market share gains. Psychology: EV sector relief after prior weakness. Parallels to early Tesla milestones. Analogies: Delivery beat like Lucid early hype; supply chain success akin to BYD scaling.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "5% intraday pop reported; positive X flow on guidance and EV recovery narrative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-consolidation targeting $18-20 (10-20% upside)",
+                "short_position": "Avoid; guidance provides floor",
+                "key_risks": "Cash burn continuation; competition from Tesla/Ford; macro auto slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear positive catalyst but EV volatility and execution risks remain"
+        },
+        {
+            "details": {
+                "ticker": "XLF",
+                "full_name": "Financial Select Sector SPDR Fund",
+                "current_price": 45.2,
+                "market_cap": "ETF (N/A)",
+                "sector_industry": "Financials/Banks & Insurance",
+                "high_low_52_week": {
+                    "high": 48.5,
+                    "low": 36.8
+                },
+                "pe_ratio": 14.5,
+                "volume": "35.8M",
+                "recent_dividend": "Quarterly distribution ~$0.22"
+            },
+            "impact_theory": "Sector rotation into financials on soft jobs data and rate cut hopes. Implications: Lower rates boost lending/net interest margins. Psychology: Defensive rotation amid tech weakness. Parallels to 2019-2020 financial outperformance. Analogies: Banks as 'bond proxies' in easing cycles; similar to utilities in 2023.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +4%",
+                "reasoning": "XLV/XLF hitting highs per reports; positive sentiment on macro shift pre-holiday."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XLF or individual banks for 5-8% seasonal/gains",
+                "short_position": "Minimal; macro tailwinds dominant",
+                "key_risks": "Credit losses; regulatory changes; inverted yield curve persistence"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-level data consistent but less ticker-specific than others"
+        }
+    ]
+}
