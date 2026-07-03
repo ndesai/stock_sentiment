@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 168.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "45M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Sharp 10%+ drop on July 1 amid profit-taking after 260% YTD gain in AI memory chips. Economic implications: AI capex slowdown fears. Market psychology: Fear of overvaluation post-rally. Historical parallel: 2022 chip cycle bust. Analogies: Like 2021 EV bubble correction; similar to post-earnings crypto dips.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Heavy selling in semis on July 1; X sentiment negative on valuation. Pre-holiday positioning."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% rebound on AI demand",
+                "short_position": "Short for 10% further drop, cover at support",
+                "key_risks": "AI spending acceleration; geopolitical chip tensions"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent data but holiday closure limits immediate moves; sentiment clear from news."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.8,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.0,
+                    "low": 28.5
+                },
+                "pe_ratio": 22.0,
+                "volume": "62M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "9%+ drop July 1 on foundry delays and competition. Implications: US chip reshoring challenges. Psychology: Loss of confidence in turnaround. Parallels: 2019-20 Intel struggles. Analogies: Kodak digital shift failure; auto industry EV transition pains.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7 to -15%",
+                "reasoning": "X posts highlight execution risks; news on market share loss."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long on recovery, 20%+ upside",
+                "short_position": "Short with 12% target",
+                "key_risks": "Government subsidies, new CEO execution"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent negative sentiment in recent coverage."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.0,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "180M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Minor 1% dip but broader semis weakness. AI leadership intact but rotation fears. Implications: Sustained data center spend. Psychology: Rotation to value. Parallels: 2023 AI rally pauses. Analogies: Microsoft cloud growth phases; Tesla hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "-3 to +5%",
+                "reasoning": "Resilient despite sector; positive long-term X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for 10-20% Q3 gains",
+                "short_position": "Avoid or hedge only",
+                "key_risks": "Competition, export curbs"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant position with solid fundamentals."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 162.0,
+                "market_cap": "755B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "22M",
+                "recent_dividend": "$0.53 quarterly"
+            },
+            "impact_theory": "2% decline tied to semis selloff. Custom AI chips momentum. Implications: Diversified revenue cushion. Psychology: Selective profit taking. Parallels: 2024 semis rotations. Analogies: Amazon AWS diversification; Apple services shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish medium-term",
+                "estimated_price_impact_pct": "+4 to +8%",
+                "reasoning": "Strong backlog, dividend support; milder X negativity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on weakness, 12% target",
+                "short_position": "Limited opportunity",
+                "key_risks": "Acquisition integration, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Diversification reduces volatility vs pure plays."
+        },
+        {
+            "details": {
+                "ticker": "CAT",
+                "full_name": "Caterpillar Inc.",
+                "current_price": 345.0,
+                "market_cap": "168B",
+                "sector_industry": "Industrials/Heavy Machinery",
+                "high_low_52_week": {
+                    "high": 395.0,
+                    "low": 265.0
+                },
+                "pe_ratio": 16.8,
+                "volume": "3.2M",
+                "recent_dividend": "$1.41 quarterly"
+            },
+            "impact_theory": "7% pullback after AI infrastructure hype. Data center buildout beneficiary. Implications: Cyclical exposure. Psychology: Post-rally consolidation. Parallels: 2021 commodity boom. Analogies: Deere farm equipment cycles; Boeing supply chains.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "-2 to +3%",
+                "reasoning": "Holiday quiet; mixed sentiment on capex sustainability."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for dividend yield + recovery",
+                "short_position": "Watch for further 5% drop",
+                "key_risks": "Interest rates, global construction slowdown"
+            },
+            "confidence_rating": "C",
+            "justification": "Less direct news flow than tech; holiday effect dominant."
+        }
+    ]
+}
