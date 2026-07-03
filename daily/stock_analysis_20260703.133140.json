@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.5,
+                "market_cap": "115B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.5,
+                    "low": 68.2
+                },
+                "pe_ratio": 12.8,
+                "volume": "45.2M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Michael Burry disclosed short position on MU citing cyclical nature and AI overvaluation. Economic implications include potential slowdown in memory chip demand post-AI hype. Market psychology: fear contagion from famous bear. Historical parallel: 2022 chip downturn. Analogies: Like housing bubble short in 2008; dot-com bust for semis.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Sharp drop already seen July 1-2 (>10%), Burry short + SOXX puts amplify negative sentiment on X and news. Pre-holiday positioning likely extends weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential 5-10% rebound on holiday relief but high risk",
+                "short_position": "10-20% gains possible on continued selloff into July 6 open",
+                "key_risks": "AI demand recovery, short squeeze, macro data surprises"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources on Burry position and recent price action; high visibility event"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.8,
+                "market_cap": "140B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.25,
+                    "low": 18.9
+                },
+                "pe_ratio": 22.5,
+                "volume": "62M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Chip stock selloff led by Intel amid broader semis weakness and AI rotation concerns. Implications: Foundry struggles vs TSMC. Psychology: Momentum reversal after prior gains. Parallels: 2018-19 Intel stagnation. Analogies: Kodak to digital shift; Blockbuster vs streaming.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -12%",
+                "reasoning": "9%+ drop July 1 tied to sector rotation; sustained negative X sentiment and Burry ecosystem shorts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative bounce play only, limited upside near-term",
+                "short_position": "Moderate gains expected on open, 8-15%",
+                "key_risks": "Government CHIPS Act funding news, earnings beats"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation but Intel-specific catalysts possible"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "38M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Indirect hit from SOXX ETF shorts and Burry AI skepticism. Broader semis valuation concerns. Parallels to 2000 bubble peak warnings. Analogies: Tesla hype cycles; crypto winter.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -10%",
+                "reasoning": "Sector-wide pressure amplified by Burry SOXX puts; recent high valuations make vulnerable."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-July 6",
+                "short_position": "Viable for 6-12% swing trade",
+                "key_risks": "Data center demand reports, competitor moves"
+            },
+            "confidence_rating": "B",
+            "justification": "High sector beta confirmed by news flow"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 75.6
+                },
+                "pe_ratio": 52.0,
+                "volume": "280M",
+                "recent_dividend": "$0.01 quarterly (split-adjusted)"
+            },
+            "impact_theory": "Leader in AI semis facing Burry short bets and rotation fears. Economic: AI capex sustainability questioned. Psychology: FOMO reversal. Historical: Cisco 2000 peak. Analogies: Amazon early 2000s correction; Uber IPO hype.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -8%",
+                "reasoning": "Burry put options and sector contagion; pre-holiday profit-taking evident."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding but trim exposure",
+                "short_position": "Tactical 5-10% opportunity",
+                "key_risks": "Earnings, Blackwell ramp news"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with multiple high-profile bearish signals"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1620.0,
+                "market_cap": "750B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1850.0,
+                    "low": 980.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "22M",
+                "recent_dividend": "$5.25 quarterly"
+            },
+            "impact_theory": "AI infrastructure exposure leads to correlated weakness. Valuation compression risk. Parallels: Previous semi cycles. Analogies: Qualcomm boom-bust; Oracle growth stock phase.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -9%",
+                "reasoning": "Semiconductor ETF and broad chip selloff spillover; dividend stock but growth premium at risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for dividend, limited near-term appreciation",
+                "short_position": "Moderate short window 7-12%",
+                "key_risks": "VMware integration success, AI revenue beats"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector linkage but more diversified than pure plays"
+        }
+    ]
+}
