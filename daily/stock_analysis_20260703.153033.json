@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.2,
+                    "low": 92.4
+                },
+                "pe_ratio": 68.3,
+                "volume": "245M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Profit-taking in AI leaders after massive 2026 H1 gains amid broader tech rotation. Economic implications include sustained AI capex but valuation concerns. Market psychology: fear of overextension post-parabolic run. Historical parallels to 2023-24 AI rallies with pullbacks. Analogies: Like a sprinter catching breath mid-marathon; or tech bubble echo of 1999 with stronger fundamentals.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Recent 1-2% daily drops on semis sell-off confirmed via web/news and X sentiment showing caution on valuation after 80%+ YTD gains. Holiday timing mutes immediate reaction."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for AI growth; potential +15% rebound by Q3 end",
+                "short_position": "Short on continued rotation; target -10% near-term",
+                "key_risks": "AI earnings beats, Fed policy shifts"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong evidence from multiple July 2026 market reports on chip pullbacks but holiday limits real-time X data volume."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.3,
+                    "low": 48.6
+                },
+                "pe_ratio": 22.4,
+                "volume": "32M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Heavy profit-taking post 260% YTD surge on memory demand for AI. Implications: Supply chain normalization. Psychology: Momentum reversal fear. Parallels: 2024 memory cycles. Analogies: Rollercoaster after steep climb; commodity-like swings in tech disguise.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Explicit >10% drop noted in July 1 news; X posts reflect ongoing caution on semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for H2 AI cycle; +20% upside",
+                "short_position": "Extend shorts; -12% additional downside risk",
+                "key_risks": "Strong memory pricing data releases"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple sources confirm sharp recent drop and sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1680.4,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1850.0,
+                    "low": 1120.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "18M",
+                "recent_dividend": "5.25 (quarterly)"
+            },
+            "impact_theory": "AI infrastructure exposure leading to rotation out. Market effects mirror broader tech. Psychology: Rotation to value/defensives. Historical: Similar to post-earnings rotations. Analogies: Musical chairs in growth stocks; tide receding exposing valuation rocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "2% drop in recent session; X sentiment mixed but leaning cautious."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for networking/AI; +10% by year-end",
+                "short_position": "Tactical shorts for 5-7% drop",
+                "key_risks": "Custom AI chip demand updates"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector news flow."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 172.8,
+                "market_cap": "895B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 193.5,
+                    "low": 125.4
+                },
+                "pe_ratio": 25.6,
+                "volume": "12M",
+                "recent_dividend": "0.70 (quarterly)"
+            },
+            "impact_theory": "Foundry leader tied to AI supply chain volatility. Implications: Geopolitical + demand balance. Parallels to prior cycle peaks. Analogies: Keystone in AI arch under pressure; global supply seesaw.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-2% to -5%",
+                "reasoning": "Sector-wide pressure evident in news; lower relative volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; steady accumulation",
+                "short_position": "Limited; monitor for reversal",
+                "key_risks": "Taiwan tensions, foundry utilization"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect exposure confirmed via AI news."
+        },
+        {
+            "details": {
+                "ticker": "NEE",
+                "full_name": "NextEra Energy, Inc.",
+                "current_price": 78.5,
+                "market_cap": "162B",
+                "sector_industry": "Utilities/Renewable Energy",
+                "high_low_52_week": {
+                    "high": 86.2,
+                    "low": 61.3
+                },
+                "pe_ratio": 18.9,
+                "volume": "9M",
+                "recent_dividend": "0.515 (quarterly)"
+            },
+            "impact_theory": "AI data center power demand beneficiary amid rotation. Positive sentiment shift to defensives/energy infrastructure. Historical parallels to utility rallies in growth slowdowns. Analogies: Picking up the tab for AI feast; steady ship in volatile seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Forbes/analyst mentions as AI power play; positive sector rotation signals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Attractive yield + growth; +12% potential",
+                "short_position": "Avoid; rate sensitivity downside",
+                "key_risks": "Interest rate moves, regulatory"
+            },
+            "confidence_rating": "B",
+            "justification": "Explicit AI bottleneck coverage in July 2026 outlooks."
+        }
+    ]
+}
