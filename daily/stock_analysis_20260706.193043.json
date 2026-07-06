@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1002.52,
+                "market_cap": "1.12T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "65M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Sharp pullback in semiconductor stocks on July 1-2, 2026, driven by profit-taking after strong H1 AI rally. Economic implications include rotation from growth to value amid Fed minutes and trade data. Market psychology: Fear of valuation bubbles in AI semis. Historical parallel: 2022 chip correction. Analogies: Like post-earnings tech selloff in 2023; akin to oil price crash after supply normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "X sentiment and news show heavy selling in MU/INTC; analysts note overextension in AI hype. Web search confirms 10%+ drops."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 15% rebound on AI demand confirmation.",
+                "short_position": "Short with 10-15% downside target; cover on support.",
+                "key_risks": "AI capex acceleration, geopolitical easing in Middle East."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple sources (Yahoo Finance, Investopedia) confirm July 1-2 chip selloff; consistent sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 123.61,
+                "market_cap": "520B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "85M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Intel shares fell ~9% amid broader semis weakness and concerns over foundry ramp-up delays. Implications for US chip manufacturing push. Psychology: Investor rotation away from laggards. Parallel: 2018-19 Intel struggles. Analogies: Similar to AMD vs Intel battles; like auto sector EV transition pains.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7% to -10%",
+                "reasoning": "News highlights chip stock drops; X posts reflect negative sentiment on execution risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips for foundry recovery; 20% upside potential.",
+                "short_position": "Short-term shorts for 8-12% gains.",
+                "key_risks": "Government subsidies, competitor gains (TSM)."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct coverage in market reports of July 2 declines; high volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 455.92,
+                "market_cap": "2.36T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 520.0,
+                    "low": 220.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "12M",
+                "recent_dividend": "$0.65 quarterly"
+            },
+            "impact_theory": "TSM benefits from AI but faces spillover weakness from US peers. Geopolitical tensions with China add volatility. Implications for global supply chain. Parallel: 2022 Taiwan tensions impact. Analogies: Supply chain like 2020 shortages; pricing power akin to premium autos.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Less impacted than US semis but correlated; positive long-term AI outlook tempered by short-term rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; 10%+ gains on earnings.",
+                "short_position": "Limited; hedge only.",
+                "key_risks": "Taiwan Strait issues, currency fluctuations."
+            },
+            "confidence_rating": "B",
+            "justification": "Stronger fundamentals than peers per analyst notes; moderate sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 196.85,
+                "market_cap": "4.85T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "220M",
+                "recent_dividend": "None (reinvested)"
+            },
+            "impact_theory": "NVIDIA leads AI but saw pullback amid sector rotation. Implications for valuation sustainability. Psychology: Bubble fears post-huge run. Parallel: Dot-com era leaders. Analogies: Like Tesla post-hype corrections; Amazon early growth phase.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Market reports note tech weakness dragging NVDA; sustained AI demand supports long term."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; 15-25% recovery expected.",
+                "short_position": "Risky; volatility high.",
+                "key_risks": "Competition, export restrictions."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with broad semis news coverage and volume spikes."
+        },
+        {
+            "details": {
+                "ticker": "AMAT",
+                "full_name": "Applied Materials, Inc.",
+                "current_price": 598.69,
+                "market_cap": "490B",
+                "sector_industry": "Technology/Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 720.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 26.0,
+                "volume": "8M",
+                "recent_dividend": "$0.36 quarterly"
+            },
+            "impact_theory": "Equipment makers hit hard by capex pause fears. Implications for semi fab builds. Psychology: Profit-taking in suppliers. Parallel: 2023 equipment slowdown. Analogies: Industrial machinery cycles; mining equipment post-commodity boom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Specific mention of 10% drop in reports; sentiment negative on near-term orders."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for H2 recovery; 12%+ upside.",
+                "short_position": "Attractive for 10% moves.",
+                "key_risks": "Delayed customer spending, macro slowdown."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicitly called out in July 2 market summaries alongside MU/INTC."
+        }
+    ]
+}
