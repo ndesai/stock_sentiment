@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.50T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 65.2,
+                "volume": "280M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Profit-taking in AI semiconductor stocks after massive 2026 rally. Economic implications: Cooling of AI hype could slow capex but fundamentals remain strong. Market psychology: Fear of overvaluation leads to rotation. Historical parallels: 2023-2024 tech corrections. Analogies: Like a runner pausing after sprint; Gold rush followed by consolidation.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Heavy selling in chips post-holiday week; X sentiment mixed with profit booking mentions dominating latest posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% rebound on AI earnings",
+                "short_position": "Short for quick 5-8% gains on continued rotation",
+                "key_risks": "Earnings beats or positive Fed comments could reverse"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent news flow on tech pullback, moderate X volume."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "130B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Sharp 10%+ drop on July 1 from AI profit taking. Implications: Memory demand still robust but valuation reset. Psychology: Panic selling amplifies moves. Parallels: 2022 chip downturn. Analogies: Avalanche after peak climb; Party cooling off.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-7% to -12%",
+                "reasoning": "Multiple sources cite MU tumble; latest X posts show high negative sentiment volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for 15-20% recovery post-earnings",
+                "short_position": "Hold shorts targeting lower support",
+                "key_risks": "Strong DRAM/HBM demand data reversal"
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit news mentions of MU decline and sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1680.0,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1900.0,
+                    "low": 1200.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "22M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Modest decline amid sector rotation from AI leaders. Implications: AI infrastructure spend intact. Psychology: Herd mentality in tech selloff. Parallels: Previous semi cycles. Analogies: Domino effect in portfolio rebalancing; Tide receding after high tide.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Sector-wide weakness noted; recent X sentiment shows caution on valuation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold with 8-12% upside",
+                "short_position": "Tactical short 4-7%",
+                "key_risks": "Custom AI chip wins boosting sentiment"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with broader chip news and moderate sentiment data."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.4,
+                "market_cap": "140B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "65M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Continued pressure from AI competition and profit taking. Implications: Foundry turnaround key. Psychology: Skepticism on recovery story. Parallels: Past Intel turnarounds. Analogies: Underdog in marathon; Phoenix attempting rebirth amid headwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -9%",
+                "reasoning": "Chip selloff includes INTC; X latest posts highlight ongoing concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long for 20%+ on turnaround news",
+                "short_position": "Short with 6-10% target",
+                "key_risks": "Government subsidies or partnership announcements"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector context strong, specific sentiment moderate."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.9,
+                "market_cap": "930B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "18M",
+                "recent_dividend": "$0.70 semi-annual"
+            },
+            "impact_theory": "Mild pullback as foundry leader benefits from AI demand long-term. Implications: Geopolitical and supply chain stability. Psychology: Relative strength vs peers. Parallels: Supply chain resilience stories. Analogies: Anchor in stormy seas; Reliable engine in tech vehicle.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly bullish",
+                "estimated_price_impact_pct": "-2% to +3%",
+                "reasoning": "Less severe impact than peers; X sentiment relatively positive on long-term."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy for 12-18% gains",
+                "short_position": "Avoid or minimal",
+                "key_risks": "Taiwan tensions or capacity delays"
+            },
+            "confidence_rating": "A",
+            "justification": "Differentiated performance within sector confirmed by news."
+        }
+    ]
+}
