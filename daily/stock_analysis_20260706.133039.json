@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 245.67,
+                "market_cap": "1.27T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 278.5,
+                    "low": 142.3
+                },
+                "pe_ratio": 28.4,
+                "volume": "18.5M",
+                "recent_dividend": "0.48 quarterly"
+            },
+            "impact_theory": "AI demand surge and Arizona fab expansion amid global chip supply chain shifts. Economic implications include boosted US manufacturing and tech leadership. Market psychology: FOMO in semis. Historical parallel: 2023-2024 AI boom. Analogies: Like railroad expansion in 19th century; oil in 1970s.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Strong AI foundry demand, positive X sentiment on expansions; upcoming earnings catalysts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips, target 12% gain in 30 days",
+                "short_position": "Avoid or hedge with puts if geopolitics escalate",
+                "key_risks": "Taiwan tensions, valuation stretch, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent news flow and X buzz around AI/semicon leaders"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.35,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.8,
+                    "low": 78.9
+                },
+                "pe_ratio": 15.2,
+                "volume": "22.1M",
+                "recent_dividend": "0.12 quarterly"
+            },
+            "impact_theory": "HBM memory demand for AI data centers. Implications for memory cycle recovery. Psychology: Rotation into value semis. Parallel: 2017-18 memory supercycle. Analogies: Gold rush supply chain; EV battery boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "AI memory tailwinds confirmed in recent reports and positive X posts"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for 15% upside",
+                "short_position": "Limited; monitor for cycle peaks",
+                "key_risks": "Commodity price volatility, oversupply"
+            },
+            "confidence_rating": "A",
+            "justification": "High alignment between AI narrative and earnings visibility"
+        },
+        {
+            "details": {
+                "ticker": "NEE",
+                "full_name": "NextEra Energy, Inc.",
+                "current_price": 78.45,
+                "market_cap": "162B",
+                "sector_industry": "Utilities/Renewable Energy",
+                "high_low_52_week": {
+                    "high": 85.2,
+                    "low": 52.1
+                },
+                "pe_ratio": 22.8,
+                "volume": "12.3M",
+                "recent_dividend": "0.52 quarterly"
+            },
+            "impact_theory": "AI data center power demand driving clean energy needs. Implications: Accelerated renewables adoption. Psychology: Defensive growth rotation. Parallel: 2000s wind/solar ramp. Analogies: Electrification of autos; internet infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Power demand themes dominant in July 2026 outlook articles"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady 8% gains + dividend",
+                "short_position": "Not recommended",
+                "key_risks": "Interest rate sensitivity, regulatory changes"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic fit but utility valuations sensitive to macro"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.18,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.4,
+                    "low": 18.9
+                },
+                "pe_ratio": 18.6,
+                "volume": "45.7M",
+                "recent_dividend": "None (suspended)"
+            },
+            "impact_theory": "Foundry recovery and process node leadership push. Implications: US chip independence. Psychology: Turnaround sentiment building. Parallel: AMD recovery 2017+. Analogies: Auto industry revival; smartphone supply chain shifts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-20%",
+                "reasoning": "Earnings preview and foundry optimism in recent coverage"
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long with 20% target",
+                "short_position": "Watch for failure at key resistance",
+                "key_risks": "Execution risk, high debt, competition from TSM"
+            },
+            "confidence_rating": "B",
+            "justification": "High upside potential but turnaround story carries volatility"
+        },
+        {
+            "details": {
+                "ticker": "WMB",
+                "full_name": "The Williams Companies, Inc.",
+                "current_price": 52.89,
+                "market_cap": "64B",
+                "sector_industry": "Energy/Midstream",
+                "high_low_52_week": {
+                    "high": 58.1,
+                    "low": 32.7
+                },
+                "pe_ratio": 19.3,
+                "volume": "8.9M",
+                "recent_dividend": "0.45 quarterly"
+            },
+            "impact_theory": "Natural gas infrastructure for AI power plants. Implications: Energy transition enabler. Psychology: Commodity + growth hybrid appeal. Parallel: Shale boom infrastructure. Analogies: Pipeline build for oil; fiber optic networks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "AI power needs highlighted in multiple July outlook pieces"
+            },
+            "potential_profit_risks": {
+                "long_position": "Income + growth play targeting 10% total return",
+                "short_position": "Minimal",
+                "key_risks": "Commodity price swings, environmental regs"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid thematic support with less hype than pure tech"
+        }
+    ]
+}
