@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.5,
+                "volume": "280M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "Profit-taking in AI/semiconductor leaders after 80%+ H1 2026 gains amid strong AI demand. Economic implications: sustained capex in AI infrastructure. Market psychology: rotation from momentum to value. Historical parallels: 2023-2024 AI rally corrections. Analogies: Like post-earnings tech rotations; similar to dot-com selective pullbacks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Recent 1-2% daily drops with MU/AVGO weakness; X sentiment shows mixed profit-taking chatter. Web news highlights tech selloff post strong Q2."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% rebound by Q4 on continued AI tailwinds",
+                "short_position": "Short for 8-12% near-term drop on rotation",
+                "key_risks": "AI hype reversal, earnings misses, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "High visibility on chip sector moves but uncertain duration of correction."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 48.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "45M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Over 10% single-day drop after 260% YTD run on AI memory demand. Implications: healthy consolidation after parabolic move. Psychology: fear of overvaluation. Parallels: 2024 memory cycle peaks. Analogies: Crypto winter corrections; commodity supercycle pauses.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Explicit news on Micron tumble >10%; X posts highlight profit booking in semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $110 for 30%+ recovery",
+                "short_position": "Target 10-15% further downside",
+                "key_risks": "Stronger-than-expected demand data, supply constraints"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear recent price action and volume spike documented across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1680.0,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1850.0,
+                    "low": 920.0
+                },
+                "pe_ratio": 35.8,
+                "volume": "22M",
+                "recent_dividend": "0.59 quarterly"
+            },
+            "impact_theory": "Modest 2% decline amid broader chip selloff despite strong AI networking exposure. Broader implications include continued data center buildout. Psychology: selective rotation away from highest flyers. Parallels: 2025 semiconductor cooldowns. Analogies: Auto sector post-EV boom; pharma post-blockbuster patent cliffs.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Consistent mentions in July 1-3 market recaps of AVGO/NVDA weakness tied to profit-taking."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold with 20% upside on AI ramp",
+                "short_position": "Limited short window 4-6%",
+                "key_risks": "VMware integration, customer concentration"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals offset short-term technical weakness."
+        },
+        {
+            "details": {
+                "ticker": "CAT",
+                "full_name": "Caterpillar Inc.",
+                "current_price": 342.0,
+                "market_cap": "165B",
+                "sector_industry": "Industrials/Construction Machinery",
+                "high_low_52_week": {
+                    "high": 395.0,
+                    "low": 265.0
+                },
+                "pe_ratio": 16.5,
+                "volume": "3.8M",
+                "recent_dividend": "1.41 quarterly"
+            },
+            "impact_theory": "Nearly 7% pullback despite AI beneficiary status and record Dow highs earlier. Signals possible rotation out of cyclicals. Implications: infrastructure/AI capex still positive long-term. Parallels: 2021 industrial rally pauses. Analogies: Energy stocks post-oil spike; retail post-pandemic boom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Specific callout in July 1 market coverage of CAT decline amid otherwise record Dow session."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy targeting 12-18% recovery",
+                "short_position": "Tactical short 5-8%",
+                "key_risks": "Commodity price volatility, China exposure"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct news linkage and intraday high context."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 138.25,
+                "market_cap": "224B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 164.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 48.0,
+                "volume": "65M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Sector-wide rotation impacting GPU/AI competitors following Nvidia leadership. Broader economic signal of maturing AI investment cycle. Psychology: herd mentality in semis. Parallels: 2023-24 AMD/NVDA correlation trades. Analogies: Smartphone supply chain cycles; cloud computing adoption waves.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "Included in chipmaker weakness narrative across CNBC, WSJ, Reuters coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; 25%+ potential on next catalysts",
+                "short_position": "Short-term swing 7-10%",
+                "key_risks": "Intel competition, data center share loss"
+            },
+            "confidence_rating": "B",
+            "justification": "High correlation to documented sector moves and volume."
+        }
+    ]
+}
