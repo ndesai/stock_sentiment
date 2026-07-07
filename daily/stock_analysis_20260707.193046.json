@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Samsung's disappointing guidance despite profit beat triggered global chip stock selloff. Economic implications include AI capex concerns and supply chain ripple effects. Market psychology: fear of slowing AI demand after strong H1 2026 rally. Historical parallel: 2022 tech correction. Analogies: (1) Like 2023 banking crisis contagion, (2) Oil shock spillover to energy stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Samsung results failed to meet lofty AI expectations, sparking immediate Nasdaq slide of ~0.7%. X sentiment shows heavy selling pressure on semis. High volume confirms negative shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip on pullback for 8-12% rebound on Q2 earnings season strength",
+                "short_position": "Short on continued weakness for 5-10% downside if AI hype fades",
+                "key_risks": "Upcoming NVDA earnings volatility, broader market rotation into value stocks"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct catalyst from Samsung earnings with clear price action and volume confirmation on July 7."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.0,
+                "market_cap": "130B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "42M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Memory chip exposure to Samsung's HBM/AI comments amplifies selloff. Implications: Potential margin pressure in DRAM. Psychology: Profit-taking after 260%+ YTD run. Parallels: 2024 memory cycle peaks. Analogies: (1) Similar to 2022 crypto winter impact on related semis, (2) Commodity price swings in oil/energy.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Samsung miss directly affects memory sentiment; X posts highlight profit-taking in high-flyers like MU."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $110 for 15%+ recovery into earnings",
+                "short_position": "Target 8-12% drop over next week",
+                "key_risks": "Strong AI data center demand in US earnings could reverse trend"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear sentiment shift evidenced by global chip index reaction and news volume."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 1680.0,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1950.0,
+                    "low": 920.0
+                },
+                "pe_ratio": 42.8,
+                "volume": "18M",
+                "recent_dividend": "5.25 (quarterly)"
+            },
+            "impact_theory": "Networking/custom AI chips tied to Samsung ecosystem selloff. Implications: Short-term valuation compression on growth fears. Psychology: Rotation out of momentum names. Parallels: Post-earnings tech rotations in 2025. Analogies: (1) Dot-com bust spillover, (2) 2023 SVB crisis sector-wide fear.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "Broadcom rallied July 6 but reversed on Samsung news; high sentiment sensitivity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold through volatility, target 10%+ on positive US earnings",
+                "short_position": "Limited to 4-7% tactical short",
+                "key_risks": "Dividend support and custom AI contracts provide floor"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but significant exposure confirmed by sector moves."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.0,
+                "market_cap": "920B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "15M",
+                "recent_dividend": "0.65 (quarterly)"
+            },
+            "impact_theory": "Foundry exposure to Samsung competitor dynamics and global chip demand. Implications: Foundry utilization concerns. Psychology: Geopolitical + AI cycle fears amplified. Parallels: 2023 TSM volatility on China tensions. Analogies: (1) Supply chain shocks like 2021 chip shortage, (2) Auto sector contagion.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Global semis selloff hits TSM ADR; X shows cautious sentiment ahead of own earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for long-term AI tailwinds, 12% upside",
+                "short_position": "Short-term 5% downside play",
+                "key_risks": "Strong customer backlog (Nvidia/Apple) mitigates"
+            },
+            "confidence_rating": "A",
+            "justification": "High correlation to Samsung-driven chip sentiment confirmed."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 152.0,
+                "market_cap": "245B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 72.0
+                },
+                "pe_ratio": 48.7,
+                "volume": "48M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "CPU/GPU competitor to Nvidia faces same AI demand skepticism post-Samsung. Implications: Valuation reset on growth multiples. Psychology: Momentum unwind. Parallels: 2022 AMD correction. Analogies: (1) EV sector hype cycles, (2) Biotech clinical miss spillovers.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "AMD heavily correlated to chip selloff; recent X posts reflect profit taking."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization, potential 15% rebound on positive catalysts",
+                "short_position": "5-10% near-term downside",
+                "key_risks": "MI300 AI accelerator ramp success could buck trend"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector linkage but slightly less direct than memory/foundry names."
+        }
+    ]
+}
