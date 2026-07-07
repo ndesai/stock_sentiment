@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 142.5,
+                "market_cap": "158B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "28.5M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Weak US jobs data shifts Fed rate outlook, boosting AI chip demand expectations. Market psychology: relief rally in semis after prior pullbacks. Historical parallel: 2023 AI boom post-rate pause signals. Analogies: 1) Like oil stocks on supply news; 2) Tech like post-earnings rebounds in 2024.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Rebound in chips noted; jobs data supports lower rates, fueling AI capex. X sentiment positive on MU recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 10%+ gains on AI cycle continuation",
+                "short_position": "Avoid; limited downside short-term",
+                "key_risks": "Geopolitical supply chain issues, earnings misses"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment with macro data and sector momentum from multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "RIVN",
+                "full_name": "Rivian Automotive, Inc.",
+                "current_price": 12.8,
+                "market_cap": "12.4B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 18.5,
+                    "low": 8.2
+                },
+                "pe_ratio": -4.2,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Secondary share offering raises capital but dilutes shareholders amid EV competition. Psychology: profit-taking and caution on growth stocks. Historical: Similar to 2022 EV selloffs. Analogies: 1) Like Tesla dilution events; 2) Biotech funding rounds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-15%",
+                "reasoning": "Direct 10% drop reported on July 6 news; sustained pressure likely"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $11",
+                "short_position": "Short for 8-12% downside to $11",
+                "key_risks": "Production ramp surprises, macro EV demand"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst with immediate price action confirmation"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.0,
+                "market_cap": "272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "35M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI data center spending surge and chip rebound post-weak jobs. Psychology: FOMO in semis sector. Historical: Parallels 2023-24 AI rally. Analogies: 1) Nvidia 2023 run; 2) Internet stocks 1999 cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Sector rebound confirmed; AI capex forecasts strong"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7%+ near-term gains",
+                "short_position": "Limited appeal",
+                "key_risks": "Valuation compression, competition from NVDA/INTC"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent with broad market and sector trends"
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.0,
+                "market_cap": "920B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12M",
+                "recent_dividend": "$0.52 quarterly"
+            },
+            "impact_theory": "Foundry leader benefits from AI chip demand boom and global diversification. Psychology: Safe haven in semis. Historical: Steady gains during 2024-25 expansions. Analogies: 1) Like ASML equipment plays; 2) Supply chain stabilizers in crises.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Core AI supply chain play; positive macro backdrop"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for steady 6% upside",
+                "short_position": "Not recommended",
+                "key_risks": "Taiwan geopolitical tensions, currency"
+            },
+            "confidence_rating": "A",
+            "justification": "High conviction on structural AI tailwinds"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.5,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 52.0,
+                    "low": 18.5
+                },
+                "pe_ratio": 15.0,
+                "volume": "52M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Potential turnaround via foundry push amid chip cycle recovery. Psychology: Value play vs growth peers. Historical: Similar to 2010s recovery cycles. Analogies: 1) IBM cloud pivot; 2) Auto makers electrification shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Oversold status + AI exposure rebound potential"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing for 9% gains",
+                "short_position": "High risk due to volatility",
+                "key_risks": "Execution delays on foundry, margin pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Recovery story with catalysts but execution uncertainty"
+        }
+    ]
+}
