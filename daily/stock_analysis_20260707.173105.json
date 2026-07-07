@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.3,
+                    "low": 92.1
+                },
+                "pe_ratio": 52.4,
+                "volume": "245M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Weak June jobs data (57k vs 117k expected) sparked rotation away from overvalued AI names amid profit-taking. Economic implications include tempered growth expectations but lower rate hike odds. Market psychology: Fear of AI bubble burst vs greed for Fed pivot. Historical parallel: 2022 tech correction. Analogies: Like a gold rush cooling after initial frenzy; akin to dot-com bust early signs but with stronger fundamentals.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "X posts show rising bearish sentiment on AI hype (limit 20 latest); news highlights Nasdaq pullback and semis rotation. Weak jobs support broader market but hit high-valuation tech hardest."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip to $130 support; potential 8% rebound on Fed minutes",
+                "short_position": "3-5% downside on continued rotation; cover before July 8 Fed minutes",
+                "key_risks": "Positive Fed minutes or strong AI earnings could reverse quickly; high volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear rotation signals from recent news and X sentiment, but Fed events could shift rapidly."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.4,
+                    "low": 68.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "28M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "AI memory demand hype cools with broader semis selloff post-weak jobs. Implications: Supply chain digestion period. Psychology shift from FOMO to caution. Historical: 2023 HBM ramp parallels. Analogies: Tech inventory cycle like retail fashion seasons; semiconductor cycles mirror commodity price swings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Searches show MU among AI bottleneck plays under pressure; X semantic search indicates profit booking sentiment dominant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips targeting 10% rebound on HBM news",
+                "short_position": "Short for 6% move with stop above $125",
+                "key_risks": "Strong data center demand reports could invalidate"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with sector rotation confirmed across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.4,
+                "market_cap": "925B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 212.6,
+                    "low": 124.3
+                },
+                "pe_ratio": 24.8,
+                "volume": "12M",
+                "recent_dividend": "0.48 quarterly"
+            },
+            "impact_theory": "Foundry leader exposed to AI client pullback. Broader economic slowdown signals. Psychology: Global supply chain caution. Parallels to 2018-19 trade tensions. Analogies: Like a shipping port during demand lull; upstream supplier feeling downstream AI indigestion.",
+            "news_impact_analysis": {
+                "outlook": "Mildly Bearish",
+                "estimated_price_impact_pct": "-3% to -5%",
+                "reasoning": "Forbes highlights TSM as top pick long-term but near-term rotation evident in X/latest searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold; short-term 4% dip buy opportunity",
+                "short_position": "Limited; better for pairs trade vs NVDA",
+                "key_risks": "Geopolitical Taiwan tensions or Apple order beats"
+            },
+            "confidence_rating": "C",
+            "justification": "More resilient than peers due to foundry moat."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 248.9,
+                "market_cap": "795B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 488.5,
+                    "low": 138.8
+                },
+                "pe_ratio": 72.1,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "EV/AI/robotics narrative overlaps with tech rotation. Weak jobs may boost consumer spending hopes but hurt high-beta names. Psychology volatile. Historical: 2022-23 EV hype cycles. Analogies: Rollercoaster tied to Elon news flow; EV adoption like smartphone penetration curve.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-2% to +3%",
+                "reasoning": "Mixed X sentiment; some optimism on autonomy but profit-taking spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Watch for $230 entry; 15% swing potential on news",
+                "short_position": "Volatile; use options",
+                "key_risks": "Delivery numbers, robotaxi events"
+            },
+            "confidence_rating": "C",
+            "justification": "High idiosyncratic risk beyond macro."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.85,
+                "market_cap": "140B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.2,
+                    "low": 18.9
+                },
+                "pe_ratio": 15.6,
+                "volume": "42M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Domestic chipmaker benefits from CHIPS Act but faces AI foundry competition pressure. Jobs data mixed signal for capex. Parallels Intel's 2022-24 turnaround attempts. Analogies: Legacy automaker vs EV disruptors; national champion in global tech war.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "Sector-wide pressure amplified by execution concerns in recent coverage."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative dip buy for turnaround; 12% upside",
+                "short_position": "4-7% downside play",
+                "key_risks": "Foundry delays, government subsidies"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct exposure to AI/semiconductor sentiment shift."
+        }
+    ]
+}
