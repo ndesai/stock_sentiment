@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 52.3,
+                "volume": "245M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI chip demand surge and volatility from profit-taking following strong Q2 2026 performance. Economic implications include sustained capex in AI infrastructure driving growth but risking bubble concerns. Market psychology: FOMO vs. rotation out of overvalued names. Historical parallel: 2023-2024 AI rally. Analogies: 1) Like Tesla in 2020 EV hype cycle. 2) Dot-com bubble winners consolidating.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Chip stocks retreated amid profit booking after Monday rebound; X sentiment mixed with concerns over valuations despite long-term AI tailwinds. Recent news highlights volatility in semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% rebound on earnings strength",
+                "short_position": "Short for 5-10% near-term pullback",
+                "key_risks": "AI capex slowdown, regulatory scrutiny, competition from AMD/others"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong AI narrative but short-term volatility evident from recent trading; moderate confidence due to unpredictable sentiment shifts."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.8,
+                "market_cap": "118B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.3,
+                    "low": 49.1
+                },
+                "pe_ratio": 18.7,
+                "volume": "32M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory chip demand tied to AI data centers with recent 10%+ swings. Implications: Supply constraints boost pricing power. Psychology: High beta to AI news flow. Historical: 2024 HBM rally parallels. Analogies: 1) Oil spikes in energy crises. 2) Gold during inflation fears.",
+            "news_impact_analysis": {
+                "outlook": "Bullish medium-term",
+                "estimated_price_impact_pct": "+8% to +12%",
+                "reasoning": "Rebounds noted in recent sessions; positive X sentiment on AI memory demand despite short-term dips. News on strong HBM outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 15-20% gains on cycle upswing",
+                "short_position": "Avoid or limited to intraday",
+                "key_risks": "Inventory buildup, China export restrictions"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI-driven demand fundamentals with multiple analyst supports."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.4,
+                "market_cap": "272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 191.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.1,
+                "volume": "48M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "CPU/GPU competition in AI and data center markets amid broader chip volatility. Implications: Market share gains vs NVDA. Psychology: Underdog narrative fuels swings. Historical: 2020-21 AMD run. Analogies: 1) Coke vs Pepsi brand wars. 2) Boeing vs Airbus aerospace cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "Rebound in AI-tied shares Monday; positive sentiment on earnings potential and diversification."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 10%+ on AI server wins",
+                "short_position": "Short volatility plays",
+                "key_risks": "Execution risk on new products, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid fundamentals but less dominant than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.9,
+                "market_cap": "930B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 193.5,
+                    "low": 122.8
+                },
+                "pe_ratio": 26.4,
+                "volume": "15M",
+                "recent_dividend": "0.50 quarterly"
+            },
+            "impact_theory": "Foundry leader benefiting from global AI chip production ramp. Geopolitical risks in Taiwan. Implications: Supply chain resilience key. Psychology: Safe haven in semis. Historical: 2023 recovery. Analogies: 1) ASML monopoly in EUV. 2) Intel's foundry ambitions vs reality.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Steady demand from customers like NVDA/AMD; stable sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core long holding 8-12% upside",
+                "short_position": "Limited",
+                "key_risks": "Taiwan Strait tensions, currency"
+            },
+            "confidence_rating": "A",
+            "justification": "Monopoly-like position with diversified clientele."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.7,
+                "market_cap": "138B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 51.3,
+                    "low": 18.9
+                },
+                "pe_ratio": 22.8,
+                "volume": "65M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Turnaround story with foundry investments amid AI competition. Economic: US CHIPS Act support. Psychology: Value vs growth debate. Historical: Intel's 90s dominance return attempts. Analogies: 1) IBM cloud pivot. 2) GM EV transition.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bearish near-term",
+                "estimated_price_impact_pct": "-3% to +5%",
+                "reasoning": "Lagging peers in recent retreats; cautious X posts on recovery timeline."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long 10%+ on foundry progress",
+                "short_position": "Short on continued underperformance",
+                "key_risks": "Execution delays, market share loss"
+            },
+            "confidence_rating": "C",
+            "justification": "High uncertainty in turnaround execution despite policy tailwinds."
+        }
+    ]
+}
