@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 42.3,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Samsung earnings miss on memory chips triggers sector-wide caution on AI supply chain. Economic implications include potential delays in data center buildouts. Market psychology shifts to rotation out of high-valuation semis. Historical parallel: 2022 chip correction. Analogies: Like oil glut in 2014 or dot-com bubble burst precursors.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "X sentiment and news highlight Samsung weakness dragging MU/WDC; NVDA follows as AI leader. Weak volume and 200 SMA tests signal short-term pullback despite long-term AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy below $135; potential 15-20% rebound on AI news",
+                "short_position": "Short at $148-150 targeting $130; 10-12% gain possible",
+                "key_risks": "Rapid AI capex rebound, Fed dovish pivot, earnings beats"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent news flow on semis but volatile market; A-level for direction but timing uncertain."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.75,
+                "market_cap": "132B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 78.2
+                },
+                "pe_ratio": 28.5,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Direct Samsung memory earnings fallout pressures HBM/AI DRAM outlook. Implications for slower AI training ramp. Psychology: Fear of oversupply. Parallel to 2023 memory cycle bottom. Analogies: 2018 crypto winter impact on GPUs; auto chip shortage reversal.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Post-earnings X posts and news show domino effect; high short interest amplifies downside."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate below $105 for 25%+ recovery into Q3 earnings",
+                "short_position": "Short now; 12-18% downside to $100",
+                "key_risks": "HBM demand surge, China stimulus"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct causal link from Samsung report confirmed across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp.",
+                "current_price": 285.0,
+                "market_cap": "185B",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Nasdaq-100 inclusion under fast-track rules fuels momentum. Economic implications: Validates private space economy. Psychology: FOMO on growth story. Parallel: Tesla Nasdaq entry 2010s. Analogies: Amazon early inclusion; Tesla post-split euphoria.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12% to +18%",
+                "reasoning": "Index buying + hype around Starship progress driving X buzz and institutional flows."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips; 20%+ upside to year-end targets",
+                "short_position": "Avoid or light cover; high volatility risk",
+                "key_risks": "Launch delays, valuation compression"
+            },
+            "confidence_rating": "B",
+            "justification": "Index effect reliable but valuation premium creates swing risk."
+        },
+        {
+            "details": {
+                "ticker": "PEP",
+                "full_name": "PepsiCo, Inc.",
+                "current_price": 168.25,
+                "market_cap": "231B",
+                "sector_industry": "Consumer Defensive/Beverages",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 145.3
+                },
+                "pe_ratio": 24.8,
+                "volume": "6.2M",
+                "recent_dividend": "1.355 (quarterly)"
+            },
+            "impact_theory": "Q2 earnings release July 9 tests consumer resilience amid inflation. Implications for staples rotation. Psychology: Defensive haven bid. Parallel: 2023 CPG pricing power tests. Analogies: Procter & Gamble earnings reactions; Coca-Cola volume recovery.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+3% to +7% on beat",
+                "reasoning": "Pre-earnings X sentiment mixed but staples outperforming; volume guidance key."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add pre-earnings; 5-8% upside on strong guidance",
+                "short_position": "Only on significant miss; limited 4-6% downside",
+                "key_risks": "Weak volume or guidance cut"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings binary event with solid historical reaction patterns."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 265.8,
+                "market_cap": "850B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 175.0
+                },
+                "pe_ratio": 52.0,
+                "volume": "95M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI/robotics narrative overlaps with EV demand recovery and SpaceX synergy hype. Implications: Autonomous driving valuation boost. Psychology: Narrative rotation into mega-cap growth. Parallel: 2023 AI re-rating. Analogies: Apple services pivot; Amazon AWS growth story.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "X posts show renewed optimism tied to FSD progress and index flows."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips to $250; 15-25% upside on delivery beats",
+                "short_position": "Risky; covered calls preferred over naked short",
+                "key_risks": "Delivery misses, competition intensification"
+            },
+            "confidence_rating": "C",
+            "justification": "Narrative driven; high beta and execution uncertainty lowers confidence."
+        }
+    ]
+}
