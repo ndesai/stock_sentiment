@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp",
+                "current_price": 245.5,
+                "market_cap": "580B",
+                "sector_industry": "Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "SpaceX joins Nasdaq-100 under fast-track rules on July 7, 2026. Massive index inclusion boosts visibility and passive inflows. Market psychology: excitement over first mega-IPO fast-track fuels FOMO. Historical parallels: Tesla's early Nasdaq inclusion. Analogies: 1) Like a VIP pass to an exclusive club drawing crowds. 2) Rocket launch propelling stock into orbit of institutional portfolios.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "X posts and news highlight historic Nasdaq-100 entry driving buying; strong sentiment on X for space/AI synergy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 15-25% gains on index rebalancing flows",
+                "short_position": "Avoid; high volatility risk",
+                "key_risks": "Valuation bubble, execution delays on Starship"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event with confirmed inclusion and social buzz"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology Inc",
+                "current_price": 935.0,
+                "market_cap": "1.03T",
+                "sector_industry": "Semiconductors",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 310.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "28M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Chip stock rebound amid AI demand and political insider buying signals. Oil/geopolitics rotation into semis. Psychology: relief rally after prior tumble. Parallels: 2023 AI boom. Analogies: 1) Memory chip as rocket fuel for AI. 2) Senator's buy like insider tip amplifying momentum.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Strong X sentiment on MU gains; earnings season tailwinds"
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for +12% near-term on AI cycle",
+                "short_position": "Risky; momentum strong",
+                "key_risks": "Cyclical downturn, competition from Samsung"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive news flow and volume"
+        },
+        {
+            "details": {
+                "ticker": "PEP",
+                "full_name": "PepsiCo Inc",
+                "current_price": 168.4,
+                "market_cap": "232B",
+                "sector_industry": "Consumer Defensive / Beverages",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "6.2M",
+                "recent_dividend": "$1.355 quarterly"
+            },
+            "impact_theory": "Q2 earnings due July 9 PM. Stable consumer staples amid geopolitical oil spike. Psychology: defensive rotation. Parallels: 2022 inflation resilience. Analogies: 1) Reliable dividend ship in stormy seas. 2) Snack empire as steady anchor portfolio.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Pre-earnings buildup on X; staples favored in uncertain macro"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for earnings beat, +3-6%",
+                "short_position": "Minimal upside for shorts",
+                "key_risks": "Miss on guidance, volume weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst with lower volatility"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corp",
+                "current_price": 118.5,
+                "market_cap": "525B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 9.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil spikes on Trump-Iran ceasefire collapse. Geopolitical premium. Psychology: fear-driven energy bid. Parallels: 2022 Russia invasion. Analogies: 1) Oil as geopolitical thermometer rising fast. 2) Exxon as energy fortress benefiting from chaos.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "News of oil rally and X mentions of energy strength"
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy play for +8% on sustained oil >$85",
+                "short_position": "Possible reversal if de-escalation",
+                "key_risks": "OPEC response, demand slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to headline geopolitical event"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Semiconductors / AI",
+                "high_low_52_week": {
+                    "high": 155.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "220M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI chip leader faces volatility from chip selloff/rebound and index effects. Broad market psychology on tech rotation. Parallels: prior AI hype cycles. Analogies: 1) AI GPU as digital gold rush pickaxe. 2) Market leader pulled by broader chip tide.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bullish bias",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "X buzz mixed but positive long-term AI narrative prevails"
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding, +10% on recovery",
+                "short_position": "Volatile swings offer short opportunities",
+                "key_risks": "Valuation, export restrictions, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "High profile but broader market dependence"
+        }
+    ]
+}
