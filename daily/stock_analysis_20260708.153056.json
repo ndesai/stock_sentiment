@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 245.0,
+                "market_cap": "1.76T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 35.2,
+                "volume": "25.4M",
+                "recent_dividend": "Quarterly $0.59"
+            },
+            "impact_theory": "Broadcom extended multi-year custom ASIC chip supply deal with Apple through 2031, valued at >$30B. Economic implications include revenue visibility and US manufacturing boost. Market psychology: Positive reinforcement for AI/custom silicon demand. Historical parallel: Similar long-term deals drove sustained gains in prior AVGO cycles. Analogies: 1) Like Tesla securing battery supply contracts locking in growth. 2) Comparable to Intel's early Apple partnership era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Deal announcement drives institutional buying; X sentiment overwhelmingly positive (limit 20 latest posts show excitement over revenue stability). Chip sector rebound expected post-pullback."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target 10-15% gains over 1-2 weeks via calls; strong fundamentals support hold.",
+                "short_position": "Avoid or limited; high short interest could squeeze.",
+                "key_risks": "Execution delays on chips, broader tech correction, competition from TSMC."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with quantified revenue impact; aligns with recent positive filings and sector momentum."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 118.5,
+                "market_cap": "1.06T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "32.1M",
+                "recent_dividend": "Quarterly $0.15"
+            },
+            "impact_theory": "Volatile chip stocks post-surge with profit-taking after 80%+ H1 2026 gains. AI memory demand remains structural. Psychology: Fear of overextension vs. long-term AI tailwinds. Historical: Similar corrections in 2023/2024 preceded rebounds. Analogies: 1) NVDA 2022 dip before AI boom. 2) Like commodity cycles with inventory normalization.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Sentiment recovering on X (latest posts highlight HBM/AI DRAM upside); news on continued data center strength offsets recent 10% drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 15% rebound in 30 days; strong earnings visibility.",
+                "short_position": "High risk; momentum could reverse quickly.",
+                "key_risks": "Inventory glut, macro slowdown, China export issues."
+            },
+            "confidence_rating": "B",
+            "justification": "Cyclical but supported by multi-year AI thesis; recent volatility requires monitoring."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "Nvidia Corp",
+                "current_price": 195.0,
+                "market_cap": "4.77T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 48.5,
+                "volume": "180M",
+                "recent_dividend": "Quarterly $0.01"
+            },
+            "impact_theory": "Leader in AI GPUs amid broader chip sector rotation. Implications: Continued data center dominance. Psychology: Safe haven in AI narrative. Historical: Post-earnings run-ups repeated. Analogies: 1) Microsoft dominance in cloud. 2) Cisco in networking boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Stable positive X sentiment (high volume mentions of CUDA/AI leadership); indirect benefit from AVGO deal and sector recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, 5-8% upside near-term on momentum.",
+                "short_position": "Expensive borrow; not recommended.",
+                "key_risks": "Valuation premium, regulatory scrutiny, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant position with consistent catalysts; high visibility."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 245.0,
+                "market_cap": "4.56T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "45M",
+                "recent_dividend": "Quarterly $0.26"
+            },
+            "impact_theory": "Key beneficiary of extended Broadcom partnership for custom silicon. Implications: Supply chain security, cost efficiencies. Psychology: Reassurance on innovation pipeline. Historical: Long-term supplier deals boosted margins. Analogies: 1) TSMC exclusive deals. 2) Samsung vertical integration.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Positive sentiment spillover from AVGO news on X; reinforces ecosystem strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady 4% gains; dividend appeal.",
+                "short_position": "Low volatility limits short opportunity.",
+                "key_risks": "iPhone sales slowdown, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but supportive catalyst; stable blue-chip profile."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp.",
+                "current_price": 265.0,
+                "market_cap": "1.97T",
+                "sector_industry": "Industrials/Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Fast-track Nasdaq-100 inclusion triggers passive inflows. Economic: Capital access for Starlink/xAI expansion. Psychology: Momentum/FOMO post-IPO. Historical: Palantir/others saw short-term pops post-inclusion. Analogies: 1) Tesla S&P inclusion. 2) Snowflake debut surge.",
+            "news_impact_analysis": {
+                "outlook": "Mixed",
+                "estimated_price_impact_pct": "+5% short-term then -3% profit-take",
+                "reasoning": "X posts mixed post-inclusion (bullish on index but recent dips noted); brokerages bullish with high PTs like $800."
+            },
+            "potential_profit_risks": {
+                "long_position": "Index-driven 5-10% pop play; volatile.",
+                "short_position": "Post-pop fade opportunity.",
+                "key_risks": "High valuation, execution on Starlink, Elon-related volatility."
+            },
+            "confidence_rating": "C",
+            "justification": "Event-driven with historical precedent for inclusion effects but elevated risk."
+        }
+    ]
+}
