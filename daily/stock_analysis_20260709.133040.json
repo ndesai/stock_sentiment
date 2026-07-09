@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 948.8,
+                "market_cap": "1.05T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1154.29,
+                    "low": 450.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "36M",
+                "recent_dividend": "$0.15 quarterly (ex-Jul 6, 2026)"
+            },
+            "impact_theory": "US-Iran tensions spike oil but AI demand resilient; Micron's $3B US supply chain investment (GlobalWafers deal) signals long-term capacity for AI memory/storage. Economic implications: bolstered domestic semis amid geopolitics. Market psychology: relief rally in chips despite war jitters. Historical parallels: 2022 chip cycle recovery post-supply shocks. Analogies: Like 1990s internet buildout ignoring short-term crises; or wartime industrial mobilization boosting tech suppliers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Positive investment news + AI rebound; X sentiment shows chip stocks leading Nasdaq gains (0.2% close) as tensions partially shrugged off. Web/news confirms MU commitment amid AI demand."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MU for 8-15% gains on AI momentum; target $1020-1100",
+                "short_position": "Avoid shorts; limited downside from geopolitics offset by fundamentals",
+                "key_risks": "Oil spike volatility, Fed policy shifts, execution on capex"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming sources (news releases, market closes, X updates); strong data alignment on AI resilience"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 141.1,
+                "market_cap": "560B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "US strikes on Iran push crude >$79/bbl boosting integrated majors via higher realizations. Implications: energy inflation pass-through, supply security focus. Psychology: flight to energy safety amid uncertainty. Parallels: 1970s/1990 Gulf crises. Analogies: Like gold miners in inflation; utility-like cash flows during volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Oil stabilization after spike with energy stocks lifted; X/posts highlight energy trade focus amid Hormuz/Strait concerns and shipping volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM 6-12% upside; dividends provide buffer",
+                "short_position": "Short only on de-escalation signals (3-6% risk)",
+                "key_risks": "Rapid ceasefire, OPEC response, demand destruction"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent oil price and energy sector moves confirmed across sources"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.0,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "280M",
+                "recent_dividend": "Minimal / growth focused"
+            },
+            "impact_theory": "AI leaders rebound as investors sidestep war fears for growth. Implications: sustained GPU demand. Psychology: risk-on in tech despite macro. Parallels: post-2022 AI boom ignoring macro dips. Analogies: Dot-com survivors; pandemic tech winners.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Nasdaq +0.2% led by chips/AI; X highlights AI trade regaining ground amid mixed broader market."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA 5-10% on AI narrative continuation",
+                "short_position": "Short risky; momentum strong",
+                "key_risks": "Valuation compression, export restrictions"
+            },
+            "confidence_rating": "B",
+            "justification": "Broad market data and sector resilience consistent"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "230B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 35.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Semis broadly benefit from AI/data center spend resilience; geopolitics secondary. Implications: competitive AI chip gains. Psychology: sector rotation into semis. Parallels: 2023-24 AI rally. Analogies: Intel's historic cycles; auto/tech crossover.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Chip stocks rebound highlighted in multiple closes and X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AMD 7-12%",
+                "short_position": "Limited appeal",
+                "key_risks": "Competition, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide confirmation"
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 155.0,
+                "market_cap": "290B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 175.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "9M",
+                "recent_dividend": "$1.63 quarterly"
+            },
+            "impact_theory": "Integrated oil peers ride crude surge from Middle East supply concerns. Implications: upstream margins expand. Psychology: defensive energy allocation. Parallels: prior OPEC/geopolitical spikes. Analogies: 2008 energy supercycle fragment; commodity hedges in uncertainty.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Energy stocks boosted alongside oil stabilization."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX 5-9% + dividend yield",
+                "short_position": "Tactical on peace talks",
+                "key_risks": "Price mean-reversion, regulatory"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with oil/energy theme data"
+        }
+    ]
+}
