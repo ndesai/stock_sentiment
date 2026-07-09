@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 98.2
+                },
+                "pe_ratio": 14.2,
+                "volume": "18.5M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Renewed US-Iran tensions and Trump ceasefire comments drove oil prices sharply higher. Economic implications include inflation pressure and higher energy costs. Market psychology favors energy as safe haven amid geopolitical risk. Historical parallels to 2019-2020 Strait tensions and 2022 Ukraine invasion. Analogies: Like buying umbrellas in a storm forecast; energy stocks as 'oil leverage play' similar to gold in inflation scares.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Oil futures +5%+ post-Trump remarks; X posts show positive sentiment on energy rotation. High volume inflows into XLE. Web news highlights energy surge vs broader market dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 8-15% gains on sustained oil >$85; short-term momentum trade",
+                "short_position": "Avoid shorts; risk of rapid de-escalation reversal",
+                "key_risks": "Sudden ceasefire announcement, OPEC+ supply response, recession fears capping demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear direct correlation between headline events and oil/energy price action confirmed by multiple sources and X sentiment."
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 545.0,
+                "market_cap": "130B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 565.0,
+                    "low": 418.0
+                },
+                "pe_ratio": 19.8,
+                "volume": "1.2M",
+                "recent_dividend": "1.20 quarterly"
+            },
+            "impact_theory": "Escalating Middle East conflict boosts defense spending expectations. Implications: Increased DoD budgets, long-term contracts. Psychology: Risk-on for defense amid uncertainty. Parallels to post-9/11 defense rally. Analogies: 'Guns over butter' rotation; defense stocks as geopolitical insurance policies.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Sector rotation into defense names on Iran headlines; positive X sentiment on military preparedness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long LMT targeting 7-12% upside on sustained tensions",
+                "short_position": "N/A - low short interest",
+                "key_risks": "Budget delays, peace talks, valuation premium"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic fit with events but less immediate price reaction than energy."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.0,
+                "volume": "285M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Chips rebounding from prior weakness amid broader rotation. Geopolitics secondary but AI capex resilient. Psychology: Tech resilience narrative. Parallels to 2023-24 AI rally recoveries. Analogies: 'Tech phoenix rising'; NVDA as market bellwether ignoring macro noise like 2022 rate hikes.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Nasdaq up despite Dow drop; X posts note rotation into AI names post-oil spike; Broadcom/NVDA leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for continued AI momentum, 6-10% gains",
+                "short_position": "Short only on failed breakout above $150",
+                "key_risks": "Valuation compression, China export restrictions, macro rotation away from growth"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent rebound confirmed across multiple sessions and sentiment sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.0,
+                "market_cap": "270B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "42M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI/data center demand driving chip recovery. Event amplifies rotation into semis. Implications: Continued GPU/CPU growth. Psychology: Catch-up trade to NVDA. Parallels to 2024 semis rally. Analogies: 'Second fiddle to leader gains'; AMD as leveraged play on AI infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Sector strength on chip names; positive X mentions of AMD gains alongside peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AMD for 8-12% on AI momentum continuation",
+                "short_position": "Limited; high beta risk",
+                "key_risks": "Competition from NVDA/Intel, earnings miss, macro headwinds"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic alignment but slightly lower volume/attention than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.0,
+                "market_cap": "310B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 172.0,
+                    "low": 132.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "7.8M",
+                "recent_dividend": "1.63 quarterly"
+            },
+            "impact_theory": "Oil price surge benefits upstream producers. Implications: Higher margins, FCF. Psychology: Energy safe-haven bid. Parallels to 2022 energy supercycle. Analogies: 'Upstream leverage on commodity'; CVX as diversified oil major hedging volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Energy sector outperformance; X and news confirm oil-driven buying."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX for dividend + capital appreciation 6-10%",
+                "short_position": "Not recommended",
+                "key_risks": "Downstream pressure from high feedstock costs, regulatory, de-escalation"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary of oil spike with robust fundamentals."
+        }
+    ]
+}
