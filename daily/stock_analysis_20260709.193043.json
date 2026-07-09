@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1004.54,
+                "market_cap": "1.07T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45.2M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Micron announced multibillion-dollar US chipmaking investments amid geopolitical tensions with Iran spiking oil prices and inflation fears. Economic implications include boosted domestic semiconductor supply chain resilience but higher capex costs. Market psychology shows rotation into US chipmakers as safe havens. Historical parallel: 2022 CHIPS Act rally. Analogies: (1) Like a fortress builder during siege (domestic production). (2) Like Tesla in EV boom - massive infrastructure bet pays off long-term.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Positive US investment news + chip sector rebound potential despite macro volatility; X sentiment strongly positive on earnings/investments (x_keyword_search latest: high engagement on MU surge)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Enter on dips targeting 15%+ gains over 1-3 months; strong fundamentals support upside.",
+                "short_position": "Avoid or limited; high volatility could trigger short squeezes.",
+                "key_risks": "Geopolitical escalation, oil-driven inflation, execution risk on capex."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating news sources (CNBC, MarketWatch) and clear positive catalyst with strong volume."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 203.77,
+                "market_cap": "4.94T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 161.16
+                },
+                "pe_ratio": 45.2,
+                "volume": "95M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI capex fatigue and Iran tensions causing rotation out of high-valuation semis. Implications: Short-term volatility but long-term AI demand intact. Psychology: Profit-taking after run-up. Historical: 2023-24 AI correction cycles. Analogies: (1) Dot-com survivors post-bubble. (2) Like Amazon post-2000 - core growth persists.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Chip rebound fizzling per reports; X posts highlight sentiment exhaustion on good news not lifting prices."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; long-term hold recommended.",
+                "short_position": "Tactical shorts on rallies for 8-12% downside.",
+                "key_risks": "Rapid reversal on AI hype resumption, regulatory risks."
+            },
+            "confidence_rating": "B",
+            "justification": "High visibility but mixed signals from broader market rotation."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "ExxonMobil Holdings Corporation",
+                "current_price": 137.41,
+                "market_cap": "585B",
+                "sector_industry": "Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "22M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil spikes 4.5%+ to ~$77.5 on Trump/Iran ceasefire collapse and strikes. Implications: Energy sector windfall profits, inflation pass-through. Psychology: Flight-to-safety in commodities. Historical: 2022 Russia-Ukraine oil surge. Analogies: (1) Gold during crises. (2) Defense contractors in conflicts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Direct beneficiary of oil price surge; positive X sentiment on energy names amid geopolitics."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10%+ gains; strong dividends add yield.",
+                "short_position": "Not recommended; momentum favors longs.",
+                "key_risks": "De-escalation of conflict, OPEC response, demand destruction."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear causal link from headline events to commodity price action."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 543.86,
+                "market_cap": "844B",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 650.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "38M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Chip sector volatility from AI spending questions and macro risks. Implications: Competitive pressure vs NVDA but data center gains. Psychology: Sector rotation fatigue. Historical: 2022-23 semi cycles. Analogies: (1) Underdog challenger in tech wars. (2) Like Intel recovery phases.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bullish",
+                "estimated_price_impact_pct": "+3-8%",
+                "reasoning": "Follows MU lead on domestic push; tempered by overall Nasdaq weakness per recent closes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective entry for 6-10% swing trades.",
+                "short_position": "Pair trade vs stronger peers.",
+                "key_risks": "Execution misses, broader tech selloff."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds but less specific positive catalysts than MU."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 624.2,
+                "market_cap": "1.53T",
+                "sector_industry": "Computer Programming, Data Processing",
+                "high_low_52_week": {
+                    "high": 720.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 26.4,
+                "volume": "19M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Jumps into AI coding market chasing OpenAI/Anthropic. Implications: Diversification beyond social into enterprise AI. Psychology: Growth narrative refresh amid market caution. Historical: Meta pivot post-2022 metaverse. Analogies: (1) Microsoft Azure expansion. (2) Google search to AI transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "AI expansion news positive; defensive qualities vs pure semis in volatile environment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding for 8%+ appreciation + dividend.",
+                "short_position": "Limited; ad revenue resilience.",
+                "key_risks": "Regulatory scrutiny on AI, ad market slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid news flow but overshadowed by macro/geopolitical headlines."
+        }
+    ]
+}
