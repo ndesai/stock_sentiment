@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.2,
+                    "low": 92.3
+                },
+                "pe_ratio": 48.2,
+                "volume": "285M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Iran geopolitical tensions and oil spike caused broad market selloff, pressuring AI chip demand sentiment. Economic implications include higher energy costs slowing capex. Market psychology: fear of slowdown in AI boom. Historical parallel to 2022 energy shock. Analogies: like oil embargo impacting tech; like 2008 crisis amplifying sector fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Recent X posts and news highlight chip volatility amid oil spike; X sentiment mixed with fear keywords dominating latest posts (limit 20, Latest mode). Weak jobs + geopolitics."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% rebound on earnings recovery",
+                "short_position": "Short for 5-7% downside on sustained oil rise",
+                "key_risks": "AI hype resumption, Fed policy"
+            },
+            "confidence_rating": "B",
+            "justification": "High volatility confirmed in multiple sources, moderate on exact % due to fast-moving news."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.8,
+                "market_cap": "115B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.4,
+                    "low": 48.5
+                },
+                "pe_ratio": 22.1,
+                "volume": "42M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Memory chip leader hit by AI anxiety and broader tech pullback from Middle East tensions. Implications: reduced data center spending. Psychology: profit-taking after massive YTD gains. Parallels to 2023 chip cycle. Analogies: rollercoaster like crypto; domino effect from oil to tech.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Heavy mentions in July 2026 scans and X keyword searches show negative sentiment spike post-July 8 drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 20%+ Q3 recovery",
+                "short_position": "Target 8-10% further drop",
+                "key_risks": "Earnings beats, supply constraints"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent across news, charts, X sentiment data."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.4,
+                "market_cap": "525B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 14.8,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Beneficiary of oil spike from Iran conflict escalation. Positive economic flow-through to energy sector. Psychology: safe-haven rotation into energy. Historical: 2022 Russia-Ukraine oil rally. Analogies: gold rush in commodities; insurance payout in crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +9%",
+                "reasoning": "Oil price surge dominant narrative in searches; positive X posts on energy names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add for 8-12% gains",
+                "short_position": "Avoid or cover on de-escalation",
+                "key_risks": "Geopolitical resolution, OPEC decisions"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamental tie to oil confirmed."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 158.9,
+                "market_cap": "255B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 75.2
+                },
+                "pe_ratio": 42.5,
+                "volume": "55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI chip exposure leads to amplified reaction to market fears. Implications mirror NVDA/MU. Psychology: rotation out of growth names. Parallels to 2021-22 rotation. Analogies: tech bubble burst echo; weather vane for sentiment.",
+            "news_impact_analysis": {
+                "outlook": "Bearish near-term",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "X semantic search shows correlated negative sentiment with peers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Entry on pullback for 15% upside",
+                "short_position": "Modest 4-6% target",
+                "key_risks": "Product launches, macro relief"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with sector data."
+        },
+        {
+            "details": {
+                "ticker": "SNDK",
+                "full_name": "SanDisk Corporation (memory focus)",
+                "current_price": 72.3,
+                "market_cap": "42B",
+                "sector_industry": "Technology/Storage",
+                "high_low_52_week": {
+                    "high": 95.8,
+                    "low": 32.1
+                },
+                "pe_ratio": 18.7,
+                "volume": "12M",
+                "recent_dividend": "$0.50 annual"
+            },
+            "impact_theory": "Memory/storage play hit by AI capex concerns amid geopolitics. Similar to MU. Psychology of sector rotation. Historical parallels to NAND cycles. Analogies: commodity price swing; leverage to chip cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Frequent mention in July scans and volatility reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long for rebound 12-18%",
+                "short_position": "4-8% downside play",
+                "key_risks": "M&A, inventory cycles"
+            },
+            "confidence_rating": "C",
+            "justification": "Less primary coverage than peers."
+        }
+    ]
+}
