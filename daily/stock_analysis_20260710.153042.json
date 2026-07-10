@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 125.5,
+                "market_cap": "1.12T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 78.5
+                },
+                "pe_ratio": 18.2,
+                "volume": "45M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Micron's $250B US investment plan signals massive HBM/AI memory demand. Economic implications: boosts domestic semiconductor supply chain resilience. Market psychology: reinforces AI supercycle narrative. Historical parallels: similar to Intel's 1990s expansions. Analogies: 1) Like Tesla's Gigafactory buildouts fueling EV boom. 2) Like Amazon's AWS capex driving cloud dominance.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Heavy investment announcement + AI momentum; strong X sentiment on MU with volume spikes in recent posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% gains over 3 months on AI cycle",
+                "short_position": "Avoid; high volatility risk of 10% drawdown on macro shocks",
+                "key_risks": "Execution delays on capex, competition from Samsung/SK Hynix, cyclical memory pricing"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalyst with confirmed investment scale and sector tailwinds."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "Nvidia Corporation",
+                "current_price": 991.64,
+                "market_cap": "4.91T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 620.0
+                },
+                "pe_ratio": 45.5,
+                "volume": "41M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Continued AI GPU leadership amid market rebound. Implications: sustains high-margin dominance. Psychology: FOMO buying resumes. Parallels: 2023-2024 rally. Analogies: 1) Microsoft Windows monopoly era. 2) Apple iPhone supply chain control.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Breakout confirmed in X posts; chip sector strength and AI trade revival."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long for 10-20% near-term gains",
+                "short_position": "High risk; potential 15% squeeze higher",
+                "key_risks": "Valuation compression, export restrictions, competition from AMD/others"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple bullish signals across news and social with technical confirmation."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.0,
+                "market_cap": "891B",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "32M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI accelerator gains alongside NVDA. Implications: broadens semiconductor rally. Psychology: rotation into value AI plays. Parallels: 2024 AMD catch-up rally. Analogies: 1) Intel vs AMD CPU wars. 2) Coca-Cola vs Pepsi brand competition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Sector momentum + positive X mentions on AI GPUs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 12-18% upside on AI share gains",
+                "short_position": "Risky; 8%+ short squeeze possible",
+                "key_risks": "Margin pressure, supply constraints, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic alignment but less direct catalysts than MU/NVDA."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+                "current_price": 245.0,
+                "market_cap": "2.27T",
+                "sector_industry": "Semiconductor Foundry",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "18M",
+                "recent_dividend": "$0.65 quarterly"
+            },
+            "impact_theory": "Foundry leader benefiting from AI chip demand surge. Implications: global supply chain stability. Psychology: safe haven in semis. Parallels: TSMC's role in 2020 chip shortage. Analogies: 1) Saudi Aramco oil dominance. 2) Visa payment rails monopoly.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Indirect boost from MU/SK Hynix news; resilient X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady long 8-15% gains",
+                "short_position": "Not recommended",
+                "key_risks": "Geopolitical Taiwan tensions, currency FX, customer concentration"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds strong but indirect news impact."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 585.0,
+                "market_cap": "1.60T",
+                "sector_industry": "Internet & Data Services",
+                "high_low_52_week": {
+                    "high": 650.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 26.8,
+                "volume": "12M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "AI monetization and ad growth acceleration. Implications: diversified tech strength. Psychology: growth stock rotation. Parallels: Meta's 2023 recovery. Analogies: 1) Google search ad empire. 2) Netflix content moat.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "X posts highlight META breakout with AI guidance optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10%+ to earnings",
+                "short_position": "Moderate risk",
+                "key_risks": "Regulatory scrutiny, ad market volatility, capex overruns"
+            },
+            "confidence_rating": "B",
+            "justification": "Positive social signals but broader market dependent."
+        }
+    ]
+}
