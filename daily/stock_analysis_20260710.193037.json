@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Ongoing AI infrastructure boom with hyperscaler capex straining margins but boosting demand. Iran oil conflict indirectly raises energy costs for data centers. Market psychology: FOMO in AI leaders vs. rotation fears. Historical parallel: 2023-2024 AI rally. Analogies: Like gold rush picks or dot-com infrastructure plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Positive X sentiment on AI mentions (latest posts bullish on NVDA/AMD); earnings momentum and capex tailwinds outweigh oil shock concerns per mid-2026 outlooks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% gains into Q3 earnings; targets 140+",
+                "short_position": "Avoid; momentum strong unless capex slowdown confirmed",
+                "key_risks": "Valuation compression if inflation spikes; regulatory AI scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment across web news (AI capex) and recent X posts; consistent bullish signals"
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 285.0,
+                "market_cap": "910B",
+                "sector_industry": "Consumer Cyclical/Auto & EV",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 182.5
+                },
+                "pe_ratio": 68.4,
+                "volume": "92M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "EV demand catalysts and robotaxi updates amid oil price surge boosting alternatives. Psychology: Retail enthusiasm rebounds. Historical: 2020 EV surge parallels. Analogies: Like early smartphone adoption or renewable energy transitions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6% to +12%",
+                "reasoning": "July catalysts highlighted in Yahoo Finance; positive X sentiment volume on EV/oil hedge narrative; options flow bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on catalyst news for 15-20% swing; entry near 275",
+                "short_position": "Short only post-earnings if misses; potential 8% downside",
+                "key_risks": "Execution delays on autonomy; competition intensity"
+            },
+            "confidence_rating": "B",
+            "justification": "Catalyst-driven but volatile; solid but not highest conviction news flow"
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 245.0,
+                "market_cap": "695B",
+                "sector_industry": "Financials/Banking",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 13.8,
+                "volume": "8.5M",
+                "recent_dividend": "1.15 (quarterly)"
+            },
+            "impact_theory": "Bank earnings kickoff sets sector tone amid rate/inflation environment from energy shock. Psychology: Defensive rotation into financials. Historical: 2022 rate hike cycle resilience. Analogies: Like post-recession bank recoveries or insurance plays in uncertain times.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "July 14 earnings preview dominant in news; mixed X sentiment pre-earnings but sector leadership expected."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate pre-earnings for 5-8% move; dividend yield support",
+                "short_position": "Short if hawkish Fed signals; 4% risk",
+                "key_risks": "Loan loss provisions; macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings catalyst clear with high visibility"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.0,
+                "market_cap": "525B",
+                "sector_industry": "Energy/Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.9,
+                "volume": "15M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Oil shock from Iran conflict drives energy prices higher benefiting majors. Psychology: Value rotation into defensives. Historical: 2022 energy supercycle. Analogies: Like wartime commodity plays or OPEC embargo windfalls.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Oil crunch dominant theme in Fidelity/Morgan Stanley outlooks; strong X volume on energy hedge trades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy for inflation hedge 8-12% upside",
+                "short_position": "Not recommended; geopolitics supportive",
+                "key_risks": "Demand destruction; OPEC+ response"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro driver strong but geopolitical volatility adds uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "MSFT",
+                "full_name": "Microsoft Corporation",
+                "current_price": 465.0,
+                "market_cap": "3.45T",
+                "sector_industry": "Technology/Software & Cloud",
+                "high_low_52_week": {
+                    "high": 498.0,
+                    "low": 340.0
+                },
+                "pe_ratio": 36.5,
+                "volume": "18M",
+                "recent_dividend": "0.83 (quarterly)"
+            },
+            "impact_theory": "Hyperscaler AI capex pressures margins but Azure growth intact. Psychology: Growth-at-reasonable-price debate. Historical: Cloud adoption waves. Analogies: Like early AWS expansion or semiconductor scaling cycles.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "-2% to +3%",
+                "reasoning": "Seeking Alpha highlights capex strain; mixed X posts balancing AI opportunity vs. FCF concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective buys on dips targeting 480+; cloud resilience",
+                "short_position": "Pair trade vs. NVDA; modest 5% downside",
+                "key_risks": "Capex overruns; competition from open-source AI"
+            },
+            "confidence_rating": "B",
+            "justification": "Balanced outlook from multiple sources but less directional clarity"
+        }
+    ]
+}
