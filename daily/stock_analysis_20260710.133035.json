@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 965.41,
+                "market_cap": "1.05T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 1200.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "2.06M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "SK Hynix US IPO debut and strong chip demand from AI. Economic implications include sustained AI capex driving memory prices. Market psychology: FOMO in semis after pullback. Historical parallels: 2023-2024 AI rally. Analogies: Like 1990s internet boom for tech; gold rush for memory suppliers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Chip surge offsets Iran tensions; SK Hynix debut validates AI boom; X sentiment positive on MU as leader in HBM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MU: +15% on continued AI demand, target $1100",
+                "short_position": "Short avoided; volatility high",
+                "key_risks": "Geopolitical escalation, oversupply in DRAM"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong real-time news alignment with semis rally and IPO catalyst."
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 245.0,
+                "market_cap": "1.27T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "12M",
+                "recent_dividend": "$0.65 quarterly"
+            },
+            "impact_theory": "Foundry leader benefiting from AI chip production surge. Implications: Supply chain resilience amid geopolitics. Psychology: Confidence in Taiwan tech. Parallels: Post-COVID supply chain recovery. Analogies: Like oil majors in energy boom; backbone of tech ecosystem.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Monthly sales expected strong; chip ETF rally lifts TSM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long TSM: Steady gains on AI orders, +10%",
+                "short_position": "Minimal",
+                "key_risks": "US-China tensions, currency fluctuations"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent leadership in semis news flow."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.0,
+                "market_cap": "3.55T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "180M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI GPU dominance continues amid memory demand. Implications: Hyperscaler capex. Psychology: Tech leadership premium. Parallels: 2024 AI surge. Analogies: Microsoft in PC era; Tesla in EV adoption.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Chip stocks leading; NVDA ecosystem benefits from HBM/MU strength."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA: Core AI play +6%",
+                "short_position": "N/A",
+                "key_risks": "Valuation, competition, export controls"
+            },
+            "confidence_rating": "A",
+            "justification": "Market leader with broad sentiment support."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 165.0,
+                "market_cap": "265B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI CPU/GPU gains alongside NVDA. Implications: Data center share growth. Psychology: Underdog rally potential. Parallels: Intel lost share historically. Analogies: AMD as challenger like Android vs iOS.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Semis momentum spills to AMD on AI tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long AMD: Catch-up rally +12%",
+                "short_position": "N/A",
+                "key_risks": "Execution on AI products"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong but secondary to MU/NVDA in current news."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.5,
+                "market_cap": "140B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 55.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 18.0,
+                "volume": "55M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Potential turnaround on US CHIPS Act and foundry push. Implications: Domestic manufacturing boost. Psychology: Value play amid growth peers. Parallels: Past Intel recoveries. Analogies: Turnaround like GE post-crisis.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector-wide uplift, but Intel lags peers in AI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long INTC: Recovery bet +8%",
+                "short_position": "Avoid short",
+                "key_risks": "Market share loss, execution delays"
+            },
+            "confidence_rating": "C",
+            "justification": "Lagging sentiment vs. pure-play AI semis."
+        }
+    ]
+}
