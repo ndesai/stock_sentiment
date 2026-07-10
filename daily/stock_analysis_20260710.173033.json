@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "HYNIX",
+                "full_name": "SK Hynix Inc.",
+                "current_price": 185.45,
+                "market_cap": "128.7B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 92.3
+                },
+                "pe_ratio": 18.7,
+                "volume": "45.2M",
+                "recent_dividend": "0.45 (ex-date 2026-06-15)"
+            },
+            "impact_theory": "SK Hynix Nasdaq debut with record $26.5B ADR raise amid memory chip demand surge. Economic implications: boosts US-Asia tech ties and HBM supply. Market psychology: FOMO on memory rally. Historical parallel: TSMC 1990s listing. Analogies: Tesla IPO hype; Amazon early growth surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Debut surge on strong HBM/AI demand; X sentiment overwhelmingly positive (limit 20 latest posts show excitement over listing and Samsung earnings spillover)."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long at debut, target +25% on continued chip rally",
+                "short_position": "Avoid short; high volatility risk",
+                "key_risks": "Geopolitical tensions (Iran mentions), valuation correction post-debut"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct event-driven catalyst with clear volume and sentiment data"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 128.75,
+                "market_cap": "142.3B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.8,
+                    "low": 68.4
+                },
+                "pe_ratio": 22.1,
+                "volume": "32.8M",
+                "recent_dividend": "0.12 (quarterly)"
+            },
+            "impact_theory": "Samsung earnings pressure offset by SK Hynix momentum and overall memory demand. Implications: supply chain rotation. Psychology: relief rally after prior selloff. Parallel: 2023 chip rebound. Analogies: NVIDIA recovery cycles; oil stock rotations.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "Memory stocks rallying on chip news and SK Hynix debut; X posts highlight rebound potential"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing, potential 15-20% gains into earnings",
+                "short_position": "Short only on overextension >$145",
+                "key_risks": "Earnings miss, broader tech rotation"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent sector tailwinds confirmed across multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "DAL",
+                "full_name": "Delta Air Lines, Inc.",
+                "current_price": 52.3,
+                "market_cap": "57.5B",
+                "sector_industry": "Industrials / Airlines",
+                "high_low_52_week": {
+                    "high": 68.2,
+                    "low": 34.1
+                },
+                "pe_ratio": 9.8,
+                "volume": "18.4M",
+                "recent_dividend": "0.15 (quarterly)"
+            },
+            "impact_theory": "Strong Q2 earnings beat. Implications: consumer spending resilience. Psychology: value rotation from tech. Parallel: post-pandemic airline recovery. Analogies: cruise line rebounds; auto earnings cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "EPS beat of 4.63% surprise; steady X sentiment on travel recovery"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long position, 10% upside to 52w highs",
+                "short_position": "Limited; fuel price risk",
+                "key_risks": "Oil price spikes, recession fears"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst clear but sector broader macro sensitive"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.8,
+                "market_cap": "3.52T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.4,
+                    "low": 75.6
+                },
+                "pe_ratio": 45.2,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Indirect beneficiary of memory/AI chip rally. Implications: sustained AI capex. Psychology: mega-cap leadership test. Parallel: 2023-24 AI boom. Analogies: Cisco dot-com peak; Microsoft cloud growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Sector-wide chip momentum lifts NVDA; neutral-to-positive X buzz"
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold, modest % upside short-term",
+                "short_position": "Not recommended",
+                "key_risks": "Valuation compression, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to sector news but less direct catalyst"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.9,
+                "market_cap": "274B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 89.1
+                },
+                "pe_ratio": 38.6,
+                "volume": "62.1M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Memory and AI ecosystem tailwinds alongside NVDA. Implications: data center gains. Psychology: catch-up trade. Parallel: Intel recovery attempts. Analogies: Qualcomm 5G cycle; Broadcom acquisitions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Chip rally spillover confirmed in recent trading and X analysis"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips for 12%+ gains",
+                "short_position": "Short on failure above $180",
+                "key_risks": "Execution on AI products, margin pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector alignment strong but needs company-specific confirmation"
+        }
+    ]
+}
