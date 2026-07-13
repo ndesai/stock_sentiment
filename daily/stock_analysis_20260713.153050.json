@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "CRNX",
+                "full_name": "Crinetics Pharmaceuticals, Inc.",
+                "current_price": 83.99,
+                "market_cap": "8.85B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 35.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "15.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Vertex Pharmaceuticals announced $10B all-cash acquisition at $85/share on July 6-7, 2026. This triggers arbitrage play and sector rotation in biotech. Market psychology shifts to M&A premium chasing amid high interest rates. Historical parallel: similar to recent pharma deals like Pfizer-Seagen. Analogies: (1) Like a lottery ticket maturing to guaranteed payout; (2) Biotech 'musical chairs' where acquirers pay premium to secure pipelines.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1-3% (arbitrage close to $85)",
+                "reasoning": "Deal at premium with Q3 close expected; analysts downgraded to Hold but price targets cluster near $85. X sentiment positive on deal closure certainty. Volume surge confirms momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for arb spread capture (~1-2% to $85), potential competing bid upside 5-10%",
+                "short_position": "Avoid; limited downside as deal-backed floor",
+                "key_risks": "Deal termination/regulatory delay, integration risk for Vertex, broader biotech selloff"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with announced terms, high visibility, immediate price reaction validated by multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 245.5,
+                "market_cap": "693B",
+                "sector_industry": "Financials/Banking",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "8.5M",
+                "recent_dividend": "$1.25 quarterly"
+            },
+            "impact_theory": "Q2 earnings release July 14 amid Iran tensions boosting oil/banking fees. Economic implications: resilient consumer lending data. Market psychology: 'beat and raise' expectations post seasonal dip warnings. Historical parallel: 2023 bank earnings rallies. Analogies: (1) Earnings as report card day; (2) Banks as economic thermometers in geopolitical heat.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Strong net interest income expected; X sentiment bullish pre-earnings. Oil spike positive for trading desks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing for 3-5% post-beat; target $255",
+                "short_position": "Short only on miss >5% guidance cut",
+                "key_risks": "Rate cut expectations, credit loss provisions, geopolitical escalation"
+            },
+            "confidence_rating": "A",
+            "justification": "High-impact scheduled catalyst with consensus estimates widely tracked"
+        },
+        {
+            "details": {
+                "ticker": "BAC",
+                "full_name": "Bank of America Corporation",
+                "current_price": 42.8,
+                "market_cap": "335B",
+                "sector_industry": "Financials/Banking",
+                "high_low_52_week": {
+                    "high": 48.5,
+                    "low": 32.0
+                },
+                "pe_ratio": 11.5,
+                "volume": "32M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "Co-earnings with JPM on July 14. Implications for consumer spending and deposit trends. Psychology: rotation into financials post-tech de-grossing. Parallels: 2024 bank recovery trades. Analogies: (1) Pack of runners pacing off leader; (2) Banking sector as canary in economic coal mine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1.5-3.5%",
+                "reasoning": "Aligned with JPM sentiment; X latest posts show positive rotation chatter into banks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 2-4% post-earnings play",
+                "short_position": "Limited unless macro deterioration",
+                "key_risks": "Net interest margin compression, regulatory headlines"
+            },
+            "confidence_rating": "B",
+            "justification": "High correlation to JPM but slightly lower visibility on exact numbers"
+        },
+        {
+            "details": {
+                "ticker": "NIO",
+                "full_name": "NIO Inc.",
+                "current_price": 5.25,
+                "market_cap": "11.2B",
+                "sector_industry": "Consumer Cyclical/Auto - EV",
+                "high_low_52_week": {
+                    "high": 9.8,
+                    "low": 3.6
+                },
+                "pe_ratio": 0.0,
+                "volume": "85M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Goldman Sachs 'buy the dip' call on Chinese EV recovery. Geopolitical oil spike may boost EV adoption narrative. Psychology: contrarian rebound hope after prolonged China EV weakness. Parallels: 2023 Tesla recovery. Analogies: (1) Fallen angel revival story; (2) EV sector as rollercoaster with China policy as track switch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Analyst upgrade + sentiment shift on X toward China EV rebound plays."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long for 8-12% rebound trade",
+                "short_position": "N/A (high short interest already)",
+                "key_risks": "China regulatory/tariff risks, competition, delivery misses"
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst-driven catalyst with volatile history"
+        },
+        {
+            "details": {
+                "ticker": "VRTX",
+                "full_name": "Vertex Pharmaceuticals Incorporated",
+                "current_price": 485.0,
+                "market_cap": "125B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 520.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "2.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "CRNX acquisition expands pipeline into endocrinology. Implications: diversification beyond cystic fibrosis. Psychology: 'bolt-on growth' premium. Parallels: recent large pharma M&A. Analogies: (1) Portfolio diversification via acquisition; (2) Adding a new engine to a proven aircraft.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bullish",
+                "estimated_price_impact_pct": "-1% to +2%",
+                "reasoning": "Deal financing via cash/debt; initial reaction mixed but long-term positive for growth narrative. X sentiment supportive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/long-term accumulation",
+                "short_position": "Short only on deal break concerns",
+                "key_risks": "Deal premium paid, dilution risk, integration costs"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear M&A impact but valuation already rich"
+        }
+    ]
+}
