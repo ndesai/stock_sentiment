@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 245.67,
+                "market_cap": "700B",
+                "sector_industry": "Financials / Banking",
+                "high_low_52_week": {
+                    "high": 278.5,
+                    "low": 198.2
+                },
+                "pe_ratio": 12.8,
+                "volume": "8.2M",
+                "recent_dividend": "Quarterly $1.25 (ex-date Jun 2026)"
+            },
+            "impact_theory": "JPM reports Q2 earnings on July 14 setting tone for bank sector. Strong consumer lending and investment banking fees amid AI capex boom. Market psychology: Earnings beat expectations drive rotation into value/financials. Historical parallel: 2023 bank rally post-rate pause. Analogies: (1) Like a quarterback calling plays in a new offensive scheme. (2) Domino effect on peers like BAC and WFC.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Pre-earnings sentiment on X and news positive due to resilient economy indicators. High volume options activity bullish."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on open, target +6% on beat; gains 4-8%",
+                "short_position": "Avoid; limited downside unless major miss (-3%)",
+                "key_risks": "Macro surprises, rate comments, regulatory news"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with earnings release and sector leadership role."
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 278.45,
+                "market_cap": "890B",
+                "sector_industry": "Consumer Cyclical / Auto & EV",
+                "high_low_52_week": {
+                    "high": 320.1,
+                    "low": 182.3
+                },
+                "pe_ratio": 52.4,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robotaxi and energy storage updates amid July momentum. Sentiment shift from EV demand concerns to AI/robotics narrative. Historical: 2020-21 run-up parallels. Analogies: (1) Rocket launching with multiple stages. (2) Tech stock riding AI wave like Nvidia 2023.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "X posts highlight positive delivery estimates and autonomy progress; recent articles on energy growth."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing trade post any dip, potential 8% upside",
+                "short_position": "High risk; volatility can spike on news",
+                "key_risks": "Execution delays, competition, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong narrative but high valuation increases volatility."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 132.8,
+                "market_cap": "145B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.4,
+                    "low": 68.9
+                },
+                "pe_ratio": 18.2,
+                "volume": "22M",
+                "recent_dividend": "Quarterly $0.115"
+            },
+            "impact_theory": "HBM/AI memory demand surge continues. July performance leader with 267% 6M gains. Market psychology: Momentum chasing in semis. Parallels to 2024 AI rally. Analogies: (1) Gold rush supplier. (2) Tailwind from hyperscaler spending.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Persistent positive X sentiment and analyst upgrades on AI supply chain."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on pullbacks for continued momentum (+5%)",
+                "short_position": "Risky due to sector strength",
+                "key_risks": "Supply glut, China tensions, cyclical correction"
+            },
+            "confidence_rating": "A",
+            "justification": "Sustained AI-driven fundamentals and recent performance."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 162.35,
+                "market_cap": "262B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 191.2,
+                    "low": 93.5
+                },
+                "pe_ratio": 42.1,
+                "volume": "35M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Data center GPU and AI accelerator growth. Follows MU in sector rotation. Psychology: Catch-up play vs NVDA. Historical: 2023-24 chip boom. Analogies: (1) Underdog challenger in race. (2) Beneficiary of diversified AI hardware demand.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Latest X chatter and articles focus on MI300/MI350 ramp and partnerships."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for earnings season upside (+4%)",
+                "short_position": "Not recommended in current environment",
+                "key_risks": "Margin pressure, NVDA competition, inventory"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid AI tailwinds but less dominant than peers."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.9,
+                "market_cap": "525B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 97.4
+                },
+                "pe_ratio": 8.9,
+                "volume": "14M",
+                "recent_dividend": "Quarterly $0.95"
+            },
+            "impact_theory": "Oil price stability and upstream production gains. July watchlist for energy exposure. Psychology: Defensive hedge in uncertain macro. Parallels to 2022 energy rally. Analogies: (1) Anchor in stormy seas. (2) Commodity cycle play with dividends.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Steady sentiment; X posts balanced with focus on geopolitical supply."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend capture + modest appreciation (+2%)",
+                "short_position": "Low appeal; limited downside room",
+                "key_risks": "Oil price volatility, OPEC decisions"
+            },
+            "confidence_rating": "C",
+            "justification": "Stable but fewer catalysts compared to tech/financials."
+        }
+    ]
+}
