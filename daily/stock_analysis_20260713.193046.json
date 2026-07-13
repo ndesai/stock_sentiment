@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "U.S.-Iran tensions and Strait of Hormuz attacks drive risk-off sentiment but AI demand remains resilient. NVDA benefits from continued capex by hyperscalers. Market psychology: flight to quality AI leaders amid volatility. Historical parallel: 2022 chip shortage rally. Analogies: 1) Gold during geopolitical crises. 2) NVDA as 'digital oil' in AI economy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Mentioned as Dow gainer; strong AI narrative counters macro headwinds. X sentiment mixed but positive on long-term."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; target 8-12% gains on earnings momentum",
+                "short_position": "Avoid; high short interest risk of squeeze",
+                "key_risks": "Geopolitical escalation, valuation compression, China export restrictions"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong fundamental AI tailwinds confirmed in multiple sources; recent positive price action."
+        },
+        {
+            "details": {
+                "ticker": "SKHY",
+                "full_name": "SK hynix Inc.",
+                "current_price": 153.9,
+                "market_cap": "1.05T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 182.0,
+                    "low": 98.5
+                },
+                "pe_ratio": 14.8,
+                "volume": "12M",
+                "recent_dividend": "0.09% yield"
+            },
+            "impact_theory": "Memory chip maker hit by risk-off and new Nasdaq listing volatility amid oil spike. Implications: Higher input costs for electronics. Psychology: Sector rotation away from semis. Parallels: 2023 HBM correction. Analogies: 1) Crypto miners during energy crises. 2) Cyclical auto parts in recession fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Plunged 9%+ on listing day + oil/geopolitics. X posts reflect broader risk aversion."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential rebound post-earnings",
+                "short_position": "Short on strength; 10%+ downside possible",
+                "key_risks": "HBM demand recovery, sudden de-escalation in Middle East"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear near-term negative catalyst but long-term memory demand intact."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.4,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 8.7,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly (~3.2% yield)"
+            },
+            "impact_theory": "Oil surges on Hormuz disruptions boost integrated majors. Economic: Higher energy prices fuel inflation concerns but profit margins. Psychology: Defensive rotation into energy. Parallels: 2022 Russia-Ukraine oil spike. Analogies: 1) Gold miners in inflation. 2) Insurance during natural disasters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "Oil +4.5%+ on attacks; direct beneficiary of supply risk. Positive X sentiment on energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long; 6-10% gains likely near-term",
+                "short_position": "Not recommended",
+                "key_risks": "Quick resolution to conflict, OPEC+ response"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation with oil prices confirmed by multiple reports."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 505.0,
+                "market_cap": "1.28T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 542.0,
+                    "low": 395.5
+                },
+                "pe_ratio": 28.4,
+                "volume": "14M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Tech selloff on risk aversion despite strong fundamentals. Implications: Ad spend resilient but valuation pressure. Psychology: Profit-taking in Magnificent 7. Parallels: 2022 tech winter. Analogies: 1) Luxury goods in downturn. 2) Streaming during cord-cutting era.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3 to -6%",
+                "reasoning": "Tech underperformance noted; earnings upcoming. Mixed but cautious X posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 4-7% rebound",
+                "short_position": "Limited; earnings catalyst could reverse",
+                "key_risks": "AI monetization beat, regulatory news"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro headwinds clear but company-specific strength high."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 78.2,
+                "market_cap": "118B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 94.5,
+                    "low": 70.1
+                },
+                "pe_ratio": 22.1,
+                "volume": "9M",
+                "recent_dividend": "$0.37 quarterly (~1.9% yield)"
+            },
+            "impact_theory": "Consumer discretionary pressured by macro uncertainty and higher oil/energy costs reducing spending. Psychology: Defensive shift away from cyclicals. Parallels: 2020 pandemic retail pullback. Analogies: 1) Fast fashion during inflation. 2) Auto sales in high gas price periods.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Mentioned in news context alongside earnings focus; broader consumer caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Monitor for oversold bounce post-earnings",
+                "short_position": "Short-term opportunities on continued weakness",
+                "key_risks": "Strong China recovery or inventory clearance"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect exposure to macro but less acute than energy/tech."
+        }
+    ]
+}
