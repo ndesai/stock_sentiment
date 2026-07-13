@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 152.75,
+                "market_cap": "3.75T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 68.4,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "US-Iran tensions and upcoming inflation data amid strong AI demand. Economic implications include supply chain risks but boosted defense/tech spending. Market psychology shows flight to AI leaders. Historical parallel: 2023-24 AI boom. Analogies: Gold rush pickaxe sellers; 1990s internet infrastructure leaders.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Strong earnings momentum, AI chip dominance confirmed in recent news; X sentiment overwhelmingly positive on AI capex."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; potential +15% on earnings beat",
+                "short_position": "Avoid or covered calls only",
+                "key_risks": "Geopolitical escalation, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive news flow, high volume confirmation, clear sector leadership"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 128.4,
+                "market_cap": "142B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "32M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "$250B+ US investment announced, HBM/AI memory surge. Implications: Domestic manufacturing boost, jobs. Psychology: Re-rating of memory plays. Historical: 2021-22 chip cycle. Analogies: Oil majors in energy boom; EV battery makers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Major capex news, SK Hynix debut spillover; X posts highlight MU as top AI memory beneficiary."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy; +12-20% near-term",
+                "short_position": "Not recommended",
+                "key_risks": "Commodity price volatility in memory, execution on investments"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalyst + sector tailwinds confirmed across multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 548.2,
+                "market_cap": "1.38T",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 595.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 27.8,
+                "volume": "18M",
+                "recent_dividend": "0.50 (quarterly)"
+            },
+            "impact_theory": "Custom AI chip production start Sept 2026, power capacity ramp. Implications: Cost savings + capability edge. Psychology: Validation of vertical integration. Historical: Amazon/Google internal silicon moves. Analogies: Tesla in-house chips; Apple silicon transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "AI infrastructure self-reliance news; positive X sentiment on efficiency gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate; +8-12% target",
+                "short_position": "Limited downside protection",
+                "key_risks": "Ad revenue cyclicality, regulatory scrutiny"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong catalyst but broader tech rotation possible"
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 178.5,
+                "market_cap": "925B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 31.2,
+                "volume": "12M",
+                "recent_dividend": "0.48 (semi-annual)"
+            },
+            "impact_theory": "Foundry leader benefiting from NVDA/MU demand despite geopolitical tensions. Implications: Supply security premium. Psychology: Safe haven in semis. Historical: TSMC in prior chip cycles. Analogies: ASML monopoly; Saudi Aramco in oil.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Indirect AI tailwinds, stable X sentiment as foundational player."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; +7-10%",
+                "short_position": "Taiwan risk premium trade",
+                "key_risks": "Cross-strait tensions, currency fluctuations"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect exposure but reliable leadership position"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 162.8,
+                "market_cap": "263B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI GPU competition intensifying with NVDA dominance but MI300 gains. Implications: Market share battle. Psychology: Underdog momentum plays. Historical: AMD Ryzen vs Intel. Analogies: Pepsi vs Coke; Android vs iOS.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-4%",
+                "reasoning": "Sector lift but less direct news; mixed but improving X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective; +5-9% catch-up",
+                "short_position": "Possible on NVDA outperformance",
+                "key_risks": "Execution delays, margin pressure"
+            },
+            "confidence_rating": "C",
+            "justification": "Sector follower with less specific catalysts than peers"
+        }
+    ]
+}
