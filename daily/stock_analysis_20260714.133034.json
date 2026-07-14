@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GS",
+                "full_name": "The Goldman Sachs Group, Inc.",
+                "current_price": 1045.91,
+                "market_cap": "335B",
+                "sector_industry": "Financial Services / Investment Banking",
+                "high_low_52_week": {
+                    "high": 1120.0,
+                    "low": 680.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "2.8M",
+                "recent_dividend": "Q2 2026: $2.50/share (yield ~1.0%)"
+            },
+            "impact_theory": "GS reported Q2 2026 EPS of $20.98 (vs ~$14.16 expected) and ROE 23.5%, driven by record equities trading and investment banking surge. Economic implications include boosted sector confidence amid strong capital markets. Market psychology: positive surprise fuels momentum buying. Historical parallels: 2021 post-earnings rallies. Analogies: 1) Like a rocket launch after fuel boost; 2) Similar to Apple beat in 2023 sparking tech rally.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-9%",
+                "reasoning": "Massive EPS beat and strong trading revenues; X sentiment highly positive post-release (Latest mode searches show excitement around GS and peers); sector lift expected."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long GS or financial ETFs; potential +8% gains over 1-3 days on momentum",
+                "short_position": "Avoid or short on overextension post-rally; risk of -4% pullback",
+                "key_risks": "Profit-taking, macro data surprises, regulatory scrutiny on banks"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings beat confirmed by official releases and high volume sentiment confirmation on X/web"
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 268.5,
+                "market_cap": "760B",
+                "sector_industry": "Financial Services / Banking",
+                "high_low_52_week": {
+                    "high": 285.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "9.5M",
+                "recent_dividend": "Q2 2026: $1.25/share"
+            },
+            "impact_theory": "Strong bank earnings spillover from GS; JPM likely solid results on trading/net interest income. Implications: Validates economic resilience. Psychology: Herd mentality lifts big banks. Parallels: Post-2023 rate hike cycle beats. Analogies: 1) Domino effect in financials; 2) Like Amazon lifting retail peers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings cluster positive; X posts highlight banking sector heatmaps positive (DAL/META unrelated but volume high)"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long JPM or XLF ETF for +4% swing",
+                "short_position": "Limited; possible reversal on valuation",
+                "key_risks": "Interest rate volatility, credit losses"
+            },
+            "confidence_rating": "A",
+            "justification": "Aligned with GS beat and sector-wide earnings calendar confirmation"
+        },
+        {
+            "details": {
+                "ticker": "BLK",
+                "full_name": "BlackRock, Inc.",
+                "current_price": 985.4,
+                "market_cap": "145B",
+                "sector_industry": "Financial Services / Asset Management",
+                "high_low_52_week": {
+                    "high": 1050.0,
+                    "low": 720.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "1.1M",
+                "recent_dividend": "Q2 2026: $5.10/share"
+            },
+            "impact_theory": "BLK reports July 15; strong AUM growth from equities rally expected. Implications: Asset mgmt tailwinds. Psychology: Confidence in markets. Parallels: 2024 ETF inflows boom. Analogies: 1) Rising tide lifts all boats; 2) Snowball effect on passive investing.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Pre-earnings sentiment positive; bank earnings provide indirect boost"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long BLK; +3% target on inflows news",
+                "short_position": "Minimal",
+                "key_risks": "Fee compression, market correction"
+            },
+            "confidence_rating": "B",
+            "justification": "Calendar driven with supportive macro backdrop"
+        },
+        {
+            "details": {
+                "ticker": "JNJ",
+                "full_name": "Johnson & Johnson",
+                "current_price": 158.2,
+                "market_cap": "380B",
+                "sector_industry": "Healthcare / Pharmaceuticals",
+                "high_low_52_week": {
+                    "high": 172.0,
+                    "low": 135.0
+                },
+                "pe_ratio": 15.8,
+                "volume": "6.2M",
+                "recent_dividend": "Q2 2026: $1.24/share (yield 3.1%)"
+            },
+            "impact_theory": "JNJ earnings July 15 amid stable healthcare demand. Implications: Defensive sector strength. Psychology: Flight to safety. Parallels: COVID-era resilience. Analogies: 1) Steady ship in stormy seas; 2) Anchor stock for portfolios.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Earnings expected in-line; broader market lift"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long JNJ for dividend + modest gains",
+                "short_position": "N/A",
+                "key_risks": "Patent cliffs, litigation"
+            },
+            "confidence_rating": "B",
+            "justification": "Less volatile earnings expected; supportive environment"
+        },
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 245.8,
+                "market_cap": "1.27T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "12M",
+                "recent_dividend": "Q1 2026: $0.65/share ADR"
+            },
+            "impact_theory": "TSM mentioned in sentiment movers; AI chip demand robust. Implications: Tech supply chain strength. Psychology: Growth narrative. Parallels: 2023-24 AI boom. Analogies: 1) Engine of tech rally; 2) Like Nvidia's multiplier effect.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Positive X sentiment movers lists include TSM; earnings season tailwind"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long TSM or SMH; +5% on AI news flow",
+                "short_position": "Short on geopolitical risk spikes",
+                "key_risks": "Taiwan tensions, cyclical downturn"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic support but slightly lower earnings-specific data"
+        }
+    ]
+}
