@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 245.67,
+                "market_cap": "1.27T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 285.5,
+                    "low": 142.3
+                },
+                "pe_ratio": 28.4,
+                "volume": "18.2M",
+                "recent_dividend": "0.65 quarterly (ex-date 06/12/2026)"
+            },
+            "impact_theory": "Ongoing AI chip demand surge and potential US-Taiwan policy updates around export controls. Economic implications include sustained capex in semiconductors boosting global supply chains. Market psychology shows continued FOMO in AI names amid rotation fears. Historical parallel: 2023-2024 AI rally. Analogies: Like gold rush suppliers profiting from miners; like highway builders during auto boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Strong AI foundry orders and positive X sentiment on supply leadership. Web searches show continued analyst upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target +6% swing on AI momentum, risk of 3% pullback on geopolitics",
+                "short_position": "Avoid shorting; limited downside due to structural demand",
+                "key_risks": "Geopolitical tensions, export restrictions, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive signals across news, X posts, and earnings visibility."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 132.45,
+                "market_cap": "145B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 158.9,
+                    "low": 48.75
+                },
+                "pe_ratio": 19.8,
+                "volume": "22.5M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Memory chip supply constraints and AI data center demand driving HBM growth. Implications for inflation via component pricing. Psychology: Relief rally after prior pullbacks. Historical: 2024 memory cycle recovery. Analogies: Like oil producers in energy crisis; like DRAM boom of late 90s.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Analyst PT raises and positive X chatter on supply crunch."
+            },
+            "potential_profit_risks": {
+                "long_position": "+7% potential on earnings momentum, stops at -4%",
+                "short_position": "Not recommended",
+                "key_risks": "Commodity price volatility, competition from Samsung/SK Hynix"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamentals but sensitive to macro data."
+        },
+        {
+            "details": {
+                "ticker": "AMAT",
+                "full_name": "Applied Materials, Inc.",
+                "current_price": 215.3,
+                "market_cap": "178B",
+                "sector_industry": "Technology / Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 255.1,
+                    "low": 165.4
+                },
+                "pe_ratio": 24.1,
+                "volume": "9.8M",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "Equipment demand tied to advanced node ramps despite earlier export curb concerns. Broader chip cycle implications. Market psychology turning positive post-correction. Historical parallel: 2020-21 semi capex boom. Analogies: Like pickaxe sellers in gold rush; toolmakers in industrial revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Recent premarket strength noted in searches; steady X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "3-5% upside near-term",
+                "short_position": "Moderate risk if curbs intensify",
+                "key_risks": "China exposure, cyclical order patterns"
+            },
+            "confidence_rating": "B",
+            "justification": "Mixed but net positive data flow."
+        },
+        {
+            "details": {
+                "ticker": "NEE",
+                "full_name": "NextEra Energy, Inc.",
+                "current_price": 78.9,
+                "market_cap": "162B",
+                "sector_industry": "Utilities / Renewable Energy",
+                "high_low_52_week": {
+                    "high": 92.15,
+                    "low": 61.25
+                },
+                "pe_ratio": 22.7,
+                "volume": "11.4M",
+                "recent_dividend": "0.515 quarterly"
+            },
+            "impact_theory": "AI data center power demand boosting renewable/utility plays. Economic implications from clean energy transition acceleration. Psychology supportive amid energy security concerns. Historical: Post-IRA bill rally. Analogies: Like railroads during industrial age; electric utilities in electrification era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Steady sentiment, power demand tailwinds from searches and X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend + growth, 3% expected move",
+                "short_position": "Low appeal",
+                "key_risks": "Interest rate sensitivity, regulatory changes"
+            },
+            "confidence_rating": "A",
+            "justification": "Secular tailwinds clear and stable."
+        },
+        {
+            "details": {
+                "ticker": "ALAB",
+                "full_name": "Astera Labs, Inc.",
+                "current_price": 68.25,
+                "market_cap": "10.8B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.4,
+                    "low": 38.1
+                },
+                "pe_ratio": 52.3,
+                "volume": "4.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI connectivity and high-speed data movement demand surge. Implications for data center infrastructure buildout. Psychology: Momentum chasing in pure-play AI names. Historical: Networking stocks in 2020 cloud build. Analogies: Like fiber optics in internet boom; specialized chips in smartphone era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "High X visibility and recent gains noted in searches."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive momentum play, target +10%",
+                "short_position": "High volatility risk",
+                "key_risks": "Valuation, competition, macro rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "High upside but elevated valuation and volatility."
+        }
+    ]
+}
