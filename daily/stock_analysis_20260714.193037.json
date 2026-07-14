@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SKHY",
+                "full_name": "SK hynix Inc.",
+                "current_price": 184.78,
+                "market_cap": "1.37T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "59.3M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "US ADR listing debut with record $26.5B raise followed by sharp correction amid AI overstretch fears and Korea selloff spillover. Economic implications: Signals sustained memory demand for AI but rotation risk. Market psychology: Initial euphoria to profit-taking. Historical parallels: NVDA 2023 volatility. Analogies: 1. IPO rocket ship that stalls. 2. Semiconductor boom-bust cycle like 2021-22.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "15% Korea drop, 9% US ADR fall post-debut; X sentiment mixed with profit-taking mentions; Iran oil spike adds macro uncertainty."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization near $170 support for AI-driven rebound (+20% potential)",
+                "short_position": "Short on further Korea weakness (-15% target)",
+                "key_risks": "AI capex continuation, geopolitical escalation"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent news flow and volume but volatile post-listing environment"
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp.",
+                "current_price": 140.6,
+                "market_cap": "1.85T",
+                "sector_industry": "Aerospace/Defense",
+                "high_low_52_week": {
+                    "high": 225.64,
+                    "low": 136.78
+                },
+                "pe_ratio": -195.0,
+                "volume": "70M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Nasdaq-100 inclusion and Evercore Outperform rating with $230 PT amid early post-IPO pullback. Implications: Validates private-to-public transition for high-growth space. Psychology: Index buying support vs. early investor exits. Parallels: TSLA post-IPO trajectory. Analogies: 1. Tesla valuation debate redux. 2. New tech IPO rollercoaster.",
+            "news_impact_analysis": {
+                "outlook": "Bullish medium-term",
+                "estimated_price_impact_pct": "+15% to +25%",
+                "reasoning": "Analyst upgrades, index inclusion; X posts highlight long-term potential despite short-term dips."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips to $136-140 for 20%+ gains on momentum",
+                "short_position": "Avoid or cover; high volatility risk",
+                "key_risks": "Execution delays, valuation compression"
+            },
+            "confidence_rating": "B",
+            "justification": "Multiple positive analyst and index catalysts with clear news coverage"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.0,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "250M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI trade scrutiny amid earnings season and chip sector volatility tied to SKHY moves. Implications: Leadership in AI GPUs but margin pressure risks. Psychology: Rotation out of leaders. Parallels: 2022 tech correction. Analogies: 1. Dominant tech leader correction. 2. Sector bellwether reaction.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+5% to -8%",
+                "reasoning": "Analyst calls supportive; broader semis mixed sentiment from X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for earnings (+12%)",
+                "short_position": "Limited; momentum likely resumes",
+                "key_risks": "Competition, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent leadership position with high visibility events"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "525B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.5,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil spikes on U.S.-Iran tensions/Hormuz blockade renewal. Implications: Higher energy prices boost profits but inflation risk. Psychology: Safe-haven rotation to energy. Parallels: 2022 energy surge. Analogies: 1. Geopolitical premium in commodities. 2. Classic defense sector play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +12%",
+                "reasoning": "Oil jumps reported; positive X sentiment on energy amid conflict."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for 10%+ on sustained oil prices",
+                "short_position": "Not recommended",
+                "key_risks": "De-escalation, OPEC response"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear geopolitical catalyst with direct price impact"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 152.0,
+                "market_cap": "245B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Semiconductor rebound attempts amid AI sector jitters and SKHY spillover. Implications: AI GPU competitor benefiting from diversified demand. Psychology: Catch-up rally potential. Parallels: 2024 semis recovery. Analogies: 1. Underdog in tech race. 2. Sector rotation beneficiary.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Sector rebound mentions; X posts highlight growth stocks like AMD."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for rebound gains",
+                "short_position": "Limited window",
+                "key_risks": "NVDA dominance, macro headwinds"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect impact through sector dynamics; less specific news"
+        }
+    ]
+}
