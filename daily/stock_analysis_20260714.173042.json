@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "SKHY",
+                "full_name": "SK Hynix Inc.",
+                "current_price": 245.8,
+                "market_cap": "168.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 278.5,
+                    "low": 142.3
+                },
+                "pe_ratio": 18.4,
+                "volume": "12.4M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "SK Hynix's US Nasdaq debut and memory chip rally amid AI demand, offset by Middle East tensions raising oil costs and supply chain risks. Implications include boosted semiconductor spending but inflation pressures. Market psychology: AI optimism vs. geopolitical fear. Parallels to 2023-24 chip boom. Analogies: Like 1990s dot-com memory surge; rollercoaster like 2022 crypto winter recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15%",
+                "reasoning": "Strong debut and AI memory demand from X sentiment and news; oil spike temporary headwind. Searches show positive chip momentum outweighing war concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips for 10-20% gains on AI cycle continuation",
+                "short_position": "Short volatile swings for 5-8% if oil escalates",
+                "key_risks": "Geopolitical escalation, earnings misses, supply glut"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume debut news coverage and consistent positive X posts on memory AI demand."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 986.3,
+                "market_cap": "1.09T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1125.0,
+                    "low": 485.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "18.7M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Chip stock surge on HBM/AI demand contrasted with oil price spike from Iran tensions. Economic: Higher input costs for tech. Psychology: Rotation into cyclicals. Parallels to 2024 AI rally. Analogies: Oil shock like 1973 vs. tech resilience post-2008.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +12%",
+                "reasoning": "Positive sentiment on X and news around memory pricing power; recent 4.5% gains noted despite market dip."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 15%+ on continued AI spend",
+                "short_position": "Avoid short; limited downside",
+                "key_risks": "Oil >$100/bbl prolonged, Fed hawkishness"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple news mentions of MU gains and strong sector data."
+        },
+        {
+            "details": {
+                "ticker": "APP",
+                "full_name": "AppLovin Corporation",
+                "current_price": 312.4,
+                "market_cap": "102.5B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 398.0,
+                    "low": 175.5
+                },
+                "pe_ratio": 45.2,
+                "volume": "9.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "APP dropped 12.7% on broad tech selloff from oil/geopolitics despite fundamentals intact. Implications: Short-term overreaction. Psychology: Risk-off rotation. Parallels to 2022 growth stock correction. Analogies: 2020 COVID dip rebound; meme volatility cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium",
+                "estimated_price_impact_pct": "-8% immediate, +10% recovery",
+                "reasoning": "News attributes drop to macro; sentiment mixed on X but fundamentals strong."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long post-dip for rebound 12-18%",
+                "short_position": "Short only intraday for 4-6%",
+                "key_risks": "Prolonged macro fear, ad spend slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear event-driven drop but strong underlying metrics."
+        },
+        {
+            "details": {
+                "ticker": "WDAY",
+                "full_name": "Workday, Inc.",
+                "current_price": 248.7,
+                "market_cap": "65.8B",
+                "sector_industry": "Technology / Software - Application",
+                "high_low_52_week": {
+                    "high": 310.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "4.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Software names sold off on IBM softness comments and risk-off. Broader implications for SaaS multiples. Psychology: De-risking AI-adjacent growth. Parallels to 2023 rate-hike rotation. Analogies: Value rotation like 2000s; post-earnings whiplash.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6 to -10%",
+                "reasoning": "Pre-market and close drops confirmed in news; X shows negative sentiment spikes."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization, potential 8% bounce",
+                "short_position": "Short 5-7% near-term",
+                "key_risks": "Earnings beats reversing sentiment"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent mover reports across sources."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "515.0B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 8.9,
+                "volume": "22.1M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Energy benefits directly from oil surge due to Hormuz tensions. Positive economic flow-through to producers. Psychology: Inflation hedge rotation. Parallels to 2022 Ukraine invasion rally. Analogies: 1990 Gulf War energy spike; commodity supercycle repeats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +9%",
+                "reasoning": "XLE sector +3.2% noted; oil news drives positive X volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long 6-12% as oil stays elevated",
+                "short_position": "Not recommended",
+                "key_risks": "De-escalation quickly reversing gains"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct macro event linkage with volume confirmation."
+        }
+    ]
+}
