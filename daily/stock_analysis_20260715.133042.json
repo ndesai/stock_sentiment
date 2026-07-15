@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "PYPL",
+                "full_name": "PayPal Holdings, Inc.",
+                "current_price": 56.3,
+                "market_cap": "65.2B",
+                "sector_industry": "Financial Services / Payments",
+                "high_low_52_week": {
+                    "high": 82.5,
+                    "low": 35.8
+                },
+                "pe_ratio": 18.4,
+                "volume": "85.4M",
+                "recent_dividend": "N/A (no dividend)"
+            },
+            "impact_theory": "Stripe and Advent International made a joint $53B+ takeover offer at $60.50/share (28% premium). Economic implications: consolidation in fintech/payments sector amid AI/digital payments growth. Market psychology: excitement over premium bid signals undervaluation and potential deal completion. Historical parallels: Visa/Mastercard acquisitions or fintech M&A waves. Analogies: 1) Like Amazon acquiring Whole Foods - strategic vertical integration. 2) Like Disney acquiring Pixar - combining tech/payment rails with scale.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Premium offer drives immediate surge (premarket +19% reported). X sentiment overwhelmingly positive on deal premium and Stripe synergies. Web news dominant coverage confirms bid. Strong support near offer price."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips to $52-54 targeting $60+ (10-15% upside) or arbitrage if deal closes.",
+                "short_position": "Avoid or limited; risk of deal break minimal short-term.",
+                "key_risks": "Deal fails (regulatory/FinCEN), integration issues, broader market selloff."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear takeover catalyst with concrete numbers, multiple corroborating sources, immediate price reaction."
+        },
+        {
+            "details": {
+                "ticker": "ASML",
+                "full_name": "ASML Holding N.V.",
+                "current_price": 985.4,
+                "market_cap": "385B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1120.0,
+                    "low": 620.0
+                },
+                "pe_ratio": 42.8,
+                "volume": "2.8M",
+                "recent_dividend": "$2.45 quarterly"
+            },
+            "impact_theory": "ASML hiked 2026 sales forecast 2nd time due to AI chip demand surge. Implications: Validates semiconductor supercycle. Psychology: Renewed optimism in EUV lithography leader. Parallels: 2023-24 NVDA/AI boom phases. Analogies: 1) Like TSMC capacity expansions during smartphone era. 2) Like Intel's foundry push in chip wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Direct earnings beat/upgrade + AI tailwinds confirmed in multiple outlets. X posts highlight memory/AI euphoria spillover. Positive volume confirmation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on pullbacks, target 5-10% near-term gains on continued AI orders.",
+                "short_position": "High valuation limits shorts.",
+                "key_risks": "Geopolitical export curbs, cyclical semi downturn."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple earnings/forecast confirmations, sector-wide corroboration."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 211.8,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 245.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "118M",
+                "recent_dividend": "$0.01 quarterly (split-adjusted)"
+            },
+            "impact_theory": "AI memory/chip demand drives broad sector rally including NVDA. Implications: Continued dominance in AI accelerators. Psychology: Momentum/FOMO buying. Parallels: 2024 AI boom extensions. Analogies: 1) Gold rush picks/shovels providers. 2) Like Cisco in dot-com infrastructure buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "SK Hynix debut/AI euphoria spillover evident in trading volumes and X chatter. Earnings season tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long with tight stops; 5-10% near-term.",
+                "short_position": "Possible on overextension but dangerous.",
+                "key_risks": "Valuation compression, competition from AMD/others."
+            },
+            "confidence_rating": "B",
+            "justification": "Sector leader with indirect catalysts; strong but less specific news tie."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 138.5,
+                "market_cap": "152B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 28.6,
+                "volume": "29M",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Memory chip rally fueled by SK Hynix US debut and AI HBM demand. Implications: DRAM/HBM pricing power recovery. Psychology: Catch-up rally in memory names. Parallels: 2017-18 memory supercycle. Analogies: 1) Like oil producers during energy boom. 2) Like solar panel makers in renewable push.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Direct memory sector momentum + SK Hynix catalyst. High X volume on chip names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Sector rotation play; 8-12% potential.",
+                "short_position": "Limited.",
+                "key_risks": "Inventory cycles, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector narrative but secondary to pure AI leaders."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 162.4,
+                "market_cap": "262B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 48.1,
+                "volume": "18.9M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI GPU/CPU demand alongside NVDA/MU. Implications: Market share gains vs Intel/NVDA. Psychology: Underdog momentum. Parallels: Ryzen launch success cycles. Analogies: 1) Like Pepsi challenging Coke. 2) Like Android vs iOS ecosystem battle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "AI chip demand spillover; earnings expectations lifted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Relative value vs NVDA; 4-8% gains.",
+                "short_position": "Minimal.",
+                "key_risks": "Execution on AI roadmap, competition."
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect sector tailwinds without unique catalyst."
+        }
+    ]
+}
