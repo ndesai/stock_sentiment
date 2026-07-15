@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "TSM",
+                "full_name": "Taiwan Semiconductor Manufacturing Company Limited",
+                "current_price": 185.5,
+                "market_cap": "960B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "12.5M",
+                "recent_dividend": "0.65 quarterly"
+            },
+            "impact_theory": "TSM Q2 earnings expected July 16; strong AI demand driving foundry growth. Implications include global supply chain resilience boost. Psychology: relief rally on AI capex confirmation. Historical parallel: 2023 AI boom post-earnings. Analogies: Like TSMC as the 'picks and shovels' of AI gold rush; similar to Intel's role in PC era.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "AI-driven demand beats; X sentiment positive on earnings preview; cooler inflation supportive of tech multiples."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips pre-earnings; target +6% on beat",
+                "short_position": "Avoid; limited downside on guidance miss",
+                "key_risks": "Geopolitical Taiwan risks, guidance miss on margins"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of earnings anticipation, consistent AI narrative alignment."
+        },
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 680.0,
+                "market_cap": "295B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 810.0,
+                    "low": 520.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "4.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "NFLX Q2 earnings July 16 focus on ad tier growth and engagement. Economic: Streaming maturity test. Psychology: High expectations post-ad pivot. Parallel: 2022 password crackdown rally. Analogies: Like Disney+ subscriber wars; Amazon Prime video expansion playbook.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Positive X chatter on ad revenue; inflation data supportive of consumer discretionary."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long into report; +5% upside potential",
+                "short_position": "Short only on weak guidance; risk of squeeze",
+                "key_risks": "Subscriber stagnation, competition intensification"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong anticipation but higher volatility in entertainment sector."
+        },
+        {
+            "details": {
+                "ticker": "UNH",
+                "full_name": "UnitedHealth Group Incorporated",
+                "current_price": 545.0,
+                "market_cap": "505B",
+                "sector_industry": "Healthcare/Health Insurance",
+                "high_low_52_week": {
+                    "high": 620.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "3.2M",
+                "recent_dividend": "1.88 quarterly"
+            },
+            "impact_theory": "UNH Q2 earnings July 16 amid healthcare policy scrutiny. Implications: Cost management and enrollment trends. Psychology: Defensive play in uncertain macro. Parallel: Post-ACA earnings resilience. Analogies: Like insurance sector in pandemic recovery; Walmart health expansion model.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-4%",
+                "reasoning": "Stable EPS consensus; mixed X sentiment on regulatory risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Moderate long on stability; +2% expected",
+                "short_position": "Short on policy surprises only",
+                "key_risks": "Medicare Advantage changes, medical cost inflation"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings focus but sector defensive nature limits swing potential."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.0,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "280M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Continued AI chip demand amid TSM/earnings season spillover. Implications: Data center dominance. Psychology: Momentum continuation post-inflation data. Parallel: 2024 AI surge. Analogies: Like Cisco in dot-com; ARM in mobile revolution.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-6%",
+                "reasoning": "Chip sector rebound; positive X posts on SK Hynix/TSM synergy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold; +4% on sector momentum",
+                "short_position": "High risk; valuation premium limits shorts",
+                "key_risks": "Export restrictions, competition from AMD/Intel"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant AI narrative with broad market leadership."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 115.0,
+                "market_cap": "125B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 18.0,
+                "volume": "22M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory chip demand tied to AI/HBM growth post SK Hynix listing. Implications: Cyclical recovery. Psychology: Relief from semis selloff. Parallel: 2017-18 DRAM boom. Analogies: Like Samsung memory cycles; HDD to SSD transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "X posts highlight memory rally; earnings season tailwinds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long pre-earnings; +7% upside",
+                "short_position": "Not recommended near cycle bottom",
+                "key_risks": "Oversupply risk, pricing volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector momentum strong but memory cyclicality adds uncertainty."
+        }
+    ]
+}
