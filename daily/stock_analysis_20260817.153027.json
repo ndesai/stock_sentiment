@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Anthropic's strong revenue forecast boosted AI infrastructure sentiment. Economic implications include accelerated capex in tech. Market psychology: FOMO in AI plays. Historical parallel: 2023 AI boom. Analogies: Gold rush; rocket fuel for growth stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "X sentiment positive on AI rotation; web news highlights tech gains amid retail earnings focus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA targeting 5%+ gains on continued AI hype",
+                "short_position": "Avoid; momentum strong",
+                "key_risks": "Valuation correction, geopolitical tensions"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume AI mentions across sources and consistent positive sentiment."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 178.4,
+                "market_cap": "830B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 192.1,
+                    "low": 112.8
+                },
+                "pe_ratio": 38.7,
+                "volume": "22M",
+                "recent_dividend": "0.59 (quarterly)"
+            },
+            "impact_theory": "AI capex growth narrative. Implications for networking/semiconductors. Psychology: Sector rotation from mega-caps. Parallels: 2024 chip cycle. Analogies: Highway expansion for data traffic; domino effect in supply chain.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Strong mentions in growth picks and AI infrastructure posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 4% upside on earnings momentum",
+                "short_position": "Limited short opportunities",
+                "key_risks": "Supply chain issues, Fed minutes volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple sources highlight AVGO as top growth pick for Aug 2026."
+        },
+        {
+            "details": {
+                "ticker": "HD",
+                "full_name": "The Home Depot, Inc.",
+                "current_price": 385.2,
+                "market_cap": "380B",
+                "sector_industry": "Consumer Cyclical/Home Improvement",
+                "high_low_52_week": {
+                    "high": 415.8,
+                    "low": 312.4
+                },
+                "pe_ratio": 24.1,
+                "volume": "3.8M",
+                "recent_dividend": "2.25 (quarterly)"
+            },
+            "impact_theory": "Retail earnings week kickoff signals consumer health. Implications for housing/economy. Psychology: Pre-earnings anxiety turning positive. Parallels: 2022 retail recovery. Analogies: Canary in coal mine for spending; barometer for housing market.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+1-3% post-earnings",
+                "reasoning": "Retail focus in calendar; mixed but improving consumer data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on beat expectations for 3% gain",
+                "short_position": "Short if miss; 4% downside risk",
+                "key_risks": "Housing data miss, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings event but sentiment not extreme shift yet."
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 148.9,
+                "market_cap": "69B",
+                "sector_industry": "Consumer Defensive/Retail",
+                "high_low_52_week": {
+                    "high": 178.3,
+                    "low": 105.6
+                },
+                "pe_ratio": 18.5,
+                "volume": "4.2M",
+                "recent_dividend": "1.12 (quarterly)"
+            },
+            "impact_theory": "Retail earnings provide consumer spending insight amid soft data. Implications for discretionary spending. Psychology: Defensive positioning. Parallels: Post-pandemic retail swings. Analogies: Weather vane for inflation effects; thermometer for middle-class health.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-2-5%",
+                "reasoning": "Anticipation of cautious guidance in softening consumer environment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy",
+                "short_position": "Short pre-earnings for 3% gain",
+                "key_risks": "Positive surprise reversal, broader market rally"
+            },
+            "confidence_rating": "B",
+            "justification": "Calendar-driven with moderate sentiment data."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 52.8,
+                "market_cap": "31B",
+                "sector_industry": "Technology/Servers",
+                "high_low_52_week": {
+                    "high": 118.4,
+                    "low": 17.9
+                },
+                "pe_ratio": 15.2,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI server demand surge. Implications for data center buildout. Psychology: Momentum chasing. Parallels: 2024 AI server boom. Analogies: Picks and shovels in gold rush; engine in AI train.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X posts highlight SMCI in AI infrastructure rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long targeting double-digit % gains",
+                "short_position": "High volatility short squeeze risk",
+                "key_risks": "Competition, margin compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong recent X and news momentum on AI names."
+        }
+    ]
+}
