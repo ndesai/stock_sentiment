@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AXTI",
+                "full_name": "AXT Inc",
+                "current_price": 96.24,
+                "market_cap": "4.2B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.99,
+                    "low": 2.05
+                },
+                "pe_ratio": 45.2,
+                "volume": "11M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Strong momentum in semiconductor materials amid AI boom and supply chain shifts. Positive sentiment from outperforming broader market since late July lows. Economic implications include accelerated tech capex. Market psychology shows FOMO in high-beta names. Historical parallel to 2020-21 semiconductor rally. Analogies: Rocket launch (rapid ascent) and snowball rolling downhill (gathering momentum).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "X posts and market data highlight +162% gains since July lows; strong volume and sentiment on social media. AI-related demand driving gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for +20-40% upside targeting 52w highs; momentum continuation likely",
+                "short_position": "Avoid or high-risk; potential squeeze on pullback to 80",
+                "key_risks": "Volatility, overextension from highs, macro slowdown in tech spending"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent performance backed by multiple sources but high volatility typical of small-cap semis"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology Inc",
+                "current_price": 971.66,
+                "market_cap": "1.08T",
+                "sector_industry": "Technology/Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "25M",
+                "recent_dividend": "0.12 quarterly"
+            },
+            "impact_theory": "AI memory demand surge with potential US pressure on Chinese chips benefiting domestic players. Economic boost to US tech manufacturing. Psychology: Relief rally on earnings/forecast optimism. Parallels to 2023-24 HBM cycle. Analogies: Gold rush (AI demand) and domino effect (supply chain shifts).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-15%",
+                "reasoning": "X sentiment positive on nearing $1000; recent 10%+ weekly gains; memory chip sector strength reported widely"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued AI cycle; target $1100+ (+13%)",
+                "short_position": "Risky; momentum strong, consider only on reversal signals",
+                "key_risks": "Cyclical memory pricing, geopolitical tensions, valuation stretch"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating reports on AI spend and price action"
+        },
+        {
+            "details": {
+                "ticker": "CBRS",
+                "full_name": "Cerebras Systems Inc",
+                "current_price": 253.87,
+                "market_cap": "52B",
+                "sector_industry": "Technology/AI Hardware",
+                "high_low_52_week": {
+                    "high": 385.0,
+                    "low": 160.81
+                },
+                "pe_ratio": 65.0,
+                "volume": "13M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI infrastructure leaders gaining on positive sector outlook and record market highs. Broader economic resilience supporting tech. Psychology of chasing AI leaders. Historical: Similar to NVIDIA 2023 run. Analogies: Express train (fast AI adoption) and amplifier (magnifies market moves).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Top gainer lists; +16% moves noted; AI hardware narrative strong in recent news and X"
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long; potential to retest highs near 385",
+                "short_position": "High risk due to sector tailwinds",
+                "key_risks": "Competition, execution risk on scaling, macro rotation out of growth"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear price action and sector alignment but newer listing volatility"
+        },
+        {
+            "details": {
+                "ticker": "ARGX",
+                "full_name": "argenx SE",
+                "current_price": 991.28,
+                "market_cap": "60B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 999.53,
+                    "low": 645.65
+                },
+                "pe_ratio": 85.0,
+                "volume": "516K",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Biotech breakthrough or pipeline news driving outsized move. Broader market rotation or specific catalyst. Implications for healthcare innovation funding. Psychology: Biotech binary event excitement. Parallels to 2021-22 gene therapy rallies. Analogies: Lottery ticket (high reward) and spring (compressed energy release).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12-18%",
+                "reasoning": "Significant single-day gains reported; positive volume confirming sentiment shift"
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum toward new highs; +5-15% near-term",
+                "short_position": "Possible mean reversion play post-spike",
+                "key_risks": "Clinical/regulatory setbacks, sector rotation, high valuation"
+            },
+            "confidence_rating": "C",
+            "justification": "Large move observed but less sector-wide context than tech names"
+        },
+        {
+            "details": {
+                "ticker": "KEYS",
+                "full_name": "Keysight Technologies Inc",
+                "current_price": 165.0,
+                "market_cap": "28B",
+                "sector_industry": "Technology/Electronic Equipment",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "1.2M",
+                "recent_dividend": "0.30 quarterly"
+            },
+            "impact_theory": "Pre-earnings positioning ahead of Aug 18 report. Tech testing/measurement demand from AI/5G/electronics. Positive macro PMI backdrop supportive. Psychology of anticipation. Historical parallels to earnings season volatility. Analogies: Tightrope walk (earnings risk/reward) and barometer (gauges sector health).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Earnings catalyst on 18th; sector strength from AI capex spilling over"
+            },
+            "potential_profit_risks": {
+                "long_position": "Pre-earnings long with stop below support; potential beat upside",
+                "short_position": "Post-earnings fade if miss",
+                "key_risks": "Earnings miss, guidance cuts, broader market pullback"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear upcoming catalyst with supporting macro data"
+        }
+    ]
+}
