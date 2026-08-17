@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1019.6,
+                "market_cap": "1.13T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1300.0,
+                    "low": 650.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "45.2M",
+                "recent_dividend": "None (growth-focused)"
+            },
+            "impact_theory": "Stellar Anthropic revenue growth and sustained AI capex driving HBM/DDR memory demand. Economic implications: Boosts semiconductor supply chain and US tech leadership. Market psychology: FOMO in AI/memory rotation after July selloff. Historical parallels: 2023-2024 AI boom recovery. Analogies: (1) Like oil boom in 1970s for energy stocks. (2) Like dot-com infrastructure buildout but profitable.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Cramer endorsement + memory shortage narratives + premarket gains + X sentiment spike (positive posts on AI demand). Web/X searches confirm rally momentum on Aug 17."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; target 10-15% gains on continued AI spend news",
+                "short_position": "Avoid; high short interest risk of squeeze",
+                "key_risks": "China competition (YMTC), valuation pullback, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong multi-source confirmation of positive sentiment shift and price action."
+        },
+        {
+            "details": {
+                "ticker": "WDC",
+                "full_name": "Western Digital Corporation",
+                "current_price": 68.5,
+                "market_cap": "24B",
+                "sector_industry": "Technology / Storage Devices",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 38.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "12.8M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "Memory/storage demand surge from AI data centers. Implications: Margin expansion in NAND/HDD. Psychology: Catch-up rally in neglected storage names. Parallels: 2017 NAND cycle. Analogies: (1) Cloud storage boom akin to 2010s data explosion. (2) Like auto parts suppliers during EV transition.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Premarket +3.97% move, aligned with MU/STX, positive X chatter on storage AI use cases."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8% swing on sector rotation",
+                "short_position": "Low probability; momentum strong",
+                "key_risks": "Inventory corrections, pricing pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector tailwinds but less individual catalysts than MU."
+        },
+        {
+            "details": {
+                "ticker": "STX",
+                "full_name": "Seagate Technology Holdings plc",
+                "current_price": 112.4,
+                "market_cap": "23.5B",
+                "sector_industry": "Technology / Storage Devices",
+                "high_low_52_week": {
+                    "high": 135.0,
+                    "low": 72.0
+                },
+                "pe_ratio": 19.8,
+                "volume": "3.1M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "AI-driven data storage needs accelerate HDD recovery. Implications: Higher utilization and pricing power. Psychology: Value rotation into cyclicals within tech. Parallels: Post-2022 HDD rebound. Analogies: (1) Shipping containers during e-commerce boom. (2) Like copper miners in electrification.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "+2.69% premarket, X latest posts highlight storage shortage narrative alongside MU/WDC."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing trade targeting 7% upside",
+                "short_position": "Not recommended",
+                "key_risks": "SSD substitution, macro capex cuts"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent sector positive shift confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.8,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "185M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Anthropic revenue validates GPU ecosystem spend. Implications: Sustained AI infrastructure investment cycle. Psychology: Leadership confirmation reduces rotation fears. Parallels: 2023 ChatGPT launch rally. Analogies: (1) Like Intel in PC era. (2) Like Cisco in internet buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Tech lift from Anthropic news + memory synergy; X semantic search shows renewed optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold; incremental 5% gains possible",
+                "short_position": "High risk due to momentum",
+                "key_risks": "Export restrictions, competition, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Broad confirmation via news and social sentiment."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 162.3,
+                "market_cap": "262B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 32.4,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI GPU/CPU demand spillover from memory/AI hype. Implications: Data center revenue acceleration. Psychology: Catch-up to NVDA in AI narrative. Parallels: 2024 MI300 launch momentum. Analogies: (1) Like AMD in console cycle. (2) Like Qualcomm in smartphone boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector-wide lift, positive mentions in X posts tied to AI spending."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for sector beta play, 5% potential",
+                "short_position": "Risky",
+                "key_risks": "Execution misses, NVDA dominance"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect but supportive tailwinds from memory/tech rally."
+        }
+    ]
+}
