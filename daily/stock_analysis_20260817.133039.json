@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 114.5,
+                "market_cap": "920B",
+                "sector_industry": "Consumer Defensive / Discount Stores",
+                "high_low_52_week": {
+                    "high": 135.16,
+                    "low": 95.42
+                },
+                "pe_ratio": 40.5,
+                "volume": "12.5M",
+                "recent_dividend": "0.21 quarterly (yield ~0.7%)"
+            },
+            "impact_theory": "Anticipation of Q2 earnings (Aug 20) amid resilient consumer spending data. Economic implications: Signals health of US consumer amid inflation concerns. Market psychology: Hope for beat driving pre-earnings rally. Historical parallels: Strong retail beats in 2024 fueled broad market gains. Analogies: Like a weather vane for economy; retail as 'canary in coal mine' for discretionary spend.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Pre-earnings optimism; Walmart seen as bellwether. X sentiment positive on value retail resilience. Earnings expected to show e-comm growth and market share gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ahead of earnings for 4-8% upside on beat; target 120",
+                "short_position": "Short post-earnings if miss on margins; risk of 5-10% drop",
+                "key_risks": "Consumer sentiment dip (recent UMich data), inflation pass-through, competition from Amazon"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong historical correlation between WMT earnings and market moves, but macro uncertainty from consumer sentiment."
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 142.0,
+                "market_cap": "65B",
+                "sector_industry": "Consumer Defensive / Discount Stores",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "4.2M",
+                "recent_dividend": "1.12 quarterly (yield ~3.1%)"
+            },
+            "impact_theory": "Q2 earnings Aug 19; focus on discretionary vs essential spend gap. Implications for retail recovery post-2023/24 weakness. Psychology: Investors seeking confirmation on consumer strength. Parallels: 2025 retail rebounds after inventory resets. Analogies: Thermometer for middle-class spending; like checking pulse on economy's heart.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Pre-earnings buildup; mixed consumer data but value focus positive. X posts highlight earnings watchlist position."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips pre-earnings, 3-7% gain on positive comp sales",
+                "short_position": "Avoid or short if guidance weak; 6-12% downside risk",
+                "key_risks": "Higher-than-expected inflation impact, inventory issues, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst clear but consumer sentiment recent decline adds volatility."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 202.8,
+                "market_cap": "5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "180M",
+                "recent_dividend": "0.01 quarterly (yield ~0.02%)"
+            },
+            "impact_theory": "Ongoing AI infrastructure boom and recent CoreWeave results fueling optimism. Implications: Continued capex in AI chips. Psychology: FOMO and momentum in mega-caps. Parallels: 2023-2025 AI rallies. Analogies: The 'picks and shovels' of AI gold rush; engine driving broader tech.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Sustained AI demand narrative; positive X sentiment on Blackwell/GB200 deployments."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on dips; 5-10% upside short-term",
+                "short_position": "High risk; momentum strong but valuation premium",
+                "key_risks": "Valuation correction, export restrictions, competition from AMD/others"
+            },
+            "confidence_rating": "A",
+            "justification": "Persistent AI narrative with multiple catalysts and high trading volume/support."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 175.0,
+                "market_cap": "820B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "25M",
+                "recent_dividend": "0.59 quarterly (yield ~1.3%)"
+            },
+            "impact_theory": "AI networking/semiconductor demand tailwinds alongside NVDA ecosystem. Implications: Custom AI ASICs and data center growth. Psychology: Rotation into diversified AI plays. Parallels: 2024-25 chip stock surges. Analogies: The 'plumbing' of AI data centers; diversified play on semiconductor boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector strength from AI capex; positive mentions in growth stock lists and X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for sector exposure; 4-7% near-term gains",
+                "short_position": "Limited; strong fundamentals",
+                "key_risks": "Customer concentration (e.g., big tech), macro slowdown affecting capex"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI demand narrative with dividend support and analyst favor."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 115.0,
+                "market_cap": "130B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "15M",
+                "recent_dividend": "0.115 quarterly (yield ~0.4%)"
+            },
+            "impact_theory": "HBM memory demand for AI accelerators driving sentiment. Implications: Memory cycle upswing tied to AI training/inference. Psychology: Catch-up rally in memory names. Parallels: 2024 HBM supply constraints and price spikes. Analogies: 'Fuel' for AI chips; cyclical beneficiary of tech supercycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "High growth expectations in AI memory; featured in best stocks lists and X AI hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong momentum play; target 130+ on continued AI spend",
+                "short_position": "Cyclical volatility risk; avoid shorts",
+                "key_risks": "Memory price fluctuations, oversupply risk, geopolitical (Taiwan/China)"
+            },
+            "confidence_rating": "B",
+            "justification": "High upside from AI but memory sector inherently more volatile than logic chips."
+        }
+    ]
+}
