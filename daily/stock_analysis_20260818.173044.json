@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "245M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "AI chip demand remains strong amid continued earnings growth but pressured by rising yields and rotation. Economic implications include sustained tech capex; market psychology shows FOMO tempered by valuation concerns. Historical parallel to 2023 AI boom. Analogies: Like gold rush picks and shovels; rocket fuel for broader market vs. potential overheating engine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Strong AI momentum and earnings outweigh macro headwinds per recent X sentiment and news; FOMC minutes may ease rate fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 4-8% gains on AI tailwinds; targets above 155",
+                "short_position": "Avoid shorts; risk of squeeze on positive catalysts",
+                "key_risks": "Yield spikes, China export curbs, valuation correction"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming sources on AI strength and market breadth"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.2,
+                "market_cap": "272B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 105.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "52M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Data center and AI GPU gains amid memory/chip volatility. Implications for competitive positioning vs NVDA. Psychology: Rotation into semis leaders. Parallel: 2020-21 chip cycle. Analogies: Underdog challenger in marathon; second engine in AI plane.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Positive mentions in X posts on AI names; earnings season support despite recent dips"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 3-7% swing; momentum plays",
+                "short_position": "Short only on failed breakout below 160",
+                "key_risks": "Competition, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector sentiment but higher volatility than NVDA"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 178.4,
+                "market_cap": "835B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 125.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "18M",
+                "recent_dividend": "0.59 (quarterly)"
+            },
+            "impact_theory": "Apple AI chip partnership and custom silicon news boosting outlook amid sector profit-taking. Implications for diversified revenue. Psychology shift toward networking/AI infrastructure. Historical parallel to 2024 AVGO run. Analogies: Multi-tool in AI toolkit; diversified portfolio within single stock.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1.5-3%",
+                "reasoning": "Recent Apple deal coverage and BofA semiconductor leadership mentions"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on pullbacks for steady gains",
+                "short_position": "Limited; dividend support",
+                "key_risks": "Guidance misses, yield sensitivity"
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete partnership news driving sentiment"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 112.8,
+                "market_cap": "125B",
+                "sector_industry": "Technology/Semiconductors - Memory",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 68.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "28M",
+                "recent_dividend": "0.115 (quarterly)"
+            },
+            "impact_theory": "Memory demand tied to AI/HBM but recent sector selloff on yields. Implications for cyclical recovery. Psychology: Value play in growth sector. Parallel: Post-2022 memory rebound. Analogies: Commodity swing trader; foundation layer for AI buildout.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "Chip stock dips noted; broader semis pressure from rising yields"
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 5%+ rebound",
+                "short_position": "Short on continued weakness below 105",
+                "key_risks": "Inventory cycles, macro data"
+            },
+            "confidence_rating": "B",
+            "justification": "Cyclical nature evident in recent price action"
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 78.5,
+                "market_cap": "118B",
+                "sector_industry": "Consumer Cyclical/Apparel",
+                "high_low_52_week": {
+                    "high": 123.0,
+                    "low": 70.5
+                },
+                "pe_ratio": 22.1,
+                "volume": "15M",
+                "recent_dividend": "0.37 (quarterly)"
+            },
+            "impact_theory": "JPM downgrade and consumer spending rotation away from discretionary. Implications for retail slowdown fears. Psychology: Defensive shift. Parallel: 2022 consumer pullback. Analogies: Canary in consumption coal mine; legacy brand facing disruptors.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-5%",
+                "reasoning": "Downgrade coverage and YTD underperformance confirmed in news/X"
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; wait for stabilization",
+                "short_position": "Short for 4-6% further downside",
+                "key_risks": "Earnings beats, brand recovery"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear analyst action and sector rotation signals"
+        }
+    ]
+}
