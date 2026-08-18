@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 200.75,
+                "market_cap": "4.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 92.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "220M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "NVIDIA announced a $105B credit backstop for OpenAI's AI campus in Ohio, signaling massive AI infrastructure commitment. Economic implications: Accelerates AI capex cycle boosting semis ecosystem. Market psychology: Heightens FOMO in AI leaders ahead of Aug 26 earnings. Historical parallel: Similar to 2023-24 AI boom announcements. Analogies: 1) Like early internet backbone investments. 2) Equivalent to oil majors securing drilling rights pre-boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Strong AI demand signals and earnings hype from web/X sentiment (high volume positive mentions); pre-earnings positioning positive despite short-term volatility. X latest posts highlight partnership excitement."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-12% post-earnings upside if beat; target $220",
+                "short_position": "Avoid; high risk of squeeze on positive news",
+                "key_risks": "Earnings miss, macro rate concerns, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming news sources (NVIDIA press, analyst notes) and consistent positive X sentiment on partnerships."
+        },
+        {
+            "details": {
+                "ticker": "FN",
+                "full_name": "Fabrinet",
+                "current_price": 245.0,
+                "market_cap": "8.8B",
+                "sector_industry": "Technology/Electronics Manufacturing",
+                "high_low_52_week": {
+                    "high": 290.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "850K",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strong Q4/FY2026 earnings beat (EPS $4.10 vs $3.79 est, rev +36% YoY) but stock plunged ~10% on margin concerns. Implications: Optical/electro-mech demand robust yet temporary headwinds flagged. Psychology: Profit-taking post-beat. Parallels: Past tech earnings volatility. Analogies: 1) Like cloud infra suppliers post-hype. 2) Supply chain plays during expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term, Bullish medium",
+                "estimated_price_impact_pct": "-8% immediate, +15% recovery",
+                "reasoning": "Earnings release Aug 17 drove initial selloff per reports; X sentiment mixed on guidance caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 12-20% rebound",
+                "short_position": "Short cover rally risk high",
+                "key_risks": "Margin compression persistence, customer concentration"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct earnings data available but guidance interpretation varies across sources."
+        },
+        {
+            "details": {
+                "ticker": "STZ",
+                "full_name": "Constellation Brands",
+                "current_price": 175.0,
+                "market_cap": "32B",
+                "sector_industry": "Consumer Staples/Beverages",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 18.0,
+                "volume": "1.8M",
+                "recent_dividend": "$0.81 quarterly"
+            },
+            "impact_theory": "Berkshire Hathaway exited position, signaling potential valuation concerns in consumer staples amid inflation. Implications: Reduced institutional support, pressure on multiples. Psychology: Follow-the-leader selling. Historical: Similar exits pre-corrections. Analogies: 1) Activist investor exits. 2) Portfolio rebalancing in defensive sectors.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6 to -10%",
+                "reasoning": "Direct announcement impact amplified by market rotation to growth; X posts note exit news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization",
+                "short_position": "Target 8-12% downside over weeks",
+                "key_risks": "Rebound on value buying, earnings resilience"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst from major investor but sector defensive nature tempers severity."
+        },
+        {
+            "details": {
+                "ticker": "NKE",
+                "full_name": "NIKE, Inc.",
+                "current_price": 78.5,
+                "market_cap": "118B",
+                "sector_industry": "Consumer Discretionary/Apparel",
+                "high_low_52_week": {
+                    "high": 123.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "9.5M",
+                "recent_dividend": "$0.37 quarterly"
+            },
+            "impact_theory": "JPMorgan downgrade + competition pressures (Adidas, emerging brands). YTD -39%. Implications: Market share erosion in sneakers/athleisure. Psychology: Momentum reversal on growth doubts. Parallels: Legacy brand challenges vs disruptors. Analogies: 1) Retail apparel shifts post-pandemic. 2) Auto legacy vs EV transition.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Ongoing narrative reinforced by recent analyst action and volume selloffs per market updates."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative bounce play only",
+                "short_position": "Continued 5-15% downside possible",
+                "key_risks": "Brand revival campaigns, macro consumer spend"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating downgrades and price action consistent over months."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 185.0,
+                "market_cap": "1.95T",
+                "sector_industry": "Consumer Discretionary/E-commerce & Cloud",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "35M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Broader market pullback and retail earnings anticipation weighing; AWS growth steady amid AI capex. Implications: E-comm margins sensitive to consumer, cloud benefits from AI. Psychology: Rotation from mega-caps. Parallels: Post-rate hike rotations. Analogies: 1) Retail giants adapting online shift. 2) Tech platforms scaling infrastructure.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Mildly Bullish",
+                "estimated_price_impact_pct": "+2-4% or flat",
+                "reasoning": "Less direct negative catalysts than peers; X sentiment stable on AWS outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; add on weakness for 6-10%",
+                "short_position": "Limited edge",
+                "key_risks": "Retail slowdown, regulatory scrutiny"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect market factors dominant; earnings calendar impact moderate."
+        }
+    ]
+}
