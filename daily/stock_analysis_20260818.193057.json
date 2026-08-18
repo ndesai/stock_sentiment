@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.5,
+                "market_cap": "3.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.4
+                },
+                "pe_ratio": 45.2,
+                "volume": "210M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Global bond rout and FOMC minutes release pressure tech valuations amid AI capex concerns. Market psychology shows rotation from growth to value; historical parallel to 2022 rate hike selloff. Analogies: 2000 dot-com correction and 2022 bear market.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Bond yields spiking, tech selloff accelerating per X sentiment and Reuters reports; recent memory stock drops amplify negative momentum."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for support at 130; potential +8% rebound on AI demand confirmation",
+                "short_position": "Short near 138 with stop above 142; target 5-7% downside",
+                "key_risks": "Unexpected positive FOMC tone or AI earnings surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent news flow on bonds/tech but macro data pending confirmation"
+        },
+        {
+            "details": {
+                "ticker": "CTSH",
+                "full_name": "Cognizant Technology Solutions Corporation",
+                "current_price": 82.4,
+                "market_cap": "42B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 90.1,
+                    "low": 61.5
+                },
+                "pe_ratio": 18.7,
+                "volume": "8.5M",
+                "recent_dividend": "0.30 quarterly"
+            },
+            "impact_theory": "AI consulting partnerships (Anthropic/Google) driving sentiment reversal after prior skepticism. Psychology: value rotation catching up with AI narrative; parallels 2023 AI boom. Analogies: Accenture's rise and IBM Watson pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7%",
+                "reasoning": "Cramer-highlighted surge and X positive mentions on AI solutions; outperforming broader tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips; +12% upside to 92 on continued momentum",
+                "short_position": "Avoid; limited downside unless earnings miss",
+                "key_risks": "Q3 guidance shortfall or macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Recent 43% rally backed by concrete AI deals and sentiment shift data"
+        },
+        {
+            "details": {
+                "ticker": "ACN",
+                "full_name": "Accenture plc",
+                "current_price": 345.8,
+                "market_cap": "218B",
+                "sector_industry": "Technology/Consulting",
+                "high_low_52_week": {
+                    "high": 398.5,
+                    "low": 278.3
+                },
+                "pe_ratio": 28.1,
+                "volume": "3.2M",
+                "recent_dividend": "1.48 quarterly"
+            },
+            "impact_theory": "Agentic AI solutions launch fuels sentiment rebound similar to CTSH. Implications include higher services spend; psychology favors AI enablers post-earnings. Parallels Salesforce AI pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5%",
+                "reasoning": "Partnerships and 33% YTD gains; positive X buzz on Google Cloud integration."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on pullbacks; +9% to 377",
+                "short_position": "Limited; hedge only on broader tech weakness",
+                "key_risks": "Client spending cuts in recession scenario"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid catalyst but valuation premium requires continued execution"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 228.6,
+                "market_cap": "3.45T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 260.1,
+                    "low": 169.2
+                },
+                "pe_ratio": 32.4,
+                "volume": "52M",
+                "recent_dividend": "0.24 quarterly"
+            },
+            "impact_theory": "Foldable iPhone potential boosts long-term narrative amid current tech weakness. Economic implication: premium product cycle extension; parallels iPhone X launch hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Analyst notes on foldable catalyst offset near-term bond pressures per CNBC."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; 6% upside on product news",
+                "short_position": "Short-term only on macro risk",
+                "key_risks": "China sales slowdown or delayed foldable launch"
+            },
+            "confidence_rating": "B",
+            "justification": "Long-term catalyst strong but near-term volatility from macro"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 102.3,
+                "market_cap": "113B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.4,
+                    "low": 68.9
+                },
+                "pe_ratio": 12.8,
+                "volume": "18M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory stock declines amid broader semi weakness and AI capex scrutiny. Psychology: profit-taking after prior rally; historical parallel to 2023 HBM cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6%",
+                "reasoning": "Sector ETF drops noted; negative sentiment on X around DRAM pricing."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for 95 support; rebound potential +10%",
+                "short_position": "Target 92; 8-10% gain",
+                "key_risks": "HBM demand surge or supply constraints"
+            },
+            "confidence_rating": "C",
+            "justification": "Sector-wide pressure clear but specific earnings not yet released"
+        }
+    ]
+}
