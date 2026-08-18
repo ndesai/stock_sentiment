@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 222.5,
+                "market_cap": "5.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "Rising oil prices due to ongoing US-Iran tensions and higher Treasury yields are pressuring growth stocks like NVDA ahead of earnings. Economic implications include potential margin compression for tech from higher input/energy costs and borrowing. Market psychology: Fear of rate sensitivity returning after AI rally. Historical parallel: 2022 rate-hike selloff in tech. Analogies: 1) Like a sprinter facing headwinds after a tailwind sprint. 2) Oil spike acts as a tax on the economy, slowing AI capex enthusiasm.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "X posts and news show futures down on oil/yields; NVDA mentioned dropping ~2% premarket. Sentiment shift negative amid macro concerns despite strong AI fundamentals. Earnings Aug 26 looms."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips near $220 support for post-earnings rebound (+10-15% potential if beats)",
+                "short_position": "Short or hedge with puts into earnings/vol spike (-5-10% downside risk if macro worsens)",
+                "key_risks": "AI demand resilience, unexpected positive Fed minutes, or oil de-escalation could reverse quickly"
+            },
+            "confidence_rating": "B",
+            "justification": "High visibility macro drivers (oil, yields) confirmed across multiple sources, but NVDA fundamentals remain robust long-term."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 78.5,
+                "market_cap": "630B",
+                "sector_industry": "Consumer Defensive/Retail",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 58.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "18M",
+                "recent_dividend": "$0.21 quarterly (yield ~1.1%)"
+            },
+            "impact_theory": "Anticipation of Q2 earnings on Aug 20 amid consumer spending data focus. Implications: Strong results could validate resilient US consumer despite inflation/oil. Psychology: Defensive rotation into staples. Historical: Post-2022 earnings beats drove retail rallies. Analogies: 1) Walmart as economic thermometer reading consumer health. 2) Like checking tire pressure before a long road trip on bumpy roads.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Pre-earnings buildup positive; X sentiment neutral-positive on retailer resilience. Oil impact muted for WMT vs growth stocks. Historical retail beats in uncertain macro often rewarded."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long ahead of earnings for beat-driven pop (+5-8%)",
+                "short_position": "Avoid or limited; only if misses badly (-4%)",
+                "key_risks": "Disappointing consumer metrics, higher wage/inflation costs in guidance"
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings catalyst clear and imminent; broad agreement on importance of retail data."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.0,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "15M",
+                "recent_dividend": "$0.95 quarterly (yield ~3.2%)"
+            },
+            "impact_theory": "Oil prices rising (WTI ~$85+) from Iran geopolitical tensions. Implications: Higher energy prices boost producer revenues/profits, potential inflation pass-through. Psychology: Energy rotation from tech. Historical: 2022 energy supercycle on Ukraine invasion. Analogies: 1) Oil producers as beneficiaries of geopolitical 'tax'. 2) Like a farmer profiting from drought affecting others.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "X posts highlight oil/XOM gains; sector sole positive amid broad market weakness. Sentiment shift strongly positive on energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy for continued oil strength (+8-12%)",
+                "short_position": "Not recommended",
+                "key_risks": "Sudden de-escalation or OPEC+ response caps upside"
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitical driver confirmed, but resolution uncertainty caps rating."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 158.0,
+                "market_cap": "255B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Similar macro pressures as NVDA (yields, oil) plus memory/AI chip competition. Implications: Growth stocks vulnerable to higher discount rates. Psychology: Profit-taking after AI run. Historical: 2023-24 semis volatility on macro. Analogies: 1) AMD riding NVDA coattails but exposed in storms. 2) Tech as high-beta play amplifying market moves.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "Premarket drops noted in X (~3%); tied to broader tech selloff sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for AI recovery (+10%)",
+                "short_position": "Short-term momentum shorts viable (-6%)",
+                "key_risks": "Data center demand beats or partnership news"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with NVDA macro drivers; strong sector correlation."
+        },
+        {
+            "details": {
+                "ticker": "SNAP",
+                "full_name": "Snap Inc.",
+                "current_price": 9.8,
+                "market_cap": "16B",
+                "sector_industry": "Communication Services/Social Media",
+                "high_low_52_week": {
+                    "high": 17.5,
+                    "low": 7.5
+                },
+                "pe_ratio": -18.0,
+                "volume": "35M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Court ruling allowing social media lawsuits + insider sales weigh on sentiment. Implications: Regulatory/legal overhang for ad-tech platforms. Psychology: Risk-off for high-valuation loss-making names. Historical: 2022-23 social media regulatory scares. Analogies: 1) Legal clouds as persistent rain on parade. 2) Like a ship taking on water while competitors sail ahead.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Specific negative news (court, insider sale) cited in market updates; X sentiment negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk; only speculative bounce play (+15% on turnaround)",
+                "short_position": "Attractive for continued pressure (-8-10%)",
+                "key_risks": "Ad revenue recovery or acquisition rumors"
+            },
+            "confidence_rating": "C",
+            "justification": "Company-specific news clear but valuation volatile and low-float nature adds uncertainty."
+        }
+    ]
+}
