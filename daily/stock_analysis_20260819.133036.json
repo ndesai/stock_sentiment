@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 142.5,
+                "market_cap": "54.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "85.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Positive Phase 3 melanoma vaccine trial results with Merck boost investor optimism in mRNA tech. Economic implications include accelerated biotech investment and potential healthcare cost reductions. Market psychology shows relief rally in healthcare after sentiment drop. Historical parallel to 2020 COVID vaccine approvals. Analogies: Like early Tesla EV hype or internet boom for mRNA platform validation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "X posts and news show massive positive sentiment surge from trial success; volume spike indicates strong buying pressure. FOMC minutes add macro stability."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MRNA for 30%+ gains on commercialization news; target entry on dips",
+                "short_position": "Avoid shorts; high volatility risk of reversal on trial data scrutiny",
+                "key_risks": "Regulatory delays, competition from other vaccines, dilution"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with confirmatory news flow and high social volume"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.75,
+                "market_cap": "2.92T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.4,
+                "volume": "245M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Rising oil/yields and retail AI selloff pressure semis amid FOMC uncertainty. Implications: Higher capex costs slow AI adoption. Psychology: Fear of rate hikes. Parallels to 2022 rate hike selloff. Analogies: Dot-com bust for overvalued tech; oil shock of 1970s for energy impact on growth stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-15%",
+                "reasoning": "News and X sentiment highlight chip weakness from macro headwinds; latest data shows continued outflows from AI names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $110 for rebound long",
+                "short_position": "Short NVDA targeting 12% drop with stops above recent highs",
+                "key_risks": "Sudden positive Fed signals or earnings beat reversing trend"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro correlation confirmed in recent trading and sentiment scans"
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 68.4,
+                "market_cap": "59.1B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 92.0,
+                    "low": 42.5
+                },
+                "pe_ratio": 38.2,
+                "volume": "12.8M",
+                "recent_dividend": "0.06 (quarterly)"
+            },
+            "impact_theory": "Alphabet warrant agreement provides positive catalyst offsetting sector pressure. Broader chip weakness from yields/oil dominates short-term. Psychology: Selective buying in deal stocks. Historical: Similar to ARM IPO hype effects. Analogies: Strategic partnership like early Microsoft-Intel alliance; yield spike like 2022 bond tantrum.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bullish relative",
+                "estimated_price_impact_pct": "+5-12%",
+                "reasoning": "X_keyword_search shows excitement around Google deal amid broader negative chip sentiment from web/news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on deal confirmation for 10% upside",
+                "short_position": "Short only if sector selloff accelerates beyond 15%",
+                "key_risks": "Execution risk on warrant, macro deterioration"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive news offsets sector trend with measurable sentiment lift"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.9,
+                "market_cap": "528B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.5
+                },
+                "pe_ratio": 14.1,
+                "volume": "15.4M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Oil price rise from Middle East tensions and ceasefire end boosts energy. Implications: Inflation hedge and higher revenues. Psychology: Rotation into defensives/energy. Parallels: 2022 energy rally. Analogies: Gold rush during uncertainty; 1970s oil embargo profits.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "X_semantic_search indicates rising positive oil/energy sentiment tied to geopolitical news and yields."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for dividend + price appreciation ~8%",
+                "short_position": "Not recommended; energy resilient",
+                "key_risks": "Demand slowdown, OPEC decisions, rapid de-escalation"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent macro/geopolitical drivers with stable volume"
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 138.2,
+                "market_cap": "382B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 115.0
+                },
+                "pe_ratio": 32.6,
+                "volume": "9.1M",
+                "recent_dividend": "0.40 (quarterly)"
+            },
+            "impact_theory": "OpenAI supplier exposure ties to AI slowdown fears; retail outflows noted. Implications: Cloud growth may moderate. Psychology: Profit-taking in AI-adjacent names. Parallels: Post-2021 tech rotation. Analogies: Cisco post-dotcom; Salesforce during rate hikes.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-9%",
+                "reasoning": "Recent news and X posts highlight software/AI selling pressure aligned with consumer sentiment drop."
+            },
+            "potential_profit_risks": {
+                "long_position": "Monitor for support at $130; selective long only",
+                "short_position": "Short for 7% move targeting further retail liquidation",
+                "key_risks": "Earnings upside or AI spending rebound"
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate signals from broad sector trends but lacks single dominant catalyst"
+        }
+    ]
+}
