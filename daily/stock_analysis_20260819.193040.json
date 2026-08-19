@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 149.68,
+                "market_cap": "60.84B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "150.55M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Major positive catalyst from clinical trial success or partnership news driving massive volume and price surge. Economic implications include boosted biotech sector confidence and potential vaccine pipeline acceleration. Market psychology shows FOMO buying. Historical parallel: 2020 COVID vaccine rally. Analogies: Rocket launch; Lottery ticket win.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+140%",
+                "reasoning": "X posts and news highlight 140%+ intraday gain on positive developments; high volume confirms strong sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on dips for 20-50% further upside if momentum continues",
+                "short_position": "Avoid or cover; high volatility risk of reversal",
+                "key_risks": "Profit taking, regulatory news reversal, sector rotation"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear massive move backed by multiple sources and volume data"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 120.0,
+                "market_cap": "3.0T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "300M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Selloff from rising yields and oil/geopolitical tensions pressuring growth stocks. Implications: Higher discount rates hurt valuations. Psychology: Profit taking in expensive AI names. Historical: 2022 rate hike selloff. Analogies: Balloon popping; Domino effect in tech.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5%",
+                "reasoning": "X sentiment and market reports show tech/AI under pressure from macro factors; yields at multi-year highs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dip for long-term AI growth, potential 10-15% rebound",
+                "short_position": "Short for 5-10% downside if yields rise further",
+                "key_risks": "Quick reversal on yield stabilization, strong earnings"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro narrative supported by real-time X posts and index moves"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 100.0,
+                "market_cap": "110B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 20.0,
+                "volume": "25M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI memory demand offset by macro headwinds. Implications: Sector rotation out of semis. Psychology: Fear of prolonged high rates. Historical: 2023 chip cycle bottom. Analogies: Tide going out; Weather vane for tech.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4%",
+                "reasoning": "Targeted in X discussions as pressured alongside NVDA due to yields/oil; recent rally reversal."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for AI cycle recovery, 15% upside potential",
+                "short_position": "Short near term 5-8% drop",
+                "key_risks": "AI demand data, Fed comments"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent mentions in market sentiment analysis"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 115.0,
+                "market_cap": "510B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 12.0,
+                "volume": "18M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Beneficiary of oil >$90 from Iran tensions. Implications: Higher energy prices support profits. Psychology: Safe haven rotation. Historical: 2022 energy spike. Analogies: Lifeboat in storm; Gold in inflation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "Oil price surge from geopolitics noted in X and news; energy relative strength highlighted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for dividend and oil upside, 8-12% potential",
+                "short_position": "Not recommended",
+                "key_risks": "De-escalation of tensions, OPEC decisions"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct link to verifiable macro drivers"
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 155.0,
+                "market_cap": "72B",
+                "sector_industry": "Consumer Cyclical/Retail",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 15.0,
+                "volume": "8M",
+                "recent_dividend": "0.90 quarterly"
+            },
+            "impact_theory": "Grocery overhaul success improving consumer sentiment. Implications: Retail resilience despite macro. Psychology: Rotation to value/consumer staples. Historical: Post-pandemic recovery plays. Analogies: Phoenix rising; Steady ship in choppy waters.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2%",
+                "reasoning": "Positive coverage on customer win-back in recent reports amid broader market volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy for stability and dividend, 5-10% gains",
+                "short_position": "Minimal",
+                "key_risks": "Consumer spending slowdown, competition"
+            },
+            "confidence_rating": "C",
+            "justification": "Moderate coverage compared to macro-driven names"
+        }
+    ]
+}
