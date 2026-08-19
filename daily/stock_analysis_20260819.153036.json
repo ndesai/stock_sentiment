@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 141.82,
+                "market_cap": "54.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 163.4,
+                    "low": 22.29
+                },
+                "pe_ratio": 12.5,
+                "volume": "90M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Positive Phase 3 trial results for personalized mRNA cancer vaccine with Merck's Keytruda in melanoma patients. Economic implications include accelerated biotech investment and potential new revenue streams. Market psychology: strong FOMO buying on breakthrough validation of mRNA platform. Historical parallel: COVID vaccine rollout surge. Analogies: 1) Like Tesla's early EV validation moments. 2) Similar to CRISPR gene editing breakthroughs.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+60-125%",
+                "reasoning": "Late-stage trial success announced Aug 19, 2026; shares surged over 100% pre/post market on positive recurrence prevention data. X sentiment overwhelmingly positive with high engagement on vaccine promise."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong upside potential 30-80% further gains on approval path; buy on dips",
+                "short_position": "High risk of reversal if data details disappoint or dilution occurs; avoid shorts",
+                "key_risks": "Clinical/regulatory hurdles, competition, volatility post-surge"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with immediate massive price reaction confirmed across multiple sources and X posts."
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 145.0,
+                "market_cap": "67B",
+                "sector_industry": "Consumer/Retail",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 15.2,
+                "volume": "8M",
+                "recent_dividend": "$1.12 quarterly"
+            },
+            "impact_theory": "Q2 2026 earnings release on Aug 19 with focus on consumer spending trends amid economic cooling. Implications for retail sector health and inflation outlook. Psychology: cautious anticipation ahead of earnings. Parallels to 2022 retail earnings volatility. Analogies: 1) Walmart earnings as bellwether. 2) Like airline earnings on fuel costs.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-5 to +3%",
+                "reasoning": "Earnings report and call today; mixed consumer slowdown signals in broader market. X posts note earnings reaction potential but tempered by macro concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Limited upside unless beat; hold or small long on stability",
+                "short_position": "Potential 5-10% drop on miss; short volatility around report",
+                "key_risks": "Guidance misses, macro consumer weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings event known but outcome uncertain; sentiment mixed on X and news."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 72.5,
+                "market_cap": "62B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "12M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "News of Google chip deal boosting custom silicon momentum. Implications for AI infrastructure supply chain. Psychology shift positive for semis amid broader chip weakness. Historical: Similar to TSMC foundry deals. Analogies: 1) ARM's big tech partnerships. 2) Like Nvidia's early CUDA ecosystem wins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-20%",
+                "reasoning": "Marvell stock soared on Google custom chip partnership news amid general chip sector pressure from yields/oil. Positive X buzz on deal."
+            },
+            "potential_profit_risks": {
+                "long_position": "Continued AI tailwinds could add 15%+; long on pullbacks",
+                "short_position": "Avoid due to catalyst momentum",
+                "key_risks": "Execution delays, competition from AMD/NVDA"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific deal catalyst with immediate stock reaction noted in market movers."
+        },
+        {
+            "details": {
+                "ticker": "EL",
+                "full_name": "The Estée Lauder Companies Inc.",
+                "current_price": 88.0,
+                "market_cap": "31B",
+                "sector_industry": "Consumer/Cosmetics",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "4M",
+                "recent_dividend": "$0.99 quarterly"
+            },
+            "impact_theory": "Upcoming earnings amid luxury consumer slowdown. Broader implications for discretionary spending. Market psychology: defensive positioning. Parallels to 2023 beauty sector correction. Analogies: 1) LVMH earnings reactions. 2) Like auto earnings on rate sensitivity.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -3%",
+                "reasoning": "Earnings catalyst tomorrow with potential weakness in global luxury demand; negative sentiment in macro posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-earnings",
+                "short_position": "5-12% downside possible on weak results; short into earnings",
+                "key_risks": "Currency fluctuations, China recovery uncertainty"
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings timing known but specifics and outcome less certain than MRNA news."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "250M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Continued pressure from elevated bond yields and oil amid AI concentration concerns. Broader chip sector weakness despite long-term AI growth. Psychology: profit-taking after rallies. Historical parallel: 2022 tech correction. Analogies: 1) Dot-com concentration unwind. 2) Like FAANG rotation periods.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-5 to -2%",
+                "reasoning": "Chipmakers declined anew per Bloomberg/Aug 19 coverage; X posts highlight bond/oil pressure on semis despite positive MRNA spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for AI; add on dips below $110",
+                "short_position": "Tactical shorts for 3-7% moves; cover quickly",
+                "key_risks": "Rapid reversal on positive Fed or earnings news"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent macro headwinds confirmed in multiple market wrap articles and recent trading patterns."
+        }
+    ]
+}
