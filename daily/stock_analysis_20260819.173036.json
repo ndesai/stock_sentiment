@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 140.59,
+                "market_cap": "54.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 25.4,
+                "volume": "85M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Positive late-stage trial data for personalized mRNA cancer vaccine with Merck shows 49% risk reduction in melanoma recurrence/death over 5 years. Economic implications include potential multi-billion peak sales starting 2027-28. Market psychology: boosts confidence in mRNA platform beyond COVID. Historical parallels: similar to early Keytruda adoption. Analogies: 1) Like mRNA tech leapfrogging traditional vaccines. 2) akin to immunotherapy revolution in oncology.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+50-90%",
+                "reasoning": "Stock soared ~90%+ on sustained 5-year data; strong X sentiment and news coverage signals major catalyst. High volume confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MRNA for 30-60% gains on Phase 3 success and commercialization; target new highs.",
+                "short_position": "Avoid shorts; high volatility risk.",
+                "key_risks": "Clinical failure in other trials, regulatory delays, competition from other vaccines."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear, sustained positive trial data with immediate market reaction and high visibility."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.0,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 45.0,
+                "volume": "250M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Rising Treasury yields (multi-year highs) and oil prices pressure growth/tech valuations due to higher borrowing/inflation fears. Economic: slows capex in AI/data centers. Psychology: profit-taking in expensive AI names. Parallels: 2022 rate-hike selloff. Analogies: 1) Domino effect from macro to semis. 2) Like dot-com bust on valuation reset.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-10%",
+                "reasoning": "Recent session declines (2.3%+), semiconductor index -5%; X posts highlight yield/oil pressure on tech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for yield stabilization; potential rebound 10%+ on easing.",
+                "short_position": "Short for 5-8% near-term gains if yields persist.",
+                "key_risks": "AI demand resilience, Fed policy pivot."
+            },
+            "confidence_rating": "B",
+            "justification": "Macro drivers clear but AI fundamentals strong long-term."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 95.0,
+                "market_cap": "105B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 18.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Memory chip leader hit by same yield/oil macro plus recent profit-taking after prior rally. Implications: cyclical semi exposure amplifies volatility. Psychology: rotation out of momentum names. Parallels: 2023 memory cycle bottom. Analogies: 1) Like oil shock hitting autos. 2) Tech leverage to rates.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7-12%",
+                "reasoning": "7% drop reported amid selloff; X sentiment negative on semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy for 15%+ recovery on AI HBM demand.",
+                "short_position": "Short 8% downside if macro worsens.",
+                "key_risks": "Supply/demand imbalance, China exposure."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro correlation but fundamentals solid."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 93.09,
+                "market_cap": "390B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 110.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "60M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Broader chip sector pressure from yields amplified by company-specific execution risks. Implications: delayed foundry turnaround. Psychology: investor caution on legacy semis. Parallels: past Intel recovery cycles. Analogies: 1) Phoenix-like recovery potential. 2) Macro headwinds vs. internal reforms.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Sector-wide decline; mixed recent news and volatility noted."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term accumulation for US CHIPS Act benefits, 20%+ upside.",
+                "short_position": "Limited; oversold bounce possible.",
+                "key_risks": "Competitive losses, margin pressure."
+            },
+            "confidence_rating": "C",
+            "justification": "Macro driven but company turnaround uncertain."
+        },
+        {
+            "details": {
+                "ticker": "SPCX",
+                "full_name": "Space Exploration Technologies Corp. (SpaceX)",
+                "current_price": 139.51,
+                "market_cap": "180B",
+                "sector_industry": "Industrials/Aerospace",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "12M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Elon Musk-led SpaceX rallies on positive news amid broader market turbulence. Implications: private space sector momentum. Psychology: narrative strength in innovation. Parallels: early Tesla rallies. Analogies: 1) Disruptor premium persists. 2) Like Tesla decoupling from macro.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-15%",
+                "reasoning": "Rallies noted despite market; X positive on Musk ventures."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/accumulate for Starlink/launch growth, 20%+ gains.",
+                "short_position": "Not recommended.",
+                "key_risks": "Regulatory, launch delays, valuation stretch."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong narrative but limited public data/liquidity."
+        }
+    ]
+}
