@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 78.5,
+                "market_cap": "630B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 105.3,
+                    "low": 65.2
+                },
+                "pe_ratio": 32.1,
+                "volume": "25.4M",
+                "recent_dividend": "0.21 quarterly"
+            },
+            "impact_theory": "Weak Q2 earnings and sales miss amid consumer caution. Economic implications include slowing retail spending signaling potential slowdown. Market psychology shifts to defensive positioning. Historical parallel to 2022 inflation-driven misses. Analogies: Like a retailer facing Amazon pressure in 2010s; or a consumer staple reacting to rate hikes like 2023.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Sales miss and guidance cut triggers sell-off; bond yields rise adds pressure on valuations. X sentiment negative with volume spike in bearish posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or short on bounces for 3-5% gains",
+                "short_position": "Short with targets at 74, potential 5-8% downside",
+                "key_risks": "Rebound on value buying or holiday guidance upgrade"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with broad media/X coverage confirming shift."
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 82.4,
+                "market_cap": "195B",
+                "sector_industry": "Consumer Cyclical / E-commerce",
+                "high_low_52_week": {
+                    "high": 110.5,
+                    "low": 68.1
+                },
+                "pe_ratio": 15.8,
+                "volume": "18.2M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Disappointing earnings amid China slowdown and regulatory overhang. Implications: Weaker global trade/consumer. Psychology: Risk-off for China ADRs. Parallels: 2021 regulatory crackdown. Analogies: Like a tech giant in regulatory winter; or post-COVID recovery miss.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -9%",
+                "reasoning": "Earnings miss + macro China concerns; X posts highlight pessimism on recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below 78",
+                "short_position": "Short to 75 support, 6-10% potential",
+                "key_risks": "Policy stimulus announcement"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings-driven move confirmed in multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 245.0,
+                "market_cap": "62B",
+                "sector_industry": "Financial Services / Crypto Exchange",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 142.5
+                },
+                "pe_ratio": 42.5,
+                "volume": "12.8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Crypto boost from Treasury intervention and pro-crypto legislation under Trump. Implications: Capital inflows to digital assets. Psychology: FOMO in risk assets. Parallels: 2021 bull run. Analogies: Like fintech surge post-2020 stimulus; or gold miners in rate-cut cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15%",
+                "reasoning": "Bessent bond move + Trump support lifts crypto sentiment; X volume overwhelmingly positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips targeting 280+, 12%+ upside",
+                "short_position": "Avoid; limited downside near-term",
+                "key_risks": "Regulatory reversal or Bitcoin correction"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct policy catalyst with real-time X buzz."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 115.2,
+                "market_cap": "510B",
+                "sector_industry": "Energy / Integrated Oil",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 95.4
+                },
+                "pe_ratio": 14.2,
+                "volume": "15.1M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Oil prices surge >$90 on Iran economic warfare tensions. Implications: Higher energy costs, inflation risk. Psychology: Energy sector rotation. Parallels: 2022 Russia invasion spike. Analogies: Like defense stocks in geopolitical flare-ups; or commodity producers during supply shocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +6%",
+                "reasoning": "Geopolitical premium on crude; positive X sentiment on energy names."
+            },
+            "potential_profit_risks": {
+                "long_position": "Add on dips to 110, 5%+ upside",
+                "short_position": "Not recommended",
+                "key_risks": "De-escalation or OPEC+ supply increase"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven with consistent news flow."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.75,
+                "market_cap": "2.95T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 87.3
+                },
+                "pe_ratio": 52.8,
+                "volume": "210M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI demand resilience offsets broader tech weakness amid yield rises. Implications: Continued capex cycle. Psychology: Selective tech strength. Parallels: Post-earnings AI rallies 2023-25. Analogies: Like semiconductor leaders in 5G rollout; or cloud giants during digital transformation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2 to +5%",
+                "reasoning": "Relative outperformance in risk-off; X shows sustained AI optimism."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for AI momentum, 4% upside",
+                "short_position": "Limited",
+                "key_risks": "Broader market selloff or valuation compression"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector leadership in volatile tape supported by fundamentals."
+        }
+    ]
+}
