@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 216.79,
+                "market_cap": "5.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Strong AI demand and positive corporate earnings boost. Economic implications: Accelerates tech investment cycle. Market psychology: FOMO in growth stocks. Historical parallels: 2023 AI boom. Analogies: Like internet boom 1990s; rocket fuel for tech sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Continued AI leadership with solid sentiment on X and news; parallels prior rallies."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 8% upside potential on momentum; targets 235",
+                "short_position": "Avoid short; high volatility risk",
+                "key_risks": "Valuation bubble, regulatory scrutiny on AI"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong consistent AI narrative and recent positive closes"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 168.36,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.5,
+                "volume": "18M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "US-Iran tensions pushing crude >$90. Economic implications: Inflation pressure, energy profits. Market psychology: Defensive rotation to energy. Historical parallels: 2022 energy spike. Analogies: Geopolitical premium like Gulf wars; oil as economic barometer.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-6%",
+                "reasoning": "Oil price surge and tensions dominate headlines; positive X sentiment on energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy play, 6% gain potential",
+                "short_position": "Short only on de-escalation news",
+                "key_risks": "Sudden diplomacy resolution, demand slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Geopolitics volatile but oil trend strong"
+        },
+        {
+            "details": {
+                "ticker": "TGT",
+                "full_name": "Target Corporation",
+                "current_price": 159.42,
+                "market_cap": "73B",
+                "sector_industry": "Consumer/Retail",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 14.8,
+                "volume": "4.2M",
+                "recent_dividend": "1.12 quarterly"
+            },
+            "impact_theory": "Q2 beat and raised outlook signals resilient consumer. Economic implications: Supports soft landing narrative. Market psychology: Relief rally in retail. Historical parallels: Post-pandemic recovery. Analogies: Like Walmart beats in inflation; retail as economy thermometer.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Earnings beat drives positive coverage and X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 5% target, strong consumer play",
+                "short_position": "Limited; macro risk",
+                "key_risks": "Consumer spending slowdown, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid fundamentals confirmed by earnings"
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 143.48,
+                "market_cap": "55B",
+                "sector_industry": "Healthcare/Biotech",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 60.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Promising mRNA cancer vaccine data with Merck. Economic implications: Biotech innovation funding. Market psychology: Hope trade in healthcare. Historical parallels: COVID mRNA success. Analogies: Like early CRISPR hype; medical breakthrough catalyst.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "Vaccine trial success sparks massive sentiment shift on X/news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Aggressive long, 20%+ swing potential",
+                "short_position": "High risk; trial failure downside",
+                "key_risks": "Clinical setbacks, regulatory delays"
+            },
+            "confidence_rating": "C",
+            "justification": "Event-driven but binary outcomes"
+        },
+        {
+            "details": {
+                "ticker": "ORCL",
+                "full_name": "Oracle Corporation",
+                "current_price": 141.9,
+                "market_cap": "390B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 100.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "8M",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "AI cloud spend and OpenAI ties highlighted. Economic implications: Cloud infrastructure growth. Market psychology: Tech rotation winners. Historical parallels: Cloud adoption wave. Analogies: Like AWS early days; enterprise AI enabler.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "AI narrative reinforced amid broader tech moves."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long cloud/AI exposure 6% upside",
+                "short_position": "Not recommended",
+                "key_risks": "Competition from hyperscalers, macro IT spend cuts"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent AI tailwinds and stable business"
+        }
+    ]
+}
