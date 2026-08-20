@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WDC",
+                "full_name": "Western Digital Corporation",
+                "current_price": 52.3,
+                "market_cap": "17.8B",
+                "sector_industry": "Technology / Storage Devices",
+                "high_low_52_week": {
+                    "high": 78.5,
+                    "low": 34.2
+                },
+                "pe_ratio": 12.4,
+                "volume": "18.5M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Sharp drop after earnings miss and weak guidance amid high AI capex competition and inventory issues. Economic implications include slower data center spending; market psychology shows fear of tech slowdown. Historical parallel to 2022 chip glut. Analogies: Like a retailer overstocked before holiday season; or a runner hitting the wall mid-marathon.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Heavy selling in semis on Aug 19; X posts show negative sentiment spike on guidance. Weak demand signals persist."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential rebound to $58 (+11%) on oversold bounce but high risk.",
+                "short_position": "Short with target $45 (-14%); gains from continued weakness.",
+                "key_risks": "Short squeeze on positive macro news; volatility from sector rotation."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong recent price action and volume confirmation but macro variables could shift."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 68.9,
+                "market_cap": "59.2B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 95.1,
+                    "low": 42.8
+                },
+                "pe_ratio": 28.5,
+                "volume": "12.3M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Pullback tied to broader semi weakness and high valuations amid oil/inflation concerns. Implications for data infrastructure spending slowdown; psychology amplifies rotation out of growth stocks. Parallels 2023 rate-hike volatility. Analogies: Balloon deflating after over-inflation; chess player losing momentum mid-game.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6 to -10%",
+                "reasoning": "8% drop cited in recent session; negative X sentiment on yields and AI spend."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization near $62; upside to $78 (+13%) on recovery.",
+                "short_position": "Target $60 (-13%); moderate gains expected.",
+                "key_risks": "Earnings beats or Fed pivot reversing trend."
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent sector news flow supports outlook with multiple confirmations."
+        },
+        {
+            "details": {
+                "ticker": "STX",
+                "full_name": "Seagate Technology Holdings plc",
+                "current_price": 95.4,
+                "market_cap": "20.1B",
+                "sector_industry": "Technology / Storage",
+                "high_low_52_week": {
+                    "high": 118.7,
+                    "low": 65.3
+                },
+                "pe_ratio": 15.2,
+                "volume": "4.8M",
+                "recent_dividend": "$0.70 quarterly"
+            },
+            "impact_theory": "Similar to peers, impacted by storage demand softness and macro headwinds. Economic drag from enterprise capex caution; psychology fuels herd selling. Historical: 2018-19 storage cycle. Analogies: Ship caught in storm; domino falling after first push.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-7 to -11%",
+                "reasoning": "9%+ decline noted; latest X posts confirm bearish trader views."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative entry at $88; potential +15% rebound.",
+                "short_position": "Profitable to $82 (-14%).",
+                "key_risks": "Dividend support limits downside; sudden sector rally."
+            },
+            "confidence_rating": "C",
+            "justification": "Aligned with peers but lower volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 78.6,
+                "market_cap": "630B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 105.3,
+                    "low": 58.9
+                },
+                "pe_ratio": 32.1,
+                "volume": "22.1M",
+                "recent_dividend": "$0.21 quarterly"
+            },
+            "impact_theory": "Stock drops despite guidance raise due to slower same-store sales growth. Implications: Consumer spending caution amid inflation/oil. Psychology: Disappointment after high expectations. Parallels 2022 retail pullback. Analogies: Strong horse slowing on long race; popular restaurant with fewer customers.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3 to -5%",
+                "reasoning": "Post-earnings selloff widely reported; mixed X sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for long-term; target $85 (+8%).",
+                "short_position": "Limited; covered quickly.",
+                "key_risks": "Resilient consumer data reversing pressure."
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings reaction clear but company fundamentals robust."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 72.4
+                },
+                "pe_ratio": 45.8,
+                "volume": "185M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Indirect pressure from semi peers and high AI spend scrutiny amid macro uncertainty. Broader implications for AI hype cycle sustainability. Psychology: Profit-taking in leader stock. Historical: 2021 tech rotation. Analogies: King of hill challenged by rivals; rocket pausing ascent.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Sector contagion; X discussions highlight valuation concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; dips to $108 offer entry (+9% recovery).",
+                "short_position": "Risky; momentum favors bulls longer-term.",
+                "key_risks": "Strong upcoming earnings or AI news catalyst."
+            },
+            "confidence_rating": "C",
+            "justification": "Leader status provides buffer vs. smaller peers."
+        }
+    ]
+}
