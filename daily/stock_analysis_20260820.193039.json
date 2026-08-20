@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 134.6,
+                "market_cap": "51.2B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 176.0,
+                    "low": 62.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "45.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Positive Phase 3 data for personalized mRNA cancer vaccine with Merck (melanoma) triggered massive sentiment reversal. Economic implications: potential new revenue stream in oncology. Market psychology: short squeeze + hope for mRNA platform expansion. Historical parallel: 2020 COVID vaccine rally. Analogies: 1) Like early Netflix pivot to streaming. 2) Similar to CRISPR breakthroughs lifting EDIT.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25% to +40%",
+                "reasoning": "Breakthrough data + analyst PT raises (to 89-150); X posts show excitement despite volatility; high volume confirms retail/institutional interest"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips; target +30-50% over 1-3 months on trial success hype",
+                "short_position": "Avoid or cover shorts; high risk of further squeezes",
+                "key_risks": "Trial data scrutiny, regulatory delays, dilution, competition from other mRNA players"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with verifiable news, extreme volume/sentiment shift confirmed across sources"
+        },
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 68.5,
+                "market_cap": "552B",
+                "sector_industry": "Consumer Defensive / Retail",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 58.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "32.1M",
+                "recent_dividend": "$0.21 quarterly"
+            },
+            "impact_theory": "Q2 earnings beat but soft guidance led to ~9-10% drop. Implications: consumer spending caution signal. Psychology: 'canary in coal mine' narrative dominates X. Parallels: 2022 retail pullbacks. Analogies: 1) Like Target's post-pandemic reset. 2) Amazon earnings volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Immediate reaction to guidance; X sentiment mixed-negative on macro read-through; volume elevated"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential rebound on value rotation",
+                "short_position": "Short-term momentum shorts viable to -15%",
+                "key_risks": "Oversold bounce, holiday season recovery, macro improvement"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings-driven move well-documented with real-time X reaction"
+        },
+        {
+            "details": {
+                "ticker": "BABA",
+                "full_name": "Alibaba Group Holding Limited",
+                "current_price": 82.3,
+                "market_cap": "198B",
+                "sector_industry": "Consumer Cyclical / E-Commerce",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 15.8,
+                "volume": "18.7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Upcoming earnings amid China stimulus hopes and retail competition. Implications: global supply chain and consumer sentiment barometer. Psychology: China reopening narrative revival. Parallels: 2023 Alibaba rebound. Analogies: 1) Tencent recovery cycles. 2) Like US tech post-rate pause.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Pre-earnings positioning + macro China tailwinds; X shows increasing positive chatter on stimulus"
+            },
+            "potential_profit_risks": {
+                "long_position": "Pre-earnings long; 8-15% upside on beats",
+                "short_position": "Limited; regulatory overhang caps shorts",
+                "key_risks": "China policy shifts, earnings misses, ADR delisting fears"
+            },
+            "confidence_rating": "B",
+            "justification": "Earnings catalyst + geopolitical sensitivity well-covered in recent news"
+        },
+        {
+            "details": {
+                "ticker": "MRVI",
+                "full_name": "Maravai LifeSciences Holdings, Inc.",
+                "current_price": 8.15,
+                "market_cap": "2.1B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 8.36,
+                    "low": 2.29
+                },
+                "pe_ratio": -4.2,
+                "volume": "9.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Biotech sector rotation on MRNA success spillover. Implications: mRNA supply chain beneficiaries. Psychology: momentum chasing in small-cap biotechs. Parallels: 2021 biotech rally. Analogies: 1) CDMO plays post-vaccine. 2) Like Illumina on sequencing hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +20%",
+                "reasoning": "13%+ daily moves; sector sentiment lift from MRNA; high volume indicates new interest"
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long; 15%+ swing potential",
+                "short_position": "High volatility shorts risky",
+                "key_risks": "Sector rotation reversal, dilution, clinical failures"
+            },
+            "confidence_rating": "C",
+            "justification": "Strong daily moves but smaller cap with less fundamental confirmation"
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores, Inc.",
+                "current_price": 142.8,
+                "market_cap": "47.5B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 121.0
+                },
+                "pe_ratio": 22.1,
+                "volume": "2.8M",
+                "recent_dividend": "$0.355 quarterly"
+            },
+            "impact_theory": "Retail earnings season focus amid consumer weakness signal from WMT. Implications: off-price retail resilience test. Psychology: value vs growth rotation debate. Parallels: 2023 TJX/Ross outperformance. Analogies: 1) Dollar General cycles. 2) Like Costco membership resilience.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bullish",
+                "estimated_price_impact_pct": "-3% to +5%",
+                "reasoning": "Earnings watch; mixed retail sentiment but off-price may outperform"
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective buys on weakness; defensive qualities",
+                "short_position": "Limited upside for shorts",
+                "key_risks": "Broader retail slowdown, inventory issues"
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings event but less dramatic shift than peers"
+        }
+    ]
+}
