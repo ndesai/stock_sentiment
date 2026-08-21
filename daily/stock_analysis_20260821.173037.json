@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 78.5,
+                "market_cap": "630B",
+                "sector_industry": "Consumer Staples / Retail",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "25M",
+                "recent_dividend": "0.21 quarterly"
+            },
+            "impact_theory": "Disappointing sales report amid Iran tensions and higher yields. Economic implications: signals consumer weakness. Market psychology: fear of slowdown. Historical parallels: 2022 inflation selloff. Analogies: 1) Like a retailer in recession signaling broader pain. 2) Domino effect on consumer stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Weak sales beat expectations negatively; X sentiment negative post-earnings; geopolitical uncertainty adds pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential short for 8-12% downside",
+                "short_position": "Short at current levels targeting 10% drop",
+                "key_risks": "Recovery if consumer data improves; high volatility from macro"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings miss with direct price reaction observed"
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores Inc.",
+                "current_price": 145.0,
+                "market_cap": "48B",
+                "sector_industry": "Consumer Discretionary / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "4M",
+                "recent_dividend": "0.35 quarterly"
+            },
+            "impact_theory": "Beat and raise quarter shows resilience in off-price retail. Implications: strong consumer value-seeking. Psychology: positive momentum. Parallels: post-pandemic recovery plays. Analogies: 1) Discount retailer thriving in inflation like 2023. 2) Like a safe harbor in stormy consumer seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6 to +9%",
+                "reasoning": "Strong earnings and guidance; positive X chatter on retail strength"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 7%+ gain",
+                "short_position": "Not recommended",
+                "key_risks": "Macro downturn overriding company strength"
+            },
+            "confidence_rating": "A",
+            "justification": "Immediate post-earnings pop confirmed in reports"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.0,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "18M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Iran tensions drive oil to $93. Implications: higher energy prices boost profits. Psychology: safe haven buying. Parallels: 2022 Ukraine invasion oil spike. Analogies: 1) Geopolitical premium like Gulf War. 2) Energy as inflation hedge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +8%",
+                "reasoning": "Oil surge and sanctions news; bullish X posts on energy"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for oil price tailwinds",
+                "short_position": "Avoid",
+                "key_risks": "De-escalation in geopolitics"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong macro driver but geopolitics fluid"
+        },
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 520.0,
+                "market_cap": "125B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 580.0,
+                    "low": 420.0
+                },
+                "pe_ratio": 19.0,
+                "volume": "2M",
+                "recent_dividend": "3.15 quarterly"
+            },
+            "impact_theory": "US-Iran tensions increase defense spending outlook. Implications: budget boosts. Psychology: flight to safety in defense. Parallels: post-9/11 defense rally. Analogies: 1) Defense stocks as war premium like Cold War. 2) Government contracts as reliable revenue.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +7%",
+                "reasoning": "Geopolitical risk premium; positive defense sentiment on X"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on defense theme",
+                "short_position": "Avoid",
+                "key_risks": "Peace talks or budget cuts"
+            },
+            "confidence_rating": "B",
+            "justification": "Logical sector reaction to news but not direct catalyst"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 366.0,
+                "market_cap": "1.74T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 495.0,
+                    "low": 281.9
+                },
+                "pe_ratio": 61.0,
+                "volume": "20M",
+                "recent_dividend": "0.65 quarterly"
+            },
+            "impact_theory": "Mentioned positively in earnings season amid AI demand. Implications: continued growth. Psychology: tech leadership. Parallels: AI boom like 2023-24. Analogies: 1) Semiconductor leader riding AI wave. 2) Like Nvidia in prior cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +6%",
+                "reasoning": "Sector strength and specific positive analyst notes"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for AI exposure",
+                "short_position": "Not advised",
+                "key_risks": "Valuation compression or slowdown in AI spend"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect positive mention; broader market context"
+        }
+    ]
+}
