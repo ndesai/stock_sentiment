@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 103.69,
+                "market_cap": "830B",
+                "sector_industry": "Consumer Defensive / Retail - General",
+                "high_low_52_week": {
+                    "high": 120.5,
+                    "low": 85.2
+                },
+                "pe_ratio": 28.4,
+                "volume": "18.5M",
+                "recent_dividend": "0.21 quarterly"
+            },
+            "impact_theory": "Disappointing Q2 results signal weakening consumer spending amid high inflation and rates. Economic implication: slowdown risk. Market psychology: fear of recession. Historical parallel: 2022 retail selloff. Analogies: Like a canary in coal mine for economy; domino effect on consumer stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Earnings miss + guidance cut; high yields pressure valuations. X sentiment negative on consumer weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; limited upside short-term",
+                "short_position": "Potential 8-12% downside over next week on further weakness",
+                "key_risks": "Oversold bounce, positive macro surprise"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings catalyst with broad market corroboration from multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 218.48,
+                "market_cap": "5.4T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "210M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Chip sector weakness amid rising yields and AI hype fatigue. Implications: Valuation compression. Psychology: Rotation out of growth. Parallels: 2022 tech correction. Analogies: Bubble deflation; tide going out reveals swimmers.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -9%",
+                "reasoning": "Sector rotation, high rates hit multiples. Mixed X posts on AI slowdown."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy at support for long-term AI thesis, 10%+ recovery potential",
+                "short_position": "Short for 5-9% move on continued selloff",
+                "key_risks": "Upcoming earnings beat, AI demand confirmation"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector-wide pressure confirmed but earnings catalyst pending"
+        },
+        {
+            "details": {
+                "ticker": "MARA",
+                "full_name": "MARA Holdings, Inc.",
+                "current_price": 11.72,
+                "market_cap": "3.5B",
+                "sector_industry": "Financials / Capital Markets - Crypto Mining",
+                "high_low_52_week": {
+                    "high": 23.45,
+                    "low": 6.66
+                },
+                "pe_ratio": 12.8,
+                "volume": "80M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin volatility + mining profitability shifts from macro. Implications: Crypto correlation. Psychology: Speculative fervor. Parallels: 2021 crypto winter. Analogies: Leveraged bet on BTC; high-beta play.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10 to +15%",
+                "reasoning": "BTC strength in futures, high volume momentum on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for 10-15% gains on BTC rally",
+                "short_position": "Risky; volatility can reverse fast",
+                "key_risks": "BTC correction, regulatory news"
+            },
+            "confidence_rating": "B",
+            "justification": "High volume and trending status indicate strong short-term sentiment"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 370.52,
+                "market_cap": "1.7T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 250.0
+                },
+                "pe_ratio": 35.6,
+                "volume": "22M",
+                "recent_dividend": "0.59 quarterly"
+            },
+            "impact_theory": "AI chip demand mixed with broader tech selloff. Implications: Growth stock repricing. Psychology: Profit-taking. Parallels: Post-earnings rotations. Analogies: Tech train slowing; selective buying.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Sector headwinds dominate short-term news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold; add on dips for AI exposure",
+                "short_position": "Tactical short 4-7%",
+                "key_risks": "Strong AI revenue reports"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent with semiconductor peer weakness"
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores, Inc.",
+                "current_price": 243.5,
+                "market_cap": "82B",
+                "sector_industry": "Consumer Cyclical / Apparel Retail",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 190.0
+                },
+                "pe_ratio": 24.1,
+                "volume": "3.2M",
+                "recent_dividend": "0.45 quarterly"
+            },
+            "impact_theory": "Strong Q2 results and outlook upgrade contrast Walmart. Implications: Resilient off-price retail. Psychology: Selective consumer strength. Parallels: Value retail outperformance in inflation. Analogies: Lifeboat in stormy seas; discount shoppers thrive.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6 to +10%",
+                "reasoning": "Positive earnings surprise lifts sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% follow-through gains",
+                "short_position": "Not recommended",
+                "key_risks": "Broader retail weakness spillover"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct positive catalyst confirmed in premarket moves"
+        }
+    ]
+}
