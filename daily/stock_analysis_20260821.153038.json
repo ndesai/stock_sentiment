@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "LMT",
+                "full_name": "Lockheed Martin Corporation",
+                "current_price": 612.45,
+                "market_cap": "142.8B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 648.9,
+                    "low": 418.2
+                },
+                "pe_ratio": 21.8,
+                "volume": "1.25M",
+                "recent_dividend": "3.15 quarterly (yield ~2.0%)"
+            },
+            "impact_theory": "US-Iran tensions escalate with potential sanctions and military posturing. Defense contractors benefit from heightened global security spending. Market psychology shifts to risk-on for defense amid uncertainty. Historical parallels: 2019-2020 Iran tensions boosted LMT ~15%. Analogies: Like insurance premium hikes during storm season; arms race in chess where defensive pieces gain value.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Positive sentiment from X posts and news on geopolitical risks driving defense budgets. PMI data neutral but tensions dominate headlines. Volume surge expected."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long LMT calls or shares targeting 4-7% gains on escalation news; short-term momentum play.",
+                "short_position": "Avoid shorts; limited downside unless de-escalation.",
+                "key_risks": "Sudden diplomatic resolution, earnings misses, or broader market selloff."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news correlation but geopolitical events unpredictable; high volume confirmation needed."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.75,
+                "market_cap": "528.4B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 126.4,
+                    "low": 97.85
+                },
+                "pe_ratio": 14.2,
+                "volume": "18.6M",
+                "recent_dividend": "0.95 quarterly (yield ~3.2%)"
+            },
+            "impact_theory": "Iran sanctions threaten oil supply, pushing prices higher and benefiting producers. Psychology: Fear premium in crude. Parallels to 2019 Strait of Hormuz flare-ups. Analogies: Gold miners in gold price spikes; farmers during drought (supply shock profits).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Oil steady but upward pressure from tensions; X sentiment positive on energy names per recent posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 3-6% gains on oil spike; dividend capture.",
+                "short_position": "Short only on major de-escalation signals.",
+                "key_risks": "OPEC+ response, recession fears capping demand."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct commodity link to news; supported by multiple headlines."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 152.3,
+                "market_cap": "285.1B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 167.85,
+                    "low": 131.4
+                },
+                "pe_ratio": 13.9,
+                "volume": "9.8M",
+                "recent_dividend": "1.63 quarterly (yield ~4.3%)"
+            },
+            "impact_theory": "Same supply disruption narrative as XOM but with downstream exposure. Market sees energy as safe haven. Parallels 2022 Ukraine invasion energy rally. Analogies: Utility stocks in heatwave; bottled water sellers in crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2.5-5%",
+                "reasoning": "Sector rotation into energy confirmed in early trading data and X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX targeting modest gains plus high yield.",
+                "short_position": "Minimal opportunity.",
+                "key_risks": "Regulatory or execution risks in upstream projects."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent sector theme with real-time market reaction visible."
+        },
+        {
+            "details": {
+                "ticker": "RTX",
+                "full_name": "RTX Corporation",
+                "current_price": 118.9,
+                "market_cap": "158.2B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 129.75,
+                    "low": 89.4
+                },
+                "pe_ratio": 19.5,
+                "volume": "4.2M",
+                "recent_dividend": "0.59 quarterly (yield ~2.0%)"
+            },
+            "impact_theory": "Defense and aerospace exposure to heightened military spending expectations. Psychology amplifies via media coverage. Parallels post-9/11 defense surge. Analogies: Fire extinguisher sales in wildfire season; cybersecurity firms during hacks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "X posts highlight defense names; aligns with LMT move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 3-5% on continued tension narrative.",
+                "short_position": "Not recommended.",
+                "key_risks": "Contract delays, valuation compression if macro improves."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear thematic overlap but slightly less direct than pure-play LMT."
+        },
+        {
+            "details": {
+                "ticker": "NOC",
+                "full_name": "Northrop Grumman Corporation",
+                "current_price": 528.6,
+                "market_cap": "76.4B",
+                "sector_industry": "Industrials / Aerospace & Defense",
+                "high_low_52_week": {
+                    "high": 555.1,
+                    "low": 412.75
+                },
+                "pe_ratio": 18.7,
+                "volume": "820K",
+                "recent_dividend": "2.06 quarterly (yield ~1.6%)"
+            },
+            "impact_theory": "Missile and systems exposure benefits from escalation fears. Market psychology favors defense complex. Historical: Gulf War spikes. Analogies: Life vests on sinking ship; antivirus software amid cyber threats.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Sector-wide bullish tilt from news/X sentiment analysis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NOC for catch-up gains to peers.",
+                "short_position": "Limited.",
+                "key_risks": "Broader equity market correction overrides theme."
+            },
+            "confidence_rating": "C",
+            "justification": "Theme valid but lower relative volume/visibility vs peers."
+        }
+    ]
+}
