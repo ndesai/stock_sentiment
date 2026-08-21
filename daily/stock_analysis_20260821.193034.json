@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "WMT",
+                "full_name": "Walmart Inc.",
+                "current_price": 68.5,
+                "market_cap": "550B",
+                "sector_industry": "Consumer Staples/Retail",
+                "high_low_52_week": {
+                    "high": 105.3,
+                    "low": 58.2
+                },
+                "pe_ratio": 28.4,
+                "volume": "45M",
+                "recent_dividend": "0.21 quarterly"
+            },
+            "impact_theory": "WMT missed comp sales amid high gas prices curbing spending. Economic implications: signals consumer weakness despite strong PMI. Market psychology: fear contagion in retail. Historical parallels: 2022 inflation selloff. Analogies: like domino in consumer sector; canary in economic coal mine.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "9.2% drop on earnings; dragged staples/discretionary. X sentiment negative on retail outlook amid Iran/oil volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or short on bounce to 72 for 5% gain",
+                "short_position": "Short at 70 target 62 for 11% gain",
+                "key_risks": "Oversold bounce, strong guidance revision, broader market rebound"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear earnings miss + sector impact confirmed across multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global Inc.",
+                "current_price": 245.0,
+                "market_cap": "60B",
+                "sector_industry": "Financials/Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin surge to $77k on Trump crypto bill push + Iran sanctions. Implications: risk-on crypto rally. Psychology: FOMO in digital assets. Parallels: 2023-24 halving rallies. Analogies: rocket fuel for exchanges; safe haven from fiat volatility.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10 to +15%",
+                "reasoning": "Crypto stocks up 7%+; X posts show strong positive sentiment on BTC and policy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long at 240 target 280 for 17% gain",
+                "short_position": "Avoid; high volatility",
+                "key_risks": "Regulatory reversal, BTC pullback, macro tightening"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to BTC confirmed but geopolitical variables add uncertainty"
+        },
+        {
+            "details": {
+                "ticker": "MSTR",
+                "full_name": "MicroStrategy Inc.",
+                "current_price": 142.0,
+                "market_cap": "28B",
+                "sector_industry": "Information Technology/Software",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 65.0,
+                "volume": "8M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin proxy play amid policy tailwinds. Implications: leveraged BTC exposure amplifies moves. Psychology: speculative fervor. Parallels: 2021 crypto boom. Analogies: turbocharged BTC ETF; leveraged bet on digital gold.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+12 to +18%",
+                "reasoning": "Rallied sharply with BTC; latest X sentiment highly positive on Trump crypto support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long dips to 135 target 165 for 22% gain",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "BTC correction >10%, debt load, dilution"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct BTC correlation evident but leverage increases risk"
+        },
+        {
+            "details": {
+                "ticker": "ROST",
+                "full_name": "Ross Stores Inc.",
+                "current_price": 152.0,
+                "market_cap": "50B",
+                "sector_industry": "Consumer Discretionary/Retail",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "3.5M",
+                "recent_dividend": "0.37 quarterly"
+            },
+            "impact_theory": "Beat estimates, raised guidance amid value rotation. Implications: resilient off-price model in uncertain consumer env. Psychology: relief buying in retail. Parallels: post-2022 value rotation. Analogies: lifeboat in stormy retail seas; discount haven.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +7%",
+                "reasoning": "4.2% gain post-earnings; positive X buzz on value retail strength vs WMT."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long at 150 target 165 for 10% gain",
+                "short_position": "Limited; fundamentals solid",
+                "key_risks": "Broader consumer slowdown, competition from Amazon"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong beat + guidance raise with sector contrast clear"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Information Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "250M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Pre-earnings positioning amid AI rotation and yield spikes. Implications: AI capex sustainability test. Psychology: anticipation mixed with valuation fatigue. Parallels: 2023-24 earnings beats. Analogies: AI engine under scrutiny; market barometer for tech.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+3 to +8% post-earnings",
+                "reasoning": "Nasdaq recovery attempt; X shows mixed but hopeful sentiment ahead of results."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for earnings or long dips to 112 target 130 for 15%",
+                "short_position": "Risky pre-earnings; momentum bias up",
+                "key_risks": "Miss on guidance, China export curbs, macro yield spike"
+            },
+            "confidence_rating": "B",
+            "justification": "High visibility event but outcome uncertain until release"
+        }
+    ]
+}
