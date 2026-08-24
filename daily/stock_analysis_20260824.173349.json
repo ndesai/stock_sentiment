@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 75.8
+                },
+                "pe_ratio": 45.2,
+                "volume": "285M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Iran economic sanctions threat and pre-Nvidia earnings AI hype cycle cooling. Market psychology: fear of geopolitical escalation and AI capex sustainability. Historical parallels to 2022 chip downturn. Analogies: like 2022 crypto winter for semis; oil shock 1973 for supply chain fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -6%",
+                "reasoning": "Pre-earnings jitters + Iran tensions weighing on tech. X sentiment shows caution around AI spending sustainability. Web news highlights selloff in semis ahead of earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for post-earnings dip buy; potential +8-12% if beat",
+                "short_position": "Short into earnings; 4-8% downside if miss/guidance weak",
+                "key_risks": "Earnings beat could reverse quickly; geopolitical de-escalation positive surprise"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment between news (Iran, earnings), X chatter, and price action in semis."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 92.4,
+                "market_cap": "102B",
+                "sector_industry": "Technology/Memory Chips",
+                "high_low_52_week": {
+                    "high": 157.3,
+                    "low": 68.5
+                },
+                "pe_ratio": 12.8,
+                "volume": "42M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory supply chain disappointment from Samsung plans + AI demand uncertainty. Psychology: rotation out of high-beta memory. Parallels to 2018-19 memory crash. Analogies: commodity price crash like oil 2014; dotcom bubble burst for hype stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -9%",
+                "reasoning": "Heavy premarket declines noted (5-6%+); Samsung shareholder return miss spooked market. X posts highlight memory weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy on support at 85-88; +10-15% rebound possible",
+                "short_position": "Ride momentum down 6-12%",
+                "key_risks": "Nvidia earnings spill-over positive; inventory normalization"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent selloff signals across multiple sources, clear event catalysts."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 58.7,
+                "market_cap": "50B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.4,
+                    "low": 42.1
+                },
+                "pe_ratio": 28.5,
+                "volume": "18M",
+                "recent_dividend": "0.06 quarterly"
+            },
+            "impact_theory": "Broad semis selloff tied to AI spending fears and macro tensions. Psychology: herding out of growth names. Historical: 2022 bear market tech purge. Analogies: 2000 Nasdaq bust for high-valuation tech; auto tariff impact on supply chains.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -7%",
+                "reasoning": "Down 4%+ premarket; part of broader chip weakness. Sentiment shift visible on X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for AI recovery; +7-12%",
+                "short_position": "Continue short 5-10% more downside",
+                "key_risks": "Sector rotation back to semis post-NVDA"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector correlation but slightly less direct catalyst than MU."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.8,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.3,
+                    "low": 93.5
+                },
+                "pe_ratio": 32.1,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI GPU competition concerns amid Nvidia dominance narrative and macro risks. Psychology: relative underperformance anxiety. Parallels to Intel's lost decade. Analogies: smartphone wars (Apple vs Android) for chip competition; EV hype cycle cooling.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -6%",
+                "reasoning": "Down ~3% in selloff wave; earnings season sensitivity high. Negative X volume on AI leadership doubts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Post-earnings rebound play +6-10%",
+                "short_position": "Tactical short 4-8%",
+                "key_risks": "Data center momentum or partnership news"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector move but AMD has some differentiation vs pure memory plays."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 148.5,
+                "market_cap": "690B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.6,
+                    "low": 112.4
+                },
+                "pe_ratio": 22.4,
+                "volume": "22M",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "Custom ASIC/AI exposure vulnerable to spending slowdown narrative. Psychology: profit taking in mega-cap tech. Historical parallel: 2021-22 FAANG rotation. Analogies: Cisco post-dotcom for networking semis; telecom capex cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2 to -5%",
+                "reasoning": "Broadcom slid ~2% amid chip index decline. Moderate X sentiment negativity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend hold + recovery +5-8%",
+                "short_position": "Limited; 3-6% downside",
+                "key_risks": "Strong VMware integration or AI custom chip wins"
+            },
+            "confidence_rating": "C",
+            "justification": "Sector impact but diversified revenue provides buffer vs pure plays."
+        }
+    ]
+}
