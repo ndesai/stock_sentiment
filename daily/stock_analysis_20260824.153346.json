@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 215.5,
+                "market_cap": "5.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 245.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 52.3,
+                "volume": "280M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Anticipation of Q2 FY2027 earnings on Aug 26 with ~$91B revenue expected amid AI demand. Economic implications include sustained capex by hyperscalers. Market psychology: excitement over AI supercycle but valuation concerns. Historical parallel to 2023 AI boom. Analogies: Like dot-com boom infrastructure play; like railroad concentration in 1920s.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15",
+                "reasoning": "Strong expected beats, $1T+ backlog, X sentiment positive pre-earnings. High volume chatter on breakout potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips pre-earnings for 10-20% post-earnings gain if beat",
+                "short_position": "Avoid or covered calls; high risk of squeeze",
+                "key_risks": "Miss on guidance, valuation correction, macro Fed signals at Jackson Hole"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with consistent historical beats and high visibility data center demand."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Chip sector rotation amid NVDA focus and US-Canada tariff news affecting supply chains. Implications for AI competition. Psychology: Follower stock sentiment. Parallels to 2024 semis rally. Analogies: Nvidia's shadow; commodity-like cyclical play.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+3 to +8",
+                "reasoning": "Sector sympathy from NVDA hype; tariff impacts mixed. Recent X posts highlight consolidation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Swing trade on NVDA momentum for 5-12% upside",
+                "short_position": "Limited; watch for underperformance vs NVDA",
+                "key_risks": "Earnings miss relative to peers, broader tech selloff"
+            },
+            "confidence_rating": "B",
+            "justification": "High correlation to NVDA but less direct catalyst."
+        },
+        {
+            "details": {
+                "ticker": "NUE",
+                "full_name": "Nucor Corporation",
+                "current_price": 158.0,
+                "market_cap": "38B",
+                "sector_industry": "Basic Materials/Steel",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "2.8M",
+                "recent_dividend": "0.54 quarterly"
+            },
+            "impact_theory": "US-Canada trade talks collapse leads to tariff threats boosting domestic steel. Economic: Protectionism lifts US producers. Psychology: Relief rally in cyclicals. Parallels: 2018 tariff rallies. Analogies: Beneficiary of trade wars like 2019; domestic energy independence parallel.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +12",
+                "reasoning": "Pre-market gains reported; positive tariff sentiment on X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-15% on tariff implementation news",
+                "short_position": "Not recommended",
+                "key_risks": "Trade deal resolution, commodity price volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct event-driven catalyst with immediate market reaction."
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 68.5,
+                "market_cap": "59B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 92.0,
+                    "low": 42.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "12M",
+                "recent_dividend": "0.06 quarterly"
+            },
+            "impact_theory": "Data center/AI chip demand spillover and earnings season focus. Implications for networking semis. Psychology: Momentum follower. Parallels: 2024 AI supply chain plays. Analogies: 'Picks and shovels' in gold rush; lesser known NVDA peer.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +10",
+                "reasoning": "Sector tailwinds, recent outperformance mentions in market updates."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for AI thematic rally, target 7-12% gains",
+                "short_position": "High beta risk if tech corrects",
+                "key_risks": "Margin pressure, competition intensification"
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect exposure but positive sector sentiment."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 22.8,
+                "market_cap": "98B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 42.0,
+                    "low": 18.5
+                },
+                "pe_ratio": 18.4,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Foundry struggles vs. AI leaders amid overall chip news flow. Implications for US chip manufacturing policy. Psychology: Laggard sentiment. Parallels: Past turnaround attempts. Analogies: Legacy auto vs EV transition; struggling incumbent.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3 to -8",
+                "reasoning": "Relative underperformance in chip rally, tariff mixed impact."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk speculative; avoid until catalysts",
+                "short_position": "Short for 5-10% downside on continued lag",
+                "key_risks": "Policy support reversal, further market share loss"
+            },
+            "confidence_rating": "C",
+            "justification": "Negative relative sentiment but potential policy floor."
+        }
+    ]
+}
