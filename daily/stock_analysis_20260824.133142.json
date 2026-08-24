@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 215.54,
+                "market_cap": "5.20T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "2.96M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Anticipation of Q2 earnings amid AI boom. Economic implications include tech spending driving growth. Market psychology: FOMO in AI narrative. Historical parallels to 2023 AI rally. Analogies: Like dot-com boom precursor; rocket fuel for sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +12%",
+                "reasoning": "Pre-earnings hype from software peers and Jackson Hole watch; strong X sentiment on AI leadership (x_keyword_search latest posts positive). High expectations but beat potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares for 8-15% post-earnings gains if beat",
+                "short_position": "Short volatility or hedge with puts; risk of miss leading to 10% drop",
+                "key_risks": "Missed estimates, macro inflation data, valuation bubble"
+            },
+            "confidence_rating": "A",
+            "justification": "Earnings catalyst dominant, multiple news sources confirm focus, data fetch confirms liquidity"
+        },
+        {
+            "details": {
+                "ticker": "CRM",
+                "full_name": "Salesforce, Inc.",
+                "current_price": 208.61,
+                "market_cap": "171.31B",
+                "sector_industry": "Prepackaged Software",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 150.0
+                },
+                "pe_ratio": 32.5,
+                "volume": "220K",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "Software earnings wave and cloud spending recovery. Implications for enterprise tech investment. Psychology: Rotation into growth post-inflation data. Parallels to 2024 software rally. Analogies: Domino effect from NVDA; springboard for sector.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +8%",
+                "reasoning": "Earnings week focus, positive X buzz on AI integration (semantic search relevant posts)"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-10% swing post-earnings",
+                "short_position": "Avoid or covered calls only; limited downside",
+                "key_risks": "Guidance miss, broader market selloff on PCE"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong earnings calendar alignment but less singular catalyst than NVDA"
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 190.21,
+                "market_cap": "195.45B",
+                "sector_industry": "Prepackaged Software",
+                "high_low_52_week": {
+                    "high": 220.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "54K",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Cybersecurity demand surge with global threats. Implications: Defensive tech spend. Psychology: Safety premium. Parallels to post-breach rallies. Analogies: Shield in storm; tailwind from sanctions news.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +7%",
+                "reasoning": "Sector tailwinds, stable sentiment on X"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for steady 4-9% gains",
+                "short_position": "Minimal short opportunity",
+                "key_risks": "Competition, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent positive drivers from earnings slate"
+        },
+        {
+            "details": {
+                "ticker": "WDAY",
+                "full_name": "Workday, Inc.",
+                "current_price": 198.25,
+                "market_cap": "49.40B",
+                "sector_industry": "Computer Processing & Data Preparation",
+                "high_low_52_week": {
+                    "high": 225.0,
+                    "low": 160.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "8K",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "HR/tech cloud adoption. Implications for productivity software. Psychology: Enterprise resilience. Parallels to CRM cycles. Analogies: Steady ship in earnings wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+1% to +5%",
+                "reasoning": "Earnings participation, moderate X sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective long for modest gains",
+                "short_position": "Neutral",
+                "key_risks": "Guidance conservatism"
+            },
+            "confidence_rating": "C",
+            "justification": "Part of pack but lower profile"
+        },
+        {
+            "details": {
+                "ticker": "INTU",
+                "full_name": "Intuit Inc.",
+                "current_price": 367.25,
+                "market_cap": "100.39B",
+                "sector_industry": "Prepackaged Software",
+                "high_low_52_week": {
+                    "high": 410.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "15K",
+                "recent_dividend": "0.90 quarterly"
+            },
+            "impact_theory": "Tax/fintech software stability amid economic data. Implications: Consumer spending proxy. Psychology: Defensive growth. Parallels to past earnings seasons. Analogies: Anchor in volatile week.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "0% to +4%",
+                "reasoning": "Earnings but overshadowed by macro and NVDA"
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or light long",
+                "short_position": "Not recommended",
+                "key_risks": "Inflation/PCE reaction"
+            },
+            "confidence_rating": "C",
+            "justification": "Peripheral to main catalysts"
+        }
+    ]
+}
