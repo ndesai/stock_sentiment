@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NUE",
+                "full_name": "Nucor Corporation",
+                "current_price": 253.26,
+                "market_cap": "62.5B",
+                "sector_industry": "Basic Materials / Steel",
+                "high_low_52_week": {
+                    "high": 280.5,
+                    "low": 145.2
+                },
+                "pe_ratio": 14.8,
+                "volume": "4.2M",
+                "recent_dividend": "0.54 quarterly"
+            },
+            "impact_theory": "US 50% tariffs on Canadian steel imports shift demand to domestic producers like Nucor. Economic implications include higher US steel prices boosting margins. Market psychology: relief rally in materials sector amid trade protectionism. Historical parallel: 2018 steel tariffs. Analogies: (1) Like a moat around a castle protecting local suppliers. (2) Like rerouting traffic to local shops when imports are blocked.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Tariffs directly favor domestic steel; X sentiment overwhelmingly positive with steel stocks trending; volume surge confirms buying interest."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NUE for 10-15% gains over 1-2 weeks on sustained tariff effects.",
+                "short_position": "Avoid shorts; limited downside unless tariffs reversed.",
+                "key_risks": "Tariff rollback negotiations, rising input costs, global oversupply."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct causal link from policy announcement, strong immediate price action and sentiment alignment."
+        },
+        {
+            "details": {
+                "ticker": "GM",
+                "full_name": "General Motors Company",
+                "current_price": 48.75,
+                "market_cap": "55.2B",
+                "sector_industry": "Consumer Cyclical / Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 62.3,
+                    "low": 38.9
+                },
+                "pe_ratio": 5.9,
+                "volume": "18.4M",
+                "recent_dividend": "0.12 quarterly"
+            },
+            "impact_theory": "50% tariffs on Canadian auto parts and vehicles increase costs for GM supply chain. Implications: margin compression, possible price hikes to consumers. Psychology: fear of prolonged US-Canada trade war. Parallel: 2019-2020 tariff threats. Analogies: (1) Like a tax on cross-border assembly lines. (2) Like adding tolls to key supplier highways.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5-8%",
+                "reasoning": "Immediate negative reaction in futures and premarket; X posts highlight auto sector vulnerability; earnings exposure to Canada significant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dips or reversal signals before long.",
+                "short_position": "Short GM targeting 6-10% downside near-term.",
+                "key_risks": "Supply chain adaptation, tariff exemptions, strong domestic sales offset."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear negative policy impact confirmed by multiple sources, though company may mitigate over time."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 209.24,
+                "market_cap": "5.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.07
+                },
+                "pe_ratio": 42.5,
+                "volume": "81M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Pre-earnings jitters + Iran/China tensions weigh on AI leaders. Implications: potential slowdown in hyperscale spending if macro worsens. Psychology: profit-taking after summer rally. Parallel: 2022 rate-hike selloff in growth stocks. Analogies: (1) Like a sprinter pausing before the final lap. (2) Like checking the weather before an outdoor event.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4-7%",
+                "reasoning": "Consistent chip sector weakness; X volume high on NVDA mentions with cautious tone ahead of Wed earnings; sector rotation evident."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate post-earnings if beat expected.",
+                "short_position": "Short into earnings for 5% swing.",
+                "key_risks": "Strong earnings surprise, AI demand resilience."
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event + macro overlay produces reliable near-term pressure."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 142.8,
+                "market_cap": "54.8B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 168.4,
+                    "low": 62.1
+                },
+                "pe_ratio": 28.3,
+                "volume": "12.7M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Positive late-stage personalized mRNA cancer vaccine data (with Merck) sparks re-rating. Implications: diversification beyond COVID, path to sustained profitability. Psychology: biotech momentum return after years of COVID fatigue. Parallel: 2020-21 mRNA validation. Analogies: (1) Like a second act in a successful play. (2) Like planting a new orchard after the first harvest.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15-25%",
+                "reasoning": "177% single-day move cited; X sentiment euphoric with vaccine breakthrough headlines; analyst upgrades likely."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for continued gains; target 20%+.",
+                "short_position": "High risk; only on failed regulatory steps.",
+                "key_risks": "Clinical/regulatory setbacks, dilution, competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong fundamental catalyst but biotech volatility caps certainty."
+        },
+        {
+            "details": {
+                "ticker": "STLD",
+                "full_name": "Steel Dynamics, Inc.",
+                "current_price": 239.7,
+                "market_cap": "38.1B",
+                "sector_industry": "Basic Materials / Steel",
+                "high_low_52_week": {
+                    "high": 265.0,
+                    "low": 112.4
+                },
+                "pe_ratio": 13.2,
+                "volume": "2.8M",
+                "recent_dividend": "0.46 quarterly"
+            },
+            "impact_theory": "Tariff protection mirrors Nucor; domestic mills gain pricing power. Implications: elevated steel spreads, capacity utilization gains. Psychology: sector rotation into value/cyclicals. Parallel: 2002-03 steel tariffs era. Analogies: (1) Like irrigation favoring local farmland. (2) Like a protective shield for industrial base.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-11%",
+                "reasoning": "Listed among top gainers; correlated perfectly with tariff news; positive X flow on US steel renaissance."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% upside alongside NUE.",
+                "short_position": "Not recommended.",
+                "key_risks": "Demand slowdown, China export surge despite sanctions."
+            },
+            "confidence_rating": "A",
+            "justification": "Policy tailwind clear and immediate, sector peers confirming."
+        }
+    ]
+}
