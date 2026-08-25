@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 210.5,
+                "market_cap": "5.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 31.9,
+                "volume": "250M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "Nvidia earnings on Aug 26 after close amid AI hype and valuation concerns; Iran sanctions add geopolitical risk. Implications: AI capex sustainability questioned, potential rotation to value. Psychology: anticipation mixed with fear of misses on margins. Parallels: 2023-24 AI rallies. Analogies: Rocket fuel (AI growth) vs. rubber band (valuations snapping back); Gold rush (picks/shovels in data centers).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-12%",
+                "reasoning": "Strong AI demand expected; premarket rebound; historical beats drive upside. X sentiment positive on rebound. Web: earnings catalyst dominant over Iran noise."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long into earnings: 8-15% upside if beats; target post-earnings run.",
+                "short_position": "Short volatility post-earnings if guidance weak: 5-10% downside risk.",
+                "key_risks": "Miss on data center growth or margin compression; macro inflation data."
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility earnings event with consistent historical beats and dominant market position."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 95.0,
+                "market_cap": "105B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "35M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory chip rebound on Nvidia strength; Iran/oil events minor. Implications: DRAM/HBM demand tied to AI servers. Psychology: oversold bounce. Parallels: 2024 chip cycles. Analogies: Coattails rider (NVDA); Pendulum swing (cyclical recovery).",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Premarket +2.3%; AI memory demand narrative; X posts highlight rebound sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on AI supply chain: 6-12% near-term gains.",
+                "short_position": "Avoid; cyclical volatility high.",
+                "key_risks": "Inventory correction or China export curbs."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA but higher beta and cyclical nature."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 165.0,
+                "market_cap": "770B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 200.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "20M",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "Semiconductor selloff reversal; AI networking/custom ASICs. Implications: Diversified AI exposure beyond GPUs. Psychology: relief rally. Parallels: Previous Broadcom AI wins. Analogies: Diversified portfolio (multiple AI bets); Second fiddle to NVDA.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-7%",
+                "reasoning": "Tech rebound, AI ecosystem play; stable dividend appeal amid volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for AI infrastructure: 5-10% gains.",
+                "short_position": "Limited; defensive characteristics.",
+                "key_risks": "VMware integration issues or macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Solid fundamentals but less pure-play excitement than peers."
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 520.0,
+                "market_cap": "1.32T",
+                "sector_industry": "Technology / Internet Services",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 25.0,
+                "volume": "15M",
+                "recent_dividend": "0.525 quarterly"
+            },
+            "impact_theory": "Tech rebound + new AI agent launches. Implications: Ad revenue + AI efficiency gains. Psychology: Megacap rotation beneficiary. Parallels: Post-2022 recovery. Analogies: AI accelerator (internal models); Ad machine on steroids.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Premarket gains + AI newsflow; lower valuation than pure semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on AI/ad strength: 4-8% upside.",
+                "short_position": "Regulatory risks on antitrust.",
+                "key_risks": "Ad market softness or privacy changes."
+            },
+            "confidence_rating": "A",
+            "justification": "Diversified revenue, strong AI investments, consistent execution."
+        },
+        {
+            "details": {
+                "ticker": "WDC",
+                "full_name": "Western Digital Corporation",
+                "current_price": 68.0,
+                "market_cap": "23B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 45.0
+                },
+                "pe_ratio": 15.0,
+                "volume": "12M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Data storage rebound with AI demand; flash/HDD for hyperscalers. Implications: Storage bottleneck relief. Psychology: Oversold recovery play. Parallels: 2024 storage cycles. Analogies: Shovels in AI gold rush; Capacity enabler.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Premarket +2.7%; NVDA ecosystem tailwinds confirmed in news/X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long storage names: 7-12% potential.",
+                "short_position": "Commodity price swings.",
+                "key_risks": "Flash memory oversupply or NAND pricing collapse."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct AI data storage beneficiary but higher volatility than peers."
+        }
+    ]
+}
