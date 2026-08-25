@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMAT",
+                "full_name": "Applied Materials, Inc.",
+                "current_price": 484.19,
+                "market_cap": "380B",
+                "sector_industry": "Technology/Semiconductor Equipment",
+                "high_low_52_week": {
+                    "high": 740.0,
+                    "low": 154.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "12M",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "AMAT dropped sharply amid semiconductor profit-taking and AI ROI doubts after strong H1 2026 rally. Economic implications include slower capex in chips; market psychology shows fear of bubble in AI infrastructure. Historical parallel: 2022 chip downturn. Analogies: Like 2000 dot-com bust for over-hyped tech; rollercoaster after peak.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Recent 34% mention and ongoing selloff from AI spending concerns, geopolitical tensions; X sentiment negative on valuations."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 10% rebound on earnings beats",
+                "short_position": "Short on rallies targeting 10-20% downside if AI fears persist",
+                "key_risks": "Sudden AI positive news or Fed cuts; volatility from Iran tensions"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news flow on semis but uncertain duration of selloff"
+        },
+        {
+            "details": {
+                "ticker": "CTSH",
+                "full_name": "Cognizant Technology Solutions Corporation",
+                "current_price": 85.5,
+                "market_cap": "42B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 55.0
+                },
+                "pe_ratio": 16.8,
+                "volume": "5M",
+                "recent_dividend": "0.30 quarterly"
+            },
+            "impact_theory": "CTSH surged ~43% on AI partnership expansions with Anthropic despite prior skepticism. Implications: Renewed demand for IT consulting in AI era. Psychology: Sentiment reversal from doubt to optimism. Parallels: Post-2023 AI boom recovery. Analogies: Phoenix rising; turning tide in consulting wars.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +20%",
+                "reasoning": "Strong AI bookings and partnerships; positive X and analyst sentiment shift"
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 15-25% upside on continued AI momentum",
+                "short_position": "Avoid or limited; risk of pullback if results disappoint",
+                "key_risks": "Execution on AI deals, competition from Accenture"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear sentiment reversal backed by multiple news sources"
+        },
+        {
+            "details": {
+                "ticker": "ACN",
+                "full_name": "Accenture plc",
+                "current_price": 186.52,
+                "market_cap": "115B",
+                "sector_industry": "Technology/IT Consulting",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 128.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "3.5M",
+                "recent_dividend": "1.48 quarterly"
+            },
+            "impact_theory": "ACN recovered 26-33% recently on AI solutions and Google Cloud partnerships after June selloff. Implications: Validation of AI transformation services. Psychology: Rebuilding confidence post-panic. Parallels: Recovery after 2022 tech winter. Analogies: Comeback kid; surfacing after AI wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "AI bookings surge and sentiment rebound confirmed via recent performance and news"
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate for continued 10-20% gains",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "Valuation stretch, macro slowdown in consulting spend"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple data points on recovery and AI narrative"
+        },
+        {
+            "details": {
+                "ticker": "NSSC",
+                "full_name": "Napco Security Technologies, Inc.",
+                "current_price": 52.3,
+                "market_cap": "1.9B",
+                "sector_industry": "Industrials/Security Systems",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 25.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "450K",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "NSSC soaring on strong demand or earnings momentum. Implications: Growth in security tech sector amid geopolitical risks. Psychology: Momentum chasing. Parallels: 2024 small-cap rallies. Analogies: Rocket ship; dark horse winner.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15% to +25%",
+                "reasoning": "Recent articles highlight soaring price on positive catalysts"
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for quick gains of 20%+",
+                "short_position": "High risk; volatile small cap",
+                "key_risks": "Profit taking, limited liquidity"
+            },
+            "confidence_rating": "C",
+            "justification": "Less mainstream coverage than majors"
+        },
+        {
+            "details": {
+                "ticker": "AZTA",
+                "full_name": "Azenta, Inc.",
+                "current_price": 42.8,
+                "market_cap": "2.8B",
+                "sector_industry": "Healthcare/Life Sciences Tools",
+                "high_low_52_week": {
+                    "high": 68.0,
+                    "low": 32.0
+                },
+                "pe_ratio": 35.1,
+                "volume": "800K",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AZTA down on sector weakness or company-specific news. Implications: Pressure in life sciences equipment. Psychology: Risk aversion spillover. Parallels: Biotech corrections. Analogies: Falling knife; sector laggard.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -12%",
+                "reasoning": "Direct articles on stock decline today amid mixed market"
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative bounce play limited to 8%",
+                "short_position": "Short for 10% downside if weakness continues",
+                "key_risks": "Reversal on positive biotech news"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear downside news but smaller cap limits conviction"
+        }
+    ]
+}
