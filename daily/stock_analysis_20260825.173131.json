@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 145.5,
+                "market_cap": "3.58T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "245M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "NVIDIA's Q2 FY2027 earnings release scheduled for after close on Aug 26. Strong AI demand expected to drive record results. Economic implications include AI infrastructure spending boom. Market psychology: high anticipation leading to volatility. Historical parallels: past beats caused 10-20% moves. Analogies: like earnings of a rocket launch company before liftoff; or a sports star before championship game.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15",
+                "reasoning": "Consensus estimates high; history of beats post-earnings. X sentiment overwhelmingly positive ahead of report. Fed symposium adds macro support."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy pre-earnings or post-beat for 10%+ gains on guidance",
+                "short_position": "Avoid or short only on major miss, potential -10% risk",
+                "key_risks": "Missed estimates, guidance disappointment, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with historical precedent and high visibility"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 168.4,
+                "market_cap": "780B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 128.5
+                },
+                "pe_ratio": 28.7,
+                "volume": "18M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "AI chip demand spillover from NVDA ecosystem. Economic: semiconductor supply chain strength. Psychology: correlated AI optimism. Parallels to 2023 AI rally. Analogies: passenger on Nvidia train; second fiddle in AI orchestra.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +8",
+                "reasoning": "NVDA earnings positive ripple + own AI tailwinds. Recent sector weakness reversing."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for correlated gains up to 7%",
+                "short_position": "Limited, only if NVDA disappoints severely",
+                "key_risks": "Valuation compression, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA but less direct catalyst"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.8,
+                "market_cap": "232B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 164.5,
+                    "low": 95.0
+                },
+                "pe_ratio": 42.1,
+                "volume": "42M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI GPU competition and data center growth amid NVDA hype. Implications for broader tech spending. Psychology: catch-up narrative. Parallels to 2024 AMD surges. Analogies: underdog challenger; runner-up in AI race.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +7",
+                "reasoning": "Sector rotation into semis + NVDA positive sentiment spillover"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for relative outperformance",
+                "short_position": "Minimal unless NVDA miss drags sector",
+                "key_risks": "Market share loss to NVDA"
+            },
+            "confidence_rating": "B",
+            "justification": "Positive sentiment but secondary to NVDA"
+        },
+        {
+            "details": {
+                "ticker": "MRVL",
+                "full_name": "Marvell Technology, Inc.",
+                "current_price": 72.5,
+                "market_cap": "62B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 85.0,
+                    "low": 48.2
+                },
+                "pe_ratio": 35.6,
+                "volume": "12M",
+                "recent_dividend": "$0.06 quarterly"
+            },
+            "impact_theory": "Recent Google TPU agreement boosts custom AI silicon narrative. Implications: diversified AI exposure. Psychology: deal validation. Historical: similar deals lifted stock 10%+. Analogies: key supplier contract win; alliance in tech war.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +10",
+                "reasoning": "Deal announcement momentum + AI theme continuation"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on deal follow-through",
+                "short_position": "Short if AI capex slows",
+                "key_risks": "Execution on custom chips"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive catalyst with recent news"
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 58.2,
+                "market_cap": "22B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 105.0,
+                    "low": 35.5
+                },
+                "pe_ratio": -8.4,
+                "volume": "35M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Positive late-stage cancer vaccine data with Merck. Broader mRNA platform validation. Implications: pipeline acceleration. Psychology: biotech recovery hope. Parallels to 2020-21 COVID vaccine rallies. Analogies: phoenix rising; breakthrough drug launch.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10 to +20",
+                "reasoning": "Trial success news lingering sentiment + sector rotation"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for pipeline catalysts",
+                "short_position": "Risky given volatility",
+                "key_risks": "Clinical failures, dilution"
+            },
+            "confidence_rating": "C",
+            "justification": "Positive but older news and high inherent biotech risk"
+        }
+    ]
+}
