@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.5,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "280M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Nvidia earnings ahead of PCE data and Iran tensions. Economic implications include AI capex slowdown fears or boost. Market psychology: anticipation volatility. Historical parallels to 2023-2024 AI rallies. Analogies: Like rocket fuel for tech or canary in coal mine for growth stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Strong AI demand expected despite macro; positive X sentiment pre-earnings. Searches show earnings focus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or shares; +8% on beat",
+                "short_position": "Avoid or hedge; -10% on miss",
+                "key_risks": "Missed estimates, macro data surprise"
+            },
+            "confidence_rating": "A",
+            "justification": "High volume of pre-earnings buzz and calendar alignment"
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 285.0,
+                "market_cap": "70B",
+                "sector_industry": "Technology/Cybersecurity",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 210.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Earnings release coinciding with macro data. Implications for cybersecurity spend amid geopolitical risks. Psychology: Relief or panic post-earnings. Parallels to 2024 outage recovery. Analogies: Safety net in stormy seas or domino in tech selloff.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Cyber demand elevated due to Iran news; positive latest X posts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long shares pre-earnings; +6% upside",
+                "short_position": "Short only post weak guidance; -7% downside",
+                "key_risks": "Guidance miss, sector rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic tailwinds but earnings dependent"
+        },
+        {
+            "details": {
+                "ticker": "CRM",
+                "full_name": "Salesforce, Inc.",
+                "current_price": 265.0,
+                "market_cap": "255B",
+                "sector_industry": "Technology/Software",
+                "high_low_52_week": {
+                    "high": 295.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "12M",
+                "recent_dividend": "0.40 quarterly"
+            },
+            "impact_theory": "Earnings report; AI integration focus. Economic implications for enterprise software spending. Psychology shift on cloud growth. Parallels to past SaaS recoveries. Analogies: Bridge over troubled waters or amplifier for AI hype.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "AI solutions news positive; steady sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips; +4% on good print",
+                "short_position": "Minimal; limited downside",
+                "key_risks": "Macro slowdown affecting IT budgets"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent performer with AI catalyst"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.0,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.5,
+                "volume": "22M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Iran conflict escalations boosting energy prices. Implications: Higher revenues for producers. Psychology: Safe haven buying. Parallels to 2022 energy spikes. Analogies: Lifeboat in geopolitical storm or inflation hedge rocket.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Geopolitical premium evident in searches and X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy; +7% on sustained prices",
+                "short_position": "Avoid; limited",
+                "key_risks": "De-escalation, OPEC moves"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to ongoing Iran news flow"
+        },
+        {
+            "details": {
+                "ticker": "ACN",
+                "full_name": "Accenture plc",
+                "current_price": 325.0,
+                "market_cap": "205B",
+                "sector_industry": "Technology/IT Consulting",
+                "high_low_52_week": {
+                    "high": 355.0,
+                    "low": 265.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "3.5M",
+                "recent_dividend": "1.35 quarterly"
+            },
+            "impact_theory": "Sentiment shift on AI consulting deals. Implications: Revenue acceleration from enterprise AI. Psychology: Re-rating higher multiples. Parallels to past tech consulting booms. Analogies: AI wind at sails or undervalued gem polished.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Recent sentiment alerts and Cramer comments highlight turnaround."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long position favored; +5% gains",
+                "short_position": "Not recommended",
+                "key_risks": "Execution on AI pipeline"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sentiment reversal documented"
+        }
+    ]
+}
