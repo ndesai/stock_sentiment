@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 118.5,
+                "market_cap": "2.9T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.13,
+                    "low": 75.61
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth focus)"
+            },
+            "impact_theory": "Nvidia's upcoming earnings release amid sticky inflation and rate hike expectations. Economic implications include AI capex sustainability signals. Market psychology: high anticipation leading to volatility compression pre-event. Historical parallels to 2023-2024 AI rallies. Analogies: like a tech earnings 'Super Bowl' or oil inventory reports for energy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +12%",
+                "reasoning": "Pre-earnings momentum from semis peers (AMD +4.9%, MU +2.5%); strong AI demand narrative persists despite macro headwinds. X sentiment elevated on AI hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy calls or stock pre-earnings for 8-15% upside on beat; target post-earnings gap fill.",
+                "short_position": "Avoid or hedge with puts if guidance disappoints; potential -10% on miss.",
+                "key_risks": "Inflation data fueling rate fears; valuation stretch; geopolitical oil relief mixed impact."
+            },
+            "confidence_rating": "A",
+            "justification": "Highest volume news catalyst with clear earnings binary event and peer momentum confirmation."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 38.5,
+                "market_cap": "24.9B",
+                "sector_industry": "Technology / Computer Hardware",
+                "high_low_52_week": {
+                    "high": 118.0,
+                    "low": 17.25
+                },
+                "pe_ratio": 18.7,
+                "volume": "42M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI server demand surge reflected in 8-9% daily gains. Implications: supply chain validation for hyperscalers. Psychology: momentum chasing in AI ecosystem. Parallels to 2024 AI hardware boom. Analogies: leveraged play on NVDA like a satellite stock or mining equipment supplier in gold rush.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6 to +10%",
+                "reasoning": "Listed among top S&P gainers alongside NVDA focus; positive sector rotation into hardware."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continuation trade targeting 10%+ on NVDA strength.",
+                "short_position": "Short on overextension risk post-rally.",
+                "key_risks": "Margin compression; competition; macro slowdown."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong price action and sector tailwinds but lower liquidity/visibility than mega caps."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "782B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 167.0,
+                    "low": 93.12
+                },
+                "pe_ratio": 38.5,
+                "volume": "68M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Semiconductor peer rebound on AI optimism ahead of NVDA. Broader implications for CPU/GPU competition. Psychology amplifies sector rotation. Historical: follows NVDA lead in rallies. Analogies: 'little brother' to NVDA or second violin in orchestra.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +7%",
+                "reasoning": "4.9% gain noted; analyst upgrades and NVDA spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long position for 5-8% sector beta play.",
+                "short_position": "Limited; better as pair trade vs NVDA.",
+                "key_risks": "NVDA miss spillover; execution on data center ramp."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct beneficiary of NVDA narrative with solid moves."
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 295.0,
+                "market_cap": "189B",
+                "sector_industry": "Technology / Software - Security",
+                "high_low_52_week": {
+                    "high": 342.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 72.1,
+                "volume": "3.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Earnings release coinciding with macro uncertainty. Implications for cybersecurity spend resilience. Psychology: defensive growth rotation. Parallels to 2025 cloud earnings. Analogies: 'picks and shovels' in digital defense or insurance premium in stormy markets.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Bullish",
+                "estimated_price_impact_pct": "+2 to +8%",
+                "reasoning": "High implied move; solid sector positioning despite inflation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Post-earnings long if beat on guidance.",
+                "short_position": "Short volatility or on weak print.",
+                "key_risks": "High valuation multiples; competition from peers."
+            },
+            "confidence_rating": "C",
+            "justification": "Earnings binary but less direct macro/news tie-in than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 159.0,
+                "market_cap": "61B",
+                "sector_industry": "Healthcare / Biotechnology",
+                "high_low_52_week": {
+                    "high": 172.0,
+                    "low": 62.0
+                },
+                "pe_ratio": -12.4,
+                "volume": "18M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Top S&P gainer (+14%) on pipeline/news catalysts. Implications: biotech rebound from rate-sensitive selloff. Psychology: rotation into high-beta growth. Parallels to post-COVID recovery plays. Analogies: lottery ticket in pharma or turnaround story like a fallen tech giant revival.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15%",
+                "reasoning": "Largest listed mover amid tech recovery; sentiment shift positive."
+            },
+            "potential_profit_risks": {
+                "long_position": "Momentum long for continued rebound.",
+                "short_position": "Risky given volatility.",
+                "key_risks": "Clinical trial outcomes; dilution; macro sensitivity."
+            },
+            "confidence_rating": "B",
+            "justification": "Notable outlier gainer providing diversification from pure tech."
+        }
+    ]
+}
