@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 210.96,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.07
+                },
+                "pe_ratio": 55.2,
+                "volume": "75M",
+                "recent_dividend": "None (growth focus)"
+            },
+            "impact_theory": "Anticipation and release of Q2 earnings amid AI boom hype. Strong economic implications for tech sector growth but inflation concerns add volatility. Market psychology: high expectations leading to potential sell-the-news. Historical parallel: similar to 2023-2024 AI rallies. Analogies: 1) Rocket launch countdown - explosive if successful. 2) Super Bowl halftime show - massive attention but outcome determines legacy.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +15%",
+                "reasoning": "Pre-earnings rally in chips; strong AI demand expected. Web/X searches show positive sentiment on AI narrative despite inflation data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips pre-earnings for 8-12% post-beat gains",
+                "short_position": "Short if miss; 10-20% downside risk",
+                "key_risks": "Earnings miss on guidance, macro inflation spike"
+            },
+            "confidence_rating": "A",
+            "justification": "High visibility event with clear sentiment driver from multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 165.0,
+                "market_cap": "268B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Chip sector sympathy rally ahead of NVDA results and own momentum. Implications: AI/data center tailwinds. Psychology: FOMO in semis. Parallels: 2024 chip cycle. Analogies: 1) Surfing a wave started by NVDA. 2) Orchestra following the conductor.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "4.9% gain noted; X sentiment positive on upgrades."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% gains on sector momentum",
+                "short_position": "Limited; 5% downside if NVDA disappoints",
+                "key_risks": "Sector rotation, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA but less direct catalyst"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.0,
+                "market_cap": "115B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "22M",
+                "recent_dividend": "$0.12 quarterly"
+            },
+            "impact_theory": "Memory chip demand from AI/HBM. Economic boost to semis. Psychology: Relief rally post-selloff. Parallels: 2021 memory cycle. Analogies: 1) Mining boom from gold rush. 2) Fuel to NVDA's engine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "2.5% gain; positive X posts on memory recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing trade 5-9% upside",
+                "short_position": "Avoid",
+                "key_risks": "Commodity price swings in DRAM"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds clear from news aggregates"
+        },
+        {
+            "details": {
+                "ticker": "ANF",
+                "full_name": "Abercrombie & Fitch Co.",
+                "current_price": 146.63,
+                "market_cap": "7.5B",
+                "sector_industry": "Consumer Cyclical/Apparel Retail",
+                "high_low_52_week": {
+                    "high": 154.5,
+                    "low": 65.45
+                },
+                "pe_ratio": 22.0,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Beat and raise on earnings; brand momentum return. Implications: Retail recovery signal. Psychology: Momentum chase. Parallels: 2023 retail rebounds. Analogies: 1) Phoenix rising. 2) Underdog sports team winning streak.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+20% to +35%",
+                "reasoning": "34%+ surge reported; strong guidance lift confirmed via search."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for continued 10%+ gains",
+                "short_position": "High risk; volatile post-run",
+                "key_risks": "Consumer slowdown, fashion shifts"
+            },
+            "confidence_rating": "A",
+            "justification": "Concrete earnings catalyst with outsized move"
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 85.0,
+                "market_cap": "32B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 55.0
+                },
+                "pe_ratio": -12.5,
+                "volume": "18M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Vaccine pipeline upgrade and trial results. Implications: Biotech validation. Psychology: Speculative bounce. Parallels: 2021 vax rallies. Analogies: 1) Lottery ticket with research backing. 2) Startup scaling to profitability.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "13-14% surge on Barclays upgrade and Merck collab news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on pipeline catalysts for 12%+",
+                "short_position": "High volatility; avoid shorts",
+                "key_risks": "Clinical trial failures, regulatory"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven but biotech inherent uncertainty"
+        }
+    ]
+}
