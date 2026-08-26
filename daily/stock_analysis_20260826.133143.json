@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 128.5,
+                "market_cap": "3.15T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.2,
+                    "low": 75.8
+                },
+                "pe_ratio": 52.3,
+                "volume": "285M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "Anticipation of Nvidia's Q2 earnings amid AI boom recovery. Geopolitical tensions (Iran sanctions) and oil volatility create macro uncertainty. Market psychology shifting from AI fatigue to optimism on data center demand. Historical parallel: 2023 AI rally post-earnings beats. Analogies: Like Tesla's early EV hype cycles; rocket launch with trajectory checks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Pre-earnings rebound seen in recent sessions (+2.2%); positive chip sector momentum from AMD/MU; X sentiment bullish per scans. Strong AI narrative persists despite yield concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips pre-earnings for 5-10% post-beat gains if guidance strong",
+                "short_position": "Avoid; high volatility risk on miss could drop 8-12%",
+                "key_risks": "Earnings miss on margins; macro inflation data (PCE); Iran escalation spiking oil"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct earnings catalyst with recent positive price action and sector recovery confirmed across multiple sources"
+        },
+        {
+            "details": {
+                "ticker": "MRNA",
+                "full_name": "Moderna, Inc.",
+                "current_price": 52.8,
+                "market_cap": "20.1B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 78.5,
+                    "low": 31.2
+                },
+                "pe_ratio": -12.4,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Barclays price target hike + positive late-stage skin cancer vaccine data with Merck. Biotech sector rotation possible amid broader market recovery. Psychology: Relief rally after prolonged biotech weakness. Historical: Similar to 2021 mRNA vaccine spikes. Analogies: COVID-era mRNA surge; biotech lottery ticket win.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "13-14% surge already realized on upgrade/news; sustained X/news momentum; sector upgrade signals further upside"
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for additional 5-8% gains on trial updates",
+                "short_position": "High risk; reversal possible on profit-taking",
+                "key_risks": "Clinical trial failures; broader healthcare rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong immediate reaction validated by multiple news outlets; biotech catalysts can be volatile long-term"
+        },
+        {
+            "details": {
+                "ticker": "DKS",
+                "full_name": "Dick's Sporting Goods, Inc.",
+                "current_price": 98.5,
+                "market_cap": "8.2B",
+                "sector_industry": "Consumer Cyclical/Specialty Retail",
+                "high_low_52_week": {
+                    "high": 235.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 11.8,
+                "volume": "12M",
+                "recent_dividend": "$0.90 quarterly"
+            },
+            "impact_theory": "Sharp earnings miss and annual forecast cuts trigger selloff. Retail consumer spending slowdown amid economic uncertainty/low confidence. Psychology: Fear of recession hitting discretionary spending. Historical: 2022 retail routs. Analogies: Like GameStop pre-meme or post-holiday retail misses.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-15-25%",
+                "reasoning": "30%+ drop reported post-earnings; negative sentiment dominant in X posts and analyst downgrades"
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk; wait for stabilization below support",
+                "short_position": "Short for 10-15% further downside if retail weakness persists",
+                "key_risks": "Oversold bounce; holiday season beats reversing trend"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with massive realized move and consistent news coverage"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.0,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.5
+                },
+                "pe_ratio": 38.5,
+                "volume": "65M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Raymond James upgrade amid broader chip recovery ahead of Nvidia earnings. AI/semiconductor sentiment rebound. Psychology: Catch-up play to Nvidia leaders. Historical: 2024-25 chip cycles. Analogies: Follower stock in EV rally; AMD as Nvidia's 'little brother' gaining traction.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "4.4% intraday gain on upgrade; positive sector tailwinds from Nvidia anticipation and oil relief"
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for 3-6% continuation on chip strength",
+                "short_position": "Limited; tied to NVDA performance",
+                "key_risks": "NVDA earnings spillover; competitive pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst-driven move with sector confirmation but dependent on macro/tech leaders"
+        },
+        {
+            "details": {
+                "ticker": "INTU",
+                "full_name": "Intuit Inc.",
+                "current_price": 612.0,
+                "market_cap": "172B",
+                "sector_industry": "Technology/Software - Application",
+                "high_low_52_week": {
+                    "high": 715.0,
+                    "low": 532.0
+                },
+                "pe_ratio": 48.2,
+                "volume": "3.2M",
+                "recent_dividend": "$0.90 quarterly"
+            },
+            "impact_theory": "Weak full-year forecast miss sparks selloff despite broader tech rebound. Software spending caution amid high interest rates. Psychology: Profit-taking and lowered growth expectations. Historical: SaaS valuation compression 2022. Analogies: Adobe or Salesforce post-guidance drops.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8-12%",
+                "reasoning": "~10% premarket drop reported; negative earnings surprise dominating sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for retest of lows or better guidance",
+                "short_position": "Short for continued 5-8% decline into next quarter",
+                "key_risks": "Quick rebound on tax season optimism; sector rotation"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct negative catalyst confirmed, though software names can recover fast on sentiment shift"
+        }
+    ]
+}
