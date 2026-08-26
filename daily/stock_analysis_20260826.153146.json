@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 211.28,
+                "market_cap": "5.16T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.07
+                },
+                "pe_ratio": 55.2,
+                "volume": "300M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Nvidia's Q2 FY2027 earnings report expected after market close on Aug 26, with massive AI-driven revenue growth anticipated (~97% YoY). Economic implications include AI infrastructure spending validation or slowdown signals affecting tech sector broadly. Market psychology: High anticipation leading to pre-earnings volatility and positioning. Historical parallels: Similar to 2023-2025 AI boom reports causing sector-wide moves. Analogies: (1) Like a championship game for the entire league (AI/tech ecosystem); (2) Oil price indicator for energy markets but for semiconductors/AI.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +15% post-earnings if beat",
+                "reasoning": "Strong data center demand expected; sticky PCE inflation may pressure rates but AI momentum dominates sentiment per X/web searches. Pre-earnings chip rally seen."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA or semis on beat for 8-20% gains; options straddle for volatility",
+                "short_position": "Short on miss for 10-15% drop risk",
+                "key_risks": "Guidance miss on margins/supply; macro rate hike fears amplifying selloff"
+            },
+            "confidence_rating": "A",
+            "justification": "Nvidia is market bellwether with highest weighting and visibility; earnings event well-covered across news/X."
+        },
+        {
+            "details": {
+                "ticker": "ANF",
+                "full_name": "Abercrombie & Fitch Co.",
+                "current_price": 147.24,
+                "market_cap": "4.84B",
+                "sector_industry": "Consumer Cyclical/Apparel Retail",
+                "high_low_52_week": {
+                    "high": 147.04,
+                    "low": 65.45
+                },
+                "pe_ratio": 18.5,
+                "volume": "4M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Strong earnings and raised guidance driving massive rally. Signals resilient consumer spending in apparel despite macro headwinds. Psychology: Momentum chase on positive surprise. Historical: Similar retail beats leading to multi-day runs. Analogies: (1) Rocket launch after successful ignition test; (2) Underdog sports team winning championship.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30%+ sustained",
+                "reasoning": "Guidance raise lifts stock sharply; retail sentiment positive per market movers data."
+            },
+            "potential_profit_risks": {
+                "long_position": "Continue long for additional 10-20% on momentum",
+                "short_position": "Avoid; high risk of further gains",
+                "key_risks": "Profit-taking reversal; broader retail weakness"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear earnings catalyst with large move already priced in."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 145.0,
+                "market_cap": "782B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "60M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI/semiconductor rally tied to Nvidia expectations. Upgrades and sector rebound. Implications: Validates AI capex cycle. Psychology: Herd following leaders like NVDA. Parallels: 2024 chip rallies. Analogies: (1) Second violin in orchestra following conductor; (2) Satellite orbiting dominant planet.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Sector tailwinds from NVDA event and upgrades; X sentiment positive on AI."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 5-12% gains riding NVDA momentum",
+                "short_position": "Limited; counter to sector trend",
+                "key_risks": "NVDA miss spillover; competition intensifying"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA but secondary mover."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.0,
+                "market_cap": "1.05T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 35.0,
+                "volume": "40M",
+                "recent_dividend": "0.12 quarterly"
+            },
+            "impact_theory": "Memory chip demand benefiting from AI/HBM ramp alongside Nvidia. Economic boost to memory segment. Psychology: Follow-on enthusiasm. Parallels: HBM cycle booms. Analogies: (1) Supporting cast in blockbuster movie; (2) Tailwind beneficiary in wind farm.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Chip rally pre-NVDA earnings; positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long semiconductor basket 4-10%",
+                "short_position": "N/A",
+                "key_risks": "Cyclical memory price volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector play with direct AI tie-in."
+        },
+        {
+            "details": {
+                "ticker": "INTU",
+                "full_name": "Intuit Inc.",
+                "current_price": 620.0,
+                "market_cap": "97.8B",
+                "sector_industry": "Technology/Software - Application",
+                "high_low_52_week": {
+                    "high": 700.0,
+                    "low": 500.0
+                },
+                "pe_ratio": 48.0,
+                "volume": "3M",
+                "recent_dividend": "0.90 quarterly"
+            },
+            "impact_theory": "Disappointing earnings forecast pressures software peers. Signals caution on consumer/small business spending. Psychology: Risk-off rotation within tech. Parallels: Prior software misses causing sector dips. Analogies: (1) Domino effect starter; (2) Canary in coal mine for growth stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Lowered guidance noted in market wrap; broader tech caution pre-NVDA."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization",
+                "short_position": "Short for 5-8% downside",
+                "key_risks": "Oversold bounce on NVDA strength"
+            },
+            "confidence_rating": "C",
+            "justification": "Specific to one earnings but indicative of selective pressure."
+        }
+    ]
+}
