@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.5,
+                "market_cap": "3.35T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.13,
+                    "low": 92.12
+                },
+                "pe_ratio": 52.4,
+                "volume": "245M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "AI chip demand surge from new data center announcements. Economic implications include accelerated tech capex. Market psychology: FOMO buying. Historical parallel: 2023 AI boom. Analogies: Like 1990s internet boom; Gold rush for picks and shovels.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8%",
+                "reasoning": "Strong earnings beat and new partnerships; X sentiment overwhelmingly positive with 18k mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Target +12% to $152 on momentum; entry at dips",
+                "short_position": "Avoid; high short interest risk of squeeze",
+                "key_risks": "Valuation bubble, regulatory scrutiny on AI"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating news sources and high X engagement volume"
+        },
+        {
+            "details": {
+                "ticker": "TSLA",
+                "full_name": "Tesla, Inc.",
+                "current_price": 245.0,
+                "market_cap": "780B",
+                "sector_industry": "Consumer Cyclical/Auto Manufacturers",
+                "high_low_52_week": {
+                    "high": 299.29,
+                    "low": 167.66
+                },
+                "pe_ratio": 68.2,
+                "volume": "92M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Robotaxi event hype and China sales recovery. Implications for EV adoption acceleration. Psychology: Speculative fervor. Parallel: 2020 EV rally. Analogies: iPhone launch hype; SpaceX reusable rocket breakthrough.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15%",
+                "reasoning": "Viral X posts on event + positive China data; 22k relevant posts"
+            },
+            "potential_profit_risks": {
+                "long_position": "+18% swing trade potential post-event",
+                "short_position": "Risky due to cult following; possible -10% on miss",
+                "key_risks": "Execution delays, competition, Elon Musk volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven, high uncertainty but strong sentiment indicators"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 228.75,
+                "market_cap": "3.45T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 237.23,
+                    "low": 169.21
+                },
+                "pe_ratio": 33.1,
+                "volume": "48M",
+                "recent_dividend": "$0.24 quarterly"
+            },
+            "impact_theory": "iPhone 18 supply chain optimism amid AI features. Steady consumer spending. Parallel: iPhone X launch cycle. Analogies: Reliable blue-chip like Coca-Cola; Ecosystem flywheel like Amazon Prime.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4%",
+                "reasoning": "Analyst upgrades and positive supply chain reports"
+            },
+            "potential_profit_risks": {
+                "long_position": "Steady +5% hold with dividend",
+                "short_position": "Low conviction; defensive stock",
+                "key_risks": "China exposure, antitrust cases"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent data from multiple reliable financial outlets"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.3,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 164.46,
+                    "low": 93.12
+                },
+                "pe_ratio": 42.8,
+                "volume": "65M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "MI300 GPU wins vs Nvidia in AI inference. Market share gains. Psychology: Underdog rally. Parallel: 2019 CPU comeback. Analogies: AMD vs Intel like Pepsi vs Coke; Cloud computing shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10%",
+                "reasoning": "Partnership announcements and benchmark leaks"
+            },
+            "potential_profit_risks": {
+                "long_position": "+14% potential on market share news",
+                "short_position": "Not recommended",
+                "key_risks": "Execution risk, margin pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Positive but fewer sources than NVDA"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 505.0,
+                "market_cap": "1.28T",
+                "sector_industry": "Communication Services/Internet Content & Information",
+                "high_low_52_week": {
+                    "high": 531.49,
+                    "low": 318.5
+                },
+                "pe_ratio": 26.5,
+                "volume": "12M",
+                "recent_dividend": "$0.50 quarterly"
+            },
+            "impact_theory": "AI ad targeting improvements driving revenue. Metaverse progress. Psychology: Efficiency narrative. Parallel: 2023 efficiency turnaround. Analogies: Google ad dominance; Disney streaming pivot.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6%",
+                "reasoning": "Strong Q3 preview leaks and AI tool adoption metrics"
+            },
+            "potential_profit_risks": {
+                "long_position": "+7-9% with dividend yield support",
+                "short_position": "Limited; strong moat",
+                "key_risks": "Regulatory fines, ad market slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Broad consensus across news and X sentiment analysis"
+        }
+    ]
+}
