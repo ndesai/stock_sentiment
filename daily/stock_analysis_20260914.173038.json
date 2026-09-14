@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 212.15,
+                "market_cap": "5.12T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.27
+                },
+                "pe_ratio": 27.6,
+                "volume": "62M+",
+                "recent_dividend": "0.28 TTM (yield ~0.13%)"
+            },
+            "impact_theory": "AI leaders (Altman, Amodei) called for slowdown in frontier AI development citing safety risks and loss of control. This triggered rotation away from AI infrastructure plays. Economic implications: potential delay in hyperscaler capex. Market psychology: fear of overvaluation bubble burst in AI hype. Historical parallel: 2022 crypto/AI hype correction or dot-com bust. Analogies: 1) Like slowing a speeding train before it derails. 2) Regulators applying brakes to a runaway tech locomotive.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10% short-term",
+                "reasoning": "Direct selloff on AI safety warnings; high volume selling in semis. X sentiment heavily negative on NVDA with mentions of 'bubble'. Oil/geopolitics secondary pressure."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-Fed; potential 15-20% rebound on positive earnings or Trump support",
+                "short_position": "Short on rallies targeting 5-8% downside to 195-200 support",
+                "key_risks": "Rapid reversal if Fed dovish or Trump AI endorsement; high volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear direct catalyst with massive media/X coverage and measurable price action on 9/14."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 924.0,
+                "market_cap": "1.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 1050.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "High",
+                "recent_dividend": "Minimal / low yield"
+            },
+            "impact_theory": "Memory chip leader hit hardest by AI slowdown fears as demand for HBM/GDDR tied to model training. Implications: reduced near-term revenue visibility. Psychology: amplified fear in leveraged AI supply chain. Parallels: 2018 memory cycle downturn. Analogies: 1) Domino in AI chip stack. 2) Fuel supplier to a suddenly cautious racer.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Largest % drops among chip names; X posts highlight MU as AI proxy vulnerable to capex cuts."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for long-term AI recovery, target +20%+ over months",
+                "short_position": "Short-term shorts for 8-10% quick moves",
+                "key_risks": "Inventory cycles, strong underlying demand if slowdown averted"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent negative price action and sentiment tied explicitly to AI warnings."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 494.0,
+                "market_cap": "843B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 132.0,
+                "volume": "High",
+                "recent_dividend": "None significant"
+            },
+            "impact_theory": "CPU/GPU competitor to NVDA exposed to same AI infrastructure slowdown narrative. Broader semis rotation. Parallels: previous AMD-NVDA correlation spikes. Analogies: 1) Second car in AI convoy braking hard. 2) Supporting actor in a suddenly cautious blockbuster.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Significant drops alongside NVDA; high retail/X discussion volume."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term AI exposure play on dips",
+                "short_position": "Tactical shorts 5-7%",
+                "key_risks": "Data center wins or competitive gains could offset"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA event but slightly less direct exposure."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 348.0,
+                "market_cap": "1.73T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 46.0,
+                "volume": "Elevated",
+                "recent_dividend": "Regular payer"
+            },
+            "impact_theory": "Networking/custom AI chips affected by development pace concerns. Part of Magnificent 7 rotation. Parallels: 2023 semis rotation. Analogies: 1) Highway builder worried about fewer cars. 2) Tailwind provider facing headwinds.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -7%",
+                "reasoning": "Notable declines in AI-related segments per reports and X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Diversified play, hold for recovery",
+                "short_position": "Short 4-6% on continued rotation",
+                "key_risks": "Strong software/diversified revenue buffers impact"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear but milder impact due to diversification."
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 238.0,
+                "market_cap": "243B",
+                "sector_industry": "Technology / Cybersecurity",
+                "high_low_52_week": {
+                    "high": 239.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 5798.0,
+                "volume": "15M+",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI safety fears boost demand for security solutions as threats rise with advanced models. Positive rotation beneficiary. Parallels: post-breach security spend surges. Analogies: 1) Locksmith in a neighborhood with rising break-ins. 2) Immune system strengthening amid new virus fears.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "Strong gains on 9/14 as investors rotate to cybersecurity; positive X sentiment spike."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum 10-20% further on continued narrative",
+                "short_position": "Avoid or cover quickly",
+                "key_risks": "Overextension, valuation concerns"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary with measurable positive price/sentiment shift."
+        }
+    ]
+}
