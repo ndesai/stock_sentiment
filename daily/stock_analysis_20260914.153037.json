@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 211.45,
+                "market_cap": "5.27T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.27
+                },
+                "pe_ratio": 27.6,
+                "volume": "85.57M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "OpenAI and Anthropic CEOs called for slowing frontier AI model development due to safety risks and potential loss of control. This triggers market fears of reduced near-term AI infrastructure demand. Economic implications include tempered growth expectations for AI capex. Market psychology shows panic selling in high-valuation tech. Historical parallel: 2022 crypto winter after hype cycles. Analogies: 1) Dot-com bust slowdown after overexuberance. 2) Biotech regulatory pauses halting pipeline momentum.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Direct negative sentiment from AI leaders; chip stocks already down 3-6% intraday. X posts and news highlight selloff in semis. High volume confirms shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid; potential short entry for 5-8% gains on further dips if Fed hike fears compound.",
+                "short_position": "Short NVDA for 5-10% downside if AI slowdown narrative persists; cover on stabilization.",
+                "key_risks": "Quick reversal if safety concerns dismissed; strong earnings could override; volatility from Fed meeting."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst from multiple CEO statements, immediate market reaction across news and social, consistent historical patterns in hype cycles."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 485.07,
+                "market_cap": "842B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 584.6,
+                    "low": 149.85
+                },
+                "pe_ratio": 124.5,
+                "volume": "10.3M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Same AI slowdown fears hitting GPU/CPU demand expectations. Implications: slower data center spending cycle. Psychology: rotation out of high-beta AI plays. Parallel: 2023 semis correction on rate fears. Analogies: 1) EV hype slowdown post-2021. 2) Cloud capex pause after initial boom.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "AMD down ~6% on the day amid broad chip selloff; X sentiment negative on AI valuation reset."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; dip buy if oversold.",
+                "short_position": "Short for 6-10% gains targeting AI narrative unwind.",
+                "key_risks": "Strong product pipeline or partner news; broader market rally."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct linkage to same AI news catalyst with measurable price action and volume."
+        },
+        {
+            "details": {
+                "ticker": "PANW",
+                "full_name": "Palo Alto Networks, Inc.",
+                "current_price": 369.35,
+                "market_cap": "270B+",
+                "sector_industry": "Technology/Cybersecurity",
+                "high_low_52_week": {
+                    "high": 398.87,
+                    "low": 139.58
+                },
+                "pe_ratio": 45.0,
+                "volume": "4M+",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI safety debate boosts demand for cybersecurity tools to manage risks. Implications: accelerated enterprise spending on AI governance/security. Psychology: flight to safety within tech. Parallel: Post-Equifax breach security boom. Analogies: 1) Privacy regs boosting compliance tech. 2) Cloud security surge during remote work shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +15%",
+                "reasoning": "Cyber stocks up 11-13% as AI risks highlight need for protection; positive X/news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long PANW for continued AI-security rotation gains of 8-12%.",
+                "short_position": "Avoid; limited upside for shorts.",
+                "key_risks": "Broader tech selloff spillover; valuation compression."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong thematic tailwind confirmed by price action but less direct quotes than AI chip news."
+        },
+        {
+            "details": {
+                "ticker": "RUM",
+                "full_name": "RUM Group Inc.",
+                "current_price": 8.22,
+                "market_cap": "~4B",
+                "sector_industry": "Communication Services/Social Media",
+                "high_low_52_week": {
+                    "high": 10.59,
+                    "low": 4.62
+                },
+                "pe_ratio": 50.0,
+                "volume": "14M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Reported $13.7B compute pact with Anthropic provides revenue visibility amid AI boom. Implications: validates infrastructure demand despite slowdown talk. Psychology: contrarian positive on AI spend. Parallel: Early cloud provider wins. Analogies: 1) AWS early customer contracts. 2) GPU cloud deals during training boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15% to +25%",
+                "reasoning": "Premarket surge 14-22% on contract news; high X volume and positive sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum continuation 10-20% on deal confirmation.",
+                "short_position": "High risk; avoid unless contract details disappoint.",
+                "key_risks": "Deal execution risk; dilution; competition."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive catalyst with immediate price reaction, though smaller cap volatility."
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 214.01,
+                "market_cap": "426B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 230.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "5M+",
+                "recent_dividend": "~4.5% yield"
+            },
+            "impact_theory": "Middle East tensions and pipeline issues push oil >$100/bbl, boosting energy margins. Implications: higher revenues, inflation pass-through. Psychology: defensive rotation to commodities. Parallel: 2022 energy supercycle on Ukraine invasion. Analogies: 1) Gulf War oil spike. 2) OPEC cuts driving prices.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Oil surge directly benefits majors; positive sector sentiment amid broader market weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX for 5-8% energy outperformance and dividend.",
+                "short_position": "Limited; only on de-escalation.",
+                "key_risks": "Geopolitical resolution; demand destruction from high prices/Fed hike."
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating news sources on oil spike with clear sector impact."
+        }
+    ]
+}
