@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 218.29,
+                "market_cap": "5.287T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "180M",
+                "recent_dividend": "None (growth stock)"
+            },
+            "impact_theory": "AI leaders including Anthropic's Dario Amodei and OpenAI's Sam Altman called for slowing frontier AI model development due to safety risks, supported by Elon Musk. This threatens the massive capex boom in AI infrastructure and chips. Economic implications include reduced near-term growth expectations for AI leaders. Market psychology: fear of overvaluation in AI hype. Historical parallels: dot-com bubble slowdown calls or 2022 tech correction. Analogies: 1) Like calling to slow nuclear development in the 1940s-50s. 2) Similar to crypto winter warnings after rapid growth.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Premarket selloff in chip stocks; Nasdaq futures down 1.6%. Sentiment shift from X posts and news on AI safety concerns dominating feeds. High volume selling expected."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or short on bounces; potential 5-10% downside over week if Fed hike adds pressure.",
+                "short_position": "Short NVDA with stop above recent highs; target 10-15% gain on continued selloff.",
+                "key_risks": "Quick reversal if AI leaders clarify no impact on hardware demand; strong earnings or positive Fed surprise."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear coordinated news event with immediate premarket reaction and broad media/X coverage confirming sentiment shift."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 424.1,
+                "market_cap": "691B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 550.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Same AI slowdown narrative hits AMD as key GPU competitor to NVDA. Implications for data center demand slowdown. Psychology amplifies sector rotation fears. Parallels to 2023 AI stock volatility. Analogies: 1) Semiconductor cycle downturns. 2) EV hype slowdowns.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -9%",
+                "reasoning": "Direct exposure to AI chips; premarket drops noted alongside NVDA. X sentiment negative on AI capex."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; limited upside short-term.",
+                "short_position": "Profitable short with 8-12% target; monitor volume.",
+                "key_risks": "AMD diversification into other areas; broader market rebound."
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent sector impact confirmed across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 724.66,
+                "market_cap": "817B",
+                "sector_industry": "Technology/Memory Chips",
+                "high_low_52_week": {
+                    "high": 950.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 25.8,
+                "volume": "48M",
+                "recent_dividend": "Quarterly ~$0.12"
+            },
+            "impact_theory": "Memory chips critical for AI training; slowdown fears hit HBM demand expectations. Economic: reduced data center builds. Psychology: rotation out of high-beta tech. Parallels: 2022 memory glut correction. Analogies: 1) DRAM price cycles. 2) Cloud capex pauses.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Memory ETF DRAM down ~6%; specific mentions in movers. Strong negative X/news sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Defer longs until clarity on AI demand.",
+                "short_position": "Attractive short; 10%+ potential.",
+                "key_risks": "Oil-driven inflation or positive earnings beat."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong alignment with AI theme but slightly less direct than pure GPU plays."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 165.99,
+                "market_cap": "682B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 176.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 21.4,
+                "volume": "27M",
+                "recent_dividend": "Quarterly $0.95+"
+            },
+            "impact_theory": "Middle East tensions (pipeline attacks, Hormuz threats) drive oil to $103+ WTI. Boosts energy profits via higher prices. Psychology: safe haven rotation to energy. Parallels: 2022 Ukraine oil spike. Analogies: 1) Geopolitical supply shocks like 1970s. 2) Gulf War price surges.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Oil surge confirmed; energy outperforms. Positive sentiment in X posts on crude gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 5-8% gains on sustained oil >$100.",
+                "short_position": "Not recommended; avoid.",
+                "key_risks": "Diplomatic resolution or demand destruction from high prices/Fed hike."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation with verifiable oil price spike and geopolitical news."
+        },
+        {
+            "details": {
+                "ticker": "RUM",
+                "full_name": "Rumble Inc.",
+                "current_price": 8.5,
+                "market_cap": "3.2B",
+                "sector_industry": "Technology/Internet Services",
+                "high_low_52_week": {
+                    "high": 12.0,
+                    "low": 4.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "15M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Anthropic $13.7B compute pact with RUM boosts cloud/infra revenue outlook despite AI slowdown narrative. Shifts sentiment positively for alternative platforms. Psychology: relief buying in select tech. Parallels: niche platform deals in past tech cycles. Analogies: 1) Smaller cloud providers winning deals. 2) Niche social wins during platform shifts.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+15% to +25%",
+                "reasoning": "Premarket surge 22-28% reported on deal news. Positive X buzz on contract."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for momentum; target 20%+ gains.",
+                "short_position": "Risky; potential squeeze.",
+                "key_risks": "Deal execution delays or broader tech selloff spillover."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific positive catalyst but smaller cap with higher volatility."
+        }
+    ]
+}
