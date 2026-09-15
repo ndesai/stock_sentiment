@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 212.13,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.28
+                },
+                "pe_ratio": 45.2,
+                "volume": "180M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI safety warnings from Anthropic/OpenAI/xAI leaders triggered selloff amid rapid AI development concerns. Economic implications include potential regulatory slowdowns in AI capex. Market psychology: fear of bubble burst after hype. Historical parallel: 2022 tech selloff. Analogies: Dot-com bust caution; nuclear power early safety pauses.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5 to -8%",
+                "reasoning": "Monday selloff of 3.4% extended; high yields and oil add pressure. X sentiment negative on AI risks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for dip buy post-Fed; potential 10% rebound if AI narrative recovers",
+                "short_position": "Short on continued fear, target 8-12% downside",
+                "key_risks": "Strong earnings momentum, Fed hawkish but AI long-term intact"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news driver with clear sentiment shift confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 339.84,
+                "market_cap": "1.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 32.5,
+                "volume": "25M",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "Same AI risk narrative as NVDA; AI infrastructure spend questioned. Implications for supply chain. Psychology: rotation out of high-valuation AI plays. Parallels: 2000 semiconductor crash. Analogies: EV hype correction; biotech valuation resets.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6 to -9%",
+                "reasoning": "4.8% drop Monday; yields pressure growth stocks further."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long-term hold for AI tailwinds; short-term avoid",
+                "short_position": "Short swing 7-10%",
+                "key_risks": "Custom AI chip demand resilient"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent coverage with NVDA in AI selloff."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 168.72,
+                "market_cap": "530B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 180.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 8.5,
+                "volume": "15M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Oil surge from Middle East supply disruptions (Saudi pipeline, Houthis). Positive for producers. Implications: inflation boost, energy security focus. Psychology: safe haven rotation. Parallels: 2022 energy spike. Analogies: Gold rush; wartime commodity boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +7%",
+                "reasoning": "Brent >$100; sector sole gainer amid broad declines."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy for oil strength, 5-10% upside",
+                "short_position": "Avoid; geopolitical resolution risk",
+                "key_risks": "Demand destruction if recession fears grow"
+            },
+            "confidence_rating": "B",
+            "justification": "Oil news dominant but volatility from geopolitics."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 174.57,
+                "market_cap": "42B",
+                "sector_industry": "Financials/Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 402.0,
+                    "low": 139.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Bitcoin/crypto slip on regulatory bill delays + risk-off. Broader macro pressure from yields. Psychology: crypto as risk asset amplified. Parallels: 2022 crypto winter. Analogies: Tech IPO post-bubble; meme stock fades.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -12%",
+                "reasoning": "Premarket weakness noted; sentiment low on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for clarity post-Fed/Congress",
+                "short_position": "Short on continued risk aversion, 10%+ potential",
+                "key_risks": "Sudden regulatory positive surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Mentioned in wrap but indirect vs direct AI/oil drivers."
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 330.23,
+                "market_cap": "5T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 380.0,
+                    "low": 240.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "45M",
+                "recent_dividend": "0.24 quarterly"
+            },
+            "impact_theory": "Rate sensitivity + AI exposure but resilient brand. Yield spike hits valuation. Implications: consumer spending caution. Psychology: flight to quality names. Parallels: 2022 rate-hike drawdown. Analogies: Blue-chip defense in storm; luxury goods in downturn.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Mild Bearish",
+                "estimated_price_impact_pct": "-2 to -4%",
+                "reasoning": "Held better than pure AI plays; macro headwinds dominant."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; dip buy for long-term",
+                "short_position": "Limited; covered call strategies",
+                "key_risks": "Services growth offsets hardware slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Indirect impact but representative of broad tech."
+        }
+    ]
+}
