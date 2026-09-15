@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 212.24,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.28
+                },
+                "pe_ratio": 55.2,
+                "volume": "36M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "Anthropic CEO warns on AI safety prompting slowdown calls; high yields pressure growth stocks. Economic: Higher discount rates hurt future AI cash flows. Psychology: Fear of overvaluation in AI hype. Parallels: 2022 tech selloff. Analogies: Like dot-com bust warnings; oil shock + rate hikes combo like 1970s stagflation fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3% to -6%",
+                "reasoning": "AI safety essay + oil/yield surge spooked chip stocks; pre-Fed caution. X sentiment negative on NVDA rotation."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for dip buy post-Fed if AI narrative holds; potential 5-10% rebound",
+                "short_position": "Short on weakness, target 8-12% downside if yields stay high",
+                "key_risks": "Strong earnings beats, Fed dovish surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear news catalysts and market reaction observed, moderate uncertainty on Fed outcome"
+        },
+        {
+            "details": {
+                "ticker": "CRWD",
+                "full_name": "CrowdStrike Holdings, Inc.",
+                "current_price": 238.95,
+                "market_cap": "58B",
+                "sector_industry": "Technology/Cybersecurity",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 85.0,
+                "volume": "5.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Wedbush upgrade and AI security platform highlight amid broader AI concerns. Positive psychology shift to defensive tech. Parallels: Post-breach recovery plays. Analogies: Like post-Equifax security boom; pandemic-era digital defense surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Analyst coverage initiation with Outperform; AI-driven security demand resilient to macro pressures. Positive X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on momentum, 10-15% upside near-term",
+                "short_position": "Avoid; high valuation risk if macro worsens",
+                "key_risks": "Broader tech selloff, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct analyst catalyst with sector tailwinds confirmed"
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 180.71,
+                "market_cap": "45B",
+                "sector_industry": "Financials/Cryptocurrency",
+                "high_low_52_week": {
+                    "high": 280.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 40.0,
+                "volume": "5.4M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "CLARITY Act vote uncertainty dims regulatory hopes. Macro: High yields hurt risk assets. Psychology: Crypto winter fears return. Parallels: 2022 crypto crash. Analogies: Like early internet regulation uncertainty; commodity volatility in energy crises.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -8%",
+                "reasoning": "Bill progress stalled; Bitcoin slippage pre-vote. Negative sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative long if bill passes unexpectedly",
+                "short_position": "Short volatility play, 10%+ downside risk",
+                "key_risks": "Sudden regulatory win or BTC rally"
+            },
+            "confidence_rating": "B",
+            "justification": "Event-driven with timing risks around Senate vote"
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 169.18,
+                "market_cap": "530B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 190.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "3.5M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Middle East supply disruptions (Houthis, Saudi pipeline) drive oil to $107+. Inflationary pressure but energy profits surge. Psychology: Safe haven rotation. Parallels: 2022 energy rally post-Ukraine. Analogies: Gulf War oil spikes; 1973 embargo shocks.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +7%",
+                "reasoning": "Geopolitical premium in crude prices; strong cash flow outlook. Positive sector sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy exposure, 8-12% gains possible",
+                "short_position": "Not recommended; de-escalation risk",
+                "key_risks": "Peace talks, demand destruction from high prices"
+            },
+            "confidence_rating": "A",
+            "justification": "Sustained oil move with clear supply shock drivers"
+        },
+        {
+            "details": {
+                "ticker": "GLW",
+                "full_name": "Corning Incorporated",
+                "current_price": 144.03,
+                "market_cap": "120B",
+                "sector_industry": "Technology/Materials",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "3M",
+                "recent_dividend": "$0.28 quarterly"
+            },
+            "impact_theory": "$2B equity offering dilutes shareholders amid macro pressure. Psychology: Capital raise signals caution. Parallels: Tech dilution waves in rate hike periods. Analogies: Like 2021 SPAC dilution wave; bank capital raises in crises.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Follow-on offering announcement triggers selloff; broader yield sensitivity."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-offering",
+                "short_position": "Short dilution impact, 10%+ further downside",
+                "key_risks": "Quick absorption of shares, positive guidance"
+            },
+            "confidence_rating": "B",
+            "justification": "Direct corporate action catalyst with measurable dilution effect"
+        }
+    ]
+}
