@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 210.96,
+                "market_cap": "5.2T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "250M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI leaders (Anthropic, OpenAI) called for slower frontier model development due to safety risks, triggering rotation out of AI infrastructure stocks. Economic implications: potential slowdown in capex by hyperscalers. Market psychology: fear of overvaluation in AI narrative. Historical parallel: 2022 tech selloff on rate fears. Analogies: 1) Dot-com bubble burst after hype peak; 2) Crypto winter after regulatory warnings.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "Safety concerns from key AI execs amplified by high oil/yields pressure; X sentiment shows rotation to value; pre-Fed caution."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or short on rebound failure; potential 3-5% downside continuation",
+                "short_position": "Short with stops above recent highs; target 5-10% gain on continued selloff",
+                "key_risks": "Quick AI narrative recovery or positive Fed surprise; high volatility"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating news sources and clear sentiment shift in searches/X mentions."
+        },
+        {
+            "details": {
+                "ticker": "INFY",
+                "full_name": "Infosys Limited",
+                "current_price": 22.5,
+                "market_cap": "95B",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 26.0,
+                    "low": 15.0
+                },
+                "pe_ratio": 28.4,
+                "volume": "12M",
+                "recent_dividend": "0.18 semi-annual"
+            },
+            "impact_theory": "AI slowdown calls boost Indian IT services as companies delay in-house AI builds, favoring outsourcing. Implications: sustained demand for legacy modernization. Psychology: relief rally in undervalued IT. Parallels: Post-2023 AI hype correction benefiting services. Analogies: 1) Cloud migration benefiting traditional IT; 2) Y2K boom for Indian outsourcers.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +7%",
+                "reasoning": "Indian markets saw 5%+ IT index surge; X/posts highlight sentiment flip; global AI caution positive for services."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long on dips; 6-10% upside potential into earnings season",
+                "short_position": "Avoid; limited downside as macro relief expected",
+                "key_risks": "Rupee volatility, delayed client spending, US recession"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong India market data but ADR liquidity and macro risks lower certainty."
+        },
+        {
+            "details": {
+                "ticker": "EQNR",
+                "full_name": "Equinor ASA",
+                "current_price": 28.4,
+                "market_cap": "85B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 32.0,
+                    "low": 14.0
+                },
+                "pe_ratio": 9.8,
+                "volume": "8M",
+                "recent_dividend": "0.35 quarterly"
+            },
+            "impact_theory": "Oil rally from Middle East supply risks (Houthi/Saudi pipeline attacks) boosts integrated energy majors. Implications: higher revenues, energy security focus. Psychology: inflation hedge appeal. Parallels: 2022 energy spike post-Ukraine invasion. Analogies: 1) 1970s oil shocks lifting majors; 2) Shale boom beneficiaries.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Brent >$107, WTI >$103 driving sector; hot lists highlight EQNR momentum; supply disruption persistent."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued oil strength; 5-8% gains possible",
+                "short_position": "Risky; only on de-escalation signals",
+                "key_risks": "Geopolitical resolution, OPEC+ decisions, demand destruction"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent oil price surge across all news sources with direct sector linkage."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 92.4,
+                "market_cap": "110B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 50.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "35M",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory chip demand tied to AI servers hit by broader AI capex slowdown fears alongside NVDA. Implications: delayed HBM ramp. Psychology: contagion from AI leaders. Parallels: 2023 memory glut correction. Analogies: 1) GPU/memory pairing in prior cycles; 2) Supply chain ripple from end-demand fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "AI warning spillover; recent price action negative; X sentiment tracks chip weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-Fed",
+                "short_position": "Short with AI recovery risk; 4-7% downside",
+                "key_risks": "Data center spending resilience, inventory normalization"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear thematic link but earnings resilience possible."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Integrated Oil",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.1,
+                "volume": "18M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "High oil prices from geopolitical tensions enhance upstream profitability and dividends. Implications: stronger free cash flow, buybacks. Psychology: defensive energy rotation amid growth stock weakness. Parallels: 2008 and 2022 oil spikes. Analogies: 1) Supermajors as inflation hedges; 2) Vertical integration benefits in volatile markets.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Oil rally direct beneficiary; stable yields pressure less impactful on value energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core long hold for income + growth; 4-6% upside",
+                "short_position": "Not recommended",
+                "key_risks": "Oil price reversal, regulatory/tax changes"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct correlation to verified oil price surge and sector performance."
+        }
+    ]
+}
