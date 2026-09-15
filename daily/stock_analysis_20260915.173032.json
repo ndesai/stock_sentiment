@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 203.01,
+                "market_cap": "4.98T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.27
+                },
+                "pe_ratio": 45.2,
+                "volume": "197.48M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "AI safety warnings from Anthropic, OpenAI, xAI CEOs triggered selloff in AI leaders. Economic implications include potential regulatory slowdowns and higher capex scrutiny. Market psychology: fear of bubble burst after rapid run-up. Historical parallel: dot-com bust or 2022 tech correction. Analogies: 1) Like over-hyped EV hype cycle cooling. 2) Similar to biotech safety concerns halting pipelines.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -8%",
+                "reasoning": "AI sentiment shift dominant in news/X; yield spike and oil add pressure. X posts show caution on AI valuation. Fed hike expectation compounds."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; potential 10% rebound on Fed clarity",
+                "short_position": "Short with 6-8% target; cover on support",
+                "key_risks": "Rebound on positive Fed or earnings; volatility from oil/Fed"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple corroborating sources on AI warnings and market reaction; high volume confirms shift."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 172.5,
+                "market_cap": "810B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "25M",
+                "recent_dividend": "$0.59 quarterly"
+            },
+            "impact_theory": "Same AI risk narrative hits Broadcom hard due to AI chip exposure. Implications: slower hyperscaler spend. Psychology: contagion from NVDA. Parallels: 2018 semis correction. Analogies: Supply chain shocks like 2022 chip shortage fears.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Explicit 4.8% drop cited; aligns with AI sentiment and broader tech weakness."
+            },
+            "potential_profit_risks": {
+                "long_position": "Entry on dips below support for 5% swing",
+                "short_position": "Viable for 5% downside",
+                "key_risks": "Sector rotation or AI demand confirmation"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent reporting across Reuters, Zacks, Bloomberg on AI impact."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 97.84,
+                "market_cap": "410B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.34,
+                    "low": 24.23
+                },
+                "pe_ratio": 28.5,
+                "volume": "43M",
+                "recent_dividend": "$0.125 quarterly"
+            },
+            "impact_theory": "Mixed: slight gains as investors reassess AI doomsday. Broader implications for US chip manufacturing push. Psychology: relief buying after selloff. Parallels: past Intel recovery cycles. Analogies: Phoenix-like comeback from prior lows.",
+            "news_impact_analysis": {
+                "outlook": "Bullish short-term",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Rebound noted in midday reports amid AI reassessment; Fed context supportive for domestic semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 4-6% on stabilization",
+                "short_position": "Avoid or tight stop",
+                "key_risks": "Continued macro pressure from yields/oil"
+            },
+            "confidence_rating": "B",
+            "justification": "Positive intraday moves confirmed but macro headwinds persist."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "525B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 8.2,
+                "volume": "18M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil surge from Middle East disruptions (Houthis, Saudi pipeline) boosts energy. Implications: inflation pass-through, higher input costs economy-wide. Psychology: safe haven rotation. Parallels: 2022 energy spike. Analogies: Geopolitical premium like Gulf wars; commodity supercycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Brent >$100 drives sector; news focus on supply risks supports XOM."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long energy for 5%+ as oil holds",
+                "short_position": "Not recommended",
+                "key_risks": "De-escalation in ME or Fed policy surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong oil narrative across sources but secondary to AI/yield story."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 245.0,
+                "market_cap": "62B",
+                "sector_industry": "Financials/Capital Markets",
+                "high_low_52_week": {
+                    "high": 320.0,
+                    "low": 140.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "12M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Crypto stocks drop on stalled US regulatory bill and risk-off sentiment. Implications: delayed institutional adoption. Psychology: risk asset correlation to equities/yields. Parallels: 2022 crypto winter. Analogies: Tech IPO cooldown; regulatory overhang like fintech scrutiny.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -10%",
+                "reasoning": "Premarket drops noted due to Senate bill delay amid broader caution."
+            },
+            "potential_profit_risks": {
+                "long_position": " speculative entry post-Fed if crypto stabilizes",
+                "short_position": "Short for further 7% downside",
+                "key_risks": "Bitcoin rebound or positive regulatory surprise"
+            },
+            "confidence_rating": "C",
+            "justification": "Crypto specific news less dominant than macro/AI but confirmed in reports."
+        }
+    ]
+}
