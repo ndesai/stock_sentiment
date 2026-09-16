@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 101.79,
+                "market_cap": "430B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.34,
+                    "low": 24.46
+                },
+                "pe_ratio": 28.5,
+                "volume": "55M",
+                "recent_dividend": "Quarterly $0.125"
+            },
+            "impact_theory": "SK Hynix partnership for US memory chip manufacturing amid Fed rate decision and AI developments. Economic implications include boosted domestic semiconductor production and supply chain resilience. Market psychology shows relief in tech sector from positive deal news countering AI slowdown calls. Historical parallel to CHIPS Act investments. Analogies: Like Tesla's Gigafactory deals boosting local EV; similar to Samsung's US expansions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Positive partnership news drives premarket gains; chip sector rally offsets broader market caution. X sentiment supportive on deal."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips targeting 8% gain to $110; strong support from deal execution.",
+                "short_position": "Avoid shorts; limited downside near-term.",
+                "key_risks": "Execution delays on partnership, broader rate hike impact on valuations."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear positive catalyst with multiple confirming sources and premarket movement."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 23.03,
+                "market_cap": "565B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.13,
+                    "low": 18.25
+                },
+                "pe_ratio": 45.2,
+                "volume": "2.84M",
+                "recent_dividend": "Quarterly $0.01"
+            },
+            "impact_theory": "Chipmaker rally amid Fed anticipation and oil pullback. Implications for AI hardware demand resilience despite caution calls. Psychology: Relief buying in AI leaders. Historical parallel to post-earnings rebounds in 2023-24. Analogies: Post-2022 crypto winter recovery; like semiconductor boom post-2018 trade tensions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Sector tailwinds from Intel news spillover; futures positive pre-Fed. X posts show renewed optimism in chips."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing for 5% gain; momentum play on tech rebound.",
+                "short_position": "Short only on Fed hawkish surprise beyond expectations.",
+                "key_risks": "AI slowdown narrative escalation, macro rate sensitivity."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector correlation but depends on Fed outcome tomorrow."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 163.83,
+                "market_cap": "265B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 177.26,
+                    "low": 57.6
+                },
+                "pe_ratio": 32.1,
+                "volume": "370K",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Similar to NVDA, benefiting from chip rally and partnership spillover in semis. Implications for competitive AI GPU market. Psychology: Catch-up buying in laggard chip names. Historical: Parallels 2024 AI-driven rallies. Analogies: AMD's Ryzen competition success; like Qualcomm's supply deals.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Premarket gains noted; sector momentum strong. Latest X sentiment positive on semis."
+            },
+            "potential_profit_risks": {
+                "long_position": "Position for 6% upside on continued rally.",
+                "short_position": "Minimal short interest recommended.",
+                "key_risks": "Competition intensification, valuation compression post-rate hike."
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with broader chip news but less direct catalyst than INTC."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 357.64,
+                "market_cap": "780B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 390.0,
+                    "low": 280.5
+                },
+                "pe_ratio": 14.8,
+                "volume": "69M",
+                "recent_dividend": "Quarterly $0.95"
+            },
+            "impact_theory": "Oil prices pull back from Middle East supply concerns (Saudi pipeline, Houthis). Implications: Easing inflation pressure but lower near-term margins. Psychology: Profit-taking in energy after recent gains. Historical: Parallels 2022 oil spike and reversal. Analogies: Post-OPEC+ cut volatility; like 2014-16 shale oil adjustment.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-2-4%",
+                "reasoning": "Oil retreat signals relief for economy but pressure on producers. Mixed X sentiment on energy."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective longs on dips for dividend yield.",
+                "short_position": "Short for 3% move if oil sustains below $103.",
+                "key_risks": "Geopolitical flare-up re-inflating prices; Fed policy on inflation."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct link to commodity movement confirmed in multiple reports."
+        },
+        {
+            "details": {
+                "ticker": "JBHT",
+                "full_name": "J.B. Hunt Transport Services, Inc.",
+                "current_price": 237.97,
+                "market_cap": "24B",
+                "sector_industry": "Industrials/Transportation",
+                "high_low_52_week": {
+                    "high": 299.43,
+                    "low": 130.08
+                },
+                "pe_ratio": 22.4,
+                "volume": "1M",
+                "recent_dividend": "Quarterly $0.44"
+            },
+            "impact_theory": "CFO warning on higher costs and earnings drop. Implications for freight/transport sector amid economic uncertainty. Psychology: Risk-off selling on disappointing guidance. Historical: Parallels 2023 trucking slowdowns. Analogies: Like UPS earnings misses during rate cycles; post-pandemic supply chain normalization pain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10-13%",
+                "reasoning": "Largest mover lower on explicit earnings caution; confirmed in midday reports. Negative X buzz."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; avoid until clarity.",
+                "short_position": "Short for continued 8-12% decline on sector weakness.",
+                "key_risks": "Rebound if retail sales strong or Fed dovish surprise."
+            },
+            "confidence_rating": "A",
+            "justification": "Explicit negative guidance with immediate large price reaction."
+        }
+    ]
+}
