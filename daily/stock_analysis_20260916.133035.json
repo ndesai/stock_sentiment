@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 125.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "25M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Rising oil prices due to Middle East supply disruptions (Saudi pipeline closure, Hormuz tensions) boost energy sector. Economic implications: higher input costs economy-wide but windfall profits for producers. Market psychology: flight to energy as inflation hedge. Historical parallel: 2022 oil spike. Analogies: 1) Gold miners in inflation. 2) Defense stocks in conflict.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Oil at $108+ Brent; XOM at 52w highs per reports. Strong X sentiment on energy gains amid macro volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM for 10%+ gains on sustained oil; target new highs",
+                "short_position": "Avoid shorts; limited downside unless de-escalation",
+                "key_risks": "Sudden peace deal or Fed over-hike cooling demand"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear oil supply shock catalyst with multiple confirming news sources and sector leadership"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.5,
+                "market_cap": "140B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "55M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Potential SK Hynix partnership for US chip manufacturing amid CHIPS Act and supply chain security. Implications: boosts domestic production narrative. Psychology: relief for US semi reshoring. Parallels: TSMC Arizona deals. Analogies: 1) Boeing supplier deals. 2) Auto reshoring post-COVID.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Premarket gains reported; Reuters deal news driving sentiment. Positive X mentions on Intel recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long INTC for partnership catalyst; 8% upside",
+                "short_position": "Short only if deal falls through",
+                "key_risks": "Execution delays, competition from NVDA/AMD"
+            },
+            "confidence_rating": "B",
+            "justification": "Deal rumors credible but not confirmed; aligns with policy tailwinds"
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 162.0,
+                "market_cap": "310B",
+                "sector_industry": "Energy / Integrated Oil & Gas",
+                "high_low_52_week": {
+                    "high": 170.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "8M",
+                "recent_dividend": "1.63 quarterly"
+            },
+            "impact_theory": "Oil spike beneficiary like XOM. Broader energy rotation from inflation fears. Market psychology favors defensives with pricing power. Historical: 1970s energy crises. Analogies: 1) Tobacco in regulation. 2) Pharma in health scares.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "52w high mentions; energy sole S&P winner in recent sessions per reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long CVX; dividend + price appreciation 7%+",
+                "short_position": "Minimal short interest opportunity",
+                "key_risks": "OPEC response or demand destruction"
+            },
+            "confidence_rating": "A",
+            "justification": "Sector-wide confirmation with multiple high mentions"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 125.0,
+                "market_cap": "3.1T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 85.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "180M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI trade exhaustion amid rates/oil focus. Temporary rotation away from growth. Psychology: profit taking on high valuations. Parallels: 2022 tech selloff. Analogies: 1) Dot-com rotation. 2) EV hype cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bearish short-term",
+                "estimated_price_impact_pct": "-3-7%",
+                "reasoning": "Mixed chip recovery but broader index pressure; X posts note AI premium questions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy post-Fed clarity for rebound",
+                "short_position": "Short for near-term 5% downside",
+                "key_risks": "Strong earnings or Fed dovish surprise"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro headwinds clear but long-term AI intact"
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 225.0,
+                "market_cap": "650B",
+                "sector_industry": "Financials / Banks",
+                "high_low_52_week": {
+                    "high": 260.0,
+                    "low": 180.0
+                },
+                "pe_ratio": 14.0,
+                "volume": "12M",
+                "recent_dividend": "1.15 quarterly"
+            },
+            "impact_theory": "Higher rates boost net interest margins but slow lending/economy. Mixed impact in hiking cycle. Psychology: banks as rate plays. Historical: 2022-23 bank rally then SVB. Analogies: 1) Insurers in rising rates. 2) REITs inverse.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to slightly Bullish",
+                "estimated_price_impact_pct": "+2-5%",
+                "reasoning": "Rate hike priced in; banks benefit from higher yields per macro wrap."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long JPM for NIM expansion 4%+",
+                "short_position": "Short if recession fears spike",
+                "key_risks": "Credit losses or yield curve inversion"
+            },
+            "confidence_rating": "C",
+            "justification": "Rate impact established but depends on economic data"
+        }
+    ]
+}
