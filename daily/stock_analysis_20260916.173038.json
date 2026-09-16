@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 101.57,
+                "market_cap": "420B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 125.5,
+                    "low": 68.2
+                },
+                "pe_ratio": 18.5,
+                "volume": "85M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "SK Hynix partnership for US memory chip manufacturing boosts domestic production amid geopolitical tensions. Economic implications include supply chain resilience and AI infrastructure support. Market psychology: relief rally in semis after recent AI selloff. Historical parallel: 2020 CHIPS Act rallies. Analogies: 1) Tesla Gigafactory localization, 2) Boeing supplier reshoring.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Partnership news + pre-Fed chip gains; X sentiment positive on reshoring, volume surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long INTC for 10%+ gain on deal closure; target 115",
+                "short_position": "Avoid short; execution risk low short-term",
+                "key_risks": "Fed hike impact on capex, competition from TSMC"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalyst with multiple sources confirming talks; strong premarket reaction."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.3,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 55.2,
+                "volume": "210M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "AI infrastructure demand resilient despite rate hike fears; oil spike indirect benefit via data center power. Market psychology shifts from safety concerns to growth. Historical: post-Jackson Hole rallies. Analogies: 1) Dot-com infrastructure build, 2) EV battery demand surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Chip sector rebound on Intel news spillover; X posts highlight AI memory needs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA 5-8% upside into earnings",
+                "short_position": "Short only on Fed hawkish surprise",
+                "key_risks": "Valuation compression, export restrictions"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector leader but indirect catalyst; sentiment mixed pre-Fed."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 98.75,
+                "market_cap": "110B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 52.0
+                },
+                "pe_ratio": 12.8,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "HBM/AI memory demand continues; Intel-SK Hynix deal validates memory cycle. Implications: margin expansion. Psychology: rotation into value semis. Parallels: 2024 memory boom. Analogies: 1) DRAM supercycle 2017, 2) NAND flash recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "AI memory leadership confirmed in reports; positive X mentions."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long MU for cycle peak gains 12%+",
+                "short_position": "Short on overcapacity fears",
+                "key_risks": "Cyclical downturn, pricing pressure"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong fundamental tailwinds from multiple AI reports."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.4,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 9.2,
+                "volume": "22M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Oil above $100 on supply risks (Houthis, pipeline) offsets Fed hike negativity. Implications: energy inflation hedge. Psychology: defensive rotation. Parallels: 2022 energy rally. Analogies: 1) 1970s oil shocks, 2) Ukraine invasion energy spike.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Oil price stability post-spike; sector outperforms on inflation hedge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long XOM dividend + 5% appreciation",
+                "short_position": "Short if oil corrects post-Fed",
+                "key_risks": "Demand destruction, OPEC response"
+            },
+            "confidence_rating": "B",
+            "justification": "Macro oil driver clear but volatile around Fed."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 265.8,
+                "market_cap": "760B",
+                "sector_industry": "Financials/Banking",
+                "high_low_52_week": {
+                    "high": 285.0,
+                    "low": 195.0
+                },
+                "pe_ratio": 13.5,
+                "volume": "12M",
+                "recent_dividend": "1.25 quarterly"
+            },
+            "impact_theory": "Rate hike benefits net interest margin; retail sales strength supports consumer banking. Implications: higher for longer positive. Psychology: bank resilience. Parallels: 2023 rate hike cycle. Analogies: 1) Post-Volcker banks, 2) 2018 hike beneficiaries.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "NIM expansion expected; stable X sentiment on banks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long JPM for 4%+ and dividend",
+                "short_position": "Short on credit concerns post-hike",
+                "key_risks": "Loan growth slowdown, regulatory"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear rate beneficiary with solid macro data support."
+        }
+    ]
+}
