@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GNRC",
+                "full_name": "Generac Holdings Inc.",
+                "current_price": 213.43,
+                "market_cap": "13.2B",
+                "sector_industry": "Industrials / Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "8.5M",
+                "recent_dividend": "None (growth company)"
+            },
+            "impact_theory": "Amazon data center backup power deal worth up to $8B triggers massive sentiment shift. Economic implications include surging AI/data center demand boosting industrial power equipment. Market psychology: relief rally in post-Fed environment. Historical parallel: similar surges in solar/infra plays during 2023-24 AI boom. Analogies: 1) Like Tesla's early EV contracts exploding valuation. 2) akin to semiconductor equipment makers during chip cycle upswings.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "Direct multi-billion revenue visibility from Amazon warrants; X sentiment overwhelmingly positive with volume spike; post-Fed rebound amplifies move."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong buy on momentum; potential +30% near-term on execution news",
+                "short_position": "Avoid or cover; high short interest risk of squeeze",
+                "key_risks": "Deal execution delays, competition from other suppliers, macro slowdown in capex"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with quantified deal size and immediate premarket reaction confirming shift"
+        },
+        {
+            "details": {
+                "ticker": "NBIS",
+                "full_name": "Nebius Group N.V.",
+                "current_price": 28.5,
+                "market_cap": "5.1B",
+                "sector_industry": "Technology / Cloud Computing",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 12.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "4.2M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "20% cloud price hikes effective Oct 1 and data center tailwinds. Implications: improved margins amid AI compute demand. Psychology: sector rotation into cloud plays post-rate decision. Parallels: 2024 cloud pricing power recoveries. Analogies: 1) AWS pricing adjustments boosting AMZN. 2) Like software SaaS hikes in inflationary periods.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10-15%",
+                "reasoning": "Price hike announcement + crypto exemption spillover; positive X chatter on AI infra plays"
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued AI/cloud momentum, +12% upside",
+                "short_position": "Limited; momentum strong",
+                "key_risks": "Customer churn from hikes, competition from hyperscalers"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid catalyst but valuation already elevated"
+        },
+        {
+            "details": {
+                "ticker": "HOOD",
+                "full_name": "Robinhood Markets, Inc.",
+                "current_price": 24.8,
+                "market_cap": "22.4B",
+                "sector_industry": "Financials / Capital Markets",
+                "high_low_52_week": {
+                    "high": 28.5,
+                    "low": 9.5
+                },
+                "pe_ratio": 35.2,
+                "volume": "35M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "SEC tokenized trading exemption boosts crypto brokerage volumes and sentiment. Broader crypto market psychology lift. Historical: similar to 2021 crypto boom. Analogies: 1) Coinbase-like rallies on regulatory clarity. 2) Brokerage volume surges post-ETF approvals.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "Direct regulatory tailwind; elevated X volume and positive retail trader sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride crypto/volatility wave for +10% gains",
+                "short_position": "Risky due to momentum",
+                "key_risks": "Regulatory reversals, crypto volatility"
+            },
+            "confidence_rating": "B",
+            "justification": "Regulatory news credible but crypto sector inherently volatile"
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 185.0,
+                "market_cap": "48.0B",
+                "sector_industry": "Financials / Capital Markets",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 48.0,
+                "volume": "12M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Tokenized assets exemption accelerates institutional crypto adoption. Implications for trading volumes and custody revenue. Psychology: relief from regulatory overhang. Parallels: post-SEC clarity rallies in 2024. Analogies: 1) Fintech licensing boosts. 2) Exchange volume spikes on policy wins.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "Crypto ecosystem beneficiary; strong X retail/institutional sentiment"
+            },
+            "potential_profit_risks": {
+                "long_position": "+8% on sustained volumes",
+                "short_position": "Not recommended",
+                "key_risks": "Bitcoin price correlation, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear positive catalyst confirmed across sources"
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 192.5,
+                "market_cap": "2.05T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Data center generator deal and cloud strength amid AI demand. Post-Fed rate environment favors growth stocks. Psychology: Magnificent 7 rotation back. Parallels: 2023-25 AI capex cycles. Analogies: 1) Microsoft Azure growth parallels. 2) Infrastructure plays in digital transformation waves.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Direct beneficiary of GNRC deal + sector rebound; steady positive coverage"
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding, incremental gains",
+                "short_position": "Low conviction short",
+                "key_risks": "Valuation, competition in cloud/AI"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple confirming factors including direct tie to GNRC news"
+        }
+    ]
+}
