@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GNRC",
+                "full_name": "Generac Holdings Inc.",
+                "current_price": 185.4,
+                "market_cap": "11.2B",
+                "sector_industry": "Industrials / Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 210.5,
+                    "low": 95.2
+                },
+                "pe_ratio": 28.6,
+                "volume": "8.5M",
+                "recent_dividend": "None (growth company)"
+            },
+            "impact_theory": "Major deal announcement for up to $8B generators to Amazon data centers amid AI power demand surge. Economic implications: boosts industrial demand for backup power. Market psychology: strong positive sentiment on AI infrastructure theme. Historical parallels: similar surges in power equipment during 2023-2025 AI boom. Analogies: like solar panel makers during renewable push; EV battery suppliers in EV adoption wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-35%",
+                "reasoning": "Premarket surge of nearly 35% on deal news; X sentiment highly positive with mentions of data center power needs. Oil drop and rate context secondary but supportive for industrials."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong momentum play; potential +15-25% further gains on execution confirmation. Target entry on any pullback.",
+                "short_position": "Avoid; high risk of continued run-up. Short only on failed delivery news.",
+                "key_risks": "Execution delays, competition from other suppliers, broader market selloff on Fed hawkishness."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with quantified deal size and immediate price reaction; aligns with AI/data center macro trend."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 198.75,
+                "market_cap": "2.1T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 225.3,
+                    "low": 145.8
+                },
+                "pe_ratio": 42.1,
+                "volume": "42M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Securing massive generator supply for data centers supports AI/cloud growth. Implications: reinforces infrastructure moat. Psychology: positive on capex efficiency. Parallels: past AWS buildouts driving stock. Analogies: Google capex cycles; Microsoft Azure expansions.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Stock up 1.5%+ premarket; deal validates growth narrative amid Fed volatility. Positive X mentions on AI leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core AI holding; 5-10% upside near-term on continued infrastructure narrative.",
+                "short_position": "Not recommended; resilient earnings power.",
+                "key_risks": "Margin pressure from capex, regulatory scrutiny."
+            },
+            "confidence_rating": "A",
+            "justification": "Direct beneficiary with measurable partnership; strong alignment with ongoing themes."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 108.2,
+                "market_cap": "485B",
+                "sector_industry": "Energy / Oil & Gas Integrated",
+                "high_low_52_week": {
+                    "high": 126.8,
+                    "low": 85.4
+                },
+                "pe_ratio": 13.5,
+                "volume": "15M",
+                "recent_dividend": "$0.95 quarterly"
+            },
+            "impact_theory": "Oil prices dropping on eased supply concerns (Saudi pipeline). Implications: margin pressure on upstream. Psychology: negative short-term for energy. Parallels: 2020 oil crash recovery. Analogies: airline fuel cost relief vs producer pain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-3-6%",
+                "reasoning": "Brent/WTI down ~2%; X posts highlight oil retreat impact. Sector laggard post-Fed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization; dividend support limits downside.",
+                "short_position": "Tactical short on continued oil weakness; 5-8% potential.",
+                "key_risks": "Geopolitical flare-ups reversing oil decline."
+            },
+            "confidence_rating": "B",
+            "justification": "Direct link to oil price action confirmed in multiple sources; sentiment shift measurable."
+        },
+        {
+            "details": {
+                "ticker": "JPM",
+                "full_name": "JPMorgan Chase & Co.",
+                "current_price": 245.8,
+                "market_cap": "695B",
+                "sector_industry": "Financial Services / Banks - Diversified",
+                "high_low_52_week": {
+                    "high": 278.4,
+                    "low": 178.9
+                },
+                "pe_ratio": 14.2,
+                "volume": "7.8M",
+                "recent_dividend": "$1.25 quarterly"
+            },
+            "impact_theory": "Rate hike to 3.75-4% with hawkish outlook. Implications: net interest margin expansion but loan demand risk. Psychology: mixed, relief on Fed credibility vs tightening fears. Parallels: 2022-23 hike cycle. Analogies: bank performance in rising rate environments vs recession signals.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to slightly Bullish",
+                "estimated_price_impact_pct": "+1-3%",
+                "reasoning": "Financials initially hit but futures rebound; X watchlist mentions rate sensitivity positively long-term."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for NIM benefits; 4-8% upside.",
+                "short_position": "Limited; better for pairs trade vs tech.",
+                "key_risks": "Credit losses if economy slows sharply."
+            },
+            "confidence_rating": "B",
+            "justification": "Fed decision is primary driver; multiple news sources confirm sector impact."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.6,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 165.2,
+                    "low": 92.5
+                },
+                "pe_ratio": 52.3,
+                "volume": "185M",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "Indirect boost from data center power/infra spending acceleration post-Amazon/Generac deal. Implications: sustained AI capex. Psychology: relief rally in tech. Parallels: prior AI chip demand spikes. Analogies: TSMC foundry boom; ASML lithography cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-5%",
+                "reasoning": "Tech futures leading rebound (Nasdaq +1.1%); X sentiment ties AI hardware to power needs."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core position; momentum continuation likely 5-10%.",
+                "short_position": "High risk due to valuation and trend.",
+                "key_risks": "Valuation compression, export restrictions, competition."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong thematic linkage to headline news; consistent with broader market recovery signals."
+        }
+    ]
+}
