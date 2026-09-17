@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "GNRC",
+                "full_name": "Generac Holdings Inc.",
+                "current_price": 185.5,
+                "market_cap": "11.2B",
+                "sector_industry": "Industrials / Electrical Equipment & Parts",
+                "high_low_52_week": {
+                    "high": 210.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "4.5M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Amazon long-term deal for backup generators for data centers signals major AI infrastructure tailwind. Economic implications: Accelerates shift to resilient power for hyperscalers. Market psychology: FOMO on AI power plays. Historical parallel: Similar to solar/wind supplier surges in 2020. Analogies: 1) Like Tesla's early supplier deals. 2) Like Cisco's router boom in dot-com.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25-40%",
+                "reasoning": "Deal valued at billions with warrants; X sentiment overwhelmingly positive per searches. Oil/yield relief amplifies growth stocks."
+            },
+            "potential_profit_risks": {
+                "long_position": "Entry on dips; target 30%+ gains as AI power demand grows",
+                "short_position": "Avoid or covered calls; high valuation risk",
+                "key_risks": "Customer concentration, execution delays, macro slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with concrete contract details and immediate premarket surge confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 142.0,
+                "market_cap": "3.5T",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 153.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "280M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Rebound leader post-Fed hike as chip demand remains robust despite oil volatility. Implications: AI capex resilient. Psychology: Relief rally after overreaction. Parallels: 2023 rate hike recovery. Analogies: 1) Post-2022 inflation peak tech bounce. 2) Like 2020 stimulus tech surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-10%",
+                "reasoning": "Strongest Nasdaq booster; positive X/analyst chatter on capacity and AI. Oil drop supports growth narrative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add on dips for 15%+ near-term",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "Valuation, China export curbs, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent leadership in multiple reports with volume confirmation."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 168.0,
+                "market_cap": "272B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 92.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Outperformed peers on chip rally and capacity comments. Broader semi recovery expected. Psychology: Catch-up trade. Parallels: 2024 AI summer rally. Analogies: 1) Intel recovery cycles. 2) Like Qualcomm post-5G.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "6%+ intraday gains; bullish analyst notes amid Fed relief."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong momentum play, 20% upside potential",
+                "short_position": "High risk; momentum intact",
+                "key_risks": "Margin pressure, macro sensitivity"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid gains but slightly less dominant than NVDA."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 32.5,
+                "market_cap": "138B",
+                "sector_industry": "Technology / Semiconductors",
+                "high_low_52_week": {
+                    "high": 45.0,
+                    "low": 18.5
+                },
+                "pe_ratio": 18.0,
+                "volume": "95M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "CEO capacity comments and analyst upgrades spark recovery. US manufacturing push. Psychology: Undervalued turnaround bet. Parallels: Previous foundry investments. Analogies: 1) IBM cloud pivot. 2) Like Samsung memory cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+9-15%",
+                "reasoning": "9%+ move on specific bullish reports and demand commentary."
+            },
+            "potential_profit_risks": {
+                "long_position": "Value + growth hybrid; 25%+ potential",
+                "short_position": "Risky due to volatility",
+                "key_risks": "Execution on nodes, competition from AMD/TSMC"
+            },
+            "confidence_rating": "B",
+            "justification": "Catalyst-driven but higher uncertainty than peers."
+        },
+        {
+            "details": {
+                "ticker": "AMZN",
+                "full_name": "Amazon.com, Inc.",
+                "current_price": 198.0,
+                "market_cap": "2.1T",
+                "sector_industry": "Consumer Cyclical / Internet Retail",
+                "high_low_52_week": {
+                    "high": 215.0,
+                    "low": 145.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "45M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Generator deal signals continued AI/cloud infrastructure spend. Supports AWS growth narrative. Psychology: Confirmation of AI thesis. Parallels: 2023-24 cloud recovery. Analogies: 1) Microsoft Azure AI ramp. 2) Google capex cycles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Direct beneficiary of power deals; positive sentiment in rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core holding; steady 10-15% upside",
+                "short_position": "Not favored",
+                "key_risks": "Retail margins, regulatory scrutiny"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct tie to GNRC catalyst and overall tech recovery."
+        }
+    ]
+}
