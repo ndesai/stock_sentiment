@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XENE",
+                "full_name": "Xenon Pharmaceuticals Inc.",
+                "current_price": 40.0,
+                "market_cap": "3.87B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 72.66,
+                    "low": 35.6
+                },
+                "pe_ratio": -8.4,
+                "volume": "10.64M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Xenon paused enrollment in psychiatry trials for azetukalner due to adverse events, despite NDA submission for epilepsy indication. Economic implications include delayed revenue from depression program. Market psychology: sharp selloff on uncertainty. Historical parallels: biotech trial setbacks like 2017 events. Analogies: 1) Like a ship hitting an iceberg - core engine (epilepsy) intact but side damage causes panic. 2) A relay race where one baton drop delays the team but doesn't end the race.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-25% to -30%",
+                "reasoning": "Trial pause in key psychiatry program overshadows epilepsy NDA; analyst PT cuts; high volume selloff confirms negative sentiment from X posts and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential rebound on epilepsy data ~10-15% upside if positive.",
+                "short_position": "Short for further 10-15% downside on continued negative updates; cover on support.",
+                "key_risks": "Volatility in biotech; possible positive epilepsy updates or acquisition rumors; dilution risk."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear negative catalyst with immediate 30% drop and consistent news/X coverage."
+        },
+        {
+            "details": {
+                "ticker": "BRK.B",
+                "full_name": "Berkshire Hathaway Inc.",
+                "current_price": 450.0,
+                "market_cap": "980B",
+                "sector_industry": "Financials/Insurance & Conglomerate",
+                "high_low_52_week": {
+                    "high": 500.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 22.5,
+                "volume": "5.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Buffett steps down as chairman (son Howard succeeds); graceful transition but end of era. Implications: succession risk premium narrows. Psychology: 'Buffett premium' fades. Parallels: other founder exits like Jobs/Apple. Analogies: 1) King abdicating throne - stable kingdom but uncertainty lingers. 2) Relay handoff in Olympics - smooth but timing critical for performance.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish",
+                "estimated_price_impact_pct": "-1% to -3%",
+                "reasoning": "Minimal immediate move; long-term valuation compression on lost premium; X sentiment mixed with nostalgia."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for value; buy dips for 5%+ recovery on Abel execution.",
+                "short_position": "Limited; avoid as stable fundamentals support floor.",
+                "key_risks": "Market rotation to growth stocks; insurance losses; capital deployment delays."
+            },
+            "confidence_rating": "B",
+            "justification": "Event well-telegraphed; limited price reaction so far but sentiment shift ongoing."
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global, Inc.",
+                "current_price": 194.0,
+                "market_cap": "48B",
+                "sector_industry": "Financials/Financial Exchanges & Data",
+                "high_low_52_week": {
+                    "high": 402.0,
+                    "low": 139.0
+                },
+                "pe_ratio": 35.0,
+                "volume": "16M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Bitcoin rallies above $80k amid rate hike environment and crypto-friendly sentiment. Implications: higher trading volumes boost revenue. Psychology: risk-on crypto rotation. Parallels: 2021 bull run. Analogies: 1) Surfing a wave - timing the swell for gains. 2) Rocket fuel added to crypto engine.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+10% to +15%",
+                "reasoning": "Crypto stocks surge on BTC strength and regulatory hopes; positive X sentiment volume high."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for 15-20% gains; target BTC correlation plays.",
+                "short_position": "Avoid or short on BTC pullback signals.",
+                "key_risks": "Regulatory setbacks; BTC volatility; competition from other exchanges."
+            },
+            "confidence_rating": "A",
+            "justification": "Strong correlation to BTC rally confirmed in multiple news sources and X activity."
+        },
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix, Inc.",
+                "current_price": 680.0,
+                "market_cap": "290B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 850.0,
+                    "low": 550.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "4.5M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Wells Fargo downgrade citing declining viewership amid competition. Implications: growth deceleration concerns. Psychology: rotation out of high-valuation names. Parallels: streaming wars 2022. Analogies: 1) Fading spotlight on stage - audience shifting. 2) Marathon runner hitting wall after early lead.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4% to -7%",
+                "reasoning": "Analyst downgrade + viewership worries; broader tech mixed but NFLX specific negative."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for Q3 earnings clarity; potential rebound 8% on beats.",
+                "short_position": "Short for continued pressure to support levels.",
+                "key_risks": "Content hits or subscriber beats; ad tier success."
+            },
+            "confidence_rating": "B",
+            "justification": "Specific downgrade catalyst with measurable impact, though earnings could override."
+        },
+        {
+            "details": {
+                "ticker": "SMR",
+                "full_name": "NuScale Power Corporation",
+                "current_price": 8.3,
+                "market_cap": "2.1B",
+                "sector_industry": "Industrials/Energy Equipment",
+                "high_low_52_week": {
+                    "high": 57.4,
+                    "low": 7.2
+                },
+                "pe_ratio": -12.5,
+                "volume": "29M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Nuclear stocks give back gains amid rate hike and oil volatility concerns. Implications: higher financing costs for projects. Psychology: risk-off for speculative clean energy. Parallels: 2022 rate hike selloff. Analogies: 1) Hot air balloon losing lift in wind. 2) Sprinter slowing on uphill terrain.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -12%",
+                "reasoning": "Sector rotation and macro headwinds; high volume reversal noted in midday reports."
+            },
+            "potential_profit_risks": {
+                "long_position": "Speculative; wait for policy support signals.",
+                "short_position": "Short for 10%+ further downside on macro pressure.",
+                "key_risks": "Government subsidies or new contracts; uranium price spikes."
+            },
+            "confidence_rating": "C",
+            "justification": "Sector-wide but less company-specific news; macro driven with moderate certainty."
+        }
+    ]
+}
