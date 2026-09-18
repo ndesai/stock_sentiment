@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XENE",
+                "full_name": "Xenon Pharmaceuticals Inc.",
+                "current_price": 40.08,
+                "market_cap": "3.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 72.49,
+                    "low": 36.04
+                },
+                "pe_ratio": -12.5,
+                "volume": "11M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Trial enrollment pause due to side effects in depression drug study triggers sharp selloff. Economic implications: delays in pipeline hurt biotech valuations amid high interest rates. Market psychology: fear of failure in high-risk sector amplifies selling. Historical parallels: similar to past pharma trial failures like 2022 biotech crash. Analogies: like a startup missing a key milestone or a sports team losing star player mid-season.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-25 to -35%",
+                "reasoning": "Immediate 27%+ drop confirmed; X posts and news highlight negative sentiment on clinical setback. Limited recovery expected short-term without positive data updates."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk; wait for stabilization or positive trial news for rebound potential 15-30%",
+                "short_position": "Opportunities for 10-20% further downside if no quick resolution; cover on any positive catalysts",
+                "key_risks": "Binary event risk on clinical data; regulatory or partnership news could reverse trend rapidly"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear, immediate negative catalyst with high volume confirms strong bearish shift"
+        },
+        {
+            "details": {
+                "ticker": "BRK.B",
+                "full_name": "Berkshire Hathaway Inc.",
+                "current_price": 520.5,
+                "market_cap": "1.1T",
+                "sector_industry": "Financials/Insurance & Conglomerate",
+                "high_low_52_week": {
+                    "high": 565.0,
+                    "low": 410.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "4.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Warren Buffett stepping down as chairman (remains board/emeritus). Signals transition era; markets react to leadership change uncertainty. Economic implications minimal but psychological impact on 'Buffett premium'. Parallels to other founder transitions like Jobs at Apple. Analogies: passing baton in relay race or CEO retirement in family business.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to mildly Bearish",
+                "estimated_price_impact_pct": "-1 to -3%",
+                "reasoning": "Minor dip observed; long-term stability expected under existing management. X sentiment mixed with nostalgia but confidence in Berkshire culture."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for long-term holding; 5-10% upside over months on stability",
+                "short_position": "Limited; avoid as core value stock unlikely to crash",
+                "key_risks": "Succession uncertainty; broader market volatility from rates"
+            },
+            "confidence_rating": "B",
+            "justification": "News is notable but Berkshire resilient; impact contained"
+        },
+        {
+            "details": {
+                "ticker": "COIN",
+                "full_name": "Coinbase Global Inc.",
+                "current_price": 194.54,
+                "market_cap": "48B",
+                "sector_industry": "Financials/Exchange & Crypto",
+                "high_low_52_week": {
+                    "high": 402.0,
+                    "low": 139.11
+                },
+                "pe_ratio": 45.0,
+                "volume": "12M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Bitcoin rally above $80k and crypto-friendly regulatory relief boost sentiment. Implications: increased trading volumes and adoption. Psychology: risk-on mood in crypto despite macro rates. Parallels to 2021 bull run. Analogies: gold rush excitement or tech IPO hype cycle.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8 to +15%",
+                "reasoning": "Strong gains confirmed; X posts show positive crypto sentiment overriding rate concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Ride momentum for 10-20% gains; volatility high",
+                "short_position": "Risky; only on BTC pullback signals",
+                "key_risks": "Regulatory reversals or BTC correction"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear correlation with BTC surge and regulatory tailwinds"
+        },
+        {
+            "details": {
+                "ticker": "NFLX",
+                "full_name": "Netflix Inc.",
+                "current_price": 720.0,
+                "market_cap": "310B",
+                "sector_industry": "Communication Services/Entertainment",
+                "high_low_52_week": {
+                    "high": 810.0,
+                    "low": 590.0
+                },
+                "pe_ratio": 38.5,
+                "volume": "5.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Wells Fargo downgrade citing declining viewership. Implications for streaming competition and growth slowdown. Psychology: profit-taking after prior rallies. Parallels to 2022 streaming sector woes. Analogies: cable TV cord-cutting era or retail shift to e-commerce.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-4 to -8%",
+                "reasoning": "Near 5% drop; news and analyst notes weigh on near-term outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for Q3 earnings clarity; potential rebound 5-10%",
+                "short_position": "Short-term 5-10% downside possible",
+                "key_risks": "Content hits or subscriber beats could reverse"
+            },
+            "confidence_rating": "B",
+            "justification": "Analyst action provides clear catalyst but earnings could override"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices Inc.",
+                "current_price": 165.0,
+                "market_cap": "265B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 227.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 42.0,
+                "volume": "45M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI demand resilience amid rate hikes and yield spikes. Broader chip sector strength offsets macro headwinds. Psychology: selective buying in growth names. Parallels to post-2022 rate hike recoveries. Analogies: tech leaders weathering storms like Amazon in early 2000s.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +7%",
+                "reasoning": "Sector outperformance noted; positive X sentiment on AI leadership."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on dips for 8-15% gains",
+                "short_position": "Avoid; momentum favors longs",
+                "key_risks": "AI hype fade or competition from NVDA"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector tailwinds evident but macro volatility adds uncertainty"
+        }
+    ]
+}
