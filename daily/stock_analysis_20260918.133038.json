@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 219.34,
+                "market_cap": "5.3T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.27
+                },
+                "pe_ratio": 27.73,
+                "volume": "92M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Fed rate hike and prior AI slowdown concerns caused selloff; rebound driven by strong demand signals from Jensen Huang and easing yields/oil. Market psychology shifting back to AI growth optimism. Historical parallel to 2023 rate pause rallies. Analogies: Like post-earnings NVDA surges; tech recovery akin to 2020 stimulus bounce.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "CEO comments on doubling chip sales in 2027, resilient data center demand; X sentiment improving post-hike; chip sector leaders rebounding 2-7%."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long NVDA for 5-10% gains on continued AI momentum; target $230+",
+                "short_position": "Avoid shorts; limited downside risk short-term",
+                "key_risks": "Further Fed hikes, AI capex slowdown, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong alignment across news, X buzz on AI demand, immediate price action confirmation."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 545.09,
+                "market_cap": "890B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 584.73,
+                    "low": 149.85
+                },
+                "pe_ratio": 45.2,
+                "volume": "85M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Benefiting from broad semiconductor rebound after Fed decision and AI concerns eased. Psychology: Relief rally in growth names. Parallels 2024 post-rate cut tech surges. Analogies: Similar to NVDA post-earnings pops; cyclical chip recovery like 2021.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "Sector-wide gains; analyst upgrades; positive retail sentiment on platforms; strong CPU/GPU demand outlook."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-12% upside to $580 zone",
+                "short_position": "Short only on reversal below $520 with tight stops",
+                "key_risks": "Competition from NVDA/INTC, macro rate sensitivity"
+            },
+            "confidence_rating": "A",
+            "justification": "Consistent positive price action and sector tailwinds confirmed in multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 108.8,
+                "market_cap": "577B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 145.0,
+                    "low": 65.0
+                },
+                "pe_ratio": 0.0,
+                "volume": "147M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Biggest gainer from SK Hynix partnership talks, Altera IPO news amid broader chip recovery. Psychology shift from undervalued laggard to turnaround story. Parallels Intel's 2023-24 foundry pivots. Analogies: Like TSMC supply chain plays; classic value-to-growth rotation.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "7.7%+ daily gains; exploratory US manufacturing deals; extremely bullish retail chatter; volume surge."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long aggressively for double-digit gains on execution",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Execution on foundry, dilution, macro headwinds"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong news catalysts but higher volatility and turnaround execution risk."
+        },
+        {
+            "details": {
+                "ticker": "SMCI",
+                "full_name": "Super Micro Computer, Inc.",
+                "current_price": 40.35,
+                "market_cap": "29B",
+                "sector_industry": "Technology/Servers & Storage",
+                "high_low_52_week": {
+                    "high": 65.0,
+                    "low": 20.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AI server demand rebound post-Fed; inventory concerns eased by strong sector sentiment. Psychology: High-beta AI play recovering. Parallels 2024 AI infrastructure rallies. Analogies: Like Dell in AI buildout; leveraged play on NVDA ecosystem.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "9.5% gains; AI capex exposure; positive premarket flows amid chip rally."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-15% swings on volume",
+                "short_position": "Volatile; use only on failed breakout",
+                "key_risks": "High leverage/inventory risk, competition, rate sensitivity"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong momentum but smaller cap volatility and dependency on hyperscaler spend."
+        },
+        {
+            "details": {
+                "ticker": "BRK.B",
+                "full_name": "Berkshire Hathaway Inc.",
+                "current_price": 455.0,
+                "market_cap": "980B",
+                "sector_industry": "Financials/Conglomerate",
+                "high_low_52_week": {
+                    "high": 485.0,
+                    "low": 380.0
+                },
+                "pe_ratio": 13.2,
+                "volume": "4M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Buffett stepping down as Chairman signals transition era; market psychology mixed on succession but confidence in board. Historical parallels to other founder transitions (e.g., Gates). Analogies: Apple post-Jobs continuity; GE leadership changes.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish",
+                "estimated_price_impact_pct": "-1 to -3%",
+                "reasoning": "News dominated by transition but core holdings stable; limited immediate X volatility."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on dips for long-term value",
+                "short_position": "Limited; stable conglomerate",
+                "key_risks": "Succession uncertainty, macro exposure in insurance/investments"
+            },
+            "confidence_rating": "C",
+            "justification": "Event-driven but muted market reaction; long-term stability outweighs short-term noise."
+        }
+    ]
+}
