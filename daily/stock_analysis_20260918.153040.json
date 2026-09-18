@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "XENE",
+                "full_name": "Xenon Pharmaceuticals Inc.",
+                "current_price": 40.54,
+                "market_cap": "3.2B",
+                "sector_industry": "Healthcare/Biotechnology",
+                "high_low_52_week": {
+                    "high": 72.49,
+                    "low": 36.04
+                },
+                "pe_ratio": -12.5,
+                "volume": "7M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Trial pause due to side effects in depression drug studies. Economic implications include delayed revenue pipeline for biotech. Market psychology: risk-off in clinical stage biotechs. Historical parallel: similar to 2023 biotech selloffs on safety data. Analogies: 1) Like a car recall halting production. 2) Like a sports team losing key player mid-season.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-25 to -30",
+                "reasoning": "Immediate 27% drop on enrollment pause; X sentiment negative with high volume selling. Web news confirms safety concerns."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization; potential rebound 15% on positive trial updates",
+                "short_position": "Short for 20-30% downside if further bad news; cover on any recovery signals",
+                "key_risks": "Binary trial outcomes, regulatory changes, dilution risk"
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with immediate price reaction and consistent news coverage"
+        },
+        {
+            "details": {
+                "ticker": "BRK.B",
+                "full_name": "Berkshire Hathaway Inc.",
+                "current_price": 465.2,
+                "market_cap": "1.02T",
+                "sector_industry": "Financials/Insurance",
+                "high_low_52_week": {
+                    "high": 485.0,
+                    "low": 380.5
+                },
+                "pe_ratio": 14.8,
+                "volume": "4.2M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Buffett stepping down as chairman. Implications for succession and investor sentiment. Psychology: mixed nostalgia and stability concerns. Historical: similar to other founder transitions. Analogies: 1) Passing the torch in a family business. 2) Retiring a legendary coach.",
+            "news_impact_analysis": {
+                "outlook": "Neutral to Slightly Bearish",
+                "estimated_price_impact_pct": "-1 to -3",
+                "reasoning": "Minor dip reported; X posts show respect but some uncertainty on future leadership. News widespread but muted market reaction."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold for long-term value; limited near-term upside",
+                "short_position": "Not recommended; stable blue-chip",
+                "key_risks": "Succession execution, market volatility from rate environment"
+            },
+            "confidence_rating": "B",
+            "justification": "High profile news but limited price volatility observed"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 219.12,
+                "market_cap": "5.4T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 236.54,
+                    "low": 164.28
+                },
+                "pe_ratio": 45.2,
+                "volume": "41M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Rate hike and AI slowdown calls impacting growth stocks. Implications: higher borrowing costs slow capex. Psychology: rotation out of high-valuation tech. Historical: 2022 rate hike tech selloff. Analogies: 1) Marathon runner hitting a hill. 2) Party cooling after peak excitement.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "0 to +5",
+                "reasoning": "Rebound in chips noted Thursday; mixed X sentiment on AI future but strong fundamentals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 10-15% gains on AI demand",
+                "short_position": "Risky; momentum remains positive long-term",
+                "key_risks": "Further rate hikes, competition, valuation compression"
+            },
+            "confidence_rating": "B",
+            "justification": "Ongoing macro pressures but sector resilience shown"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 142.5,
+                "market_cap": "230B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "35M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "AI chip demand vs rate environment. Similar to NVDA. Psychology: sector rotation possible. Historical parallels to 2023-24 chip cycles. Analogies: 1) Tech arms race with inflation tax. 2) Sibling rivalry in AI hardware.",
+            "news_impact_analysis": {
+                "outlook": "Bullish short-term",
+                "estimated_price_impact_pct": "+5 to +8",
+                "reasoning": "Mentioned in buy zones; positive premarket moves amid tech rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for 12%+ gains",
+                "short_position": "Limited; strong AI tailwinds",
+                "key_risks": "Supply chain, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Sector specific positive mentions in recent coverage"
+        },
+        {
+            "details": {
+                "ticker": "CVX",
+                "full_name": "Chevron Corporation",
+                "current_price": 155.8,
+                "market_cap": "290B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 168.0,
+                    "low": 130.0
+                },
+                "pe_ratio": 12.5,
+                "volume": "8M",
+                "recent_dividend": "1.63 quarterly"
+            },
+            "impact_theory": "Oil volatility from Middle East pipeline issues and Fed policy. Implications: energy inflation pass-through. Psychology: commodity traders hedging rate impacts. Historical: 2022 energy spike. Analogies: 1) Weather affecting harvest prices. 2) Geopolitical chess game on energy board.",
+            "news_impact_analysis": {
+                "outlook": "Neutral",
+                "estimated_price_impact_pct": "-2 to +3",
+                "reasoning": "Oil prices easing; X shows cautious energy trader sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dividend hold; modest upside on supply tightness",
+                "short_position": "Avoid; stable majors",
+                "key_risks": "Geopolitical escalation, demand weakness"
+            },
+            "confidence_rating": "C",
+            "justification": "Macro dependent with no single dominant catalyst"
+        }
+    ]
+}
