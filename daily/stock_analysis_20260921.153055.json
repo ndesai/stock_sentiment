@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 611.66,
+                "market_cap": "913.89B",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 650.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "21.8M",
+                "recent_dividend": "N/A (growth stock)"
+            },
+            "impact_theory": "AMD reached $1T market cap on AI chip demand surge amid easing oil prices and geopolitical tensions. Implications: Lower energy costs boost tech margins and risk appetite. Market psychology: Relief rally after prior AI selloff fears. Historical parallel: Similar to 2023 AI boom post-rate pause. Analogies: 1) Like post-9/11 recovery with tech leading. 2) Dot-com rebound but fundamentals stronger.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8-12%",
+                "reasoning": "8.5% surge today on $1T valuation milestone, AI spending confirmation, oil/yield drop easing inflation fears. X/news sentiment highly positive on chipmakers."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 15-25% gains into year-end on AI cycle",
+                "short_position": "Avoid or cover shorts; limited downside near-term",
+                "key_risks": "Geopolitical flare-up, Fed hawkishness, valuation compression"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong multi-source confirmation from Reuters, IBD, X sentiment on AI rebound"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 1044.6,
+                "market_cap": "1.15T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 1100.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "13.8M",
+                "recent_dividend": "N/A"
+            },
+            "impact_theory": "Memory chip leader benefiting from AI infrastructure boom and risk-on sentiment. Lower oil reduces input costs indirectly. Psychology: Momentum from HBM/DRAM demand. Parallels: 2024 memory cycle. Analogies: Gold rush suppliers; post-pandemic supply chain recovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-8%",
+                "reasoning": "Consistent gains in AI memory plays; positive sector rotation confirmed in multiple outlets."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% on continued AI capex",
+                "short_position": "Not recommended",
+                "key_risks": "Supply glut, China export curbs"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple news hits on MU gains alongside AMD/INTC"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 712.51,
+                "market_cap": "1.70T",
+                "sector_industry": "Internet & Data Processing",
+                "high_low_52_week": {
+                    "high": 750.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "16.3M",
+                "recent_dividend": "Quarterly ~$0.50"
+            },
+            "impact_theory": "Wells Fargo PT hike + AI ad/reality investments drive gains. Easing macro supports consumer/tech spend. Psychology: FOMO into big tech AI plays. Historical: Post-IPO recovery parallels. Analogies: Facebook's metaverse pivot success; Netflix content boom.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "6.2% jump on analyst upgrade; strong X buzz on AI monetization."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 12-18% upside to highs",
+                "short_position": "High risk",
+                "key_risks": "Regulatory, ad market slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear catalyst from Wells Fargo but valuation elevated"
+        },
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 123.79,
+                "market_cap": "574.07B",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 140.0,
+                    "low": 60.0
+                },
+                "pe_ratio": 22.8,
+                "volume": "87.2M",
+                "recent_dividend": "Quarterly ~$0.125"
+            },
+            "impact_theory": "Foundry/AI chip revival amid US policy support and market rotation. Oil drop aids capex. Psychology: Underdog comeback narrative. Parallels: 2020 semis recovery. Analogies: IBM turnaround; auto industry EV shift.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-9%",
+                "reasoning": "9%+ premarket gains; sector leader in rebound."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long swing 15%+ potential",
+                "short_position": "Risky given momentum",
+                "key_risks": "Execution delays, competition from AMD/NVDA"
+            },
+            "confidence_rating": "B",
+            "justification": "High volume confirmation but company-specific execution risk"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 224.88,
+                "market_cap": "5.37T",
+                "sector_industry": "Semiconductors & Related Devices",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "38.1M",
+                "recent_dividend": "Quarterly ~$0.01 (split-adjusted)"
+            },
+            "impact_theory": "AI leader extends gains on sustained spending narrative despite prior doomsday warnings. Macro relief amplifies. Psychology: Leadership rotation back to AI bellwether. Parallels: 2023 NVDA run. Analogies: Tesla EV dominance; Amazon cloud growth.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3-6%",
+                "reasoning": "Early winner status, extended gains noted across IBD/Reuters."
+            },
+            "potential_profit_risks": {
+                "long_position": "Core hold for 10-15% near-term",
+                "short_position": "Volatile; only tactical",
+                "key_risks": "Export restrictions, competition, bubble fears"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant theme across all sources with volume support"
+        }
+    ]
+}
