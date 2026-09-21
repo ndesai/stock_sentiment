@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "INTC",
+                "full_name": "Intel Corporation",
+                "current_price": 108.6,
+                "market_cap": "574B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 142.35,
+                    "low": 28.73
+                },
+                "pe_ratio": 25.5,
+                "volume": "150M",
+                "recent_dividend": "0.125 quarterly"
+            },
+            "impact_theory": "Recovery in AI sentiment after prior doomsday calls; continued capex in AI infrastructure. Economic: Boosts semis spending. Psychology: Relief rally reversing rout. Historical: Similar to 2023 AI boom rebound. Analogies: Like post-earnings tech surges; phoenix from ashes narrative.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5-8%",
+                "reasoning": "Pre-market gains of 5%+ on AI spending confirmation; oil relief aids broader risk appetite. X sentiment positive on chip recovery."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with 8-12% upside potential on sustained AI narrative; target entry on dips",
+                "short_position": "Avoid short; high volatility risk if AI concerns resurface",
+                "key_risks": "Geopolitical escalation, Fed policy surprises, competition from AMD/NVDA"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news catalysts, pre-market momentum, multiple sources confirming shift"
+        },
+        {
+            "details": {
+                "ticker": "ACN",
+                "full_name": "Accenture plc",
+                "current_price": 385.0,
+                "market_cap": "240B",
+                "sector_industry": "Technology/Consulting",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 280.0
+                },
+                "pe_ratio": 28.0,
+                "volume": "3.5M",
+                "recent_dividend": "1.48 quarterly"
+            },
+            "impact_theory": "Major AI partnership with Anthropic signals expansion into AI evaluation/services. Economic: Accelerates enterprise AI adoption. Psychology: Confidence in Big Tech AI spend. Historical: Parallels Accenture's cloud growth phases. Analogies: Like Salesforce AI integrations; service providers riding tech wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4-7%",
+                "reasoning": "6% pre-market jump on $2B Anthropic deal; AI safety focus aligns with market needs. Positive X buzz on consulting AI plays."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 6-10% gains on AI services growth narrative",
+                "short_position": "Not recommended; momentum strong",
+                "key_risks": "Deal execution delays, margin pressure, macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific catalyst confirmed across Reuters/Investopedia; sentiment shift evident"
+        },
+        {
+            "details": {
+                "ticker": "WBD",
+                "full_name": "Warner Bros. Discovery, Inc.",
+                "current_price": 27.3,
+                "market_cap": "68B",
+                "sector_industry": "Communication Services/Media",
+                "high_low_52_week": {
+                    "high": 35.0,
+                    "low": 18.0
+                },
+                "pe_ratio": 18.5,
+                "volume": "45M",
+                "recent_dividend": "None recent"
+            },
+            "impact_theory": "Merger settlement progress with Paramount boosts consolidation hopes in streaming/media. Economic: Potential synergies, cost cuts. Psychology: Relief from regulatory overhang. Historical: Media M&A waves like Disney-Fox. Analogies: Like telecom mergers post-antitrust; streaming survival plays.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6-10%",
+                "reasoning": "7%+ surge on settlement talks/concessions reports; clears path for $81B deal. Strong X/media sentiment."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for merger arbitrage upside 8-15%",
+                "short_position": "Risky; momentum building",
+                "key_risks": "Deal fails, antitrust blocks, content costs rise"
+            },
+            "confidence_rating": "A",
+            "justification": "Multiple WSJ/NYT reports, consistent pre-market gains"
+        },
+        {
+            "details": {
+                "ticker": "PSKY",
+                "full_name": "Paramount Skydance Corporation",
+                "current_price": 11.0,
+                "market_cap": "14B",
+                "sector_industry": "Communication Services/Media",
+                "high_low_52_week": {
+                    "high": 15.0,
+                    "low": 7.0
+                },
+                "pe_ratio": 15.0,
+                "volume": "20M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Merger path clearing with state AGs via investments/concessions. Economic: Industry consolidation benefits scale. Psychology: Hope for resolution ends uncertainty. Historical: Similar to prior media tie-ups. Analogies: Blockbuster deal relief rallies; regulatory hurdles overcome.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+7-12%",
+                "reasoning": "7% pre-market on settlement progress; complements WBD gains. Positive social/news flow."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long merger completion play for double-digit %",
+                "short_position": "High risk given momentum",
+                "key_risks": "Regulatory rejection, valuation disputes"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with WBD news, confirmed reports"
+        },
+        {
+            "details": {
+                "ticker": "CRML",
+                "full_name": "Critical Metals Corp",
+                "current_price": 15.0,
+                "market_cap": "1.8B",
+                "sector_industry": "Materials/Mining",
+                "high_low_52_week": {
+                    "high": 20.0,
+                    "low": 5.0
+                },
+                "pe_ratio": 40.0,
+                "volume": "30M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "US-Denmark Greenland security deal reduces trade tensions, unlocks mineral opportunities. Economic: Critical minerals supply chain boost. Psychology: Geopolitical premium reversal to positive. Historical: Arctic/mining plays on diplomacy. Analogies: Rare earth surges on policy; resource stocks on deals.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+30-50%+ short term",
+                "reasoning": "30-100%+ surges reported on Greenland deal; niche but explosive sentiment on X/news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long volatile swing for 20-40% gains",
+                "short_position": "Possible on profit taking but momentum high",
+                "key_risks": "Deal details vague, commodity prices, small cap volatility"
+            },
+            "confidence_rating": "C",
+            "justification": "Niche event-driven; high upside but less broad confirmation"
+        }
+    ]
+}
