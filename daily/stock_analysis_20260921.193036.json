@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 614.53,
+                "market_cap": "1000000000000",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 650.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "35557921",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "AMD reached $1T valuation on AI chip demand surge amid easing oil prices and positive geopolitics. Economic implications: boosts tech capex. Market psychology: FOMO in semis. Historical parallel: NVDA 2023 rally. Analogies: 1. Gold rush miners. 2. Internet bubble build phase.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8.5%",
+                "reasoning": "AI rebound, $1T milestone, positive X sentiment on chip demand; oil drop reduces inflation fears."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy on dips for 15-25% gains to next resistance",
+                "short_position": "Avoid; high momentum risks squeeze",
+                "key_risks": "Valuation bubble, China trade tensions, competition"
+            },
+            "confidence_rating": "A",
+            "justification": "Strong news volume, clear catalyst, consistent market reaction"
+        },
+        {
+            "details": {
+                "ticker": "META",
+                "full_name": "Meta Platforms, Inc.",
+                "current_price": 580.0,
+                "market_cap": "1400000000000",
+                "sector_industry": "Technology/Social Media",
+                "high_low_52_week": {
+                    "high": 600.0,
+                    "low": 450.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "25000000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Wells Fargo PT hike + AI releases. Implications: ad + AI monetization growth. Psychology: renewed confidence in big tech. Parallel: 2024 META recovery. Analogies: 1. Amazon AWS pivot. 2. Apple services expansion.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+6.2%",
+                "reasoning": "PT upgrade, AI agent excitement; X posts highlight META Connect hype."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 10-20% upside post-Connect",
+                "short_position": "Limited; momentum strong",
+                "key_risks": "Regulatory, ad market slowdown"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct broker action + sentiment alignment"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 105.0,
+                "market_cap": "115000000000",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 120.0,
+                    "low": 70.0
+                },
+                "pe_ratio": 22.0,
+                "volume": "30000000",
+                "recent_dividend": "$0.115 quarterly"
+            },
+            "impact_theory": "Memory demand in AI servers. Implications: HBM supply ramp. Psychology: cyclical turn positive. Parallel: 2024 MU rally. Analogies: 1. DRAM boom cycles. 2. EV battery demand surge.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3%",
+                "reasoning": "AI memory play confirmed in market moves and X chatter."
+            },
+            "potential_profit_risks": {
+                "long_position": "3-10% short-term gains",
+                "short_position": "Watch for overextension",
+                "key_risks": "Inventory cycles, pricing pressure"
+            },
+            "confidence_rating": "B",
+            "justification": "Solid sector tailwinds but less specific news than peers"
+        },
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 135.0,
+                "market_cap": "3300000000000",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 150.0,
+                    "low": 90.0
+                },
+                "pe_ratio": 55.0,
+                "volume": "200000000",
+                "recent_dividend": "$0.01 quarterly"
+            },
+            "impact_theory": "AI leadership reaffirmed. Implications: ecosystem lock-in. Psychology: safe haven in tech. Parallel: 2023-24 dominance. Analogies: 1. Microsoft Windows era. 2. Intel 1990s peak.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2-4%",
+                "reasoning": "Sector leadership, pre-summit optimism on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold/add for steady gains",
+                "short_position": "High risk due to dominance",
+                "key_risks": "Export controls, valuation"
+            },
+            "confidence_rating": "A",
+            "justification": "Persistent leader with broad news support"
+        },
+        {
+            "details": {
+                "ticker": "ACN",
+                "full_name": "Accenture plc",
+                "current_price": 380.0,
+                "market_cap": "240000000000",
+                "sector_industry": "Technology/IT Services",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 32.0,
+                "volume": "5000000",
+                "recent_dividend": "$1.48 quarterly"
+            },
+            "impact_theory": "Anthropic AI partnership $2B. Implications: consulting AI boom. Psychology: services catch-up. Parallel: IBM Watson pivot. Analogies: 1. Deloitte digital transformation. 2. PwC ESG consulting wave.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3.5%",
+                "reasoning": "Direct AI investment news driving premarket gains."
+            },
+            "potential_profit_risks": {
+                "long_position": "5-12% on AI execution",
+                "short_position": "Not recommended",
+                "key_risks": "Execution delays, competition"
+            },
+            "confidence_rating": "B",
+            "justification": "Specific catalyst but services sector slower mover"
+        }
+    ]
+}
