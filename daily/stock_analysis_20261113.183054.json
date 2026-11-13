@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 161.34,
+                "market_cap": "3.96T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 243.37,
+                    "low": 148.81
+                },
+                "pe_ratio": 52.5,
+                "volume": "259M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Jensen Huang resignation amid personal allegations creates leadership vacuum at AI leader. Economic implications include potential disruption to AI roadmap and partnerships. Market psychology shows fear of instability in high-growth tech. Historical parallel: similar CEO exits at other tech giants led to short-term volatility but recovery. Analogies: 1) Like a ship losing its captain mid-storm. 2) Apple post-Jobs transition uncertainty.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Immediate selloff on leadership news; X sentiment mixed but heavy volume selling; earnings next week adds uncertainty. Web searches confirm broad chip rout."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization post-earnings; potential 10-20% rebound if new CEO announced positively.",
+                "short_position": "Short on rallies with stops above 175; target 10-20% downside.",
+                "key_risks": "Quick rebound on interim CEO stability or strong earnings; broader market rotation."
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant news story with clear price action and multiple confirming sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 524.15,
+                "market_cap": "850B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 658.5,
+                    "low": 188.24
+                },
+                "pe_ratio": 38.2,
+                "volume": "31M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Sector rotation and sympathy selling from NVDA turmoil. Implications for AMD as Nvidia competitor gaining share but hit by overall semis weakness. Psychology amplifies fear in AI supply chain. Historical: 2022 chip downturn parallels. Analogies: 1) Domino effect in crowded trade. 2) Herd mentality in momentum stocks.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -15%",
+                "reasoning": "Sharp drop reported; X buzz high with bearish tilt on sector; news links to Nvidia CEO news spillover."
+            },
+            "potential_profit_risks": {
+                "long_position": "Dip buy on oversold bounce post 20% drop.",
+                "short_position": "Continue short with 5-10% more downside possible.",
+                "key_risks": "Positive AMD-specific news or market rebound."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA but secondary story."
+        },
+        {
+            "details": {
+                "ticker": "MOD",
+                "full_name": "Modine Manufacturing Company",
+                "current_price": 139.17,
+                "market_cap": "7.2B",
+                "sector_industry": "Industrials/Auto Components",
+                "high_low_52_week": {
+                    "high": 322.77,
+                    "low": 87.85
+                },
+                "pe_ratio": 28.4,
+                "volume": "6M",
+                "recent_dividend": "0.15 (annual)"
+            },
+            "impact_theory": "Samsung acquisition rumors drive massive surge. Positive economic signal for thermal management in EVs/AI. Psychology shifts to M&A premium. Historical: similar acquisition pops. Analogies: 1) Lottery ticket win. 2) Undervalued asset discovery.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25% to +35%",
+                "reasoning": "Acquisition speculation confirmed in multiple reports; high volume surge; positive X sentiment on deal potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Hold or add on pullback; 15-30% more upside if deal confirmed.",
+                "short_position": "Avoid or short only on failed deal confirmation.",
+                "key_risks": "Deal falls through, profit taking."
+            },
+            "confidence_rating": "A",
+            "justification": "Clear catalyst with outsized move and news backing."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 345.0,
+                "market_cap": "1.6T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 420.0,
+                    "low": 240.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "15M",
+                "recent_dividend": "0.53 (quarterly)"
+            },
+            "impact_theory": "Chip sector contagion but potential rotation beneficiary as Nvidia alternative. Broader AI infrastructure implications. Psychology of sector rotation. Historical parallels to prior semis rotations. Analogies: 1) Second place in race gains when leader stumbles. 2) Portfolio rebalancing.",
+            "news_impact_analysis": {
+                "outlook": "Mixed/Bearish short-term",
+                "estimated_price_impact_pct": "-5% to +3%",
+                "reasoning": "Initial selloff but some X sentiment positive on rotation; news mixed with NVDA focus."
+            },
+            "potential_profit_risks": {
+                "long_position": "Selective entry on weakness for AI exposure.",
+                "short_position": "Limited; better for pairs trade vs NVDA.",
+                "key_risks": "Continued sector weakness."
+            },
+            "confidence_rating": "B",
+            "justification": "Secondary impact, less direct news."
+        },
+        {
+            "details": {
+                "ticker": "NU",
+                "full_name": "Nu Holdings Ltd.",
+                "current_price": 13.04,
+                "market_cap": "61B",
+                "sector_industry": "Financials/Fintech",
+                "high_low_52_week": {
+                    "high": 18.98,
+                    "low": 11.21
+                },
+                "pe_ratio": 42.8,
+                "volume": "94M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Flight to quality in fintech amid tech turmoil. Economic implications minimal direct; psychology favors diversified financials. Historical: similar defensive rotations. Analogies: 1) Safe harbor in storm. 2) Non-correlated asset appeal.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+8% to +12%",
+                "reasoning": "Outperformer in down market; positive X mentions; news notes rotation into select fintech."
+            },
+            "potential_profit_risks": {
+                "long_position": "Continue hold for momentum.",
+                "short_position": "Not recommended.",
+                "key_risks": "Broader market selloff spillover."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear relative strength but smaller catalyst."
+        }
+    ]
+}
