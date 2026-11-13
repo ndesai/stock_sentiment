@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 162.17,
+                "market_cap": "3.98T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "314835433",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Jensen Huang ousted as CEO amid scandals involving extramarital affairs and national security concerns (Chinese spy link). This leadership vacuum in the AI chip leader creates uncertainty in the dominant AI supply chain. Economic implications include potential slowdown in AI capex. Market psychology: loss of confidence in 'face of AI'. Historical parallel: Intel's Andy Grove era end or Enron leadership crisis. Analogies: 1) Apple post-Jobs uncertainty (recovered). 2) Theranos collapse from founder scandal.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-10% to -20%",
+                "reasoning": "Massive selloff already underway (down 14% weekly); X sentiment overwhelmingly negative with leadership FUD dominating feeds; earnings next week under new interim CEO adds risk."
+            },
+            "potential_profit_risks": {
+                "long_position": "High risk; avoid until stabilization post-earnings",
+                "short_position": "Strong opportunity for 15-25% gains on continued weakness, but watch for short squeeze on any positive guidance",
+                "key_risks": "Earnings surprise rebound, interim CEO stability, broader market rotation to non-AI tech"
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant news story with direct causal link to price action confirmed across multiple sources and real-time market reaction"
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 118.5,
+                "market_cap": "192B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 32.8,
+                "volume": "85000000",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Collateral damage from NVDA turmoil as peer in AI GPU space. Sector-wide derating of AI hype. Implications: reduced valuations across semis amid supply chain concerns. Psychology: herd selling in correlated names. Parallel: 2022 chip downturn. Analogies: 1) EV peers during Tesla scandals. 2) Social media stocks post-Meta issues.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "Sector rout accelerating; X posts show panic selling in semis; AMD down 9-10% intraday in reports"
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for oversold bounce signals",
+                "short_position": "Viable for 10-18% downside capture over next week",
+                "key_risks": "Sector rotation, positive AMD specific news, macro relief"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct sector correlation confirmed in multiple Bloomberg/Zacks reports"
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 142.3,
+                "market_cap": "665B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 185.0,
+                    "low": 120.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "42000000",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "AI networking/custom ASIC exposure ties it closely to NVDA ecosystem. Leadership crisis signals broader AI investment pause fears. Implications: delayed projects. Psychology: fear contagion. Parallel: Cisco post-dotcom. Analogies: 1) Qualcomm during 5G hype bust. 2) ARM during Softbank turmoil.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-6% to -12%",
+                "reasoning": "Broadcom cited in chip rout reports; downgrades noted; negative X sentiment spillover"
+            },
+            "potential_profit_risks": {
+                "long_position": "Moderate; dividend support limits downside",
+                "short_position": "Good for 8-12% moves",
+                "key_risks": "Custom AI chip wins, diversification"
+            },
+            "confidence_rating": "B",
+            "justification": "Strong sector linkage but slightly diversified business model"
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 95.4,
+                "market_cap": "105B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 157.0,
+                    "low": 75.0
+                },
+                "pe_ratio": 18.2,
+                "volume": "28000000",
+                "recent_dividend": "0.115 quarterly"
+            },
+            "impact_theory": "Memory/HBM supplier to AI leaders faces demand uncertainty from NVDA instability. Broader memory cycle concerns amplified. Implications: inventory build risk. Psychology: risk-off in cyclical semis. Parallel: 2018-19 memory glut. Analogies: 1) Samsung during industry downturns. 2) Oil services during energy CEO scandals.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-5% to -10%",
+                "reasoning": "Mentioned in AI chip selloff articles; sentiment tracks NVDA closely per X searches"
+            },
+            "potential_profit_risks": {
+                "long_position": "Attractive entry on dips for long-term HBM growth",
+                "short_position": "Tactical 7-12% opportunity",
+                "key_risks": "Data center demand resilience, earnings beats"
+            },
+            "confidence_rating": "B",
+            "justification": "High correlation but memory segment has unique drivers"
+        },
+        {
+            "details": {
+                "ticker": "AAPL",
+                "full_name": "Apple Inc.",
+                "current_price": 248.5,
+                "market_cap": "3.75T",
+                "sector_industry": "Technology/Consumer Electronics",
+                "high_low_52_week": {
+                    "high": 250.0,
+                    "low": 165.0
+                },
+                "pe_ratio": 32.1,
+                "volume": "45000000",
+                "recent_dividend": "0.24 quarterly"
+            },
+            "impact_theory": "Flight to quality as investors rotate out of pure AI plays into stable mega-cap tech. Less direct exposure benefits from relative safety. Implications: capital rotation positive. Psychology: defensive buying. Parallel: 2022 flight to quality in big tech. Analogies: 1) Microsoft during dotcom bust. 2) Consumer staples in tech selloffs.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+2% to +5%",
+                "reasoning": "Reports show AAPL hitting new highs while chips fall; positive relative sentiment on X"
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong; steady performer with services growth",
+                "short_position": "Avoid; limited downside",
+                "key_risks": "China exposure, iPhone cycle"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent outperformance in reports amid sector weakness"
+        }
+    ]
+}
