@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 166.19,
+                "market_cap": "3.95T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 243.37,
+                    "low": 148.8
+                },
+                "pe_ratio": 20.84,
+                "volume": "180M",
+                "recent_dividend": "0.01 (quarterly)"
+            },
+            "impact_theory": "Jensen Huang's sudden resignation amid personal scandals and national security concerns linked to a relationship with a Chinese executive has created leadership vacuum fears at the AI leader. Economic implications include potential slowdown in AI innovation execution and supply chain scrutiny. Market psychology shows panic selling on uncertainty, similar to past CEO departures at tech giants. Historical parallels: Apple's Steve Jobs health scares or IBM transitions. Analogies: Like a ship losing its captain mid-storm (AI boom) or a star athlete retiring abruptly (market reliance on one figure).",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8 to -15",
+                "reasoning": "Immediate 4-14% drops on announcement; X posts and news show heavy negative sentiment on leadership instability and China ties. Interim CFO may stabilize short-term but long-term doubts persist ahead of earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Wait for stabilization below $150 support; potential 10-20% rebound on positive earnings or new CEO announcement.",
+                "short_position": "Short on rallies to $180-200 targeting further 10-15% downside; high volatility offers options premium.",
+                "key_risks": "Quick recovery if new leadership strong; broader AI sector rebound; regulatory news flow."
+            },
+            "confidence_rating": "A",
+            "justification": "Dominant headline event with clear price action, widespread coverage, and direct company impact confirmed across multiple sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 585.3,
+                "market_cap": "959B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 658.52,
+                    "low": 188.22
+                },
+                "pe_ratio": 125.68,
+                "volume": "31M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "NVDA turmoil positions AMD as potential beneficiary for AI GPU market share gains. Implications: Accelerated competition in chips could boost sector investment. Psychology: Relief buying in peers on diversification hopes. Parallels: Post-Intel dominance shifts. Analogies: Second-string player stepping up in championship game; rival filling power vacuum.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5 to +12",
+                "reasoning": "Gains of 5-13% noted in AI chip peers amid NVDA weakness; sentiment shifting positive on alternative plays per X and news."
+            },
+            "potential_profit_risks": {
+                "long_position": "Buy dips for 8-15% upside on market rotation to AMD.",
+                "short_position": "Limited; avoid unless NVDA recovery drags peers down.",
+                "key_risks": "Sector-wide selloff if AI hype cools; execution risks at AMD."
+            },
+            "confidence_rating": "B",
+            "justification": "Strong correlation to NVDA news but indirect; positive price action observed but less dominant coverage."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 340.0,
+                "market_cap": "1.63T",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 495.0,
+                    "low": 289.77
+                },
+                "pe_ratio": 43.0,
+                "volume": "12M",
+                "recent_dividend": "0.65 (quarterly)"
+            },
+            "impact_theory": "As another AI infrastructure leader, AVGO experiences spillover volatility but benefits from diversified portfolio including networking. Market sees rotation potential. Parallels to past semiconductor cycles. Analogies: Diversified portfolio weathering single-stock storm; backup generator kicking in during outage.",
+            "news_impact_analysis": {
+                "outlook": "Mixed to Bullish",
+                "estimated_price_impact_pct": "+2 to +8",
+                "reasoning": "Mixed intraday moves but net positive in some sessions as alternative to NVDA; sentiment analysis shows neutral-positive shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Accumulate on weakness for dividend + growth; 10%+ recovery potential.",
+                "short_position": "Short-term only on overreactions.",
+                "key_risks": "High valuation multiples; macro rate sensitivity."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear sector linkage but diversified business reduces direct impact compared to pure NVDA play."
+        },
+        {
+            "details": {
+                "ticker": "MU",
+                "full_name": "Micron Technology, Inc.",
+                "current_price": 798.44,
+                "market_cap": "896B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 850.0,
+                    "low": 400.0
+                },
+                "pe_ratio": 10.1,
+                "volume": "25M",
+                "recent_dividend": "0.12 (quarterly)"
+            },
+            "impact_theory": "Memory demand tied to AI servers benefits from overall AI narrative strength despite NVDA drama. Economic boost from data center buildout. Psychology: Value rotation within tech. Parallels: Memory cycles in past AI booms. Analogies: Fuel supplier thriving while engine maker stumbles.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3 to +10",
+                "reasoning": "Gains noted in memory plays; X sentiment improving on fundamentals."
+            },
+            "potential_profit_risks": {
+                "long_position": "Strong fundamentals support 10-15% upside.",
+                "short_position": "Avoid.",
+                "key_risks": "Commodity price swings in DRAM/NAND."
+            },
+            "confidence_rating": "C",
+            "justification": "Indirect beneficiary with solid data but less specific news volume."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 126.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.5,
+                "volume": "15M",
+                "recent_dividend": "0.95 (quarterly)"
+            },
+            "impact_theory": "Iran tensions and oil supply concerns from Trump comments drive energy rally. Implications: Higher oil prices boost profits. Psychology: Safe haven rotation from tech volatility. Parallels: Geopolitical oil spikes in 2022. Analogies: Lifeboat during tech market storm; commodity hedge against inflation/Fed fears.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4 to +8",
+                "reasoning": "Energy sector outperformed on oil price spikes; positive sentiment shift confirmed."
+            },
+            "potential_profit_risks": {
+                "long_position": "Energy allocation for 5-10% gains on sustained tensions.",
+                "short_position": "On de-escalation news.",
+                "key_risks": "Geopolitical resolution; OPEC decisions."
+            },
+            "confidence_rating": "B",
+            "justification": "Clear macro driver with sector outperformance but secondary to tech story."
+        }
+    ]
+}
