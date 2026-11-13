@@ -1,0 +1,149 @@
+{
+    "stocks": [
+        {
+            "details": {
+                "ticker": "NVDA",
+                "full_name": "NVIDIA Corporation",
+                "current_price": 166.19,
+                "market_cap": "4013B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 195.0,
+                    "low": 110.0
+                },
+                "pe_ratio": 45.2,
+                "volume": "450M",
+                "recent_dividend": "0.01 quarterly"
+            },
+            "impact_theory": "Jensen Huang resignation amid scandal involving alleged Chinese ties. Economic implications: uncertainty in AI leadership, potential slowdown in innovation narrative. Market psychology: loss of confidence in iconic leader, fear of instability. Historical parallels: past CEO exits at tech firms like Apple pre-Jobs return. Analogies: 1. Like a captain abandoning ship in storm. 2. King without heir causing succession crisis.",
+            "news_impact_analysis": {
+                "outlook": "Bearish",
+                "estimated_price_impact_pct": "-8% to -15%",
+                "reasoning": "CEO exit triggers selloff, competitors gain; X sentiment negative on leadership vacuum, news confirms immediate drop but partial recovery pre-earnings."
+            },
+            "potential_profit_risks": {
+                "long_position": "Avoid or wait for stabilization post-earnings; potential 10% rebound if new CEO announced positively",
+                "short_position": "Short with 10-15% target gain on continued weakness, cover before earnings",
+                "key_risks": "Earnings beat could reverse; regulatory scrutiny on AI"
+            },
+            "confidence_rating": "A",
+            "justification": "Direct news catalyst with immediate market reaction and high volume sentiment shift confirmed across sources."
+        },
+        {
+            "details": {
+                "ticker": "AMD",
+                "full_name": "Advanced Micro Devices, Inc.",
+                "current_price": 585.3,
+                "market_cap": "960B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 650.0,
+                    "low": 300.0
+                },
+                "pe_ratio": 52.0,
+                "volume": "120M",
+                "recent_dividend": "None"
+            },
+            "impact_theory": "Rival beneficiary from NVDA turmoil. Implications: market share gains in AI chips. Psychology: rotation to alternatives. Parallels: past Intel/AMD shifts. Analogies: 1. Second place horse surges when leader stumbles. 2. Vulture circling weakened prey.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+5% to +10%",
+                "reasoning": "Stock up 5.86% on NVDA news; X posts highlight competitor opportunity, positive sentiment shift."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for 8-12% gains on continued rotation",
+                "short_position": "Avoid; high risk of further upside",
+                "key_risks": "NVDA recovery or macro slowdown"
+            },
+            "confidence_rating": "B",
+            "justification": "Clear indirect positive from primary event, supported by price action."
+        },
+        {
+            "details": {
+                "ticker": "MOD",
+                "full_name": "Modine Manufacturing Company",
+                "current_price": 145.0,
+                "market_cap": "15B",
+                "sector_industry": "Industrials/Automotive Components",
+                "high_low_52_week": {
+                    "high": 160.0,
+                    "low": 80.0
+                },
+                "pe_ratio": 28.5,
+                "volume": "8M",
+                "recent_dividend": "0.15 quarterly"
+            },
+            "impact_theory": "Samsung takeover talks reported. Implications: premium valuation, strategic data center cooling expansion. Psychology: M&A excitement. Parallels: other Samsung acquisitions. Analogies: 1. Cinderella story for undervalued firm. 2. Big fish eating smaller to grow.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+25% to +35%",
+                "reasoning": "Premarket +30% surge on Bloomberg report; strong X buzz on deal potential."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long with targets 30%+ on deal confirmation",
+                "short_position": "High risk; momentum strong",
+                "key_risks": "Deal falls through, regulatory blocks"
+            },
+            "confidence_rating": "A",
+            "justification": "Specific M&A catalyst with immediate large price move."
+        },
+        {
+            "details": {
+                "ticker": "XOM",
+                "full_name": "Exxon Mobil Corporation",
+                "current_price": 118.5,
+                "market_cap": "520B",
+                "sector_industry": "Energy/Oil & Gas",
+                "high_low_52_week": {
+                    "high": 130.0,
+                    "low": 95.0
+                },
+                "pe_ratio": 14.2,
+                "volume": "25M",
+                "recent_dividend": "0.95 quarterly"
+            },
+            "impact_theory": "Iran tensions, Trump comments boost oil prices. Implications: higher energy revenues, inflation hedge. Psychology: geopolitical premium. Parallels: 2019-2020 oil spikes. Analogies: 1. Oil as geopolitical thermometer. 2. Safe harbor in stormy seas.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+3% to +6%",
+                "reasoning": "Energy sector outperformed; oil up on news, positive sentiment on X."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for steady gains amid volatility",
+                "short_position": "Risky due to supply dynamics",
+                "key_risks": "De-escalation, oversupply"
+            },
+            "confidence_rating": "B",
+            "justification": "Consistent sector outperformance tied to macro event."
+        },
+        {
+            "details": {
+                "ticker": "AVGO",
+                "full_name": "Broadcom Inc.",
+                "current_price": 364.36,
+                "market_cap": "1739B",
+                "sector_industry": "Technology/Semiconductors",
+                "high_low_52_week": {
+                    "high": 400.0,
+                    "low": 200.0
+                },
+                "pe_ratio": 38.0,
+                "volume": "35M",
+                "recent_dividend": "0.53 quarterly"
+            },
+            "impact_theory": "AI competitor gains from NVDA issues. Implications: market share potential in custom chips. Psychology: diversification away from single leader. Parallels: semiconductor cycles. Analogies: 1. Rising tide lifts other boats. 2. Phoenix rising from ashes of rival.",
+            "news_impact_analysis": {
+                "outlook": "Bullish",
+                "estimated_price_impact_pct": "+4% to +8%",
+                "reasoning": "Up 5.54% alongside AMD; positive X sentiment on AI diversification."
+            },
+            "potential_profit_risks": {
+                "long_position": "Long for continued rotation gains",
+                "short_position": "Not recommended",
+                "key_risks": "Broader tech correction, valuation"
+            },
+            "confidence_rating": "B",
+            "justification": "Aligned with NVDA event and sector rotation evidence."
+        }
+    ]
+}
